@@ -1,0 +1,1789 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>11/16/2016 12:06:40 PM EST</Timestamp>
+    <ElectionName>2016 Statewide General Election</ElectionName>
+    <ElectionDate>11/8/2016</ElectionDate>
+    <Region>McCormick</Region>
+    <VoterTurnout totalVoters="7093" ballotsCast="5285" voterTurnout="74.51">
+        <Precincts>
+            <Precinct name="Mt. Carmel" totalVoters="265" ballotsCast="138" voterTurnout="52.08" percentReporting="4" />
+            <Precinct name="Monticello" totalVoters="492" ballotsCast="197" voterTurnout="40.04" percentReporting="4" />
+            <Precinct name="Savannah" totalVoters="1791" ballotsCast="629" voterTurnout="35.12" percentReporting="4" />
+            <Precinct name="Willington" totalVoters="229" ballotsCast="110" voterTurnout="48.03" percentReporting="4" />
+            <Precinct name="McCormick No. 1" totalVoters="1311" ballotsCast="493" voterTurnout="37.60" percentReporting="4" />
+            <Precinct name="Bethany" totalVoters="379" ballotsCast="219" voterTurnout="57.78" percentReporting="4" />
+            <Precinct name="McCormick No. 2" totalVoters="1103" ballotsCast="371" voterTurnout="33.64" percentReporting="4" />
+            <Precinct name="Plum Branch" totalVoters="864" ballotsCast="402" voterTurnout="46.53" percentReporting="4" />
+            <Precinct name="Parksville" totalVoters="197" ballotsCast="109" voterTurnout="55.33" percentReporting="4" />
+            <Precinct name="Modoc" totalVoters="283" ballotsCast="175" voterTurnout="61.84" percentReporting="4" />
+            <Precinct name="Clark's Hill" totalVoters="604" ballotsCast="308" voterTurnout="50.99" percentReporting="4" />
+            <Precinct name="Absentee" totalVoters="0" ballotsCast="2128" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Failsafe" totalVoters="0" ballotsCast="5" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Provisional" totalVoters="0" ballotsCast="1" voterTurnout="0.00" percentReporting="32" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="0103" text="STRAIGHT PARTY" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="overVotes" votes="1">
+            <Precinct name="Mt. Carmel" votes="0" />
+            <Precinct name="Monticello" votes="0" />
+            <Precinct name="Savannah" votes="0" />
+            <Precinct name="Willington" votes="0" />
+            <Precinct name="McCormick No. 1" votes="0" />
+            <Precinct name="Bethany" votes="0" />
+            <Precinct name="McCormick No. 2" votes="0" />
+            <Precinct name="Plum Branch" votes="0" />
+            <Precinct name="Parksville" votes="0" />
+            <Precinct name="Modoc" votes="0" />
+            <Precinct name="Clark's Hill" votes="0" />
+            <Precinct name="Absentee" votes="1" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="2552">
+            <Precinct name="Mt. Carmel" votes="35" />
+            <Precinct name="Monticello" votes="142" />
+            <Precinct name="Savannah" votes="403" />
+            <Precinct name="Willington" votes="59" />
+            <Precinct name="McCormick No. 1" votes="238" />
+            <Precinct name="Bethany" votes="63" />
+            <Precinct name="McCormick No. 2" votes="158" />
+            <Precinct name="Plum Branch" votes="171" />
+            <Precinct name="Parksville" votes="53" />
+            <Precinct name="Modoc" votes="101" />
+            <Precinct name="Clark's Hill" votes="95" />
+            <Precinct name="Absentee" votes="1031" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="2" />
+            <Precinct name="Provisional" votes="1" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Democratic" party="DEM" totalVotes="1556">
+            <VoteType name="Election Day" votes="1556">
+                <Precinct name="Mt. Carmel" votes="93" />
+                <Precinct name="Monticello" votes="10" />
+                <Precinct name="Savannah" votes="26" />
+                <Precinct name="Willington" votes="36" />
+                <Precinct name="McCormick No. 1" votes="179" />
+                <Precinct name="Bethany" votes="131" />
+                <Precinct name="McCormick No. 2" votes="169" />
+                <Precinct name="Plum Branch" votes="147" />
+                <Precinct name="Parksville" votes="6" />
+                <Precinct name="Modoc" votes="4" />
+                <Precinct name="Clark's Hill" votes="129" />
+                <Precinct name="Absentee" votes="624" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Working Families" party="WFM" totalVotes="21">
+            <VoteType name="Election Day" votes="21">
+                <Precinct name="Mt. Carmel" votes="0" />
+                <Precinct name="Monticello" votes="0" />
+                <Precinct name="Savannah" votes="2" />
+                <Precinct name="Willington" votes="0" />
+                <Precinct name="McCormick No. 1" votes="7" />
+                <Precinct name="Bethany" votes="1" />
+                <Precinct name="McCormick No. 2" votes="2" />
+                <Precinct name="Plum Branch" votes="2" />
+                <Precinct name="Parksville" votes="1" />
+                <Precinct name="Modoc" votes="1" />
+                <Precinct name="Clark's Hill" votes="0" />
+                <Precinct name="Absentee" votes="5" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Constitution" party="CON" totalVotes="2">
+            <VoteType name="Election Day" votes="2">
+                <Precinct name="Mt. Carmel" votes="0" />
+                <Precinct name="Monticello" votes="0" />
+                <Precinct name="Savannah" votes="0" />
+                <Precinct name="Willington" votes="0" />
+                <Precinct name="McCormick No. 1" votes="2" />
+                <Precinct name="Bethany" votes="0" />
+                <Precinct name="McCormick No. 2" votes="0" />
+                <Precinct name="Plum Branch" votes="0" />
+                <Precinct name="Parksville" votes="0" />
+                <Precinct name="Modoc" votes="0" />
+                <Precinct name="Clark's Hill" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Independence" party="IND" totalVotes="35">
+            <VoteType name="Election Day" votes="35">
+                <Precinct name="Mt. Carmel" votes="0" />
+                <Precinct name="Monticello" votes="1" />
+                <Precinct name="Savannah" votes="7" />
+                <Precinct name="Willington" votes="0" />
+                <Precinct name="McCormick No. 1" votes="3" />
+                <Precinct name="Bethany" votes="1" />
+                <Precinct name="McCormick No. 2" votes="4" />
+                <Precinct name="Plum Branch" votes="1" />
+                <Precinct name="Parksville" votes="2" />
+                <Precinct name="Modoc" votes="1" />
+                <Precinct name="Clark's Hill" votes="3" />
+                <Precinct name="Absentee" votes="12" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Green" party="GRN" totalVotes="4">
+            <VoteType name="Election Day" votes="4">
+                <Precinct name="Mt. Carmel" votes="0" />
+                <Precinct name="Monticello" votes="0" />
+                <Precinct name="Savannah" votes="1" />
+                <Precinct name="Willington" votes="0" />
+                <Precinct name="McCormick No. 1" votes="1" />
+                <Precinct name="Bethany" votes="0" />
+                <Precinct name="McCormick No. 2" votes="0" />
+                <Precinct name="Plum Branch" votes="0" />
+                <Precinct name="Parksville" votes="0" />
+                <Precinct name="Modoc" votes="0" />
+                <Precinct name="Clark's Hill" votes="0" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Republican" party="REP" totalVotes="1094">
+            <VoteType name="Election Day" votes="1094">
+                <Precinct name="Mt. Carmel" votes="9" />
+                <Precinct name="Monticello" votes="44" />
+                <Precinct name="Savannah" votes="187" />
+                <Precinct name="Willington" votes="15" />
+                <Precinct name="McCormick No. 1" votes="61" />
+                <Precinct name="Bethany" votes="23" />
+                <Precinct name="McCormick No. 2" votes="38" />
+                <Precinct name="Plum Branch" votes="75" />
+                <Precinct name="Parksville" votes="46" />
+                <Precinct name="Modoc" votes="68" />
+                <Precinct name="Clark's Hill" votes="78" />
+                <Precinct name="Absentee" votes="449" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="American" party="AMR" totalVotes="14">
+            <VoteType name="Election Day" votes="14">
+                <Precinct name="Mt. Carmel" votes="1" />
+                <Precinct name="Monticello" votes="0" />
+                <Precinct name="Savannah" votes="1" />
+                <Precinct name="Willington" votes="0" />
+                <Precinct name="McCormick No. 1" votes="2" />
+                <Precinct name="Bethany" votes="0" />
+                <Precinct name="McCormick No. 2" votes="0" />
+                <Precinct name="Plum Branch" votes="5" />
+                <Precinct name="Parksville" votes="1" />
+                <Precinct name="Modoc" votes="0" />
+                <Precinct name="Clark's Hill" votes="1" />
+                <Precinct name="Absentee" votes="3" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="008" text="Libertarian" party="LIB" totalVotes="6">
+            <VoteType name="Election Day" votes="6">
+                <Precinct name="Mt. Carmel" votes="0" />
+                <Precinct name="Monticello" votes="0" />
+                <Precinct name="Savannah" votes="2" />
+                <Precinct name="Willington" votes="0" />
+                <Precinct name="McCormick No. 1" votes="0" />
+                <Precinct name="Bethany" votes="0" />
+                <Precinct name="McCormick No. 2" votes="0" />
+                <Precinct name="Plum Branch" votes="1" />
+                <Precinct name="Parksville" votes="0" />
+                <Precinct name="Modoc" votes="0" />
+                <Precinct name="Clark's Hill" votes="2" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0104" text="President and Vice President" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="overVotes" votes="2">
+            <Precinct name="Mt. Carmel" votes="0" />
+            <Precinct name="Monticello" votes="0" />
+            <Precinct name="Savannah" votes="0" />
+            <Precinct name="Willington" votes="0" />
+            <Precinct name="McCormick No. 1" votes="0" />
+            <Precinct name="Bethany" votes="0" />
+            <Precinct name="McCormick No. 2" votes="0" />
+            <Precinct name="Plum Branch" votes="0" />
+            <Precinct name="Parksville" votes="0" />
+            <Precinct name="Modoc" votes="0" />
+            <Precinct name="Clark's Hill" votes="0" />
+            <Precinct name="Absentee" votes="2" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="67">
+            <Precinct name="Mt. Carmel" votes="3" />
+            <Precinct name="Monticello" votes="3" />
+            <Precinct name="Savannah" votes="12" />
+            <Precinct name="Willington" votes="3" />
+            <Precinct name="McCormick No. 1" votes="6" />
+            <Precinct name="Bethany" votes="5" />
+            <Precinct name="McCormick No. 2" votes="3" />
+            <Precinct name="Plum Branch" votes="2" />
+            <Precinct name="Parksville" votes="3" />
+            <Precinct name="Modoc" votes="2" />
+            <Precinct name="Clark's Hill" votes="3" />
+            <Precinct name="Absentee" votes="22" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Hillary Rodham Clinton / Timothy Michael Kaine" party="DEM" totalVotes="2479">
+            <VoteType name="Election Day" votes="2479">
+                <Precinct name="Mt. Carmel" votes="113" />
+                <Precinct name="Monticello" votes="46" />
+                <Precinct name="Savannah" votes="120" />
+                <Precinct name="Willington" votes="56" />
+                <Precinct name="McCormick No. 1" votes="290" />
+                <Precinct name="Bethany" votes="152" />
+                <Precinct name="McCormick No. 2" votes="244" />
+                <Precinct name="Plum Branch" votes="200" />
+                <Precinct name="Parksville" votes="13" />
+                <Precinct name="Modoc" votes="14" />
+                <Precinct name="Clark's Hill" votes="161" />
+                <Precinct name="Absentee" votes="1067" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="3" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Darrell Castle / Scott Bradley" party="CON" totalVotes="6">
+            <VoteType name="Election Day" votes="6">
+                <Precinct name="Mt. Carmel" votes="0" />
+                <Precinct name="Monticello" votes="1" />
+                <Precinct name="Savannah" votes="0" />
+                <Precinct name="Willington" votes="0" />
+                <Precinct name="McCormick No. 1" votes="3" />
+                <Precinct name="Bethany" votes="0" />
+                <Precinct name="McCormick No. 2" votes="0" />
+                <Precinct name="Plum Branch" votes="0" />
+                <Precinct name="Parksville" votes="0" />
+                <Precinct name="Modoc" votes="0" />
+                <Precinct name="Clark's Hill" votes="0" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Evan McMullin / Nathan Johnson" party="IND" totalVotes="17">
+            <VoteType name="Election Day" votes="17">
+                <Precinct name="Mt. Carmel" votes="0" />
+                <Precinct name="Monticello" votes="1" />
+                <Precinct name="Savannah" votes="2" />
+                <Precinct name="Willington" votes="0" />
+                <Precinct name="McCormick No. 1" votes="2" />
+                <Precinct name="Bethany" votes="3" />
+                <Precinct name="McCormick No. 2" votes="2" />
+                <Precinct name="Plum Branch" votes="0" />
+                <Precinct name="Parksville" votes="0" />
+                <Precinct name="Modoc" votes="0" />
+                <Precinct name="Clark's Hill" votes="2" />
+                <Precinct name="Absentee" votes="5" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Jill Stein / Ajamu Baraka" party="GRN" totalVotes="8">
+            <VoteType name="Election Day" votes="8">
+                <Precinct name="Mt. Carmel" votes="0" />
+                <Precinct name="Monticello" votes="0" />
+                <Precinct name="Savannah" votes="2" />
+                <Precinct name="Willington" votes="0" />
+                <Precinct name="McCormick No. 1" votes="2" />
+                <Precinct name="Bethany" votes="0" />
+                <Precinct name="McCormick No. 2" votes="0" />
+                <Precinct name="Plum Branch" votes="1" />
+                <Precinct name="Parksville" votes="1" />
+                <Precinct name="Modoc" votes="0" />
+                <Precinct name="Clark's Hill" votes="0" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Donald J Trump / Michael R Pence" party="REP" totalVotes="2652">
+            <VoteType name="Election Day" votes="2652">
+                <Precinct name="Mt. Carmel" votes="20" />
+                <Precinct name="Monticello" votes="145" />
+                <Precinct name="Savannah" votes="488" />
+                <Precinct name="Willington" votes="49" />
+                <Precinct name="McCormick No. 1" votes="182" />
+                <Precinct name="Bethany" votes="57" />
+                <Precinct name="McCormick No. 2" votes="117" />
+                <Precinct name="Plum Branch" votes="190" />
+                <Precinct name="Parksville" votes="90" />
+                <Precinct name="Modoc" votes="156" />
+                <Precinct name="Clark's Hill" votes="138" />
+                <Precinct name="Absentee" votes="1017" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Peter Skewes / Michael Lacy" party="AMR" totalVotes="7">
+            <VoteType name="Election Day" votes="7">
+                <Precinct name="Mt. Carmel" votes="0" />
+                <Precinct name="Monticello" votes="0" />
+                <Precinct name="Savannah" votes="1" />
+                <Precinct name="Willington" votes="0" />
+                <Precinct name="McCormick No. 1" votes="1" />
+                <Precinct name="Bethany" votes="0" />
+                <Precinct name="McCormick No. 2" votes="0" />
+                <Precinct name="Plum Branch" votes="4" />
+                <Precinct name="Parksville" votes="0" />
+                <Precinct name="Modoc" votes="0" />
+                <Precinct name="Clark's Hill" votes="0" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="Gary Johnson / Bill Weld" party="LIB" totalVotes="47">
+            <VoteType name="Election Day" votes="47">
+                <Precinct name="Mt. Carmel" votes="2" />
+                <Precinct name="Monticello" votes="1" />
+                <Precinct name="Savannah" votes="4" />
+                <Precinct name="Willington" votes="2" />
+                <Precinct name="McCormick No. 1" votes="7" />
+                <Precinct name="Bethany" votes="2" />
+                <Precinct name="McCormick No. 2" votes="5" />
+                <Precinct name="Plum Branch" votes="5" />
+                <Precinct name="Parksville" votes="2" />
+                <Precinct name="Modoc" votes="3" />
+                <Precinct name="Clark's Hill" votes="4" />
+                <Precinct name="Absentee" votes="10" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0105" text="U.S. Senate" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="overVotes" votes="4">
+            <Precinct name="Mt. Carmel" votes="0" />
+            <Precinct name="Monticello" votes="0" />
+            <Precinct name="Savannah" votes="0" />
+            <Precinct name="Willington" votes="0" />
+            <Precinct name="McCormick No. 1" votes="0" />
+            <Precinct name="Bethany" votes="0" />
+            <Precinct name="McCormick No. 2" votes="0" />
+            <Precinct name="Plum Branch" votes="0" />
+            <Precinct name="Parksville" votes="0" />
+            <Precinct name="Modoc" votes="0" />
+            <Precinct name="Clark's Hill" votes="0" />
+            <Precinct name="Absentee" votes="4" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="262">
+            <Precinct name="Mt. Carmel" votes="8" />
+            <Precinct name="Monticello" votes="6" />
+            <Precinct name="Savannah" votes="30" />
+            <Precinct name="Willington" votes="7" />
+            <Precinct name="McCormick No. 1" votes="29" />
+            <Precinct name="Bethany" votes="9" />
+            <Precinct name="McCormick No. 2" votes="16" />
+            <Precinct name="Plum Branch" votes="12" />
+            <Precinct name="Parksville" votes="5" />
+            <Precinct name="Modoc" votes="4" />
+            <Precinct name="Clark's Hill" votes="14" />
+            <Precinct name="Absentee" votes="121" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Thomas Dixon" party="DEM" totalVotes="2136">
+            <VoteType name="Election Day" votes="2136">
+                <Precinct name="Mt. Carmel" votes="105" />
+                <Precinct name="Monticello" votes="34" />
+                <Precinct name="Savannah" votes="77" />
+                <Precinct name="Willington" votes="50" />
+                <Precinct name="McCormick No. 1" votes="251" />
+                <Precinct name="Bethany" votes="145" />
+                <Precinct name="McCormick No. 2" votes="220" />
+                <Precinct name="Plum Branch" votes="190" />
+                <Precinct name="Parksville" votes="10" />
+                <Precinct name="Modoc" votes="12" />
+                <Precinct name="Clark's Hill" votes="148" />
+                <Precinct name="Absentee" votes="892" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Thomas Dixon" party="WFM" totalVotes="84">
+            <VoteType name="Election Day" votes="84">
+                <Precinct name="Mt. Carmel" votes="1" />
+                <Precinct name="Monticello" votes="0" />
+                <Precinct name="Savannah" votes="9" />
+                <Precinct name="Willington" votes="3" />
+                <Precinct name="McCormick No. 1" votes="15" />
+                <Precinct name="Bethany" votes="9" />
+                <Precinct name="McCormick No. 2" votes="7" />
+                <Precinct name="Plum Branch" votes="10" />
+                <Precinct name="Parksville" votes="0" />
+                <Precinct name="Modoc" votes="6" />
+                <Precinct name="Clark's Hill" votes="2" />
+                <Precinct name="Absentee" votes="22" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Bill Bledsoe" party="CON" totalVotes="25">
+            <VoteType name="Election Day" votes="25">
+                <Precinct name="Mt. Carmel" votes="0" />
+                <Precinct name="Monticello" votes="2" />
+                <Precinct name="Savannah" votes="5" />
+                <Precinct name="Willington" votes="0" />
+                <Precinct name="McCormick No. 1" votes="2" />
+                <Precinct name="Bethany" votes="0" />
+                <Precinct name="McCormick No. 2" votes="3" />
+                <Precinct name="Plum Branch" votes="3" />
+                <Precinct name="Parksville" votes="0" />
+                <Precinct name="Modoc" votes="1" />
+                <Precinct name="Clark's Hill" votes="4" />
+                <Precinct name="Absentee" votes="4" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Thomas Dixon" party="GRN" totalVotes="21">
+            <VoteType name="Election Day" votes="21">
+                <Precinct name="Mt. Carmel" votes="0" />
+                <Precinct name="Monticello" votes="0" />
+                <Precinct name="Savannah" votes="2" />
+                <Precinct name="Willington" votes="0" />
+                <Precinct name="McCormick No. 1" votes="4" />
+                <Precinct name="Bethany" votes="0" />
+                <Precinct name="McCormick No. 2" votes="3" />
+                <Precinct name="Plum Branch" votes="1" />
+                <Precinct name="Parksville" votes="1" />
+                <Precinct name="Modoc" votes="1" />
+                <Precinct name="Clark's Hill" votes="0" />
+                <Precinct name="Absentee" votes="9" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Tim Scott" party="REP" totalVotes="2699">
+            <VoteType name="Election Day" votes="2699">
+                <Precinct name="Mt. Carmel" votes="23" />
+                <Precinct name="Monticello" votes="153" />
+                <Precinct name="Savannah" votes="500" />
+                <Precinct name="Willington" votes="49" />
+                <Precinct name="McCormick No. 1" votes="189" />
+                <Precinct name="Bethany" votes="53" />
+                <Precinct name="McCormick No. 2" votes="112" />
+                <Precinct name="Plum Branch" votes="181" />
+                <Precinct name="Parksville" votes="90" />
+                <Precinct name="Modoc" votes="149" />
+                <Precinct name="Clark's Hill" votes="137" />
+                <Precinct name="Absentee" votes="1061" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Rebel Michael Scarborough" party="AMR" totalVotes="20">
+            <VoteType name="Election Day" votes="20">
+                <Precinct name="Mt. Carmel" votes="0" />
+                <Precinct name="Monticello" votes="2" />
+                <Precinct name="Savannah" votes="2" />
+                <Precinct name="Willington" votes="0" />
+                <Precinct name="McCormick No. 1" votes="1" />
+                <Precinct name="Bethany" votes="0" />
+                <Precinct name="McCormick No. 2" votes="1" />
+                <Precinct name="Plum Branch" votes="4" />
+                <Precinct name="Parksville" votes="1" />
+                <Precinct name="Modoc" votes="1" />
+                <Precinct name="Clark's Hill" votes="2" />
+                <Precinct name="Absentee" votes="6" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="Bill Bledsoe" party="LIB" totalVotes="32">
+            <VoteType name="Election Day" votes="32">
+                <Precinct name="Mt. Carmel" votes="1" />
+                <Precinct name="Monticello" votes="0" />
+                <Precinct name="Savannah" votes="4" />
+                <Precinct name="Willington" votes="1" />
+                <Precinct name="McCormick No. 1" votes="2" />
+                <Precinct name="Bethany" votes="3" />
+                <Precinct name="McCormick No. 2" votes="8" />
+                <Precinct name="Plum Branch" votes="1" />
+                <Precinct name="Parksville" votes="1" />
+                <Precinct name="Modoc" votes="1" />
+                <Precinct name="Clark's Hill" votes="1" />
+                <Precinct name="Absentee" votes="9" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="008" text="Write-In" party="NON" totalVotes="2">
+            <VoteType name="Election Day" votes="2">
+                <Precinct name="Mt. Carmel" votes="0" />
+                <Precinct name="Monticello" votes="0" />
+                <Precinct name="Savannah" votes="0" />
+                <Precinct name="Willington" votes="0" />
+                <Precinct name="McCormick No. 1" votes="0" />
+                <Precinct name="Bethany" votes="0" />
+                <Precinct name="McCormick No. 2" votes="1" />
+                <Precinct name="Plum Branch" votes="0" />
+                <Precinct name="Parksville" votes="1" />
+                <Precinct name="Modoc" votes="0" />
+                <Precinct name="Clark's Hill" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0106" text="U.S.  House of Representatives, District  3" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Mt. Carmel" votes="0" />
+            <Precinct name="Monticello" votes="0" />
+            <Precinct name="Savannah" votes="0" />
+            <Precinct name="Willington" votes="0" />
+            <Precinct name="McCormick No. 1" votes="0" />
+            <Precinct name="Bethany" votes="0" />
+            <Precinct name="McCormick No. 2" votes="0" />
+            <Precinct name="Plum Branch" votes="0" />
+            <Precinct name="Parksville" votes="0" />
+            <Precinct name="Modoc" votes="0" />
+            <Precinct name="Clark's Hill" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="331">
+            <Precinct name="Mt. Carmel" votes="9" />
+            <Precinct name="Monticello" votes="10" />
+            <Precinct name="Savannah" votes="40" />
+            <Precinct name="Willington" votes="11" />
+            <Precinct name="McCormick No. 1" votes="33" />
+            <Precinct name="Bethany" votes="13" />
+            <Precinct name="McCormick No. 2" votes="25" />
+            <Precinct name="Plum Branch" votes="21" />
+            <Precinct name="Parksville" votes="5" />
+            <Precinct name="Modoc" votes="7" />
+            <Precinct name="Clark's Hill" votes="13" />
+            <Precinct name="Absentee" votes="142" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="2" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Hosea Cleveland" party="DEM" totalVotes="2198">
+            <VoteType name="Election Day" votes="2198">
+                <Precinct name="Mt. Carmel" votes="108" />
+                <Precinct name="Monticello" votes="31" />
+                <Precinct name="Savannah" votes="79" />
+                <Precinct name="Willington" votes="50" />
+                <Precinct name="McCormick No. 1" votes="259" />
+                <Precinct name="Bethany" votes="148" />
+                <Precinct name="McCormick No. 2" votes="231" />
+                <Precinct name="Plum Branch" votes="189" />
+                <Precinct name="Parksville" votes="10" />
+                <Precinct name="Modoc" votes="12" />
+                <Precinct name="Clark's Hill" votes="154" />
+                <Precinct name="Absentee" votes="925" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Jeff Duncan" party="REP" totalVotes="2747">
+            <VoteType name="Election Day" votes="2747">
+                <Precinct name="Mt. Carmel" votes="21" />
+                <Precinct name="Monticello" votes="156" />
+                <Precinct name="Savannah" votes="510" />
+                <Precinct name="Willington" votes="49" />
+                <Precinct name="McCormick No. 1" votes="201" />
+                <Precinct name="Bethany" votes="58" />
+                <Precinct name="McCormick No. 2" votes="111" />
+                <Precinct name="Plum Branch" votes="191" />
+                <Precinct name="Parksville" votes="92" />
+                <Precinct name="Modoc" votes="155" />
+                <Precinct name="Clark's Hill" votes="140" />
+                <Precinct name="Absentee" votes="1061" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="9">
+            <VoteType name="Election Day" votes="9">
+                <Precinct name="Mt. Carmel" votes="0" />
+                <Precinct name="Monticello" votes="0" />
+                <Precinct name="Savannah" votes="0" />
+                <Precinct name="Willington" votes="0" />
+                <Precinct name="McCormick No. 1" votes="0" />
+                <Precinct name="Bethany" votes="0" />
+                <Precinct name="McCormick No. 2" votes="4" />
+                <Precinct name="Plum Branch" votes="1" />
+                <Precinct name="Parksville" votes="2" />
+                <Precinct name="Modoc" votes="1" />
+                <Precinct name="Clark's Hill" votes="1" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0107" text="State  Senate, District  10" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Mt. Carmel" votes="0" />
+            <Precinct name="Monticello" votes="0" />
+            <Precinct name="Willington" votes="0" />
+            <Precinct name="McCormick No. 1" votes="0" />
+            <Precinct name="Bethany" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="81">
+            <Precinct name="Mt. Carmel" votes="3" />
+            <Precinct name="Monticello" votes="10" />
+            <Precinct name="Willington" votes="3" />
+            <Precinct name="McCormick No. 1" votes="21" />
+            <Precinct name="Bethany" votes="6" />
+            <Precinct name="Absentee" votes="37" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Floyd Nicholson" party="DEM" totalVotes="1010">
+            <VoteType name="Election Day" votes="1010">
+                <Precinct name="Mt. Carmel" votes="79" />
+                <Precinct name="Monticello" votes="39" />
+                <Precinct name="Willington" votes="20" />
+                <Precinct name="McCormick No. 1" votes="302" />
+                <Precinct name="Bethany" votes="159" />
+                <Precinct name="Absentee" votes="409" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="J Bryan Hope" party="REP" totalVotes="711">
+            <VoteType name="Election Day" votes="711">
+                <Precinct name="Mt. Carmel" votes="15" />
+                <Precinct name="Monticello" votes="148" />
+                <Precinct name="Willington" votes="36" />
+                <Precinct name="McCormick No. 1" votes="170" />
+                <Precinct name="Bethany" votes="54" />
+                <Precinct name="Absentee" votes="286" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="0">
+            <VoteType name="Election Day" votes="0">
+                <Precinct name="Mt. Carmel" votes="0" />
+                <Precinct name="Monticello" votes="0" />
+                <Precinct name="Willington" votes="0" />
+                <Precinct name="McCormick No. 1" votes="0" />
+                <Precinct name="Bethany" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0108" text="State  Senate, District  25" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Mt. Carmel" votes="0" />
+            <Precinct name="Savannah" votes="0" />
+            <Precinct name="Willington" votes="0" />
+            <Precinct name="McCormick No. 2" votes="0" />
+            <Precinct name="Plum Branch" votes="0" />
+            <Precinct name="Parksville" votes="0" />
+            <Precinct name="Modoc" votes="0" />
+            <Precinct name="Clark's Hill" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1163">
+            <Precinct name="Mt. Carmel" votes="28" />
+            <Precinct name="Savannah" votes="83" />
+            <Precinct name="Willington" votes="30" />
+            <Precinct name="McCormick No. 2" votes="193" />
+            <Precinct name="Plum Branch" votes="159" />
+            <Precinct name="Parksville" votes="12" />
+            <Precinct name="Modoc" votes="15" />
+            <Precinct name="Clark's Hill" votes="138" />
+            <Precinct name="Absentee" votes="504" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Shane Massey" party="REP" totalVotes="2301">
+            <VoteType name="Election Day" votes="2301">
+                <Precinct name="Mt. Carmel" votes="13" />
+                <Precinct name="Savannah" votes="545" />
+                <Precinct name="Willington" votes="20" />
+                <Precinct name="McCormick No. 2" votes="175" />
+                <Precinct name="Plum Branch" votes="238" />
+                <Precinct name="Parksville" votes="94" />
+                <Precinct name="Modoc" votes="160" />
+                <Precinct name="Clark's Hill" votes="169" />
+                <Precinct name="Absentee" votes="887" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="19">
+            <VoteType name="Election Day" votes="19">
+                <Precinct name="Mt. Carmel" votes="0" />
+                <Precinct name="Savannah" votes="1" />
+                <Precinct name="Willington" votes="1" />
+                <Precinct name="McCormick No. 2" votes="3" />
+                <Precinct name="Plum Branch" votes="5" />
+                <Precinct name="Parksville" votes="3" />
+                <Precinct name="Modoc" votes="0" />
+                <Precinct name="Clark's Hill" votes="1" />
+                <Precinct name="Absentee" votes="5" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0109" text="State  House of Representatives, District  12" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Mt. Carmel" votes="0" />
+            <Precinct name="Monticello" votes="0" />
+            <Precinct name="Savannah" votes="0" />
+            <Precinct name="Willington" votes="0" />
+            <Precinct name="McCormick No. 1" votes="0" />
+            <Precinct name="Bethany" votes="0" />
+            <Precinct name="McCormick No. 2" votes="0" />
+            <Precinct name="Plum Branch" votes="0" />
+            <Precinct name="Parksville" votes="0" />
+            <Precinct name="Modoc" votes="0" />
+            <Precinct name="Clark's Hill" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="196">
+            <Precinct name="Mt. Carmel" votes="4" />
+            <Precinct name="Monticello" votes="12" />
+            <Precinct name="Savannah" votes="35" />
+            <Precinct name="Willington" votes="4" />
+            <Precinct name="McCormick No. 1" votes="19" />
+            <Precinct name="Bethany" votes="4" />
+            <Precinct name="McCormick No. 2" votes="9" />
+            <Precinct name="Plum Branch" votes="12" />
+            <Precinct name="Parksville" votes="2" />
+            <Precinct name="Modoc" votes="7" />
+            <Precinct name="Clark's Hill" votes="13" />
+            <Precinct name="Absentee" votes="74" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Anne Parks" party="DEM" totalVotes="2270">
+            <VoteType name="Election Day" votes="2270">
+                <Precinct name="Mt. Carmel" votes="112" />
+                <Precinct name="Monticello" votes="35" />
+                <Precinct name="Savannah" votes="110" />
+                <Precinct name="Willington" votes="53" />
+                <Precinct name="McCormick No. 1" votes="265" />
+                <Precinct name="Bethany" votes="149" />
+                <Precinct name="McCormick No. 2" votes="222" />
+                <Precinct name="Plum Branch" votes="183" />
+                <Precinct name="Parksville" votes="13" />
+                <Precinct name="Modoc" votes="21" />
+                <Precinct name="Clark's Hill" votes="160" />
+                <Precinct name="Absentee" votes="945" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Jennings G McAbee Sr" party="REP" totalVotes="2816">
+            <VoteType name="Election Day" votes="2816">
+                <Precinct name="Mt. Carmel" votes="22" />
+                <Precinct name="Monticello" votes="150" />
+                <Precinct name="Savannah" votes="484" />
+                <Precinct name="Willington" votes="53" />
+                <Precinct name="McCormick No. 1" votes="209" />
+                <Precinct name="Bethany" votes="66" />
+                <Precinct name="McCormick No. 2" votes="139" />
+                <Precinct name="Plum Branch" votes="207" />
+                <Precinct name="Parksville" votes="93" />
+                <Precinct name="Modoc" votes="147" />
+                <Precinct name="Clark's Hill" votes="134" />
+                <Precinct name="Absentee" votes="1109" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="3">
+            <VoteType name="Election Day" votes="3">
+                <Precinct name="Mt. Carmel" votes="0" />
+                <Precinct name="Monticello" votes="0" />
+                <Precinct name="Savannah" votes="0" />
+                <Precinct name="Willington" votes="0" />
+                <Precinct name="McCormick No. 1" votes="0" />
+                <Precinct name="Bethany" votes="0" />
+                <Precinct name="McCormick No. 2" votes="1" />
+                <Precinct name="Plum Branch" votes="0" />
+                <Precinct name="Parksville" votes="1" />
+                <Precinct name="Modoc" votes="0" />
+                <Precinct name="Clark's Hill" votes="1" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0110" text=" Solicitor, Circuit  11" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Mt. Carmel" votes="0" />
+            <Precinct name="Monticello" votes="0" />
+            <Precinct name="Savannah" votes="0" />
+            <Precinct name="Willington" votes="0" />
+            <Precinct name="McCormick No. 1" votes="0" />
+            <Precinct name="Bethany" votes="0" />
+            <Precinct name="McCormick No. 2" votes="0" />
+            <Precinct name="Plum Branch" votes="0" />
+            <Precinct name="Parksville" votes="0" />
+            <Precinct name="Modoc" votes="0" />
+            <Precinct name="Clark's Hill" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="2134">
+            <Precinct name="Mt. Carmel" votes="98" />
+            <Precinct name="Monticello" votes="29" />
+            <Precinct name="Savannah" votes="109" />
+            <Precinct name="Willington" votes="56" />
+            <Precinct name="McCormick No. 1" votes="222" />
+            <Precinct name="Bethany" votes="141" />
+            <Precinct name="McCormick No. 2" votes="203" />
+            <Precinct name="Plum Branch" votes="175" />
+            <Precinct name="Parksville" votes="14" />
+            <Precinct name="Modoc" votes="25" />
+            <Precinct name="Clark's Hill" votes="138" />
+            <Precinct name="Absentee" votes="920" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="4" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Rick Hubbard" party="REP" totalVotes="3126">
+            <VoteType name="Election Day" votes="3126">
+                <Precinct name="Mt. Carmel" votes="40" />
+                <Precinct name="Monticello" votes="168" />
+                <Precinct name="Savannah" votes="518" />
+                <Precinct name="Willington" votes="53" />
+                <Precinct name="McCormick No. 1" votes="269" />
+                <Precinct name="Bethany" votes="78" />
+                <Precinct name="McCormick No. 2" votes="165" />
+                <Precinct name="Plum Branch" votes="224" />
+                <Precinct name="Parksville" votes="93" />
+                <Precinct name="Modoc" votes="150" />
+                <Precinct name="Clark's Hill" votes="169" />
+                <Precinct name="Absentee" votes="1197" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="25">
+            <VoteType name="Election Day" votes="25">
+                <Precinct name="Mt. Carmel" votes="0" />
+                <Precinct name="Monticello" votes="0" />
+                <Precinct name="Savannah" votes="2" />
+                <Precinct name="Willington" votes="1" />
+                <Precinct name="McCormick No. 1" votes="2" />
+                <Precinct name="Bethany" votes="0" />
+                <Precinct name="McCormick No. 2" votes="3" />
+                <Precinct name="Plum Branch" votes="3" />
+                <Precinct name="Parksville" votes="2" />
+                <Precinct name="Modoc" votes="0" />
+                <Precinct name="Clark's Hill" votes="1" />
+                <Precinct name="Absentee" votes="11" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0111" text="Sheriff" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Mt. Carmel" votes="0" />
+            <Precinct name="Monticello" votes="0" />
+            <Precinct name="Savannah" votes="0" />
+            <Precinct name="Willington" votes="0" />
+            <Precinct name="McCormick No. 1" votes="0" />
+            <Precinct name="Bethany" votes="0" />
+            <Precinct name="McCormick No. 2" votes="0" />
+            <Precinct name="Plum Branch" votes="0" />
+            <Precinct name="Parksville" votes="0" />
+            <Precinct name="Modoc" votes="0" />
+            <Precinct name="Clark's Hill" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="127">
+            <Precinct name="Mt. Carmel" votes="6" />
+            <Precinct name="Monticello" votes="5" />
+            <Precinct name="Savannah" votes="18" />
+            <Precinct name="Willington" votes="4" />
+            <Precinct name="McCormick No. 1" votes="15" />
+            <Precinct name="Bethany" votes="5" />
+            <Precinct name="McCormick No. 2" votes="5" />
+            <Precinct name="Plum Branch" votes="6" />
+            <Precinct name="Parksville" votes="2" />
+            <Precinct name="Modoc" votes="2" />
+            <Precinct name="Clark's Hill" votes="12" />
+            <Precinct name="Absentee" votes="46" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="LeRoy Martin" party="PET" totalVotes="187">
+            <VoteType name="Election Day" votes="187">
+                <Precinct name="Mt. Carmel" votes="9" />
+                <Precinct name="Monticello" votes="1" />
+                <Precinct name="Savannah" votes="9" />
+                <Precinct name="Willington" votes="1" />
+                <Precinct name="McCormick No. 1" votes="26" />
+                <Precinct name="Bethany" votes="7" />
+                <Precinct name="McCormick No. 2" votes="16" />
+                <Precinct name="Plum Branch" votes="16" />
+                <Precinct name="Parksville" votes="6" />
+                <Precinct name="Modoc" votes="3" />
+                <Precinct name="Clark's Hill" votes="18" />
+                <Precinct name="Absentee" votes="75" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="J R Jones" party="DEM" totalVotes="2045">
+            <VoteType name="Election Day" votes="2045">
+                <Precinct name="Mt. Carmel" votes="104" />
+                <Precinct name="Monticello" votes="24" />
+                <Precinct name="Savannah" votes="58" />
+                <Precinct name="Willington" votes="50" />
+                <Precinct name="McCormick No. 1" votes="254" />
+                <Precinct name="Bethany" votes="146" />
+                <Precinct name="McCormick No. 2" votes="212" />
+                <Precinct name="Plum Branch" votes="189" />
+                <Precinct name="Parksville" votes="9" />
+                <Precinct name="Modoc" votes="14" />
+                <Precinct name="Clark's Hill" votes="142" />
+                <Precinct name="Absentee" votes="838" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="4" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Clarke A Stearns" party="REP" totalVotes="2923">
+            <VoteType name="Election Day" votes="2923">
+                <Precinct name="Mt. Carmel" votes="19" />
+                <Precinct name="Monticello" votes="167" />
+                <Precinct name="Savannah" votes="544" />
+                <Precinct name="Willington" votes="55" />
+                <Precinct name="McCormick No. 1" votes="197" />
+                <Precinct name="Bethany" votes="61" />
+                <Precinct name="McCormick No. 2" votes="138" />
+                <Precinct name="Plum Branch" votes="191" />
+                <Precinct name="Parksville" votes="90" />
+                <Precinct name="Modoc" votes="156" />
+                <Precinct name="Clark's Hill" votes="136" />
+                <Precinct name="Absentee" votes="1169" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Write-In" party="NON" totalVotes="3">
+            <VoteType name="Election Day" votes="3">
+                <Precinct name="Mt. Carmel" votes="0" />
+                <Precinct name="Monticello" votes="0" />
+                <Precinct name="Savannah" votes="0" />
+                <Precinct name="Willington" votes="0" />
+                <Precinct name="McCormick No. 1" votes="1" />
+                <Precinct name="Bethany" votes="0" />
+                <Precinct name="McCormick No. 2" votes="0" />
+                <Precinct name="Plum Branch" votes="0" />
+                <Precinct name="Parksville" votes="2" />
+                <Precinct name="Modoc" votes="0" />
+                <Precinct name="Clark's Hill" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0112" text="Clerk of Court" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Mt. Carmel" votes="0" />
+            <Precinct name="Monticello" votes="0" />
+            <Precinct name="Savannah" votes="0" />
+            <Precinct name="Willington" votes="0" />
+            <Precinct name="McCormick No. 1" votes="0" />
+            <Precinct name="Bethany" votes="0" />
+            <Precinct name="McCormick No. 2" votes="0" />
+            <Precinct name="Plum Branch" votes="0" />
+            <Precinct name="Parksville" votes="0" />
+            <Precinct name="Modoc" votes="0" />
+            <Precinct name="Clark's Hill" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1406">
+            <Precinct name="Mt. Carmel" votes="15" />
+            <Precinct name="Monticello" votes="87" />
+            <Precinct name="Savannah" votes="283" />
+            <Precinct name="Willington" votes="22" />
+            <Precinct name="McCormick No. 1" votes="63" />
+            <Precinct name="Bethany" votes="32" />
+            <Precinct name="McCormick No. 2" votes="39" />
+            <Precinct name="Plum Branch" votes="58" />
+            <Precinct name="Parksville" votes="34" />
+            <Precinct name="Modoc" votes="70" />
+            <Precinct name="Clark's Hill" votes="72" />
+            <Precinct name="Absentee" votes="630" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Gwendolyn Gwen Chiles" party="DEM" totalVotes="3854">
+            <VoteType name="Election Day" votes="3854">
+                <Precinct name="Mt. Carmel" votes="123" />
+                <Precinct name="Monticello" votes="108" />
+                <Precinct name="Savannah" votes="344" />
+                <Precinct name="Willington" votes="87" />
+                <Precinct name="McCormick No. 1" votes="428" />
+                <Precinct name="Bethany" votes="187" />
+                <Precinct name="McCormick No. 2" votes="331" />
+                <Precinct name="Plum Branch" votes="343" />
+                <Precinct name="Parksville" votes="74" />
+                <Precinct name="Modoc" votes="102" />
+                <Precinct name="Clark's Hill" votes="236" />
+                <Precinct name="Absentee" votes="1486" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="4" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="25">
+            <VoteType name="Election Day" votes="25">
+                <Precinct name="Mt. Carmel" votes="0" />
+                <Precinct name="Monticello" votes="2" />
+                <Precinct name="Savannah" votes="2" />
+                <Precinct name="Willington" votes="1" />
+                <Precinct name="McCormick No. 1" votes="2" />
+                <Precinct name="Bethany" votes="0" />
+                <Precinct name="McCormick No. 2" votes="1" />
+                <Precinct name="Plum Branch" votes="1" />
+                <Precinct name="Parksville" votes="1" />
+                <Precinct name="Modoc" votes="3" />
+                <Precinct name="Clark's Hill" votes="0" />
+                <Precinct name="Absentee" votes="12" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0113" text="Coroner" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Mt. Carmel" votes="0" />
+            <Precinct name="Monticello" votes="0" />
+            <Precinct name="Savannah" votes="0" />
+            <Precinct name="Willington" votes="0" />
+            <Precinct name="McCormick No. 1" votes="0" />
+            <Precinct name="Bethany" votes="0" />
+            <Precinct name="McCormick No. 2" votes="0" />
+            <Precinct name="Plum Branch" votes="0" />
+            <Precinct name="Parksville" votes="0" />
+            <Precinct name="Modoc" votes="0" />
+            <Precinct name="Clark's Hill" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1443">
+            <Precinct name="Mt. Carmel" votes="16" />
+            <Precinct name="Monticello" votes="91" />
+            <Precinct name="Savannah" votes="287" />
+            <Precinct name="Willington" votes="21" />
+            <Precinct name="McCormick No. 1" votes="65" />
+            <Precinct name="Bethany" votes="31" />
+            <Precinct name="McCormick No. 2" votes="39" />
+            <Precinct name="Plum Branch" votes="63" />
+            <Precinct name="Parksville" votes="36" />
+            <Precinct name="Modoc" votes="69" />
+            <Precinct name="Clark's Hill" votes="79" />
+            <Precinct name="Absentee" votes="645" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Faye Leverette Puckett" party="DEM" totalVotes="3819">
+            <VoteType name="Election Day" votes="3819">
+                <Precinct name="Mt. Carmel" votes="122" />
+                <Precinct name="Monticello" votes="105" />
+                <Precinct name="Savannah" votes="340" />
+                <Precinct name="Willington" votes="88" />
+                <Precinct name="McCormick No. 1" votes="426" />
+                <Precinct name="Bethany" votes="188" />
+                <Precinct name="McCormick No. 2" votes="331" />
+                <Precinct name="Plum Branch" votes="333" />
+                <Precinct name="Parksville" votes="70" />
+                <Precinct name="Modoc" votes="104" />
+                <Precinct name="Clark's Hill" votes="229" />
+                <Precinct name="Absentee" votes="1478" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="4" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="23">
+            <VoteType name="Election Day" votes="23">
+                <Precinct name="Mt. Carmel" votes="0" />
+                <Precinct name="Monticello" votes="1" />
+                <Precinct name="Savannah" votes="2" />
+                <Precinct name="Willington" votes="1" />
+                <Precinct name="McCormick No. 1" votes="2" />
+                <Precinct name="Bethany" votes="0" />
+                <Precinct name="McCormick No. 2" votes="1" />
+                <Precinct name="Plum Branch" votes="6" />
+                <Precinct name="Parksville" votes="3" />
+                <Precinct name="Modoc" votes="2" />
+                <Precinct name="Clark's Hill" votes="0" />
+                <Precinct name="Absentee" votes="5" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0114" text="County Council District 1" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Mt. Carmel" votes="0" />
+            <Precinct name="Monticello" votes="0" />
+            <Precinct name="Willington" votes="0" />
+            <Precinct name="McCormick No. 1" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="33">
+            <Precinct name="Mt. Carmel" votes="7" />
+            <Precinct name="Monticello" votes="1" />
+            <Precinct name="Willington" votes="3" />
+            <Precinct name="McCormick No. 1" votes="15" />
+            <Precinct name="Absentee" votes="7" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Henry Banks" party="DEM" totalVotes="524">
+            <VoteType name="Election Day" votes="524">
+                <Precinct name="Mt. Carmel" votes="103" />
+                <Precinct name="Monticello" votes="1" />
+                <Precinct name="Willington" votes="44" />
+                <Precinct name="McCormick No. 1" votes="152" />
+                <Precinct name="Absentee" votes="223" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Kevin Busbee" party="REP" totalVotes="276">
+            <VoteType name="Election Day" votes="276">
+                <Precinct name="Mt. Carmel" votes="27" />
+                <Precinct name="Monticello" votes="11" />
+                <Precinct name="Willington" votes="61" />
+                <Precinct name="McCormick No. 1" votes="95" />
+                <Precinct name="Absentee" votes="81" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="2">
+            <VoteType name="Election Day" votes="2">
+                <Precinct name="Mt. Carmel" votes="1" />
+                <Precinct name="Monticello" votes="0" />
+                <Precinct name="Willington" votes="1" />
+                <Precinct name="McCormick No. 1" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0115" text="County Council District 3" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Monticello" votes="0" />
+            <Precinct name="Savannah" votes="0" />
+            <Precinct name="Willington" votes="0" />
+            <Precinct name="McCormick No. 1" votes="0" />
+            <Precinct name="McCormick No. 2" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="561">
+            <Precinct name="Monticello" votes="67" />
+            <Precinct name="Savannah" votes="166" />
+            <Precinct name="Willington" votes="0" />
+            <Precinct name="McCormick No. 1" votes="9" />
+            <Precinct name="McCormick No. 2" votes="1" />
+            <Precinct name="Absentee" votes="318" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Byron Thompson" party="DEM" totalVotes="971">
+            <VoteType name="Election Day" votes="971">
+                <Precinct name="Monticello" votes="109" />
+                <Precinct name="Savannah" votes="312" />
+                <Precinct name="Willington" votes="1" />
+                <Precinct name="McCormick No. 1" votes="14" />
+                <Precinct name="McCormick No. 2" votes="12" />
+                <Precinct name="Absentee" votes="523" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="28">
+            <VoteType name="Election Day" votes="28">
+                <Precinct name="Monticello" votes="8" />
+                <Precinct name="Savannah" votes="10" />
+                <Precinct name="Willington" votes="0" />
+                <Precinct name="McCormick No. 1" votes="0" />
+                <Precinct name="McCormick No. 2" votes="0" />
+                <Precinct name="Absentee" votes="10" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0116" text="County Council District 4" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="McCormick No. 1" votes="0" />
+            <Precinct name="McCormick No. 2" votes="0" />
+            <Precinct name="Plum Branch" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="53">
+            <Precinct name="McCormick No. 1" votes="2" />
+            <Precinct name="McCormick No. 2" votes="16" />
+            <Precinct name="Plum Branch" votes="15" />
+            <Precinct name="Absentee" votes="20" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Tim White" party="PET" totalVotes="293">
+            <VoteType name="Election Day" votes="293">
+                <Precinct name="McCormick No. 1" votes="20" />
+                <Precinct name="McCormick No. 2" votes="86" />
+                <Precinct name="Plum Branch" votes="87" />
+                <Precinct name="Absentee" votes="100" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Charles Jennings" party="DEM" totalVotes="542">
+            <VoteType name="Election Day" votes="542">
+                <Precinct name="McCormick No. 1" votes="16" />
+                <Precinct name="McCormick No. 2" votes="185" />
+                <Precinct name="Plum Branch" votes="86" />
+                <Precinct name="Absentee" votes="255" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="1">
+            <VoteType name="Election Day" votes="1">
+                <Precinct name="McCormick No. 1" votes="0" />
+                <Precinct name="McCormick No. 2" votes="1" />
+                <Precinct name="Plum Branch" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0117" text="Soil and Water District Commission" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Mt. Carmel" votes="0" />
+            <Precinct name="Monticello" votes="0" />
+            <Precinct name="Savannah" votes="0" />
+            <Precinct name="Willington" votes="0" />
+            <Precinct name="McCormick No. 1" votes="0" />
+            <Precinct name="Bethany" votes="0" />
+            <Precinct name="McCormick No. 2" votes="0" />
+            <Precinct name="Plum Branch" votes="0" />
+            <Precinct name="Parksville" votes="0" />
+            <Precinct name="Modoc" votes="0" />
+            <Precinct name="Clark's Hill" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="2613">
+            <Precinct name="Mt. Carmel" votes="93" />
+            <Precinct name="Monticello" votes="92" />
+            <Precinct name="Savannah" votes="275" />
+            <Precinct name="Willington" votes="55" />
+            <Precinct name="McCormick No. 1" votes="205" />
+            <Precinct name="Bethany" votes="145" />
+            <Precinct name="McCormick No. 2" votes="188" />
+            <Precinct name="Plum Branch" votes="178" />
+            <Precinct name="Parksville" votes="39" />
+            <Precinct name="Modoc" votes="69" />
+            <Precinct name="Clark's Hill" votes="171" />
+            <Precinct name="Absentee" votes="1100" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="3" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Julie Corley Davis" party="NON" totalVotes="2659">
+            <VoteType name="Election Day" votes="2659">
+                <Precinct name="Mt. Carmel" votes="45" />
+                <Precinct name="Monticello" votes="104" />
+                <Precinct name="Savannah" votes="354" />
+                <Precinct name="Willington" votes="54" />
+                <Precinct name="McCormick No. 1" votes="286" />
+                <Precinct name="Bethany" votes="74" />
+                <Precinct name="McCormick No. 2" votes="183" />
+                <Precinct name="Plum Branch" votes="224" />
+                <Precinct name="Parksville" votes="67" />
+                <Precinct name="Modoc" votes="104" />
+                <Precinct name="Clark's Hill" votes="136" />
+                <Precinct name="Absentee" votes="1025" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="13">
+            <VoteType name="Election Day" votes="13">
+                <Precinct name="Mt. Carmel" votes="0" />
+                <Precinct name="Monticello" votes="1" />
+                <Precinct name="Savannah" votes="0" />
+                <Precinct name="Willington" votes="1" />
+                <Precinct name="McCormick No. 1" votes="2" />
+                <Precinct name="Bethany" votes="0" />
+                <Precinct name="McCormick No. 2" votes="0" />
+                <Precinct name="Plum Branch" votes="0" />
+                <Precinct name="Parksville" votes="3" />
+                <Precinct name="Modoc" votes="2" />
+                <Precinct name="Clark's Hill" votes="1" />
+                <Precinct name="Absentee" votes="3" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0118" text="School Board" voteFor="4" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="overVotes" votes="4">
+            <Precinct name="Mt. Carmel" votes="0" />
+            <Precinct name="Monticello" votes="0" />
+            <Precinct name="Savannah" votes="0" />
+            <Precinct name="Willington" votes="0" />
+            <Precinct name="McCormick No. 1" votes="0" />
+            <Precinct name="Bethany" votes="0" />
+            <Precinct name="McCormick No. 2" votes="0" />
+            <Precinct name="Plum Branch" votes="0" />
+            <Precinct name="Parksville" votes="0" />
+            <Precinct name="Modoc" votes="0" />
+            <Precinct name="Clark's Hill" votes="0" />
+            <Precinct name="Absentee" votes="4" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="8544">
+            <Precinct name="Mt. Carmel" votes="282" />
+            <Precinct name="Monticello" votes="342" />
+            <Precinct name="Savannah" votes="1064" />
+            <Precinct name="Willington" votes="151" />
+            <Precinct name="McCormick No. 1" votes="773" />
+            <Precinct name="Bethany" votes="379" />
+            <Precinct name="McCormick No. 2" votes="513" />
+            <Precinct name="Plum Branch" votes="628" />
+            <Precinct name="Parksville" votes="192" />
+            <Precinct name="Modoc" votes="380" />
+            <Precinct name="Clark's Hill" votes="678" />
+            <Precinct name="Absentee" votes="3156" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="6" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Karen Beckner" party="NON" totalVotes="1756">
+            <VoteType name="Election Day" votes="1756">
+                <Precinct name="Mt. Carmel" votes="14" />
+                <Precinct name="Monticello" votes="63" />
+                <Precinct name="Savannah" votes="200" />
+                <Precinct name="Willington" votes="41" />
+                <Precinct name="McCormick No. 1" votes="156" />
+                <Precinct name="Bethany" votes="59" />
+                <Precinct name="McCormick No. 2" votes="121" />
+                <Precinct name="Plum Branch" votes="139" />
+                <Precinct name="Parksville" votes="41" />
+                <Precinct name="Modoc" votes="72" />
+                <Precinct name="Clark's Hill" votes="141" />
+                <Precinct name="Absentee" votes="708" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Christine Lee" party="NON" totalVotes="2180">
+            <VoteType name="Election Day" votes="2180">
+                <Precinct name="Mt. Carmel" votes="58" />
+                <Precinct name="Monticello" votes="55" />
+                <Precinct name="Savannah" votes="226" />
+                <Precinct name="Willington" votes="56" />
+                <Precinct name="McCormick No. 1" votes="231" />
+                <Precinct name="Bethany" votes="84" />
+                <Precinct name="McCormick No. 2" votes="196" />
+                <Precinct name="Plum Branch" votes="176" />
+                <Precinct name="Parksville" votes="43" />
+                <Precinct name="Modoc" votes="52" />
+                <Precinct name="Clark's Hill" votes="57" />
+                <Precinct name="Absentee" votes="941" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="4" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Heather McNally" party="NON" totalVotes="2286">
+            <VoteType name="Election Day" votes="2286">
+                <Precinct name="Mt. Carmel" votes="22" />
+                <Precinct name="Monticello" votes="122" />
+                <Precinct name="Savannah" votes="385" />
+                <Precinct name="Willington" votes="44" />
+                <Precinct name="McCormick No. 1" votes="180" />
+                <Precinct name="Bethany" votes="66" />
+                <Precinct name="McCormick No. 2" votes="143" />
+                <Precinct name="Plum Branch" votes="149" />
+                <Precinct name="Parksville" votes="56" />
+                <Precinct name="Modoc" votes="69" />
+                <Precinct name="Clark's Hill" votes="72" />
+                <Precinct name="Absentee" votes="977" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="James Bernard Moss" party="NON" totalVotes="1830">
+            <VoteType name="Election Day" votes="1830">
+                <Precinct name="Mt. Carmel" votes="71" />
+                <Precinct name="Monticello" votes="34" />
+                <Precinct name="Savannah" votes="162" />
+                <Precinct name="Willington" votes="55" />
+                <Precinct name="McCormick No. 1" votes="189" />
+                <Precinct name="Bethany" votes="88" />
+                <Precinct name="McCormick No. 2" votes="172" />
+                <Precinct name="Plum Branch" votes="151" />
+                <Precinct name="Parksville" votes="26" />
+                <Precinct name="Modoc" votes="38" />
+                <Precinct name="Clark's Hill" votes="77" />
+                <Precinct name="Absentee" votes="763" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="3" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Eddie L Talbert" party="NON" totalVotes="1615">
+            <VoteType name="Election Day" votes="1615">
+                <Precinct name="Mt. Carmel" votes="52" />
+                <Precinct name="Monticello" votes="26" />
+                <Precinct name="Savannah" votes="96" />
+                <Precinct name="Willington" votes="37" />
+                <Precinct name="McCormick No. 1" votes="189" />
+                <Precinct name="Bethany" votes="92" />
+                <Precinct name="McCormick No. 2" votes="156" />
+                <Precinct name="Plum Branch" votes="148" />
+                <Precinct name="Parksville" votes="24" />
+                <Precinct name="Modoc" votes="27" />
+                <Precinct name="Clark's Hill" votes="92" />
+                <Precinct name="Absentee" votes="673" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="3" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Don Tummons" party="NON" totalVotes="1245">
+            <VoteType name="Election Day" votes="1245">
+                <Precinct name="Mt. Carmel" votes="10" />
+                <Precinct name="Monticello" votes="89" />
+                <Precinct name="Savannah" votes="237" />
+                <Precinct name="Willington" votes="16" />
+                <Precinct name="McCormick No. 1" votes="81" />
+                <Precinct name="Bethany" votes="24" />
+                <Precinct name="McCormick No. 2" votes="62" />
+                <Precinct name="Plum Branch" votes="79" />
+                <Precinct name="Parksville" votes="26" />
+                <Precinct name="Modoc" votes="32" />
+                <Precinct name="Clark's Hill" votes="35" />
+                <Precinct name="Absentee" votes="554" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="George W Yeldell" party="NON" totalVotes="1646">
+            <VoteType name="Election Day" votes="1646">
+                <Precinct name="Mt. Carmel" votes="43" />
+                <Precinct name="Monticello" votes="57" />
+                <Precinct name="Savannah" votes="144" />
+                <Precinct name="Willington" votes="37" />
+                <Precinct name="McCormick No. 1" votes="168" />
+                <Precinct name="Bethany" votes="83" />
+                <Precinct name="McCormick No. 2" votes="118" />
+                <Precinct name="Plum Branch" votes="136" />
+                <Precinct name="Parksville" votes="26" />
+                <Precinct name="Modoc" votes="30" />
+                <Precinct name="Clark's Hill" votes="79" />
+                <Precinct name="Absentee" votes="721" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="4" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="008" text="Write-In" party="NON" totalVotes="34">
+            <VoteType name="Election Day" votes="34">
+                <Precinct name="Mt. Carmel" votes="0" />
+                <Precinct name="Monticello" votes="0" />
+                <Precinct name="Savannah" votes="2" />
+                <Precinct name="Willington" votes="3" />
+                <Precinct name="McCormick No. 1" votes="5" />
+                <Precinct name="Bethany" votes="1" />
+                <Precinct name="McCormick No. 2" votes="3" />
+                <Precinct name="Plum Branch" votes="2" />
+                <Precinct name="Parksville" votes="2" />
+                <Precinct name="Modoc" votes="0" />
+                <Precinct name="Clark's Hill" votes="1" />
+                <Precinct name="Absentee" votes="15" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0119" text="Capital Project Sales Tax Referendum" voteFor="1" isQuestion="true" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Mt. Carmel" votes="0" />
+            <Precinct name="Monticello" votes="0" />
+            <Precinct name="Savannah" votes="0" />
+            <Precinct name="Willington" votes="0" />
+            <Precinct name="McCormick No. 1" votes="0" />
+            <Precinct name="Bethany" votes="0" />
+            <Precinct name="McCormick No. 2" votes="0" />
+            <Precinct name="Plum Branch" votes="0" />
+            <Precinct name="Parksville" votes="0" />
+            <Precinct name="Modoc" votes="0" />
+            <Precinct name="Clark's Hill" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="330">
+            <Precinct name="Mt. Carmel" votes="12" />
+            <Precinct name="Monticello" votes="11" />
+            <Precinct name="Savannah" votes="25" />
+            <Precinct name="Willington" votes="5" />
+            <Precinct name="McCormick No. 1" votes="38" />
+            <Precinct name="Bethany" votes="13" />
+            <Precinct name="McCormick No. 2" votes="33" />
+            <Precinct name="Plum Branch" votes="24" />
+            <Precinct name="Parksville" votes="0" />
+            <Precinct name="Modoc" votes="5" />
+            <Precinct name="Clark's Hill" votes="18" />
+            <Precinct name="Absentee" votes="145" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Yes, in favor to the question" party="NON" totalVotes="3113">
+            <VoteType name="Election Day" votes="3113">
+                <Precinct name="Mt. Carmel" votes="83" />
+                <Precinct name="Monticello" votes="129" />
+                <Precinct name="Savannah" votes="401" />
+                <Precinct name="Willington" votes="64" />
+                <Precinct name="McCormick No. 1" votes="282" />
+                <Precinct name="Bethany" votes="138" />
+                <Precinct name="McCormick No. 2" votes="207" />
+                <Precinct name="Plum Branch" votes="200" />
+                <Precinct name="Parksville" votes="71" />
+                <Precinct name="Modoc" votes="120" />
+                <Precinct name="Clark's Hill" votes="165" />
+                <Precinct name="Absentee" votes="1251" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="No, opposed to the question" party="NON" totalVotes="1842">
+            <VoteType name="Election Day" votes="1842">
+                <Precinct name="Mt. Carmel" votes="43" />
+                <Precinct name="Monticello" votes="57" />
+                <Precinct name="Savannah" votes="203" />
+                <Precinct name="Willington" votes="41" />
+                <Precinct name="McCormick No. 1" votes="173" />
+                <Precinct name="Bethany" votes="68" />
+                <Precinct name="McCormick No. 2" votes="131" />
+                <Precinct name="Plum Branch" votes="178" />
+                <Precinct name="Parksville" votes="38" />
+                <Precinct name="Modoc" votes="50" />
+                <Precinct name="Clark's Hill" votes="125" />
+                <Precinct name="Absentee" votes="732" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

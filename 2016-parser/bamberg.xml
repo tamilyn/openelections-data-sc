@@ -1,0 +1,1799 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>11/16/2016 1:18:30 PM EST</Timestamp>
+    <ElectionName>2016 Statewide General Election</ElectionName>
+    <ElectionDate>11/8/2016</ElectionDate>
+    <Region>Bamberg</Region>
+    <VoterTurnout totalVoters="9688" ballotsCast="6282" voterTurnout="64.84">
+        <Precincts>
+            <Precinct name="COLSTON" totalVoters="191" ballotsCast="116" voterTurnout="60.73" percentReporting="4" />
+            <Precinct name="EDISTO" totalVoters="315" ballotsCast="194" voterTurnout="61.59" percentReporting="4" />
+            <Precinct name="EHRHARDT" totalVoters="757" ballotsCast="426" voterTurnout="56.27" percentReporting="4" />
+            <Precinct name="EAST DENMARK" totalVoters="2261" ballotsCast="849" voterTurnout="37.55" percentReporting="4" />
+            <Precinct name="GOVAN" totalVoters="174" ballotsCast="92" voterTurnout="52.87" percentReporting="4" />
+            <Precinct name="HIGHTOWERS MILL" totalVoters="93" ballotsCast="58" voterTurnout="62.37" percentReporting="4" />
+            <Precinct name="HUNTER'S CHAPEL" totalVoters="204" ballotsCast="134" voterTurnout="65.69" percentReporting="4" />
+            <Precinct name="KEARSE" totalVoters="110" ballotsCast="74" voterTurnout="67.27" percentReporting="4" />
+            <Precinct name="LITTLE SWAMP" totalVoters="132" ballotsCast="82" voterTurnout="62.12" percentReporting="4" />
+            <Precinct name="OLAR" totalVoters="342" ballotsCast="212" voterTurnout="61.99" percentReporting="4" />
+            <Precinct name="SOUTH BAMBERG" totalVoters="2406" ballotsCast="947" voterTurnout="39.36" percentReporting="4" />
+            <Precinct name="WEST DENMARK" totalVoters="1278" ballotsCast="653" voterTurnout="51.10" percentReporting="4" />
+            <Precinct name="NORTH BAMBERG" totalVoters="1935" ballotsCast="884" voterTurnout="45.68" percentReporting="4" />
+            <Precinct name="Absentee" totalVoters="0" ballotsCast="1517" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Failsafe" totalVoters="0" ballotsCast="30" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Provisional" totalVoters="0" ballotsCast="14" voterTurnout="0.00" percentReporting="32" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="0103" text="STRAIGHT PARTY" voteFor="1" isQuestion="false" precinctsReporting="13" precinctsReported="13">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="COLSTON" votes="0" />
+            <Precinct name="EDISTO" votes="0" />
+            <Precinct name="EHRHARDT" votes="0" />
+            <Precinct name="EAST DENMARK" votes="0" />
+            <Precinct name="GOVAN" votes="0" />
+            <Precinct name="HIGHTOWERS MILL" votes="0" />
+            <Precinct name="HUNTER'S CHAPEL" votes="0" />
+            <Precinct name="KEARSE" votes="0" />
+            <Precinct name="LITTLE SWAMP" votes="0" />
+            <Precinct name="OLAR" votes="0" />
+            <Precinct name="SOUTH BAMBERG" votes="0" />
+            <Precinct name="WEST DENMARK" votes="0" />
+            <Precinct name="NORTH BAMBERG" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1973">
+            <Precinct name="COLSTON" votes="64" />
+            <Precinct name="EDISTO" votes="77" />
+            <Precinct name="EHRHARDT" votes="182" />
+            <Precinct name="EAST DENMARK" votes="181" />
+            <Precinct name="GOVAN" votes="28" />
+            <Precinct name="HIGHTOWERS MILL" votes="25" />
+            <Precinct name="HUNTER'S CHAPEL" votes="41" />
+            <Precinct name="KEARSE" votes="36" />
+            <Precinct name="LITTLE SWAMP" votes="43" />
+            <Precinct name="OLAR" votes="83" />
+            <Precinct name="SOUTH BAMBERG" votes="240" />
+            <Precinct name="WEST DENMARK" votes="123" />
+            <Precinct name="NORTH BAMBERG" votes="423" />
+            <Precinct name="Absentee" votes="419" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="8" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Democratic" party="DEM" totalVotes="3273">
+            <VoteType name="Election Day" votes="3273">
+                <Precinct name="COLSTON" votes="21" />
+                <Precinct name="EDISTO" votes="39" />
+                <Precinct name="EHRHARDT" votes="133" />
+                <Precinct name="EAST DENMARK" votes="592" />
+                <Precinct name="GOVAN" votes="50" />
+                <Precinct name="HIGHTOWERS MILL" votes="28" />
+                <Precinct name="HUNTER'S CHAPEL" votes="49" />
+                <Precinct name="KEARSE" votes="2" />
+                <Precinct name="LITTLE SWAMP" votes="6" />
+                <Precinct name="OLAR" votes="70" />
+                <Precinct name="SOUTH BAMBERG" votes="573" />
+                <Precinct name="WEST DENMARK" votes="483" />
+                <Precinct name="NORTH BAMBERG" votes="287" />
+                <Precinct name="Absentee" votes="918" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="13" />
+                <Precinct name="Provisional" votes="9" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Working Families" party="WFM" totalVotes="31">
+            <VoteType name="Election Day" votes="31">
+                <Precinct name="COLSTON" votes="1" />
+                <Precinct name="EDISTO" votes="1" />
+                <Precinct name="EHRHARDT" votes="2" />
+                <Precinct name="EAST DENMARK" votes="4" />
+                <Precinct name="GOVAN" votes="0" />
+                <Precinct name="HIGHTOWERS MILL" votes="0" />
+                <Precinct name="HUNTER'S CHAPEL" votes="1" />
+                <Precinct name="KEARSE" votes="1" />
+                <Precinct name="LITTLE SWAMP" votes="0" />
+                <Precinct name="OLAR" votes="3" />
+                <Precinct name="SOUTH BAMBERG" votes="12" />
+                <Precinct name="WEST DENMARK" votes="2" />
+                <Precinct name="NORTH BAMBERG" votes="1" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Constitution" party="CON" totalVotes="5">
+            <VoteType name="Election Day" votes="5">
+                <Precinct name="COLSTON" votes="1" />
+                <Precinct name="EDISTO" votes="0" />
+                <Precinct name="EHRHARDT" votes="0" />
+                <Precinct name="EAST DENMARK" votes="0" />
+                <Precinct name="GOVAN" votes="0" />
+                <Precinct name="HIGHTOWERS MILL" votes="0" />
+                <Precinct name="HUNTER'S CHAPEL" votes="0" />
+                <Precinct name="KEARSE" votes="0" />
+                <Precinct name="LITTLE SWAMP" votes="0" />
+                <Precinct name="OLAR" votes="0" />
+                <Precinct name="SOUTH BAMBERG" votes="2" />
+                <Precinct name="WEST DENMARK" votes="0" />
+                <Precinct name="NORTH BAMBERG" votes="1" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Independence" party="IND" totalVotes="18">
+            <VoteType name="Election Day" votes="18">
+                <Precinct name="COLSTON" votes="0" />
+                <Precinct name="EDISTO" votes="0" />
+                <Precinct name="EHRHARDT" votes="3" />
+                <Precinct name="EAST DENMARK" votes="3" />
+                <Precinct name="GOVAN" votes="0" />
+                <Precinct name="HIGHTOWERS MILL" votes="0" />
+                <Precinct name="HUNTER'S CHAPEL" votes="0" />
+                <Precinct name="KEARSE" votes="0" />
+                <Precinct name="LITTLE SWAMP" votes="0" />
+                <Precinct name="OLAR" votes="1" />
+                <Precinct name="SOUTH BAMBERG" votes="3" />
+                <Precinct name="WEST DENMARK" votes="3" />
+                <Precinct name="NORTH BAMBERG" votes="4" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Green" party="GRN" totalVotes="10">
+            <VoteType name="Election Day" votes="10">
+                <Precinct name="COLSTON" votes="0" />
+                <Precinct name="EDISTO" votes="1" />
+                <Precinct name="EHRHARDT" votes="0" />
+                <Precinct name="EAST DENMARK" votes="2" />
+                <Precinct name="GOVAN" votes="0" />
+                <Precinct name="HIGHTOWERS MILL" votes="0" />
+                <Precinct name="HUNTER'S CHAPEL" votes="0" />
+                <Precinct name="KEARSE" votes="0" />
+                <Precinct name="LITTLE SWAMP" votes="0" />
+                <Precinct name="OLAR" votes="0" />
+                <Precinct name="SOUTH BAMBERG" votes="3" />
+                <Precinct name="WEST DENMARK" votes="1" />
+                <Precinct name="NORTH BAMBERG" votes="1" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Republican" party="REP" totalVotes="952">
+            <VoteType name="Election Day" votes="952">
+                <Precinct name="COLSTON" votes="29" />
+                <Precinct name="EDISTO" votes="75" />
+                <Precinct name="EHRHARDT" votes="102" />
+                <Precinct name="EAST DENMARK" votes="65" />
+                <Precinct name="GOVAN" votes="13" />
+                <Precinct name="HIGHTOWERS MILL" votes="5" />
+                <Precinct name="HUNTER'S CHAPEL" votes="43" />
+                <Precinct name="KEARSE" votes="35" />
+                <Precinct name="LITTLE SWAMP" votes="33" />
+                <Precinct name="OLAR" votes="55" />
+                <Precinct name="SOUTH BAMBERG" votes="110" />
+                <Precinct name="WEST DENMARK" votes="39" />
+                <Precinct name="NORTH BAMBERG" votes="162" />
+                <Precinct name="Absentee" votes="173" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="9" />
+                <Precinct name="Provisional" votes="4" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="American" party="AMR" totalVotes="16">
+            <VoteType name="Election Day" votes="16">
+                <Precinct name="COLSTON" votes="0" />
+                <Precinct name="EDISTO" votes="1" />
+                <Precinct name="EHRHARDT" votes="3" />
+                <Precinct name="EAST DENMARK" votes="2" />
+                <Precinct name="GOVAN" votes="1" />
+                <Precinct name="HIGHTOWERS MILL" votes="0" />
+                <Precinct name="HUNTER'S CHAPEL" votes="0" />
+                <Precinct name="KEARSE" votes="0" />
+                <Precinct name="LITTLE SWAMP" votes="0" />
+                <Precinct name="OLAR" votes="0" />
+                <Precinct name="SOUTH BAMBERG" votes="3" />
+                <Precinct name="WEST DENMARK" votes="2" />
+                <Precinct name="NORTH BAMBERG" votes="4" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="008" text="Libertarian" party="LIB" totalVotes="4">
+            <VoteType name="Election Day" votes="4">
+                <Precinct name="COLSTON" votes="0" />
+                <Precinct name="EDISTO" votes="0" />
+                <Precinct name="EHRHARDT" votes="1" />
+                <Precinct name="EAST DENMARK" votes="0" />
+                <Precinct name="GOVAN" votes="0" />
+                <Precinct name="HIGHTOWERS MILL" votes="0" />
+                <Precinct name="HUNTER'S CHAPEL" votes="0" />
+                <Precinct name="KEARSE" votes="0" />
+                <Precinct name="LITTLE SWAMP" votes="0" />
+                <Precinct name="OLAR" votes="0" />
+                <Precinct name="SOUTH BAMBERG" votes="1" />
+                <Precinct name="WEST DENMARK" votes="0" />
+                <Precinct name="NORTH BAMBERG" votes="1" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0104" text="President and Vice President" voteFor="1" isQuestion="false" precinctsReporting="13" precinctsReported="13">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="COLSTON" votes="0" />
+            <Precinct name="EDISTO" votes="0" />
+            <Precinct name="EHRHARDT" votes="0" />
+            <Precinct name="EAST DENMARK" votes="0" />
+            <Precinct name="GOVAN" votes="0" />
+            <Precinct name="HIGHTOWERS MILL" votes="0" />
+            <Precinct name="HUNTER'S CHAPEL" votes="0" />
+            <Precinct name="KEARSE" votes="0" />
+            <Precinct name="LITTLE SWAMP" votes="0" />
+            <Precinct name="OLAR" votes="0" />
+            <Precinct name="SOUTH BAMBERG" votes="0" />
+            <Precinct name="WEST DENMARK" votes="0" />
+            <Precinct name="NORTH BAMBERG" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="63">
+            <Precinct name="COLSTON" votes="2" />
+            <Precinct name="EDISTO" votes="3" />
+            <Precinct name="EHRHARDT" votes="1" />
+            <Precinct name="EAST DENMARK" votes="10" />
+            <Precinct name="GOVAN" votes="1" />
+            <Precinct name="HIGHTOWERS MILL" votes="0" />
+            <Precinct name="HUNTER'S CHAPEL" votes="0" />
+            <Precinct name="KEARSE" votes="0" />
+            <Precinct name="LITTLE SWAMP" votes="2" />
+            <Precinct name="OLAR" votes="3" />
+            <Precinct name="SOUTH BAMBERG" votes="5" />
+            <Precinct name="WEST DENMARK" votes="8" />
+            <Precinct name="NORTH BAMBERG" votes="9" />
+            <Precinct name="Absentee" votes="19" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Hillary Rodham Clinton / Timothy Michael Kaine" party="DEM" totalVotes="3898">
+            <VoteType name="Election Day" votes="3898">
+                <Precinct name="COLSTON" votes="31" />
+                <Precinct name="EDISTO" votes="54" />
+                <Precinct name="EHRHARDT" votes="176" />
+                <Precinct name="EAST DENMARK" votes="679" />
+                <Precinct name="GOVAN" votes="56" />
+                <Precinct name="HIGHTOWERS MILL" votes="31" />
+                <Precinct name="HUNTER'S CHAPEL" votes="64" />
+                <Precinct name="KEARSE" votes="3" />
+                <Precinct name="LITTLE SWAMP" votes="6" />
+                <Precinct name="OLAR" votes="86" />
+                <Precinct name="SOUTH BAMBERG" votes="695" />
+                <Precinct name="WEST DENMARK" votes="551" />
+                <Precinct name="NORTH BAMBERG" votes="389" />
+                <Precinct name="Absentee" votes="1053" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="14" />
+                <Precinct name="Provisional" votes="10" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Darrell Castle / Scott Bradley" party="CON" totalVotes="16">
+            <VoteType name="Election Day" votes="16">
+                <Precinct name="COLSTON" votes="1" />
+                <Precinct name="EDISTO" votes="0" />
+                <Precinct name="EHRHARDT" votes="0" />
+                <Precinct name="EAST DENMARK" votes="2" />
+                <Precinct name="GOVAN" votes="0" />
+                <Precinct name="HIGHTOWERS MILL" votes="0" />
+                <Precinct name="HUNTER'S CHAPEL" votes="0" />
+                <Precinct name="KEARSE" votes="0" />
+                <Precinct name="LITTLE SWAMP" votes="0" />
+                <Precinct name="OLAR" votes="2" />
+                <Precinct name="SOUTH BAMBERG" votes="6" />
+                <Precinct name="WEST DENMARK" votes="0" />
+                <Precinct name="NORTH BAMBERG" votes="4" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Evan McMullin / Nathan Johnson" party="IND" totalVotes="21">
+            <VoteType name="Election Day" votes="21">
+                <Precinct name="COLSTON" votes="0" />
+                <Precinct name="EDISTO" votes="0" />
+                <Precinct name="EHRHARDT" votes="1" />
+                <Precinct name="EAST DENMARK" votes="6" />
+                <Precinct name="GOVAN" votes="0" />
+                <Precinct name="HIGHTOWERS MILL" votes="1" />
+                <Precinct name="HUNTER'S CHAPEL" votes="1" />
+                <Precinct name="KEARSE" votes="0" />
+                <Precinct name="LITTLE SWAMP" votes="0" />
+                <Precinct name="OLAR" votes="0" />
+                <Precinct name="SOUTH BAMBERG" votes="1" />
+                <Precinct name="WEST DENMARK" votes="2" />
+                <Precinct name="NORTH BAMBERG" votes="6" />
+                <Precinct name="Absentee" votes="3" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Jill Stein / Ajamu Baraka" party="GRN" totalVotes="17">
+            <VoteType name="Election Day" votes="17">
+                <Precinct name="COLSTON" votes="0" />
+                <Precinct name="EDISTO" votes="0" />
+                <Precinct name="EHRHARDT" votes="0" />
+                <Precinct name="EAST DENMARK" votes="2" />
+                <Precinct name="GOVAN" votes="0" />
+                <Precinct name="HIGHTOWERS MILL" votes="0" />
+                <Precinct name="HUNTER'S CHAPEL" votes="0" />
+                <Precinct name="KEARSE" votes="0" />
+                <Precinct name="LITTLE SWAMP" votes="0" />
+                <Precinct name="OLAR" votes="0" />
+                <Precinct name="SOUTH BAMBERG" votes="7" />
+                <Precinct name="WEST DENMARK" votes="3" />
+                <Precinct name="NORTH BAMBERG" votes="4" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Donald J Trump / Michael R Pence" party="REP" totalVotes="2204">
+            <VoteType name="Election Day" votes="2204">
+                <Precinct name="COLSTON" votes="81" />
+                <Precinct name="EDISTO" votes="131" />
+                <Precinct name="EHRHARDT" votes="241" />
+                <Precinct name="EAST DENMARK" votes="146" />
+                <Precinct name="GOVAN" votes="33" />
+                <Precinct name="HIGHTOWERS MILL" votes="25" />
+                <Precinct name="HUNTER'S CHAPEL" votes="68" />
+                <Precinct name="KEARSE" votes="71" />
+                <Precinct name="LITTLE SWAMP" votes="74" />
+                <Precinct name="OLAR" votes="121" />
+                <Precinct name="SOUTH BAMBERG" votes="225" />
+                <Precinct name="WEST DENMARK" votes="86" />
+                <Precinct name="NORTH BAMBERG" votes="459" />
+                <Precinct name="Absentee" votes="428" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="11" />
+                <Precinct name="Provisional" votes="4" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Peter Skewes / Michael Lacy" party="AMR" totalVotes="7">
+            <VoteType name="Election Day" votes="7">
+                <Precinct name="COLSTON" votes="1" />
+                <Precinct name="EDISTO" votes="0" />
+                <Precinct name="EHRHARDT" votes="0" />
+                <Precinct name="EAST DENMARK" votes="1" />
+                <Precinct name="GOVAN" votes="2" />
+                <Precinct name="HIGHTOWERS MILL" votes="0" />
+                <Precinct name="HUNTER'S CHAPEL" votes="0" />
+                <Precinct name="KEARSE" votes="0" />
+                <Precinct name="LITTLE SWAMP" votes="0" />
+                <Precinct name="OLAR" votes="0" />
+                <Precinct name="SOUTH BAMBERG" votes="1" />
+                <Precinct name="WEST DENMARK" votes="1" />
+                <Precinct name="NORTH BAMBERG" votes="0" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="Gary Johnson / Bill Weld" party="LIB" totalVotes="51">
+            <VoteType name="Election Day" votes="51">
+                <Precinct name="COLSTON" votes="0" />
+                <Precinct name="EDISTO" votes="6" />
+                <Precinct name="EHRHARDT" votes="7" />
+                <Precinct name="EAST DENMARK" votes="3" />
+                <Precinct name="GOVAN" votes="0" />
+                <Precinct name="HIGHTOWERS MILL" votes="1" />
+                <Precinct name="HUNTER'S CHAPEL" votes="1" />
+                <Precinct name="KEARSE" votes="0" />
+                <Precinct name="LITTLE SWAMP" votes="0" />
+                <Precinct name="OLAR" votes="0" />
+                <Precinct name="SOUTH BAMBERG" votes="7" />
+                <Precinct name="WEST DENMARK" votes="2" />
+                <Precinct name="NORTH BAMBERG" votes="13" />
+                <Precinct name="Absentee" votes="11" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0105" text="U.S. Senate" voteFor="1" isQuestion="false" precinctsReporting="13" precinctsReported="13">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="COLSTON" votes="0" />
+            <Precinct name="EDISTO" votes="0" />
+            <Precinct name="EHRHARDT" votes="0" />
+            <Precinct name="EAST DENMARK" votes="0" />
+            <Precinct name="GOVAN" votes="0" />
+            <Precinct name="HIGHTOWERS MILL" votes="0" />
+            <Precinct name="HUNTER'S CHAPEL" votes="0" />
+            <Precinct name="KEARSE" votes="0" />
+            <Precinct name="LITTLE SWAMP" votes="0" />
+            <Precinct name="OLAR" votes="0" />
+            <Precinct name="SOUTH BAMBERG" votes="0" />
+            <Precinct name="WEST DENMARK" votes="0" />
+            <Precinct name="NORTH BAMBERG" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="209">
+            <Precinct name="COLSTON" votes="3" />
+            <Precinct name="EDISTO" votes="6" />
+            <Precinct name="EHRHARDT" votes="20" />
+            <Precinct name="EAST DENMARK" votes="14" />
+            <Precinct name="GOVAN" votes="4" />
+            <Precinct name="HIGHTOWERS MILL" votes="2" />
+            <Precinct name="HUNTER'S CHAPEL" votes="8" />
+            <Precinct name="KEARSE" votes="3" />
+            <Precinct name="LITTLE SWAMP" votes="2" />
+            <Precinct name="OLAR" votes="8" />
+            <Precinct name="SOUTH BAMBERG" votes="39" />
+            <Precinct name="WEST DENMARK" votes="17" />
+            <Precinct name="NORTH BAMBERG" votes="32" />
+            <Precinct name="Absentee" votes="48" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="3" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Thomas Dixon" party="DEM" totalVotes="3706">
+            <VoteType name="Election Day" votes="3706">
+                <Precinct name="COLSTON" votes="30" />
+                <Precinct name="EDISTO" votes="47" />
+                <Precinct name="EHRHARDT" votes="164" />
+                <Precinct name="EAST DENMARK" votes="657" />
+                <Precinct name="GOVAN" votes="56" />
+                <Precinct name="HIGHTOWERS MILL" votes="29" />
+                <Precinct name="HUNTER'S CHAPEL" votes="54" />
+                <Precinct name="KEARSE" votes="2" />
+                <Precinct name="LITTLE SWAMP" votes="9" />
+                <Precinct name="OLAR" votes="83" />
+                <Precinct name="SOUTH BAMBERG" votes="653" />
+                <Precinct name="WEST DENMARK" votes="532" />
+                <Precinct name="NORTH BAMBERG" votes="356" />
+                <Precinct name="Absentee" votes="1011" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="13" />
+                <Precinct name="Provisional" votes="10" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Thomas Dixon" party="WFM" totalVotes="96">
+            <VoteType name="Election Day" votes="96">
+                <Precinct name="COLSTON" votes="7" />
+                <Precinct name="EDISTO" votes="2" />
+                <Precinct name="EHRHARDT" votes="7" />
+                <Precinct name="EAST DENMARK" votes="12" />
+                <Precinct name="GOVAN" votes="3" />
+                <Precinct name="HIGHTOWERS MILL" votes="0" />
+                <Precinct name="HUNTER'S CHAPEL" votes="2" />
+                <Precinct name="KEARSE" votes="3" />
+                <Precinct name="LITTLE SWAMP" votes="2" />
+                <Precinct name="OLAR" votes="4" />
+                <Precinct name="SOUTH BAMBERG" votes="20" />
+                <Precinct name="WEST DENMARK" votes="9" />
+                <Precinct name="NORTH BAMBERG" votes="11" />
+                <Precinct name="Absentee" votes="14" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Bill Bledsoe" party="CON" totalVotes="28">
+            <VoteType name="Election Day" votes="28">
+                <Precinct name="COLSTON" votes="2" />
+                <Precinct name="EDISTO" votes="1" />
+                <Precinct name="EHRHARDT" votes="1" />
+                <Precinct name="EAST DENMARK" votes="3" />
+                <Precinct name="GOVAN" votes="2" />
+                <Precinct name="HIGHTOWERS MILL" votes="0" />
+                <Precinct name="HUNTER'S CHAPEL" votes="0" />
+                <Precinct name="KEARSE" votes="0" />
+                <Precinct name="LITTLE SWAMP" votes="0" />
+                <Precinct name="OLAR" votes="2" />
+                <Precinct name="SOUTH BAMBERG" votes="10" />
+                <Precinct name="WEST DENMARK" votes="0" />
+                <Precinct name="NORTH BAMBERG" votes="4" />
+                <Precinct name="Absentee" votes="3" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Thomas Dixon" party="GRN" totalVotes="23">
+            <VoteType name="Election Day" votes="23">
+                <Precinct name="COLSTON" votes="0" />
+                <Precinct name="EDISTO" votes="2" />
+                <Precinct name="EHRHARDT" votes="2" />
+                <Precinct name="EAST DENMARK" votes="5" />
+                <Precinct name="GOVAN" votes="0" />
+                <Precinct name="HIGHTOWERS MILL" votes="0" />
+                <Precinct name="HUNTER'S CHAPEL" votes="0" />
+                <Precinct name="KEARSE" votes="0" />
+                <Precinct name="LITTLE SWAMP" votes="0" />
+                <Precinct name="OLAR" votes="1" />
+                <Precinct name="SOUTH BAMBERG" votes="4" />
+                <Precinct name="WEST DENMARK" votes="3" />
+                <Precinct name="NORTH BAMBERG" votes="3" />
+                <Precinct name="Absentee" votes="3" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Tim Scott" party="REP" totalVotes="2159">
+            <VoteType name="Election Day" votes="2159">
+                <Precinct name="COLSTON" votes="72" />
+                <Precinct name="EDISTO" votes="131" />
+                <Precinct name="EHRHARDT" votes="228" />
+                <Precinct name="EAST DENMARK" votes="152" />
+                <Precinct name="GOVAN" votes="26" />
+                <Precinct name="HIGHTOWERS MILL" votes="27" />
+                <Precinct name="HUNTER'S CHAPEL" votes="68" />
+                <Precinct name="KEARSE" votes="65" />
+                <Precinct name="LITTLE SWAMP" votes="69" />
+                <Precinct name="OLAR" votes="109" />
+                <Precinct name="SOUTH BAMBERG" votes="217" />
+                <Precinct name="WEST DENMARK" votes="85" />
+                <Precinct name="NORTH BAMBERG" votes="465" />
+                <Precinct name="Absentee" votes="427" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="14" />
+                <Precinct name="Provisional" votes="4" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Rebel Michael Scarborough" party="AMR" totalVotes="21">
+            <VoteType name="Election Day" votes="21">
+                <Precinct name="COLSTON" votes="0" />
+                <Precinct name="EDISTO" votes="2" />
+                <Precinct name="EHRHARDT" votes="0" />
+                <Precinct name="EAST DENMARK" votes="3" />
+                <Precinct name="GOVAN" votes="1" />
+                <Precinct name="HIGHTOWERS MILL" votes="0" />
+                <Precinct name="HUNTER'S CHAPEL" votes="0" />
+                <Precinct name="KEARSE" votes="0" />
+                <Precinct name="LITTLE SWAMP" votes="0" />
+                <Precinct name="OLAR" votes="3" />
+                <Precinct name="SOUTH BAMBERG" votes="2" />
+                <Precinct name="WEST DENMARK" votes="3" />
+                <Precinct name="NORTH BAMBERG" votes="6" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="Bill Bledsoe" party="LIB" totalVotes="38">
+            <VoteType name="Election Day" votes="38">
+                <Precinct name="COLSTON" votes="2" />
+                <Precinct name="EDISTO" votes="3" />
+                <Precinct name="EHRHARDT" votes="4" />
+                <Precinct name="EAST DENMARK" votes="3" />
+                <Precinct name="GOVAN" votes="0" />
+                <Precinct name="HIGHTOWERS MILL" votes="0" />
+                <Precinct name="HUNTER'S CHAPEL" votes="2" />
+                <Precinct name="KEARSE" votes="1" />
+                <Precinct name="LITTLE SWAMP" votes="0" />
+                <Precinct name="OLAR" votes="0" />
+                <Precinct name="SOUTH BAMBERG" votes="2" />
+                <Precinct name="WEST DENMARK" votes="4" />
+                <Precinct name="NORTH BAMBERG" votes="7" />
+                <Precinct name="Absentee" votes="10" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="008" text="Write-In" party="NON" totalVotes="2">
+            <VoteType name="Election Day" votes="2">
+                <Precinct name="COLSTON" votes="0" />
+                <Precinct name="EDISTO" votes="0" />
+                <Precinct name="EHRHARDT" votes="0" />
+                <Precinct name="EAST DENMARK" votes="0" />
+                <Precinct name="GOVAN" votes="0" />
+                <Precinct name="HIGHTOWERS MILL" votes="0" />
+                <Precinct name="HUNTER'S CHAPEL" votes="0" />
+                <Precinct name="KEARSE" votes="0" />
+                <Precinct name="LITTLE SWAMP" votes="0" />
+                <Precinct name="OLAR" votes="2" />
+                <Precinct name="SOUTH BAMBERG" votes="0" />
+                <Precinct name="WEST DENMARK" votes="0" />
+                <Precinct name="NORTH BAMBERG" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0106" text="U.S.  House of Representatives, District  6" voteFor="1" isQuestion="false" precinctsReporting="13" precinctsReported="13">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="COLSTON" votes="0" />
+            <Precinct name="EDISTO" votes="0" />
+            <Precinct name="EHRHARDT" votes="0" />
+            <Precinct name="EAST DENMARK" votes="0" />
+            <Precinct name="GOVAN" votes="0" />
+            <Precinct name="HIGHTOWERS MILL" votes="0" />
+            <Precinct name="HUNTER'S CHAPEL" votes="0" />
+            <Precinct name="KEARSE" votes="0" />
+            <Precinct name="LITTLE SWAMP" votes="0" />
+            <Precinct name="OLAR" votes="0" />
+            <Precinct name="SOUTH BAMBERG" votes="0" />
+            <Precinct name="WEST DENMARK" votes="0" />
+            <Precinct name="NORTH BAMBERG" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="238">
+            <Precinct name="COLSTON" votes="4" />
+            <Precinct name="EDISTO" votes="9" />
+            <Precinct name="EHRHARDT" votes="25" />
+            <Precinct name="EAST DENMARK" votes="14" />
+            <Precinct name="GOVAN" votes="4" />
+            <Precinct name="HIGHTOWERS MILL" votes="2" />
+            <Precinct name="HUNTER'S CHAPEL" votes="4" />
+            <Precinct name="KEARSE" votes="2" />
+            <Precinct name="LITTLE SWAMP" votes="3" />
+            <Precinct name="OLAR" votes="13" />
+            <Precinct name="SOUTH BAMBERG" votes="36" />
+            <Precinct name="WEST DENMARK" votes="19" />
+            <Precinct name="NORTH BAMBERG" votes="40" />
+            <Precinct name="Absentee" votes="60" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="3" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="James E Jim Clyburn" party="DEM" totalVotes="4112">
+            <VoteType name="Election Day" votes="4112">
+                <Precinct name="COLSTON" votes="37" />
+                <Precinct name="EDISTO" votes="59" />
+                <Precinct name="EHRHARDT" votes="199" />
+                <Precinct name="EAST DENMARK" votes="699" />
+                <Precinct name="GOVAN" votes="62" />
+                <Precinct name="HIGHTOWERS MILL" votes="34" />
+                <Precinct name="HUNTER'S CHAPEL" votes="62" />
+                <Precinct name="KEARSE" votes="12" />
+                <Precinct name="LITTLE SWAMP" votes="22" />
+                <Precinct name="OLAR" votes="88" />
+                <Precinct name="SOUTH BAMBERG" votes="698" />
+                <Precinct name="WEST DENMARK" votes="562" />
+                <Precinct name="NORTH BAMBERG" votes="446" />
+                <Precinct name="Absentee" votes="1107" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="15" />
+                <Precinct name="Provisional" votes="10" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Prince Charles Mallory" party="GRN" totalVotes="38">
+            <VoteType name="Election Day" votes="38">
+                <Precinct name="COLSTON" votes="0" />
+                <Precinct name="EDISTO" votes="2" />
+                <Precinct name="EHRHARDT" votes="4" />
+                <Precinct name="EAST DENMARK" votes="4" />
+                <Precinct name="GOVAN" votes="1" />
+                <Precinct name="HIGHTOWERS MILL" votes="0" />
+                <Precinct name="HUNTER'S CHAPEL" votes="1" />
+                <Precinct name="KEARSE" votes="0" />
+                <Precinct name="LITTLE SWAMP" votes="1" />
+                <Precinct name="OLAR" votes="2" />
+                <Precinct name="SOUTH BAMBERG" votes="10" />
+                <Precinct name="WEST DENMARK" votes="5" />
+                <Precinct name="NORTH BAMBERG" votes="5" />
+                <Precinct name="Absentee" votes="3" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Laura Sterling" party="REP" totalVotes="1856">
+            <VoteType name="Election Day" votes="1856">
+                <Precinct name="COLSTON" votes="73" />
+                <Precinct name="EDISTO" votes="122" />
+                <Precinct name="EHRHARDT" votes="195" />
+                <Precinct name="EAST DENMARK" votes="127" />
+                <Precinct name="GOVAN" votes="24" />
+                <Precinct name="HIGHTOWERS MILL" votes="22" />
+                <Precinct name="HUNTER'S CHAPEL" votes="65" />
+                <Precinct name="KEARSE" votes="60" />
+                <Precinct name="LITTLE SWAMP" votes="56" />
+                <Precinct name="OLAR" votes="108" />
+                <Precinct name="SOUTH BAMBERG" votes="195" />
+                <Precinct name="WEST DENMARK" votes="67" />
+                <Precinct name="NORTH BAMBERG" votes="384" />
+                <Precinct name="Absentee" votes="342" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="12" />
+                <Precinct name="Provisional" votes="4" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Rich Piotrowski" party="LIB" totalVotes="34">
+            <VoteType name="Election Day" votes="34">
+                <Precinct name="COLSTON" votes="1" />
+                <Precinct name="EDISTO" votes="2" />
+                <Precinct name="EHRHARDT" votes="3" />
+                <Precinct name="EAST DENMARK" votes="4" />
+                <Precinct name="GOVAN" votes="1" />
+                <Precinct name="HIGHTOWERS MILL" votes="0" />
+                <Precinct name="HUNTER'S CHAPEL" votes="2" />
+                <Precinct name="KEARSE" votes="0" />
+                <Precinct name="LITTLE SWAMP" votes="0" />
+                <Precinct name="OLAR" votes="0" />
+                <Precinct name="SOUTH BAMBERG" votes="8" />
+                <Precinct name="WEST DENMARK" votes="0" />
+                <Precinct name="NORTH BAMBERG" votes="9" />
+                <Precinct name="Absentee" votes="4" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Write-In" party="NON" totalVotes="4">
+            <VoteType name="Election Day" votes="4">
+                <Precinct name="COLSTON" votes="1" />
+                <Precinct name="EDISTO" votes="0" />
+                <Precinct name="EHRHARDT" votes="0" />
+                <Precinct name="EAST DENMARK" votes="1" />
+                <Precinct name="GOVAN" votes="0" />
+                <Precinct name="HIGHTOWERS MILL" votes="0" />
+                <Precinct name="HUNTER'S CHAPEL" votes="0" />
+                <Precinct name="KEARSE" votes="0" />
+                <Precinct name="LITTLE SWAMP" votes="0" />
+                <Precinct name="OLAR" votes="1" />
+                <Precinct name="SOUTH BAMBERG" votes="0" />
+                <Precinct name="WEST DENMARK" votes="0" />
+                <Precinct name="NORTH BAMBERG" votes="0" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0107" text="State  Senate, District  40" voteFor="1" isQuestion="false" precinctsReporting="13" precinctsReported="13">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="COLSTON" votes="0" />
+            <Precinct name="EDISTO" votes="0" />
+            <Precinct name="EHRHARDT" votes="0" />
+            <Precinct name="EAST DENMARK" votes="0" />
+            <Precinct name="GOVAN" votes="0" />
+            <Precinct name="HIGHTOWERS MILL" votes="0" />
+            <Precinct name="HUNTER'S CHAPEL" votes="0" />
+            <Precinct name="KEARSE" votes="0" />
+            <Precinct name="LITTLE SWAMP" votes="0" />
+            <Precinct name="OLAR" votes="0" />
+            <Precinct name="SOUTH BAMBERG" votes="0" />
+            <Precinct name="WEST DENMARK" votes="0" />
+            <Precinct name="NORTH BAMBERG" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1120">
+            <Precinct name="COLSTON" votes="33" />
+            <Precinct name="EDISTO" votes="76" />
+            <Precinct name="EHRHARDT" votes="112" />
+            <Precinct name="EAST DENMARK" votes="79" />
+            <Precinct name="GOVAN" votes="14" />
+            <Precinct name="HIGHTOWERS MILL" votes="8" />
+            <Precinct name="HUNTER'S CHAPEL" votes="44" />
+            <Precinct name="KEARSE" votes="27" />
+            <Precinct name="LITTLE SWAMP" votes="36" />
+            <Precinct name="OLAR" votes="64" />
+            <Precinct name="SOUTH BAMBERG" votes="137" />
+            <Precinct name="WEST DENMARK" votes="57" />
+            <Precinct name="NORTH BAMBERG" votes="188" />
+            <Precinct name="Absentee" votes="234" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="7" />
+            <Precinct name="Provisional" votes="4" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Brad Hutto" party="DEM" totalVotes="5140">
+            <VoteType name="Election Day" votes="5140">
+                <Precinct name="COLSTON" votes="83" />
+                <Precinct name="EDISTO" votes="117" />
+                <Precinct name="EHRHARDT" votes="312" />
+                <Precinct name="EAST DENMARK" votes="769" />
+                <Precinct name="GOVAN" votes="78" />
+                <Precinct name="HIGHTOWERS MILL" votes="50" />
+                <Precinct name="HUNTER'S CHAPEL" votes="90" />
+                <Precinct name="KEARSE" votes="47" />
+                <Precinct name="LITTLE SWAMP" votes="46" />
+                <Precinct name="OLAR" votes="146" />
+                <Precinct name="SOUTH BAMBERG" votes="810" />
+                <Precinct name="WEST DENMARK" votes="596" />
+                <Precinct name="NORTH BAMBERG" votes="688" />
+                <Precinct name="Absentee" votes="1275" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="23" />
+                <Precinct name="Provisional" votes="10" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="22">
+            <VoteType name="Election Day" votes="22">
+                <Precinct name="COLSTON" votes="0" />
+                <Precinct name="EDISTO" votes="1" />
+                <Precinct name="EHRHARDT" votes="2" />
+                <Precinct name="EAST DENMARK" votes="1" />
+                <Precinct name="GOVAN" votes="0" />
+                <Precinct name="HIGHTOWERS MILL" votes="0" />
+                <Precinct name="HUNTER'S CHAPEL" votes="0" />
+                <Precinct name="KEARSE" votes="0" />
+                <Precinct name="LITTLE SWAMP" votes="0" />
+                <Precinct name="OLAR" votes="2" />
+                <Precinct name="SOUTH BAMBERG" votes="0" />
+                <Precinct name="WEST DENMARK" votes="0" />
+                <Precinct name="NORTH BAMBERG" votes="8" />
+                <Precinct name="Absentee" votes="8" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0108" text="State  House of Representatives, District  90" voteFor="1" isQuestion="false" precinctsReporting="13" precinctsReported="13">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="COLSTON" votes="0" />
+            <Precinct name="EDISTO" votes="0" />
+            <Precinct name="EHRHARDT" votes="0" />
+            <Precinct name="EAST DENMARK" votes="0" />
+            <Precinct name="GOVAN" votes="0" />
+            <Precinct name="HIGHTOWERS MILL" votes="0" />
+            <Precinct name="HUNTER'S CHAPEL" votes="0" />
+            <Precinct name="KEARSE" votes="0" />
+            <Precinct name="LITTLE SWAMP" votes="0" />
+            <Precinct name="OLAR" votes="0" />
+            <Precinct name="SOUTH BAMBERG" votes="0" />
+            <Precinct name="WEST DENMARK" votes="0" />
+            <Precinct name="NORTH BAMBERG" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="171">
+            <Precinct name="COLSTON" votes="2" />
+            <Precinct name="EDISTO" votes="7" />
+            <Precinct name="EHRHARDT" votes="11" />
+            <Precinct name="EAST DENMARK" votes="15" />
+            <Precinct name="GOVAN" votes="2" />
+            <Precinct name="HIGHTOWERS MILL" votes="2" />
+            <Precinct name="HUNTER'S CHAPEL" votes="2" />
+            <Precinct name="KEARSE" votes="2" />
+            <Precinct name="LITTLE SWAMP" votes="0" />
+            <Precinct name="OLAR" votes="9" />
+            <Precinct name="SOUTH BAMBERG" votes="26" />
+            <Precinct name="WEST DENMARK" votes="19" />
+            <Precinct name="NORTH BAMBERG" votes="25" />
+            <Precinct name="Absentee" votes="47" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="2" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Justin Bamberg" party="DEM" totalVotes="4547">
+            <VoteType name="Election Day" votes="4547">
+                <Precinct name="COLSTON" votes="57" />
+                <Precinct name="EDISTO" votes="77" />
+                <Precinct name="EHRHARDT" votes="255" />
+                <Precinct name="EAST DENMARK" votes="721" />
+                <Precinct name="GOVAN" votes="65" />
+                <Precinct name="HIGHTOWERS MILL" votes="43" />
+                <Precinct name="HUNTER'S CHAPEL" votes="74" />
+                <Precinct name="KEARSE" votes="14" />
+                <Precinct name="LITTLE SWAMP" votes="27" />
+                <Precinct name="OLAR" votes="101" />
+                <Precinct name="SOUTH BAMBERG" votes="752" />
+                <Precinct name="WEST DENMARK" votes="577" />
+                <Precinct name="NORTH BAMBERG" votes="596" />
+                <Precinct name="Absentee" votes="1161" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="17" />
+                <Precinct name="Provisional" votes="10" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Dan Lawrence" party="REP" totalVotes="1562">
+            <VoteType name="Election Day" votes="1562">
+                <Precinct name="COLSTON" votes="57" />
+                <Precinct name="EDISTO" votes="110" />
+                <Precinct name="EHRHARDT" votes="160" />
+                <Precinct name="EAST DENMARK" votes="113" />
+                <Precinct name="GOVAN" votes="25" />
+                <Precinct name="HIGHTOWERS MILL" votes="13" />
+                <Precinct name="HUNTER'S CHAPEL" votes="58" />
+                <Precinct name="KEARSE" votes="58" />
+                <Precinct name="LITTLE SWAMP" votes="55" />
+                <Precinct name="OLAR" votes="101" />
+                <Precinct name="SOUTH BAMBERG" votes="169" />
+                <Precinct name="WEST DENMARK" votes="57" />
+                <Precinct name="NORTH BAMBERG" votes="262" />
+                <Precinct name="Absentee" votes="309" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="11" />
+                <Precinct name="Provisional" votes="4" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="2">
+            <VoteType name="Election Day" votes="2">
+                <Precinct name="COLSTON" votes="0" />
+                <Precinct name="EDISTO" votes="0" />
+                <Precinct name="EHRHARDT" votes="0" />
+                <Precinct name="EAST DENMARK" votes="0" />
+                <Precinct name="GOVAN" votes="0" />
+                <Precinct name="HIGHTOWERS MILL" votes="0" />
+                <Precinct name="HUNTER'S CHAPEL" votes="0" />
+                <Precinct name="KEARSE" votes="0" />
+                <Precinct name="LITTLE SWAMP" votes="0" />
+                <Precinct name="OLAR" votes="1" />
+                <Precinct name="SOUTH BAMBERG" votes="0" />
+                <Precinct name="WEST DENMARK" votes="0" />
+                <Precinct name="NORTH BAMBERG" votes="1" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0109" text=" Solicitor, Circuit  2" voteFor="1" isQuestion="false" precinctsReporting="13" precinctsReported="13">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="COLSTON" votes="0" />
+            <Precinct name="EDISTO" votes="0" />
+            <Precinct name="EHRHARDT" votes="0" />
+            <Precinct name="EAST DENMARK" votes="0" />
+            <Precinct name="GOVAN" votes="0" />
+            <Precinct name="HIGHTOWERS MILL" votes="0" />
+            <Precinct name="HUNTER'S CHAPEL" votes="0" />
+            <Precinct name="KEARSE" votes="0" />
+            <Precinct name="LITTLE SWAMP" votes="0" />
+            <Precinct name="OLAR" votes="0" />
+            <Precinct name="SOUTH BAMBERG" votes="0" />
+            <Precinct name="WEST DENMARK" votes="0" />
+            <Precinct name="NORTH BAMBERG" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="3392">
+            <Precinct name="COLSTON" votes="25" />
+            <Precinct name="EDISTO" votes="53" />
+            <Precinct name="EHRHARDT" votes="164" />
+            <Precinct name="EAST DENMARK" votes="584" />
+            <Precinct name="GOVAN" votes="52" />
+            <Precinct name="HIGHTOWERS MILL" votes="27" />
+            <Precinct name="HUNTER'S CHAPEL" votes="51" />
+            <Precinct name="KEARSE" votes="6" />
+            <Precinct name="LITTLE SWAMP" votes="9" />
+            <Precinct name="OLAR" votes="75" />
+            <Precinct name="SOUTH BAMBERG" votes="579" />
+            <Precinct name="WEST DENMARK" votes="470" />
+            <Precinct name="NORTH BAMBERG" votes="295" />
+            <Precinct name="Absentee" votes="980" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="14" />
+            <Precinct name="Provisional" votes="8" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="J Strom Thurmond" party="REP" totalVotes="2859">
+            <VoteType name="Election Day" votes="2859">
+                <Precinct name="COLSTON" votes="88" />
+                <Precinct name="EDISTO" votes="141" />
+                <Precinct name="EHRHARDT" votes="260" />
+                <Precinct name="EAST DENMARK" votes="261" />
+                <Precinct name="GOVAN" votes="40" />
+                <Precinct name="HIGHTOWERS MILL" votes="31" />
+                <Precinct name="HUNTER'S CHAPEL" votes="82" />
+                <Precinct name="KEARSE" votes="68" />
+                <Precinct name="LITTLE SWAMP" votes="73" />
+                <Precinct name="OLAR" votes="134" />
+                <Precinct name="SOUTH BAMBERG" votes="364" />
+                <Precinct name="WEST DENMARK" votes="182" />
+                <Precinct name="NORTH BAMBERG" votes="580" />
+                <Precinct name="Absentee" votes="533" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="16" />
+                <Precinct name="Provisional" votes="6" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="31">
+            <VoteType name="Election Day" votes="31">
+                <Precinct name="COLSTON" votes="3" />
+                <Precinct name="EDISTO" votes="0" />
+                <Precinct name="EHRHARDT" votes="2" />
+                <Precinct name="EAST DENMARK" votes="4" />
+                <Precinct name="GOVAN" votes="0" />
+                <Precinct name="HIGHTOWERS MILL" votes="0" />
+                <Precinct name="HUNTER'S CHAPEL" votes="1" />
+                <Precinct name="KEARSE" votes="0" />
+                <Precinct name="LITTLE SWAMP" votes="0" />
+                <Precinct name="OLAR" votes="3" />
+                <Precinct name="SOUTH BAMBERG" votes="4" />
+                <Precinct name="WEST DENMARK" votes="1" />
+                <Precinct name="NORTH BAMBERG" votes="9" />
+                <Precinct name="Absentee" votes="4" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0110" text="Sheriff" voteFor="1" isQuestion="false" precinctsReporting="13" precinctsReported="13">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="COLSTON" votes="0" />
+            <Precinct name="EDISTO" votes="0" />
+            <Precinct name="EHRHARDT" votes="0" />
+            <Precinct name="EAST DENMARK" votes="0" />
+            <Precinct name="GOVAN" votes="0" />
+            <Precinct name="HIGHTOWERS MILL" votes="0" />
+            <Precinct name="HUNTER'S CHAPEL" votes="0" />
+            <Precinct name="KEARSE" votes="0" />
+            <Precinct name="LITTLE SWAMP" votes="0" />
+            <Precinct name="OLAR" votes="0" />
+            <Precinct name="SOUTH BAMBERG" votes="0" />
+            <Precinct name="WEST DENMARK" votes="0" />
+            <Precinct name="NORTH BAMBERG" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="759">
+            <Precinct name="COLSTON" votes="17" />
+            <Precinct name="EDISTO" votes="55" />
+            <Precinct name="EHRHARDT" votes="72" />
+            <Precinct name="EAST DENMARK" votes="42" />
+            <Precinct name="GOVAN" votes="11" />
+            <Precinct name="HIGHTOWERS MILL" votes="4" />
+            <Precinct name="HUNTER'S CHAPEL" votes="36" />
+            <Precinct name="KEARSE" votes="15" />
+            <Precinct name="LITTLE SWAMP" votes="27" />
+            <Precinct name="OLAR" votes="47" />
+            <Precinct name="SOUTH BAMBERG" votes="100" />
+            <Precinct name="WEST DENMARK" votes="41" />
+            <Precinct name="NORTH BAMBERG" votes="124" />
+            <Precinct name="Absentee" votes="158" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="6" />
+            <Precinct name="Provisional" votes="4" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Ed Darnell" party="DEM" totalVotes="5504">
+            <VoteType name="Election Day" votes="5504">
+                <Precinct name="COLSTON" votes="99" />
+                <Precinct name="EDISTO" votes="138" />
+                <Precinct name="EHRHARDT" votes="353" />
+                <Precinct name="EAST DENMARK" votes="804" />
+                <Precinct name="GOVAN" votes="81" />
+                <Precinct name="HIGHTOWERS MILL" votes="54" />
+                <Precinct name="HUNTER'S CHAPEL" votes="97" />
+                <Precinct name="KEARSE" votes="59" />
+                <Precinct name="LITTLE SWAMP" votes="54" />
+                <Precinct name="OLAR" votes="163" />
+                <Precinct name="SOUTH BAMBERG" votes="847" />
+                <Precinct name="WEST DENMARK" votes="612" />
+                <Precinct name="NORTH BAMBERG" votes="756" />
+                <Precinct name="Absentee" votes="1353" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="24" />
+                <Precinct name="Provisional" votes="10" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="19">
+            <VoteType name="Election Day" votes="19">
+                <Precinct name="COLSTON" votes="0" />
+                <Precinct name="EDISTO" votes="1" />
+                <Precinct name="EHRHARDT" votes="1" />
+                <Precinct name="EAST DENMARK" votes="3" />
+                <Precinct name="GOVAN" votes="0" />
+                <Precinct name="HIGHTOWERS MILL" votes="0" />
+                <Precinct name="HUNTER'S CHAPEL" votes="1" />
+                <Precinct name="KEARSE" votes="0" />
+                <Precinct name="LITTLE SWAMP" votes="1" />
+                <Precinct name="OLAR" votes="2" />
+                <Precinct name="SOUTH BAMBERG" votes="0" />
+                <Precinct name="WEST DENMARK" votes="0" />
+                <Precinct name="NORTH BAMBERG" votes="4" />
+                <Precinct name="Absentee" votes="6" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0111" text="Probate Judge" voteFor="1" isQuestion="false" precinctsReporting="13" precinctsReported="13">
+        <VoteType name="overVotes" votes="1">
+            <Precinct name="COLSTON" votes="0" />
+            <Precinct name="EDISTO" votes="0" />
+            <Precinct name="EHRHARDT" votes="0" />
+            <Precinct name="EAST DENMARK" votes="0" />
+            <Precinct name="GOVAN" votes="0" />
+            <Precinct name="HIGHTOWERS MILL" votes="0" />
+            <Precinct name="HUNTER'S CHAPEL" votes="0" />
+            <Precinct name="KEARSE" votes="0" />
+            <Precinct name="LITTLE SWAMP" votes="0" />
+            <Precinct name="OLAR" votes="0" />
+            <Precinct name="SOUTH BAMBERG" votes="0" />
+            <Precinct name="WEST DENMARK" votes="0" />
+            <Precinct name="NORTH BAMBERG" votes="0" />
+            <Precinct name="Absentee" votes="1" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="878">
+            <Precinct name="COLSTON" votes="19" />
+            <Precinct name="EDISTO" votes="60" />
+            <Precinct name="EHRHARDT" votes="87" />
+            <Precinct name="EAST DENMARK" votes="65" />
+            <Precinct name="GOVAN" votes="11" />
+            <Precinct name="HIGHTOWERS MILL" votes="8" />
+            <Precinct name="HUNTER'S CHAPEL" votes="38" />
+            <Precinct name="KEARSE" votes="22" />
+            <Precinct name="LITTLE SWAMP" votes="30" />
+            <Precinct name="OLAR" votes="46" />
+            <Precinct name="SOUTH BAMBERG" votes="95" />
+            <Precinct name="WEST DENMARK" votes="48" />
+            <Precinct name="NORTH BAMBERG" votes="146" />
+            <Precinct name="Absentee" votes="192" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="7" />
+            <Precinct name="Provisional" votes="4" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Sarah Guess Noel" party="DEM" totalVotes="5385">
+            <VoteType name="Election Day" votes="5385">
+                <Precinct name="COLSTON" votes="97" />
+                <Precinct name="EDISTO" votes="132" />
+                <Precinct name="EHRHARDT" votes="339" />
+                <Precinct name="EAST DENMARK" votes="783" />
+                <Precinct name="GOVAN" votes="81" />
+                <Precinct name="HIGHTOWERS MILL" votes="50" />
+                <Precinct name="HUNTER'S CHAPEL" votes="96" />
+                <Precinct name="KEARSE" votes="52" />
+                <Precinct name="LITTLE SWAMP" votes="52" />
+                <Precinct name="OLAR" votes="164" />
+                <Precinct name="SOUTH BAMBERG" votes="851" />
+                <Precinct name="WEST DENMARK" votes="605" />
+                <Precinct name="NORTH BAMBERG" votes="730" />
+                <Precinct name="Absentee" votes="1320" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="23" />
+                <Precinct name="Provisional" votes="10" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="18">
+            <VoteType name="Election Day" votes="18">
+                <Precinct name="COLSTON" votes="0" />
+                <Precinct name="EDISTO" votes="2" />
+                <Precinct name="EHRHARDT" votes="0" />
+                <Precinct name="EAST DENMARK" votes="1" />
+                <Precinct name="GOVAN" votes="0" />
+                <Precinct name="HIGHTOWERS MILL" votes="0" />
+                <Precinct name="HUNTER'S CHAPEL" votes="0" />
+                <Precinct name="KEARSE" votes="0" />
+                <Precinct name="LITTLE SWAMP" votes="0" />
+                <Precinct name="OLAR" votes="2" />
+                <Precinct name="SOUTH BAMBERG" votes="1" />
+                <Precinct name="WEST DENMARK" votes="0" />
+                <Precinct name="NORTH BAMBERG" votes="8" />
+                <Precinct name="Absentee" votes="4" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0112" text="Clerk of Court" voteFor="1" isQuestion="false" precinctsReporting="13" precinctsReported="13">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="COLSTON" votes="0" />
+            <Precinct name="EDISTO" votes="0" />
+            <Precinct name="EHRHARDT" votes="0" />
+            <Precinct name="EAST DENMARK" votes="0" />
+            <Precinct name="GOVAN" votes="0" />
+            <Precinct name="HIGHTOWERS MILL" votes="0" />
+            <Precinct name="HUNTER'S CHAPEL" votes="0" />
+            <Precinct name="KEARSE" votes="0" />
+            <Precinct name="LITTLE SWAMP" votes="0" />
+            <Precinct name="OLAR" votes="0" />
+            <Precinct name="SOUTH BAMBERG" votes="0" />
+            <Precinct name="WEST DENMARK" votes="0" />
+            <Precinct name="NORTH BAMBERG" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="754">
+            <Precinct name="COLSTON" votes="18" />
+            <Precinct name="EDISTO" votes="53" />
+            <Precinct name="EHRHARDT" votes="74" />
+            <Precinct name="EAST DENMARK" votes="63" />
+            <Precinct name="GOVAN" votes="13" />
+            <Precinct name="HIGHTOWERS MILL" votes="6" />
+            <Precinct name="HUNTER'S CHAPEL" votes="36" />
+            <Precinct name="KEARSE" votes="18" />
+            <Precinct name="LITTLE SWAMP" votes="27" />
+            <Precinct name="OLAR" votes="37" />
+            <Precinct name="SOUTH BAMBERG" votes="90" />
+            <Precinct name="WEST DENMARK" votes="46" />
+            <Precinct name="NORTH BAMBERG" votes="108" />
+            <Precinct name="Absentee" votes="158" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="3" />
+            <Precinct name="Provisional" votes="4" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="J B Pedie Hiers" party="DEM" totalVotes="5520">
+            <VoteType name="Election Day" votes="5520">
+                <Precinct name="COLSTON" votes="98" />
+                <Precinct name="EDISTO" votes="139" />
+                <Precinct name="EHRHARDT" votes="352" />
+                <Precinct name="EAST DENMARK" votes="784" />
+                <Precinct name="GOVAN" votes="79" />
+                <Precinct name="HIGHTOWERS MILL" votes="52" />
+                <Precinct name="HUNTER'S CHAPEL" votes="98" />
+                <Precinct name="KEARSE" votes="56" />
+                <Precinct name="LITTLE SWAMP" votes="55" />
+                <Precinct name="OLAR" votes="174" />
+                <Precinct name="SOUTH BAMBERG" votes="856" />
+                <Precinct name="WEST DENMARK" votes="607" />
+                <Precinct name="NORTH BAMBERG" votes="775" />
+                <Precinct name="Absentee" votes="1358" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="27" />
+                <Precinct name="Provisional" votes="10" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="8">
+            <VoteType name="Election Day" votes="8">
+                <Precinct name="COLSTON" votes="0" />
+                <Precinct name="EDISTO" votes="2" />
+                <Precinct name="EHRHARDT" votes="0" />
+                <Precinct name="EAST DENMARK" votes="2" />
+                <Precinct name="GOVAN" votes="0" />
+                <Precinct name="HIGHTOWERS MILL" votes="0" />
+                <Precinct name="HUNTER'S CHAPEL" votes="0" />
+                <Precinct name="KEARSE" votes="0" />
+                <Precinct name="LITTLE SWAMP" votes="0" />
+                <Precinct name="OLAR" votes="1" />
+                <Precinct name="SOUTH BAMBERG" votes="1" />
+                <Precinct name="WEST DENMARK" votes="0" />
+                <Precinct name="NORTH BAMBERG" votes="1" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0113" text="Coroner" voteFor="1" isQuestion="false" precinctsReporting="13" precinctsReported="13">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="COLSTON" votes="0" />
+            <Precinct name="EDISTO" votes="0" />
+            <Precinct name="EHRHARDT" votes="0" />
+            <Precinct name="EAST DENMARK" votes="0" />
+            <Precinct name="GOVAN" votes="0" />
+            <Precinct name="HIGHTOWERS MILL" votes="0" />
+            <Precinct name="HUNTER'S CHAPEL" votes="0" />
+            <Precinct name="KEARSE" votes="0" />
+            <Precinct name="LITTLE SWAMP" votes="0" />
+            <Precinct name="OLAR" votes="0" />
+            <Precinct name="SOUTH BAMBERG" votes="0" />
+            <Precinct name="WEST DENMARK" votes="0" />
+            <Precinct name="NORTH BAMBERG" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="791">
+            <Precinct name="COLSTON" votes="19" />
+            <Precinct name="EDISTO" votes="53" />
+            <Precinct name="EHRHARDT" votes="85" />
+            <Precinct name="EAST DENMARK" votes="62" />
+            <Precinct name="GOVAN" votes="11" />
+            <Precinct name="HIGHTOWERS MILL" votes="7" />
+            <Precinct name="HUNTER'S CHAPEL" votes="35" />
+            <Precinct name="KEARSE" votes="21" />
+            <Precinct name="LITTLE SWAMP" votes="30" />
+            <Precinct name="OLAR" votes="42" />
+            <Precinct name="SOUTH BAMBERG" votes="84" />
+            <Precinct name="WEST DENMARK" votes="46" />
+            <Precinct name="NORTH BAMBERG" votes="124" />
+            <Precinct name="Absentee" votes="165" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="3" />
+            <Precinct name="Provisional" votes="4" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Billy Duncan" party="DEM" totalVotes="5482">
+            <VoteType name="Election Day" votes="5482">
+                <Precinct name="COLSTON" votes="97" />
+                <Precinct name="EDISTO" votes="139" />
+                <Precinct name="EHRHARDT" votes="341" />
+                <Precinct name="EAST DENMARK" votes="787" />
+                <Precinct name="GOVAN" votes="81" />
+                <Precinct name="HIGHTOWERS MILL" votes="51" />
+                <Precinct name="HUNTER'S CHAPEL" votes="99" />
+                <Precinct name="KEARSE" votes="53" />
+                <Precinct name="LITTLE SWAMP" votes="52" />
+                <Precinct name="OLAR" votes="169" />
+                <Precinct name="SOUTH BAMBERG" votes="862" />
+                <Precinct name="WEST DENMARK" votes="607" />
+                <Precinct name="NORTH BAMBERG" votes="755" />
+                <Precinct name="Absentee" votes="1352" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="27" />
+                <Precinct name="Provisional" votes="10" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="9">
+            <VoteType name="Election Day" votes="9">
+                <Precinct name="COLSTON" votes="0" />
+                <Precinct name="EDISTO" votes="2" />
+                <Precinct name="EHRHARDT" votes="0" />
+                <Precinct name="EAST DENMARK" votes="0" />
+                <Precinct name="GOVAN" votes="0" />
+                <Precinct name="HIGHTOWERS MILL" votes="0" />
+                <Precinct name="HUNTER'S CHAPEL" votes="0" />
+                <Precinct name="KEARSE" votes="0" />
+                <Precinct name="LITTLE SWAMP" votes="0" />
+                <Precinct name="OLAR" votes="1" />
+                <Precinct name="SOUTH BAMBERG" votes="1" />
+                <Precinct name="WEST DENMARK" votes="0" />
+                <Precinct name="NORTH BAMBERG" votes="5" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0114" text="County Council District 1" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="NORTH BAMBERG" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="124">
+            <Precinct name="NORTH BAMBERG" votes="80" />
+            <Precinct name="Absentee" votes="43" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Trent Kinard" party="DEM" totalVotes="756">
+            <VoteType name="Election Day" votes="756">
+                <Precinct name="NORTH BAMBERG" votes="553" />
+                <Precinct name="Absentee" votes="201" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="10">
+            <VoteType name="Election Day" votes="10">
+                <Precinct name="NORTH BAMBERG" votes="8" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0115" text="County Council District 4" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="EAST DENMARK" votes="0" />
+            <Precinct name="WEST DENMARK" votes="0" />
+            <Precinct name="NORTH BAMBERG" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="89">
+            <Precinct name="EAST DENMARK" votes="32" />
+            <Precinct name="WEST DENMARK" votes="24" />
+            <Precinct name="NORTH BAMBERG" votes="0" />
+            <Precinct name="Absentee" votes="32" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Joe Guess Jr" party="DEM" totalVotes="710">
+            <VoteType name="Election Day" votes="710">
+                <Precinct name="EAST DENMARK" votes="313" />
+                <Precinct name="WEST DENMARK" votes="212" />
+                <Precinct name="NORTH BAMBERG" votes="1" />
+                <Precinct name="Absentee" votes="182" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="3">
+            <VoteType name="Election Day" votes="3">
+                <Precinct name="EAST DENMARK" votes="2" />
+                <Precinct name="WEST DENMARK" votes="0" />
+                <Precinct name="NORTH BAMBERG" votes="0" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0116" text="County Council District 5" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="EAST DENMARK" votes="0" />
+            <Precinct name="HIGHTOWERS MILL" votes="0" />
+            <Precinct name="WEST DENMARK" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="38">
+            <Precinct name="EAST DENMARK" votes="9" />
+            <Precinct name="HIGHTOWERS MILL" votes="1" />
+            <Precinct name="WEST DENMARK" votes="13" />
+            <Precinct name="Absentee" votes="15" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Isaiah Odom" party="DEM" totalVotes="622">
+            <VoteType name="Election Day" votes="622">
+                <Precinct name="EAST DENMARK" votes="301" />
+                <Precinct name="HIGHTOWERS MILL" votes="11" />
+                <Precinct name="WEST DENMARK" votes="147" />
+                <Precinct name="Absentee" votes="163" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="0">
+            <VoteType name="Election Day" votes="0">
+                <Precinct name="EAST DENMARK" votes="0" />
+                <Precinct name="HIGHTOWERS MILL" votes="0" />
+                <Precinct name="WEST DENMARK" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0117" text="County Council District 7" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="COLSTON" votes="0" />
+            <Precinct name="EDISTO" votes="0" />
+            <Precinct name="EHRHARDT" votes="0" />
+            <Precinct name="HUNTER'S CHAPEL" votes="0" />
+            <Precinct name="KEARSE" votes="0" />
+            <Precinct name="LITTLE SWAMP" votes="0" />
+            <Precinct name="OLAR" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="196">
+            <Precinct name="COLSTON" votes="16" />
+            <Precinct name="EDISTO" votes="0" />
+            <Precinct name="EHRHARDT" votes="66" />
+            <Precinct name="HUNTER'S CHAPEL" votes="22" />
+            <Precinct name="KEARSE" votes="19" />
+            <Precinct name="LITTLE SWAMP" votes="28" />
+            <Precinct name="OLAR" votes="25" />
+            <Precinct name="Absentee" votes="15" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="4" />
+        </VoteType>
+        <Choice key="001" text="Clint Carter" party="DEM" totalVotes="809">
+            <VoteType name="Election Day" votes="809">
+                <Precinct name="COLSTON" votes="100" />
+                <Precinct name="EDISTO" votes="0" />
+                <Precinct name="EHRHARDT" votes="360" />
+                <Precinct name="HUNTER'S CHAPEL" votes="44" />
+                <Precinct name="KEARSE" votes="55" />
+                <Precinct name="LITTLE SWAMP" votes="54" />
+                <Precinct name="OLAR" votes="116" />
+                <Precinct name="Absentee" votes="72" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="6" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="3">
+            <VoteType name="Election Day" votes="3">
+                <Precinct name="COLSTON" votes="0" />
+                <Precinct name="EDISTO" votes="0" />
+                <Precinct name="EHRHARDT" votes="0" />
+                <Precinct name="HUNTER'S CHAPEL" votes="2" />
+                <Precinct name="KEARSE" votes="0" />
+                <Precinct name="LITTLE SWAMP" votes="0" />
+                <Precinct name="OLAR" votes="0" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0118" text="Soil and Water District Commission" voteFor="1" isQuestion="false" precinctsReporting="13" precinctsReported="13">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="COLSTON" votes="0" />
+            <Precinct name="EDISTO" votes="0" />
+            <Precinct name="EHRHARDT" votes="0" />
+            <Precinct name="EAST DENMARK" votes="0" />
+            <Precinct name="GOVAN" votes="0" />
+            <Precinct name="HIGHTOWERS MILL" votes="0" />
+            <Precinct name="HUNTER'S CHAPEL" votes="0" />
+            <Precinct name="KEARSE" votes="0" />
+            <Precinct name="LITTLE SWAMP" votes="0" />
+            <Precinct name="OLAR" votes="0" />
+            <Precinct name="SOUTH BAMBERG" votes="0" />
+            <Precinct name="WEST DENMARK" votes="0" />
+            <Precinct name="NORTH BAMBERG" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="3490">
+            <Precinct name="COLSTON" votes="27" />
+            <Precinct name="EDISTO" votes="92" />
+            <Precinct name="EHRHARDT" votes="187" />
+            <Precinct name="EAST DENMARK" votes="558" />
+            <Precinct name="GOVAN" votes="52" />
+            <Precinct name="HIGHTOWERS MILL" votes="29" />
+            <Precinct name="HUNTER'S CHAPEL" votes="74" />
+            <Precinct name="KEARSE" votes="18" />
+            <Precinct name="LITTLE SWAMP" votes="34" />
+            <Precinct name="OLAR" votes="99" />
+            <Precinct name="SOUTH BAMBERG" votes="558" />
+            <Precinct name="WEST DENMARK" votes="443" />
+            <Precinct name="NORTH BAMBERG" votes="320" />
+            <Precinct name="Absentee" votes="973" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="20" />
+            <Precinct name="Provisional" votes="6" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Johney L Haralson" party="NON" totalVotes="2767">
+            <VoteType name="Election Day" votes="2767">
+                <Precinct name="COLSTON" votes="88" />
+                <Precinct name="EDISTO" votes="101" />
+                <Precinct name="EHRHARDT" votes="239" />
+                <Precinct name="EAST DENMARK" votes="288" />
+                <Precinct name="GOVAN" votes="40" />
+                <Precinct name="HIGHTOWERS MILL" votes="29" />
+                <Precinct name="HUNTER'S CHAPEL" votes="60" />
+                <Precinct name="KEARSE" votes="56" />
+                <Precinct name="LITTLE SWAMP" votes="48" />
+                <Precinct name="OLAR" votes="112" />
+                <Precinct name="SOUTH BAMBERG" votes="385" />
+                <Precinct name="WEST DENMARK" votes="208" />
+                <Precinct name="NORTH BAMBERG" votes="561" />
+                <Precinct name="Absentee" votes="541" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="10" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="18">
+            <VoteType name="Election Day" votes="18">
+                <Precinct name="COLSTON" votes="1" />
+                <Precinct name="EDISTO" votes="1" />
+                <Precinct name="EHRHARDT" votes="0" />
+                <Precinct name="EAST DENMARK" votes="3" />
+                <Precinct name="GOVAN" votes="0" />
+                <Precinct name="HIGHTOWERS MILL" votes="0" />
+                <Precinct name="HUNTER'S CHAPEL" votes="0" />
+                <Precinct name="KEARSE" votes="0" />
+                <Precinct name="LITTLE SWAMP" votes="0" />
+                <Precinct name="OLAR" votes="1" />
+                <Precinct name="SOUTH BAMBERG" votes="4" />
+                <Precinct name="WEST DENMARK" votes="2" />
+                <Precinct name="NORTH BAMBERG" votes="3" />
+                <Precinct name="Absentee" votes="3" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0119" text="Willow Swamp Watershed Conservation District" voteFor="2" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="EHRHARDT" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="6">
+            <Precinct name="EHRHARDT" votes="6" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Bryan Crosby" party="NON" totalVotes="0">
+            <VoteType name="Election Day" votes="0">
+                <Precinct name="EHRHARDT" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="0">
+            <VoteType name="Election Day" votes="0">
+                <Precinct name="EHRHARDT" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0120" text="School Bond Referendum" voteFor="1" isQuestion="true" precinctsReporting="9" precinctsReported="9">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="COLSTON" votes="0" />
+            <Precinct name="EAST DENMARK" votes="0" />
+            <Precinct name="GOVAN" votes="0" />
+            <Precinct name="HIGHTOWERS MILL" votes="0" />
+            <Precinct name="KEARSE" votes="0" />
+            <Precinct name="OLAR" votes="0" />
+            <Precinct name="SOUTH BAMBERG" votes="0" />
+            <Precinct name="WEST DENMARK" votes="0" />
+            <Precinct name="NORTH BAMBERG" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="260">
+            <Precinct name="COLSTON" votes="2" />
+            <Precinct name="EAST DENMARK" votes="47" />
+            <Precinct name="GOVAN" votes="7" />
+            <Precinct name="HIGHTOWERS MILL" votes="7" />
+            <Precinct name="KEARSE" votes="2" />
+            <Precinct name="OLAR" votes="31" />
+            <Precinct name="SOUTH BAMBERG" votes="0" />
+            <Precinct name="WEST DENMARK" votes="56" />
+            <Precinct name="NORTH BAMBERG" votes="0" />
+            <Precinct name="Absentee" votes="108" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Yes, in favor of the question" party="NON" totalVotes="1754">
+            <VoteType name="Election Day" votes="1754">
+                <Precinct name="COLSTON" votes="4" />
+                <Precinct name="EAST DENMARK" votes="657" />
+                <Precinct name="GOVAN" votes="54" />
+                <Precinct name="HIGHTOWERS MILL" votes="30" />
+                <Precinct name="KEARSE" votes="9" />
+                <Precinct name="OLAR" votes="73" />
+                <Precinct name="SOUTH BAMBERG" votes="5" />
+                <Precinct name="WEST DENMARK" votes="527" />
+                <Precinct name="NORTH BAMBERG" votes="0" />
+                <Precinct name="Absentee" votes="388" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="6" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="No, opposed to the question" party="NON" totalVotes="592">
+            <VoteType name="Election Day" votes="592">
+                <Precinct name="COLSTON" votes="10" />
+                <Precinct name="EAST DENMARK" votes="139" />
+                <Precinct name="GOVAN" votes="31" />
+                <Precinct name="HIGHTOWERS MILL" votes="21" />
+                <Precinct name="KEARSE" votes="53" />
+                <Precinct name="OLAR" votes="108" />
+                <Precinct name="SOUTH BAMBERG" votes="3" />
+                <Precinct name="WEST DENMARK" votes="70" />
+                <Precinct name="NORTH BAMBERG" votes="1" />
+                <Precinct name="Absentee" votes="154" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

@@ -1,0 +1,2157 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>11/16/2016 3:21:10 PM EST</Timestamp>
+    <ElectionName>2016 Statewide General Election</ElectionName>
+    <ElectionDate>11/8/2016</ElectionDate>
+    <Region>Marion</Region>
+    <VoterTurnout totalVoters="22314" ballotsCast="14416" voterTurnout="64.61">
+        <Precincts>
+            <Precinct name="BRITTON'S NECK" totalVoters="1523" ballotsCast="834" voterTurnout="54.76" percentReporting="4" />
+            <Precinct name="FRIENDSHIP" totalVoters="340" ballotsCast="200" voterTurnout="58.82" percentReporting="4" />
+            <Precinct name="CENTENARY" totalVoters="1465" ballotsCast="690" voterTurnout="47.10" percentReporting="4" />
+            <Precinct name="RAINS" totalVoters="843" ballotsCast="440" voterTurnout="52.19" percentReporting="4" />
+            <Precinct name="MARION NO. 1" totalVoters="1554" ballotsCast="586" voterTurnout="37.71" percentReporting="4" />
+            <Precinct name="MARION NO. 2" totalVoters="1502" ballotsCast="708" voterTurnout="47.14" percentReporting="4" />
+            <Precinct name="MARION NORTH" totalVoters="1504" ballotsCast="768" voterTurnout="51.06" percentReporting="4" />
+            <Precinct name="MARION SOUTH" totalVoters="3216" ballotsCast="1292" voterTurnout="40.17" percentReporting="4" />
+            <Precinct name="MARION WEST" totalVoters="1253" ballotsCast="677" voterTurnout="54.03" percentReporting="4" />
+            <Precinct name="SELLERS" totalVoters="286" ballotsCast="133" voterTurnout="46.50" percentReporting="4" />
+            <Precinct name="TEMPERANCE" totalVoters="1086" ballotsCast="548" voterTurnout="50.46" percentReporting="4" />
+            <Precinct name="ZION" totalVoters="569" ballotsCast="307" voterTurnout="53.95" percentReporting="4" />
+            <Precinct name="N WEST MULLINS" totalVoters="1757" ballotsCast="767" voterTurnout="43.65" percentReporting="4" />
+            <Precinct name="S WEST MULLINS" totalVoters="1734" ballotsCast="762" voterTurnout="43.94" percentReporting="4" />
+            <Precinct name="N EAST MULLINS" totalVoters="2219" ballotsCast="934" voterTurnout="42.09" percentReporting="4" />
+            <Precinct name="S EAST MULLINS" totalVoters="1521" ballotsCast="731" voterTurnout="48.06" percentReporting="4" />
+            <Precinct name="NICHOLS" totalVoters="835" ballotsCast="412" voterTurnout="49.34" percentReporting="4" />
+            <Precinct name="Absentee" totalVoters="0" ballotsCast="3543" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Failsafe" totalVoters="0" ballotsCast="24" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Provisional" totalVoters="0" ballotsCast="56" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Failsafe Provisional" totalVoters="0" ballotsCast="4" voterTurnout="0.00" percentReporting="32" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="0103" text="STRAIGHT PARTY" voteFor="1" isQuestion="false" precinctsReporting="17" precinctsReported="17">
+        <VoteType name="overVotes" votes="1">
+            <Precinct name="BRITTON'S NECK" votes="0" />
+            <Precinct name="FRIENDSHIP" votes="0" />
+            <Precinct name="CENTENARY" votes="0" />
+            <Precinct name="RAINS" votes="0" />
+            <Precinct name="MARION NO. 1" votes="0" />
+            <Precinct name="MARION NO. 2" votes="0" />
+            <Precinct name="MARION NORTH" votes="0" />
+            <Precinct name="MARION SOUTH" votes="0" />
+            <Precinct name="MARION WEST" votes="0" />
+            <Precinct name="SELLERS" votes="0" />
+            <Precinct name="TEMPERANCE" votes="0" />
+            <Precinct name="ZION" votes="0" />
+            <Precinct name="N WEST MULLINS" votes="0" />
+            <Precinct name="S WEST MULLINS" votes="0" />
+            <Precinct name="N EAST MULLINS" votes="0" />
+            <Precinct name="S EAST MULLINS" votes="0" />
+            <Precinct name="NICHOLS" votes="0" />
+            <Precinct name="Absentee" votes="1" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="6776">
+            <Precinct name="BRITTON'S NECK" votes="353" />
+            <Precinct name="FRIENDSHIP" votes="78" />
+            <Precinct name="CENTENARY" votes="236" />
+            <Precinct name="RAINS" votes="179" />
+            <Precinct name="MARION NO. 1" votes="259" />
+            <Precinct name="MARION NO. 2" votes="455" />
+            <Precinct name="MARION NORTH" votes="392" />
+            <Precinct name="MARION SOUTH" votes="481" />
+            <Precinct name="MARION WEST" votes="406" />
+            <Precinct name="SELLERS" votes="42" />
+            <Precinct name="TEMPERANCE" votes="228" />
+            <Precinct name="ZION" votes="135" />
+            <Precinct name="N WEST MULLINS" votes="269" />
+            <Precinct name="S WEST MULLINS" votes="383" />
+            <Precinct name="N EAST MULLINS" votes="453" />
+            <Precinct name="S EAST MULLINS" votes="526" />
+            <Precinct name="NICHOLS" votes="213" />
+            <Precinct name="Absentee" votes="1663" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="9" />
+            <Precinct name="Provisional" votes="15" />
+            <Precinct name="Failsafe Provisional" votes="1" />
+        </VoteType>
+        <Choice key="001" text="Democratic" party="DEM" totalVotes="6119">
+            <VoteType name="Election Day" votes="6119">
+                <Precinct name="BRITTON'S NECK" votes="373" />
+                <Precinct name="FRIENDSHIP" votes="106" />
+                <Precinct name="CENTENARY" votes="358" />
+                <Precinct name="RAINS" votes="221" />
+                <Precinct name="MARION NO. 1" votes="273" />
+                <Precinct name="MARION NO. 2" votes="163" />
+                <Precinct name="MARION NORTH" votes="257" />
+                <Precinct name="MARION SOUTH" votes="727" />
+                <Precinct name="MARION WEST" votes="162" />
+                <Precinct name="SELLERS" votes="77" />
+                <Precinct name="TEMPERANCE" votes="252" />
+                <Precinct name="ZION" votes="144" />
+                <Precinct name="N WEST MULLINS" votes="430" />
+                <Precinct name="S WEST MULLINS" votes="320" />
+                <Precinct name="N EAST MULLINS" votes="372" />
+                <Precinct name="S EAST MULLINS" votes="112" />
+                <Precinct name="NICHOLS" votes="109" />
+                <Precinct name="Absentee" votes="1612" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="12" />
+                <Precinct name="Provisional" votes="38" />
+                <Precinct name="Failsafe Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Working Families" party="WFM" totalVotes="123">
+            <VoteType name="Election Day" votes="123">
+                <Precinct name="BRITTON'S NECK" votes="3" />
+                <Precinct name="FRIENDSHIP" votes="3" />
+                <Precinct name="CENTENARY" votes="12" />
+                <Precinct name="RAINS" votes="7" />
+                <Precinct name="MARION NO. 1" votes="9" />
+                <Precinct name="MARION NO. 2" votes="4" />
+                <Precinct name="MARION NORTH" votes="11" />
+                <Precinct name="MARION SOUTH" votes="10" />
+                <Precinct name="MARION WEST" votes="3" />
+                <Precinct name="SELLERS" votes="1" />
+                <Precinct name="TEMPERANCE" votes="4" />
+                <Precinct name="ZION" votes="1" />
+                <Precinct name="N WEST MULLINS" votes="9" />
+                <Precinct name="S WEST MULLINS" votes="5" />
+                <Precinct name="N EAST MULLINS" votes="15" />
+                <Precinct name="S EAST MULLINS" votes="6" />
+                <Precinct name="NICHOLS" votes="5" />
+                <Precinct name="Absentee" votes="13" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Constitution" party="CON" totalVotes="6">
+            <VoteType name="Election Day" votes="6">
+                <Precinct name="BRITTON'S NECK" votes="1" />
+                <Precinct name="FRIENDSHIP" votes="0" />
+                <Precinct name="CENTENARY" votes="0" />
+                <Precinct name="RAINS" votes="0" />
+                <Precinct name="MARION NO. 1" votes="0" />
+                <Precinct name="MARION NO. 2" votes="0" />
+                <Precinct name="MARION NORTH" votes="0" />
+                <Precinct name="MARION SOUTH" votes="0" />
+                <Precinct name="MARION WEST" votes="0" />
+                <Precinct name="SELLERS" votes="0" />
+                <Precinct name="TEMPERANCE" votes="1" />
+                <Precinct name="ZION" votes="0" />
+                <Precinct name="N WEST MULLINS" votes="0" />
+                <Precinct name="S WEST MULLINS" votes="0" />
+                <Precinct name="N EAST MULLINS" votes="0" />
+                <Precinct name="S EAST MULLINS" votes="0" />
+                <Precinct name="NICHOLS" votes="0" />
+                <Precinct name="Absentee" votes="4" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Independence" party="IND" totalVotes="68">
+            <VoteType name="Election Day" votes="68">
+                <Precinct name="BRITTON'S NECK" votes="6" />
+                <Precinct name="FRIENDSHIP" votes="0" />
+                <Precinct name="CENTENARY" votes="4" />
+                <Precinct name="RAINS" votes="3" />
+                <Precinct name="MARION NO. 1" votes="5" />
+                <Precinct name="MARION NO. 2" votes="6" />
+                <Precinct name="MARION NORTH" votes="6" />
+                <Precinct name="MARION SOUTH" votes="4" />
+                <Precinct name="MARION WEST" votes="1" />
+                <Precinct name="SELLERS" votes="0" />
+                <Precinct name="TEMPERANCE" votes="1" />
+                <Precinct name="ZION" votes="2" />
+                <Precinct name="N WEST MULLINS" votes="3" />
+                <Precinct name="S WEST MULLINS" votes="2" />
+                <Precinct name="N EAST MULLINS" votes="4" />
+                <Precinct name="S EAST MULLINS" votes="10" />
+                <Precinct name="NICHOLS" votes="5" />
+                <Precinct name="Absentee" votes="5" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Green" party="GRN" totalVotes="17">
+            <VoteType name="Election Day" votes="17">
+                <Precinct name="BRITTON'S NECK" votes="0" />
+                <Precinct name="FRIENDSHIP" votes="0" />
+                <Precinct name="CENTENARY" votes="1" />
+                <Precinct name="RAINS" votes="3" />
+                <Precinct name="MARION NO. 1" votes="1" />
+                <Precinct name="MARION NO. 2" votes="2" />
+                <Precinct name="MARION NORTH" votes="1" />
+                <Precinct name="MARION SOUTH" votes="0" />
+                <Precinct name="MARION WEST" votes="0" />
+                <Precinct name="SELLERS" votes="0" />
+                <Precinct name="TEMPERANCE" votes="0" />
+                <Precinct name="ZION" votes="1" />
+                <Precinct name="N WEST MULLINS" votes="0" />
+                <Precinct name="S WEST MULLINS" votes="0" />
+                <Precinct name="N EAST MULLINS" votes="3" />
+                <Precinct name="S EAST MULLINS" votes="2" />
+                <Precinct name="NICHOLS" votes="0" />
+                <Precinct name="Absentee" votes="3" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Republican" party="REP" totalVotes="1222">
+            <VoteType name="Election Day" votes="1222">
+                <Precinct name="BRITTON'S NECK" votes="94" />
+                <Precinct name="FRIENDSHIP" votes="11" />
+                <Precinct name="CENTENARY" votes="75" />
+                <Precinct name="RAINS" votes="26" />
+                <Precinct name="MARION NO. 1" votes="35" />
+                <Precinct name="MARION NO. 2" votes="74" />
+                <Precinct name="MARION NORTH" votes="91" />
+                <Precinct name="MARION SOUTH" votes="65" />
+                <Precinct name="MARION WEST" votes="101" />
+                <Precinct name="SELLERS" votes="12" />
+                <Precinct name="TEMPERANCE" votes="57" />
+                <Precinct name="ZION" votes="22" />
+                <Precinct name="N WEST MULLINS" votes="52" />
+                <Precinct name="S WEST MULLINS" votes="50" />
+                <Precinct name="N EAST MULLINS" votes="82" />
+                <Precinct name="S EAST MULLINS" votes="71" />
+                <Precinct name="NICHOLS" votes="74" />
+                <Precinct name="Absentee" votes="226" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="American" party="AMR" totalVotes="65">
+            <VoteType name="Election Day" votes="65">
+                <Precinct name="BRITTON'S NECK" votes="2" />
+                <Precinct name="FRIENDSHIP" votes="1" />
+                <Precinct name="CENTENARY" votes="3" />
+                <Precinct name="RAINS" votes="1" />
+                <Precinct name="MARION NO. 1" votes="3" />
+                <Precinct name="MARION NO. 2" votes="2" />
+                <Precinct name="MARION NORTH" votes="8" />
+                <Precinct name="MARION SOUTH" votes="5" />
+                <Precinct name="MARION WEST" votes="3" />
+                <Precinct name="SELLERS" votes="1" />
+                <Precinct name="TEMPERANCE" votes="5" />
+                <Precinct name="ZION" votes="2" />
+                <Precinct name="N WEST MULLINS" votes="3" />
+                <Precinct name="S WEST MULLINS" votes="2" />
+                <Precinct name="N EAST MULLINS" votes="4" />
+                <Precinct name="S EAST MULLINS" votes="3" />
+                <Precinct name="NICHOLS" votes="5" />
+                <Precinct name="Absentee" votes="11" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="008" text="Libertarian" party="LIB" totalVotes="19">
+            <VoteType name="Election Day" votes="19">
+                <Precinct name="BRITTON'S NECK" votes="2" />
+                <Precinct name="FRIENDSHIP" votes="1" />
+                <Precinct name="CENTENARY" votes="1" />
+                <Precinct name="RAINS" votes="0" />
+                <Precinct name="MARION NO. 1" votes="1" />
+                <Precinct name="MARION NO. 2" votes="2" />
+                <Precinct name="MARION NORTH" votes="2" />
+                <Precinct name="MARION SOUTH" votes="0" />
+                <Precinct name="MARION WEST" votes="1" />
+                <Precinct name="SELLERS" votes="0" />
+                <Precinct name="TEMPERANCE" votes="0" />
+                <Precinct name="ZION" votes="0" />
+                <Precinct name="N WEST MULLINS" votes="1" />
+                <Precinct name="S WEST MULLINS" votes="0" />
+                <Precinct name="N EAST MULLINS" votes="1" />
+                <Precinct name="S EAST MULLINS" votes="1" />
+                <Precinct name="NICHOLS" votes="1" />
+                <Precinct name="Absentee" votes="5" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0104" text="President and Vice President" voteFor="1" isQuestion="false" precinctsReporting="17" precinctsReported="17">
+        <VoteType name="overVotes" votes="2">
+            <Precinct name="BRITTON'S NECK" votes="0" />
+            <Precinct name="FRIENDSHIP" votes="0" />
+            <Precinct name="CENTENARY" votes="0" />
+            <Precinct name="RAINS" votes="0" />
+            <Precinct name="MARION NO. 1" votes="0" />
+            <Precinct name="MARION NO. 2" votes="0" />
+            <Precinct name="MARION NORTH" votes="0" />
+            <Precinct name="MARION SOUTH" votes="0" />
+            <Precinct name="MARION WEST" votes="0" />
+            <Precinct name="SELLERS" votes="0" />
+            <Precinct name="TEMPERANCE" votes="0" />
+            <Precinct name="ZION" votes="0" />
+            <Precinct name="N WEST MULLINS" votes="0" />
+            <Precinct name="S WEST MULLINS" votes="0" />
+            <Precinct name="N EAST MULLINS" votes="0" />
+            <Precinct name="S EAST MULLINS" votes="0" />
+            <Precinct name="NICHOLS" votes="0" />
+            <Precinct name="Absentee" votes="2" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="138">
+            <Precinct name="BRITTON'S NECK" votes="8" />
+            <Precinct name="FRIENDSHIP" votes="2" />
+            <Precinct name="CENTENARY" votes="7" />
+            <Precinct name="RAINS" votes="4" />
+            <Precinct name="MARION NO. 1" votes="5" />
+            <Precinct name="MARION NO. 2" votes="10" />
+            <Precinct name="MARION NORTH" votes="6" />
+            <Precinct name="MARION SOUTH" votes="6" />
+            <Precinct name="MARION WEST" votes="6" />
+            <Precinct name="SELLERS" votes="1" />
+            <Precinct name="TEMPERANCE" votes="6" />
+            <Precinct name="ZION" votes="5" />
+            <Precinct name="N WEST MULLINS" votes="4" />
+            <Precinct name="S WEST MULLINS" votes="9" />
+            <Precinct name="N EAST MULLINS" votes="8" />
+            <Precinct name="S EAST MULLINS" votes="5" />
+            <Precinct name="NICHOLS" votes="10" />
+            <Precinct name="Absentee" votes="35" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="1" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Hillary Rodham Clinton / Timothy Michael Kaine" party="DEM" totalVotes="8569">
+            <VoteType name="Election Day" votes="8569">
+                <Precinct name="BRITTON'S NECK" votes="552" />
+                <Precinct name="FRIENDSHIP" votes="141" />
+                <Precinct name="CENTENARY" votes="448" />
+                <Precinct name="RAINS" votes="292" />
+                <Precinct name="MARION NO. 1" votes="379" />
+                <Precinct name="MARION NO. 2" votes="289" />
+                <Precinct name="MARION NORTH" votes="366" />
+                <Precinct name="MARION SOUTH" votes="951" />
+                <Precinct name="MARION WEST" votes="252" />
+                <Precinct name="SELLERS" votes="96" />
+                <Precinct name="TEMPERANCE" votes="335" />
+                <Precinct name="ZION" votes="180" />
+                <Precinct name="N WEST MULLINS" votes="540" />
+                <Precinct name="S WEST MULLINS" votes="442" />
+                <Precinct name="N EAST MULLINS" votes="576" />
+                <Precinct name="S EAST MULLINS" votes="202" />
+                <Precinct name="NICHOLS" votes="151" />
+                <Precinct name="Absentee" votes="2311" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="19" />
+                <Precinct name="Provisional" votes="45" />
+                <Precinct name="Failsafe Provisional" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Darrell Castle / Scott Bradley" party="CON" totalVotes="27">
+            <VoteType name="Election Day" votes="27">
+                <Precinct name="BRITTON'S NECK" votes="1" />
+                <Precinct name="FRIENDSHIP" votes="1" />
+                <Precinct name="CENTENARY" votes="2" />
+                <Precinct name="RAINS" votes="2" />
+                <Precinct name="MARION NO. 1" votes="3" />
+                <Precinct name="MARION NO. 2" votes="1" />
+                <Precinct name="MARION NORTH" votes="0" />
+                <Precinct name="MARION SOUTH" votes="1" />
+                <Precinct name="MARION WEST" votes="1" />
+                <Precinct name="SELLERS" votes="0" />
+                <Precinct name="TEMPERANCE" votes="2" />
+                <Precinct name="ZION" votes="0" />
+                <Precinct name="N WEST MULLINS" votes="1" />
+                <Precinct name="S WEST MULLINS" votes="3" />
+                <Precinct name="N EAST MULLINS" votes="0" />
+                <Precinct name="S EAST MULLINS" votes="1" />
+                <Precinct name="NICHOLS" votes="2" />
+                <Precinct name="Absentee" votes="5" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Evan McMullin / Nathan Johnson" party="IND" totalVotes="46">
+            <VoteType name="Election Day" votes="46">
+                <Precinct name="BRITTON'S NECK" votes="1" />
+                <Precinct name="FRIENDSHIP" votes="0" />
+                <Precinct name="CENTENARY" votes="1" />
+                <Precinct name="RAINS" votes="2" />
+                <Precinct name="MARION NO. 1" votes="4" />
+                <Precinct name="MARION NO. 2" votes="5" />
+                <Precinct name="MARION NORTH" votes="2" />
+                <Precinct name="MARION SOUTH" votes="2" />
+                <Precinct name="MARION WEST" votes="5" />
+                <Precinct name="SELLERS" votes="0" />
+                <Precinct name="TEMPERANCE" votes="3" />
+                <Precinct name="ZION" votes="2" />
+                <Precinct name="N WEST MULLINS" votes="3" />
+                <Precinct name="S WEST MULLINS" votes="2" />
+                <Precinct name="N EAST MULLINS" votes="4" />
+                <Precinct name="S EAST MULLINS" votes="1" />
+                <Precinct name="NICHOLS" votes="1" />
+                <Precinct name="Absentee" votes="6" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="2" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Jill Stein / Ajamu Baraka" party="GRN" totalVotes="65">
+            <VoteType name="Election Day" votes="65">
+                <Precinct name="BRITTON'S NECK" votes="3" />
+                <Precinct name="FRIENDSHIP" votes="0" />
+                <Precinct name="CENTENARY" votes="3" />
+                <Precinct name="RAINS" votes="3" />
+                <Precinct name="MARION NO. 1" votes="1" />
+                <Precinct name="MARION NO. 2" votes="5" />
+                <Precinct name="MARION NORTH" votes="1" />
+                <Precinct name="MARION SOUTH" votes="6" />
+                <Precinct name="MARION WEST" votes="3" />
+                <Precinct name="SELLERS" votes="1" />
+                <Precinct name="TEMPERANCE" votes="0" />
+                <Precinct name="ZION" votes="1" />
+                <Precinct name="N WEST MULLINS" votes="2" />
+                <Precinct name="S WEST MULLINS" votes="8" />
+                <Precinct name="N EAST MULLINS" votes="6" />
+                <Precinct name="S EAST MULLINS" votes="9" />
+                <Precinct name="NICHOLS" votes="4" />
+                <Precinct name="Absentee" votes="9" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Donald J Trump / Michael R Pence" party="REP" totalVotes="5444">
+            <VoteType name="Election Day" votes="5444">
+                <Precinct name="BRITTON'S NECK" votes="265" />
+                <Precinct name="FRIENDSHIP" votes="54" />
+                <Precinct name="CENTENARY" votes="220" />
+                <Precinct name="RAINS" votes="135" />
+                <Precinct name="MARION NO. 1" votes="185" />
+                <Precinct name="MARION NO. 2" votes="387" />
+                <Precinct name="MARION NORTH" votes="381" />
+                <Precinct name="MARION SOUTH" votes="317" />
+                <Precinct name="MARION WEST" votes="406" />
+                <Precinct name="SELLERS" votes="35" />
+                <Precinct name="TEMPERANCE" votes="197" />
+                <Precinct name="ZION" votes="119" />
+                <Precinct name="N WEST MULLINS" votes="213" />
+                <Precinct name="S WEST MULLINS" votes="293" />
+                <Precinct name="N EAST MULLINS" votes="332" />
+                <Precinct name="S EAST MULLINS" votes="505" />
+                <Precinct name="NICHOLS" votes="239" />
+                <Precinct name="Absentee" votes="1148" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="3" />
+                <Precinct name="Provisional" votes="8" />
+                <Precinct name="Failsafe Provisional" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Peter Skewes / Michael Lacy" party="AMR" totalVotes="22">
+            <VoteType name="Election Day" votes="22">
+                <Precinct name="BRITTON'S NECK" votes="0" />
+                <Precinct name="FRIENDSHIP" votes="1" />
+                <Precinct name="CENTENARY" votes="0" />
+                <Precinct name="RAINS" votes="1" />
+                <Precinct name="MARION NO. 1" votes="1" />
+                <Precinct name="MARION NO. 2" votes="1" />
+                <Precinct name="MARION NORTH" votes="1" />
+                <Precinct name="MARION SOUTH" votes="2" />
+                <Precinct name="MARION WEST" votes="0" />
+                <Precinct name="SELLERS" votes="0" />
+                <Precinct name="TEMPERANCE" votes="3" />
+                <Precinct name="ZION" votes="0" />
+                <Precinct name="N WEST MULLINS" votes="2" />
+                <Precinct name="S WEST MULLINS" votes="0" />
+                <Precinct name="N EAST MULLINS" votes="2" />
+                <Precinct name="S EAST MULLINS" votes="2" />
+                <Precinct name="NICHOLS" votes="0" />
+                <Precinct name="Absentee" votes="6" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="Gary Johnson / Bill Weld" party="LIB" totalVotes="103">
+            <VoteType name="Election Day" votes="103">
+                <Precinct name="BRITTON'S NECK" votes="4" />
+                <Precinct name="FRIENDSHIP" votes="1" />
+                <Precinct name="CENTENARY" votes="9" />
+                <Precinct name="RAINS" votes="1" />
+                <Precinct name="MARION NO. 1" votes="8" />
+                <Precinct name="MARION NO. 2" votes="10" />
+                <Precinct name="MARION NORTH" votes="11" />
+                <Precinct name="MARION SOUTH" votes="7" />
+                <Precinct name="MARION WEST" votes="4" />
+                <Precinct name="SELLERS" votes="0" />
+                <Precinct name="TEMPERANCE" votes="2" />
+                <Precinct name="ZION" votes="0" />
+                <Precinct name="N WEST MULLINS" votes="2" />
+                <Precinct name="S WEST MULLINS" votes="5" />
+                <Precinct name="N EAST MULLINS" votes="6" />
+                <Precinct name="S EAST MULLINS" votes="6" />
+                <Precinct name="NICHOLS" votes="5" />
+                <Precinct name="Absentee" votes="21" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0105" text="U.S. Senate" voteFor="1" isQuestion="false" precinctsReporting="17" precinctsReported="17">
+        <VoteType name="overVotes" votes="4">
+            <Precinct name="BRITTON'S NECK" votes="0" />
+            <Precinct name="FRIENDSHIP" votes="0" />
+            <Precinct name="CENTENARY" votes="0" />
+            <Precinct name="RAINS" votes="0" />
+            <Precinct name="MARION NO. 1" votes="0" />
+            <Precinct name="MARION NO. 2" votes="0" />
+            <Precinct name="MARION NORTH" votes="0" />
+            <Precinct name="MARION SOUTH" votes="0" />
+            <Precinct name="MARION WEST" votes="0" />
+            <Precinct name="SELLERS" votes="0" />
+            <Precinct name="TEMPERANCE" votes="0" />
+            <Precinct name="ZION" votes="0" />
+            <Precinct name="N WEST MULLINS" votes="0" />
+            <Precinct name="S WEST MULLINS" votes="0" />
+            <Precinct name="N EAST MULLINS" votes="0" />
+            <Precinct name="S EAST MULLINS" votes="0" />
+            <Precinct name="NICHOLS" votes="0" />
+            <Precinct name="Absentee" votes="3" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="1" />
+        </VoteType>
+        <VoteType name="underVotes" votes="826">
+            <Precinct name="BRITTON'S NECK" votes="72" />
+            <Precinct name="FRIENDSHIP" votes="6" />
+            <Precinct name="CENTENARY" votes="28" />
+            <Precinct name="RAINS" votes="27" />
+            <Precinct name="MARION NO. 1" votes="33" />
+            <Precinct name="MARION NO. 2" votes="40" />
+            <Precinct name="MARION NORTH" votes="47" />
+            <Precinct name="MARION SOUTH" votes="56" />
+            <Precinct name="MARION WEST" votes="38" />
+            <Precinct name="SELLERS" votes="9" />
+            <Precinct name="TEMPERANCE" votes="18" />
+            <Precinct name="ZION" votes="15" />
+            <Precinct name="N WEST MULLINS" votes="30" />
+            <Precinct name="S WEST MULLINS" votes="36" />
+            <Precinct name="N EAST MULLINS" votes="53" />
+            <Precinct name="S EAST MULLINS" votes="46" />
+            <Precinct name="NICHOLS" votes="29" />
+            <Precinct name="Absentee" votes="241" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="2" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Thomas Dixon" party="DEM" totalVotes="7535">
+            <VoteType name="Election Day" votes="7535">
+                <Precinct name="BRITTON'S NECK" votes="471" />
+                <Precinct name="FRIENDSHIP" votes="123" />
+                <Precinct name="CENTENARY" votes="407" />
+                <Precinct name="RAINS" votes="265" />
+                <Precinct name="MARION NO. 1" votes="327" />
+                <Precinct name="MARION NO. 2" votes="236" />
+                <Precinct name="MARION NORTH" votes="325" />
+                <Precinct name="MARION SOUTH" votes="857" />
+                <Precinct name="MARION WEST" votes="214" />
+                <Precinct name="SELLERS" votes="82" />
+                <Precinct name="TEMPERANCE" votes="303" />
+                <Precinct name="ZION" votes="166" />
+                <Precinct name="N WEST MULLINS" votes="491" />
+                <Precinct name="S WEST MULLINS" votes="388" />
+                <Precinct name="N EAST MULLINS" votes="481" />
+                <Precinct name="S EAST MULLINS" votes="167" />
+                <Precinct name="NICHOLS" votes="128" />
+                <Precinct name="Absentee" votes="2047" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="16" />
+                <Precinct name="Provisional" votes="39" />
+                <Precinct name="Failsafe Provisional" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Thomas Dixon" party="WFM" totalVotes="315">
+            <VoteType name="Election Day" votes="315">
+                <Precinct name="BRITTON'S NECK" votes="10" />
+                <Precinct name="FRIENDSHIP" votes="5" />
+                <Precinct name="CENTENARY" votes="15" />
+                <Precinct name="RAINS" votes="11" />
+                <Precinct name="MARION NO. 1" votes="18" />
+                <Precinct name="MARION NO. 2" votes="19" />
+                <Precinct name="MARION NORTH" votes="21" />
+                <Precinct name="MARION SOUTH" votes="28" />
+                <Precinct name="MARION WEST" votes="15" />
+                <Precinct name="SELLERS" votes="5" />
+                <Precinct name="TEMPERANCE" votes="11" />
+                <Precinct name="ZION" votes="6" />
+                <Precinct name="N WEST MULLINS" votes="19" />
+                <Precinct name="S WEST MULLINS" votes="20" />
+                <Precinct name="N EAST MULLINS" votes="29" />
+                <Precinct name="S EAST MULLINS" votes="18" />
+                <Precinct name="NICHOLS" votes="12" />
+                <Precinct name="Absentee" votes="48" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="3" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Bill Bledsoe" party="CON" totalVotes="49">
+            <VoteType name="Election Day" votes="49">
+                <Precinct name="BRITTON'S NECK" votes="6" />
+                <Precinct name="FRIENDSHIP" votes="1" />
+                <Precinct name="CENTENARY" votes="7" />
+                <Precinct name="RAINS" votes="0" />
+                <Precinct name="MARION NO. 1" votes="3" />
+                <Precinct name="MARION NO. 2" votes="1" />
+                <Precinct name="MARION NORTH" votes="1" />
+                <Precinct name="MARION SOUTH" votes="0" />
+                <Precinct name="MARION WEST" votes="4" />
+                <Precinct name="SELLERS" votes="0" />
+                <Precinct name="TEMPERANCE" votes="3" />
+                <Precinct name="ZION" votes="1" />
+                <Precinct name="N WEST MULLINS" votes="4" />
+                <Precinct name="S WEST MULLINS" votes="7" />
+                <Precinct name="N EAST MULLINS" votes="1" />
+                <Precinct name="S EAST MULLINS" votes="2" />
+                <Precinct name="NICHOLS" votes="0" />
+                <Precinct name="Absentee" votes="8" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Thomas Dixon" party="GRN" totalVotes="65">
+            <VoteType name="Election Day" votes="65">
+                <Precinct name="BRITTON'S NECK" votes="1" />
+                <Precinct name="FRIENDSHIP" votes="0" />
+                <Precinct name="CENTENARY" votes="5" />
+                <Precinct name="RAINS" votes="3" />
+                <Precinct name="MARION NO. 1" votes="4" />
+                <Precinct name="MARION NO. 2" votes="5" />
+                <Precinct name="MARION NORTH" votes="4" />
+                <Precinct name="MARION SOUTH" votes="1" />
+                <Precinct name="MARION WEST" votes="3" />
+                <Precinct name="SELLERS" votes="0" />
+                <Precinct name="TEMPERANCE" votes="2" />
+                <Precinct name="ZION" votes="1" />
+                <Precinct name="N WEST MULLINS" votes="3" />
+                <Precinct name="S WEST MULLINS" votes="6" />
+                <Precinct name="N EAST MULLINS" votes="5" />
+                <Precinct name="S EAST MULLINS" votes="4" />
+                <Precinct name="NICHOLS" votes="3" />
+                <Precinct name="Absentee" votes="15" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Tim Scott" party="REP" totalVotes="5500">
+            <VoteType name="Election Day" votes="5500">
+                <Precinct name="BRITTON'S NECK" votes="266" />
+                <Precinct name="FRIENDSHIP" votes="64" />
+                <Precinct name="CENTENARY" votes="223" />
+                <Precinct name="RAINS" votes="133" />
+                <Precinct name="MARION NO. 1" votes="198" />
+                <Precinct name="MARION NO. 2" votes="403" />
+                <Precinct name="MARION NORTH" votes="357" />
+                <Precinct name="MARION SOUTH" votes="345" />
+                <Precinct name="MARION WEST" votes="392" />
+                <Precinct name="SELLERS" votes="36" />
+                <Precinct name="TEMPERANCE" votes="203" />
+                <Precinct name="ZION" votes="115" />
+                <Precinct name="N WEST MULLINS" votes="212" />
+                <Precinct name="S WEST MULLINS" votes="297" />
+                <Precinct name="N EAST MULLINS" votes="351" />
+                <Precinct name="S EAST MULLINS" votes="486" />
+                <Precinct name="NICHOLS" votes="236" />
+                <Precinct name="Absentee" votes="1165" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="3" />
+                <Precinct name="Provisional" votes="14" />
+                <Precinct name="Failsafe Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Rebel Michael Scarborough" party="AMR" totalVotes="63">
+            <VoteType name="Election Day" votes="63">
+                <Precinct name="BRITTON'S NECK" votes="3" />
+                <Precinct name="FRIENDSHIP" votes="1" />
+                <Precinct name="CENTENARY" votes="4" />
+                <Precinct name="RAINS" votes="1" />
+                <Precinct name="MARION NO. 1" votes="2" />
+                <Precinct name="MARION NO. 2" votes="0" />
+                <Precinct name="MARION NORTH" votes="7" />
+                <Precinct name="MARION SOUTH" votes="1" />
+                <Precinct name="MARION WEST" votes="4" />
+                <Precinct name="SELLERS" votes="1" />
+                <Precinct name="TEMPERANCE" votes="5" />
+                <Precinct name="ZION" votes="2" />
+                <Precinct name="N WEST MULLINS" votes="7" />
+                <Precinct name="S WEST MULLINS" votes="4" />
+                <Precinct name="N EAST MULLINS" votes="6" />
+                <Precinct name="S EAST MULLINS" votes="5" />
+                <Precinct name="NICHOLS" votes="3" />
+                <Precinct name="Absentee" votes="7" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="Bill Bledsoe" party="LIB" totalVotes="51">
+            <VoteType name="Election Day" votes="51">
+                <Precinct name="BRITTON'S NECK" votes="4" />
+                <Precinct name="FRIENDSHIP" votes="0" />
+                <Precinct name="CENTENARY" votes="0" />
+                <Precinct name="RAINS" votes="0" />
+                <Precinct name="MARION NO. 1" votes="1" />
+                <Precinct name="MARION NO. 2" votes="3" />
+                <Precinct name="MARION NORTH" votes="5" />
+                <Precinct name="MARION SOUTH" votes="4" />
+                <Precinct name="MARION WEST" votes="6" />
+                <Precinct name="SELLERS" votes="0" />
+                <Precinct name="TEMPERANCE" votes="2" />
+                <Precinct name="ZION" votes="1" />
+                <Precinct name="N WEST MULLINS" votes="1" />
+                <Precinct name="S WEST MULLINS" votes="4" />
+                <Precinct name="N EAST MULLINS" votes="6" />
+                <Precinct name="S EAST MULLINS" votes="3" />
+                <Precinct name="NICHOLS" votes="1" />
+                <Precinct name="Absentee" votes="9" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="008" text="Write-In" party="NON" totalVotes="8">
+            <VoteType name="Election Day" votes="8">
+                <Precinct name="BRITTON'S NECK" votes="1" />
+                <Precinct name="FRIENDSHIP" votes="0" />
+                <Precinct name="CENTENARY" votes="1" />
+                <Precinct name="RAINS" votes="0" />
+                <Precinct name="MARION NO. 1" votes="0" />
+                <Precinct name="MARION NO. 2" votes="1" />
+                <Precinct name="MARION NORTH" votes="1" />
+                <Precinct name="MARION SOUTH" votes="0" />
+                <Precinct name="MARION WEST" votes="1" />
+                <Precinct name="SELLERS" votes="0" />
+                <Precinct name="TEMPERANCE" votes="1" />
+                <Precinct name="ZION" votes="0" />
+                <Precinct name="N WEST MULLINS" votes="0" />
+                <Precinct name="S WEST MULLINS" votes="0" />
+                <Precinct name="N EAST MULLINS" votes="2" />
+                <Precinct name="S EAST MULLINS" votes="0" />
+                <Precinct name="NICHOLS" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0106" text="U.S.  House of Representatives, District  7" voteFor="1" isQuestion="false" precinctsReporting="17" precinctsReported="17">
+        <VoteType name="overVotes" votes="2">
+            <Precinct name="BRITTON'S NECK" votes="0" />
+            <Precinct name="FRIENDSHIP" votes="0" />
+            <Precinct name="CENTENARY" votes="0" />
+            <Precinct name="RAINS" votes="0" />
+            <Precinct name="MARION NO. 1" votes="0" />
+            <Precinct name="MARION NO. 2" votes="0" />
+            <Precinct name="MARION NORTH" votes="0" />
+            <Precinct name="MARION SOUTH" votes="0" />
+            <Precinct name="MARION WEST" votes="0" />
+            <Precinct name="SELLERS" votes="0" />
+            <Precinct name="TEMPERANCE" votes="0" />
+            <Precinct name="ZION" votes="0" />
+            <Precinct name="N WEST MULLINS" votes="0" />
+            <Precinct name="S WEST MULLINS" votes="0" />
+            <Precinct name="N EAST MULLINS" votes="0" />
+            <Precinct name="S EAST MULLINS" votes="0" />
+            <Precinct name="NICHOLS" votes="0" />
+            <Precinct name="Absentee" votes="1" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="1" />
+        </VoteType>
+        <VoteType name="underVotes" votes="791">
+            <Precinct name="BRITTON'S NECK" votes="76" />
+            <Precinct name="FRIENDSHIP" votes="7" />
+            <Precinct name="CENTENARY" votes="29" />
+            <Precinct name="RAINS" votes="26" />
+            <Precinct name="MARION NO. 1" votes="29" />
+            <Precinct name="MARION NO. 2" votes="36" />
+            <Precinct name="MARION NORTH" votes="40" />
+            <Precinct name="MARION SOUTH" votes="58" />
+            <Precinct name="MARION WEST" votes="31" />
+            <Precinct name="SELLERS" votes="8" />
+            <Precinct name="TEMPERANCE" votes="20" />
+            <Precinct name="ZION" votes="10" />
+            <Precinct name="N WEST MULLINS" votes="26" />
+            <Precinct name="S WEST MULLINS" votes="32" />
+            <Precinct name="N EAST MULLINS" votes="54" />
+            <Precinct name="S EAST MULLINS" votes="38" />
+            <Precinct name="NICHOLS" votes="25" />
+            <Precinct name="Absentee" votes="243" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="2" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Mal Hyman" party="DEM" totalVotes="7603">
+            <VoteType name="Election Day" votes="7603">
+                <Precinct name="BRITTON'S NECK" votes="474" />
+                <Precinct name="FRIENDSHIP" votes="124" />
+                <Precinct name="CENTENARY" votes="423" />
+                <Precinct name="RAINS" votes="267" />
+                <Precinct name="MARION NO. 1" votes="336" />
+                <Precinct name="MARION NO. 2" votes="249" />
+                <Precinct name="MARION NORTH" votes="324" />
+                <Precinct name="MARION SOUTH" votes="858" />
+                <Precinct name="MARION WEST" votes="216" />
+                <Precinct name="SELLERS" votes="90" />
+                <Precinct name="TEMPERANCE" votes="304" />
+                <Precinct name="ZION" votes="171" />
+                <Precinct name="N WEST MULLINS" votes="494" />
+                <Precinct name="S WEST MULLINS" votes="388" />
+                <Precinct name="N EAST MULLINS" votes="486" />
+                <Precinct name="S EAST MULLINS" votes="166" />
+                <Precinct name="NICHOLS" votes="127" />
+                <Precinct name="Absentee" votes="2050" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="15" />
+                <Precinct name="Provisional" votes="39" />
+                <Precinct name="Failsafe Provisional" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Mal Hyman" party="WFM" totalVotes="300">
+            <VoteType name="Election Day" votes="300">
+                <Precinct name="BRITTON'S NECK" votes="15" />
+                <Precinct name="FRIENDSHIP" votes="4" />
+                <Precinct name="CENTENARY" votes="8" />
+                <Precinct name="RAINS" votes="10" />
+                <Precinct name="MARION NO. 1" votes="17" />
+                <Precinct name="MARION NO. 2" votes="16" />
+                <Precinct name="MARION NORTH" votes="16" />
+                <Precinct name="MARION SOUTH" votes="29" />
+                <Precinct name="MARION WEST" votes="12" />
+                <Precinct name="SELLERS" votes="3" />
+                <Precinct name="TEMPERANCE" votes="12" />
+                <Precinct name="ZION" votes="7" />
+                <Precinct name="N WEST MULLINS" votes="20" />
+                <Precinct name="S WEST MULLINS" votes="23" />
+                <Precinct name="N EAST MULLINS" votes="33" />
+                <Precinct name="S EAST MULLINS" votes="17" />
+                <Precinct name="NICHOLS" votes="9" />
+                <Precinct name="Absentee" votes="47" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Mal Hyman" party="GRN" totalVotes="80">
+            <VoteType name="Election Day" votes="80">
+                <Precinct name="BRITTON'S NECK" votes="3" />
+                <Precinct name="FRIENDSHIP" votes="0" />
+                <Precinct name="CENTENARY" votes="6" />
+                <Precinct name="RAINS" votes="3" />
+                <Precinct name="MARION NO. 1" votes="4" />
+                <Precinct name="MARION NO. 2" votes="7" />
+                <Precinct name="MARION NORTH" votes="4" />
+                <Precinct name="MARION SOUTH" votes="5" />
+                <Precinct name="MARION WEST" votes="3" />
+                <Precinct name="SELLERS" votes="0" />
+                <Precinct name="TEMPERANCE" votes="2" />
+                <Precinct name="ZION" votes="1" />
+                <Precinct name="N WEST MULLINS" votes="0" />
+                <Precinct name="S WEST MULLINS" votes="3" />
+                <Precinct name="N EAST MULLINS" votes="8" />
+                <Precinct name="S EAST MULLINS" votes="8" />
+                <Precinct name="NICHOLS" votes="4" />
+                <Precinct name="Absentee" votes="17" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Tom Rice" party="REP" totalVotes="5632">
+            <VoteType name="Election Day" votes="5632">
+                <Precinct name="BRITTON'S NECK" votes="265" />
+                <Precinct name="FRIENDSHIP" votes="65" />
+                <Precinct name="CENTENARY" votes="224" />
+                <Precinct name="RAINS" votes="134" />
+                <Precinct name="MARION NO. 1" votes="200" />
+                <Precinct name="MARION NO. 2" votes="398" />
+                <Precinct name="MARION NORTH" votes="384" />
+                <Precinct name="MARION SOUTH" votes="341" />
+                <Precinct name="MARION WEST" votes="415" />
+                <Precinct name="SELLERS" votes="32" />
+                <Precinct name="TEMPERANCE" votes="209" />
+                <Precinct name="ZION" votes="118" />
+                <Precinct name="N WEST MULLINS" votes="227" />
+                <Precinct name="S WEST MULLINS" votes="315" />
+                <Precinct name="N EAST MULLINS" votes="353" />
+                <Precinct name="S EAST MULLINS" votes="502" />
+                <Precinct name="NICHOLS" votes="247" />
+                <Precinct name="Absentee" votes="1183" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="5" />
+                <Precinct name="Provisional" votes="14" />
+                <Precinct name="Failsafe Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Write-In" party="NON" totalVotes="8">
+            <VoteType name="Election Day" votes="8">
+                <Precinct name="BRITTON'S NECK" votes="1" />
+                <Precinct name="FRIENDSHIP" votes="0" />
+                <Precinct name="CENTENARY" votes="0" />
+                <Precinct name="RAINS" votes="0" />
+                <Precinct name="MARION NO. 1" votes="0" />
+                <Precinct name="MARION NO. 2" votes="2" />
+                <Precinct name="MARION NORTH" votes="0" />
+                <Precinct name="MARION SOUTH" votes="1" />
+                <Precinct name="MARION WEST" votes="0" />
+                <Precinct name="SELLERS" votes="0" />
+                <Precinct name="TEMPERANCE" votes="1" />
+                <Precinct name="ZION" votes="0" />
+                <Precinct name="N WEST MULLINS" votes="0" />
+                <Precinct name="S WEST MULLINS" votes="1" />
+                <Precinct name="N EAST MULLINS" votes="0" />
+                <Precinct name="S EAST MULLINS" votes="0" />
+                <Precinct name="NICHOLS" votes="0" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0107" text="State  Senate, District  30" voteFor="1" isQuestion="false" precinctsReporting="17" precinctsReported="17">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BRITTON'S NECK" votes="0" />
+            <Precinct name="FRIENDSHIP" votes="0" />
+            <Precinct name="CENTENARY" votes="0" />
+            <Precinct name="RAINS" votes="0" />
+            <Precinct name="MARION NO. 1" votes="0" />
+            <Precinct name="MARION NO. 2" votes="0" />
+            <Precinct name="MARION NORTH" votes="0" />
+            <Precinct name="MARION SOUTH" votes="0" />
+            <Precinct name="MARION WEST" votes="0" />
+            <Precinct name="SELLERS" votes="0" />
+            <Precinct name="TEMPERANCE" votes="0" />
+            <Precinct name="ZION" votes="0" />
+            <Precinct name="N WEST MULLINS" votes="0" />
+            <Precinct name="S WEST MULLINS" votes="0" />
+            <Precinct name="N EAST MULLINS" votes="0" />
+            <Precinct name="S EAST MULLINS" votes="0" />
+            <Precinct name="NICHOLS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1792">
+            <Precinct name="BRITTON'S NECK" votes="149" />
+            <Precinct name="FRIENDSHIP" votes="24" />
+            <Precinct name="CENTENARY" votes="84" />
+            <Precinct name="RAINS" votes="34" />
+            <Precinct name="MARION NO. 1" votes="63" />
+            <Precinct name="MARION NO. 2" votes="124" />
+            <Precinct name="MARION NORTH" votes="109" />
+            <Precinct name="MARION SOUTH" votes="101" />
+            <Precinct name="MARION WEST" votes="117" />
+            <Precinct name="SELLERS" votes="14" />
+            <Precinct name="TEMPERANCE" votes="68" />
+            <Precinct name="ZION" votes="39" />
+            <Precinct name="N WEST MULLINS" votes="88" />
+            <Precinct name="S WEST MULLINS" votes="84" />
+            <Precinct name="N EAST MULLINS" votes="112" />
+            <Precinct name="S EAST MULLINS" votes="75" />
+            <Precinct name="NICHOLS" votes="96" />
+            <Precinct name="Absentee" votes="406" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="3" />
+            <Precinct name="Failsafe Provisional" votes="1" />
+        </VoteType>
+        <Choice key="001" text="Kent Williams" party="DEM" totalVotes="12536">
+            <VoteType name="Election Day" votes="12536">
+                <Precinct name="BRITTON'S NECK" votes="673" />
+                <Precinct name="FRIENDSHIP" votes="175" />
+                <Precinct name="CENTENARY" votes="602" />
+                <Precinct name="RAINS" votes="402" />
+                <Precinct name="MARION NO. 1" votes="521" />
+                <Precinct name="MARION NO. 2" votes="575" />
+                <Precinct name="MARION NORTH" votes="654" />
+                <Precinct name="MARION SOUTH" votes="1188" />
+                <Precinct name="MARION WEST" votes="557" />
+                <Precinct name="SELLERS" votes="119" />
+                <Precinct name="TEMPERANCE" votes="476" />
+                <Precinct name="ZION" votes="267" />
+                <Precinct name="N WEST MULLINS" votes="677" />
+                <Precinct name="S WEST MULLINS" votes="674" />
+                <Precinct name="N EAST MULLINS" votes="817" />
+                <Precinct name="S EAST MULLINS" votes="651" />
+                <Precinct name="NICHOLS" votes="315" />
+                <Precinct name="Absentee" votes="3114" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="23" />
+                <Precinct name="Provisional" votes="53" />
+                <Precinct name="Failsafe Provisional" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="88">
+            <VoteType name="Election Day" votes="88">
+                <Precinct name="BRITTON'S NECK" votes="12" />
+                <Precinct name="FRIENDSHIP" votes="1" />
+                <Precinct name="CENTENARY" votes="4" />
+                <Precinct name="RAINS" votes="4" />
+                <Precinct name="MARION NO. 1" votes="2" />
+                <Precinct name="MARION NO. 2" votes="9" />
+                <Precinct name="MARION NORTH" votes="5" />
+                <Precinct name="MARION SOUTH" votes="3" />
+                <Precinct name="MARION WEST" votes="3" />
+                <Precinct name="SELLERS" votes="0" />
+                <Precinct name="TEMPERANCE" votes="4" />
+                <Precinct name="ZION" votes="1" />
+                <Precinct name="N WEST MULLINS" votes="2" />
+                <Precinct name="S WEST MULLINS" votes="4" />
+                <Precinct name="N EAST MULLINS" votes="5" />
+                <Precinct name="S EAST MULLINS" votes="5" />
+                <Precinct name="NICHOLS" votes="1" />
+                <Precinct name="Absentee" votes="23" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0108" text="State  House of Representatives, District  57" voteFor="1" isQuestion="false" precinctsReporting="15" precinctsReported="15">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BRITTON'S NECK" votes="0" />
+            <Precinct name="FRIENDSHIP" votes="0" />
+            <Precinct name="CENTENARY" votes="0" />
+            <Precinct name="RAINS" votes="0" />
+            <Precinct name="MARION NO. 1" votes="0" />
+            <Precinct name="MARION NO. 2" votes="0" />
+            <Precinct name="MARION NORTH" votes="0" />
+            <Precinct name="MARION SOUTH" votes="0" />
+            <Precinct name="TEMPERANCE" votes="0" />
+            <Precinct name="ZION" votes="0" />
+            <Precinct name="N WEST MULLINS" votes="0" />
+            <Precinct name="S WEST MULLINS" votes="0" />
+            <Precinct name="N EAST MULLINS" votes="0" />
+            <Precinct name="S EAST MULLINS" votes="0" />
+            <Precinct name="NICHOLS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="798">
+            <Precinct name="BRITTON'S NECK" votes="92" />
+            <Precinct name="FRIENDSHIP" votes="12" />
+            <Precinct name="CENTENARY" votes="33" />
+            <Precinct name="RAINS" votes="29" />
+            <Precinct name="MARION NO. 1" votes="35" />
+            <Precinct name="MARION NO. 2" votes="37" />
+            <Precinct name="MARION NORTH" votes="40" />
+            <Precinct name="MARION SOUTH" votes="71" />
+            <Precinct name="TEMPERANCE" votes="23" />
+            <Precinct name="ZION" votes="19" />
+            <Precinct name="N WEST MULLINS" votes="39" />
+            <Precinct name="S WEST MULLINS" votes="37" />
+            <Precinct name="N EAST MULLINS" votes="53" />
+            <Precinct name="S EAST MULLINS" votes="40" />
+            <Precinct name="NICHOLS" votes="27" />
+            <Precinct name="Absentee" votes="205" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="3" />
+            <Precinct name="Provisional" votes="3" />
+        </VoteType>
+        <Choice key="001" text="Lucas Atkinson" party="DEM" totalVotes="10172">
+            <VoteType name="Election Day" votes="10172">
+                <Precinct name="BRITTON'S NECK" votes="573" />
+                <Precinct name="FRIENDSHIP" votes="164" />
+                <Precinct name="CENTENARY" votes="537" />
+                <Precinct name="RAINS" votes="344" />
+                <Precinct name="MARION NO. 1" votes="469" />
+                <Precinct name="MARION NO. 2" votes="480" />
+                <Precinct name="MARION NORTH" votes="528" />
+                <Precinct name="MARION SOUTH" votes="1063" />
+                <Precinct name="TEMPERANCE" votes="416" />
+                <Precinct name="ZION" votes="236" />
+                <Precinct name="N WEST MULLINS" votes="617" />
+                <Precinct name="S WEST MULLINS" votes="564" />
+                <Precinct name="N EAST MULLINS" votes="689" />
+                <Precinct name="S EAST MULLINS" votes="514" />
+                <Precinct name="NICHOLS" votes="263" />
+                <Precinct name="Absentee" votes="2650" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="19" />
+                <Precinct name="Provisional" votes="46" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Ethan Brown" party="REP" totalVotes="2343">
+            <VoteType name="Election Day" votes="2343">
+                <Precinct name="BRITTON'S NECK" votes="168" />
+                <Precinct name="FRIENDSHIP" votes="24" />
+                <Precinct name="CENTENARY" votes="120" />
+                <Precinct name="RAINS" votes="67" />
+                <Precinct name="MARION NO. 1" votes="82" />
+                <Precinct name="MARION NO. 2" votes="187" />
+                <Precinct name="MARION NORTH" votes="200" />
+                <Precinct name="MARION SOUTH" votes="158" />
+                <Precinct name="TEMPERANCE" votes="109" />
+                <Precinct name="ZION" votes="52" />
+                <Precinct name="N WEST MULLINS" votes="109" />
+                <Precinct name="S WEST MULLINS" votes="161" />
+                <Precinct name="N EAST MULLINS" votes="189" />
+                <Precinct name="S EAST MULLINS" votes="174" />
+                <Precinct name="NICHOLS" votes="122" />
+                <Precinct name="Absentee" votes="414" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="6" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="96">
+            <VoteType name="Election Day" votes="96">
+                <Precinct name="BRITTON'S NECK" votes="1" />
+                <Precinct name="FRIENDSHIP" votes="0" />
+                <Precinct name="CENTENARY" votes="0" />
+                <Precinct name="RAINS" votes="0" />
+                <Precinct name="MARION NO. 1" votes="0" />
+                <Precinct name="MARION NO. 2" votes="4" />
+                <Precinct name="MARION NORTH" votes="0" />
+                <Precinct name="MARION SOUTH" votes="0" />
+                <Precinct name="TEMPERANCE" votes="0" />
+                <Precinct name="ZION" votes="0" />
+                <Precinct name="N WEST MULLINS" votes="2" />
+                <Precinct name="S WEST MULLINS" votes="0" />
+                <Precinct name="N EAST MULLINS" votes="3" />
+                <Precinct name="S EAST MULLINS" votes="3" />
+                <Precinct name="NICHOLS" votes="0" />
+                <Precinct name="Absentee" votes="83" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0109" text="State  House of Representatives, District  61" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="MARION WEST" votes="0" />
+            <Precinct name="SELLERS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="235">
+            <Precinct name="MARION WEST" votes="185" />
+            <Precinct name="SELLERS" votes="20" />
+            <Precinct name="Absentee" votes="30" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Roger Kirby" party="DEM" totalVotes="765">
+            <VoteType name="Election Day" votes="765">
+                <Precinct name="MARION WEST" votes="491" />
+                <Precinct name="SELLERS" votes="113" />
+                <Precinct name="Absentee" votes="159" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="3">
+            <VoteType name="Election Day" votes="3">
+                <Precinct name="MARION WEST" votes="1" />
+                <Precinct name="SELLERS" votes="0" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0110" text="Sheriff" voteFor="1" isQuestion="false" precinctsReporting="17" precinctsReported="17">
+        <VoteType name="overVotes" votes="3">
+            <Precinct name="BRITTON'S NECK" votes="0" />
+            <Precinct name="FRIENDSHIP" votes="0" />
+            <Precinct name="CENTENARY" votes="0" />
+            <Precinct name="RAINS" votes="0" />
+            <Precinct name="MARION NO. 1" votes="0" />
+            <Precinct name="MARION NO. 2" votes="0" />
+            <Precinct name="MARION NORTH" votes="0" />
+            <Precinct name="MARION SOUTH" votes="0" />
+            <Precinct name="MARION WEST" votes="0" />
+            <Precinct name="SELLERS" votes="0" />
+            <Precinct name="TEMPERANCE" votes="0" />
+            <Precinct name="ZION" votes="0" />
+            <Precinct name="N WEST MULLINS" votes="0" />
+            <Precinct name="S WEST MULLINS" votes="0" />
+            <Precinct name="N EAST MULLINS" votes="0" />
+            <Precinct name="S EAST MULLINS" votes="0" />
+            <Precinct name="NICHOLS" votes="0" />
+            <Precinct name="Absentee" votes="2" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="1" />
+        </VoteType>
+        <VoteType name="underVotes" votes="486">
+            <Precinct name="BRITTON'S NECK" votes="40" />
+            <Precinct name="FRIENDSHIP" votes="8" />
+            <Precinct name="CENTENARY" votes="22" />
+            <Precinct name="RAINS" votes="10" />
+            <Precinct name="MARION NO. 1" votes="23" />
+            <Precinct name="MARION NO. 2" votes="23" />
+            <Precinct name="MARION NORTH" votes="26" />
+            <Precinct name="MARION SOUTH" votes="43" />
+            <Precinct name="MARION WEST" votes="20" />
+            <Precinct name="SELLERS" votes="7" />
+            <Precinct name="TEMPERANCE" votes="18" />
+            <Precinct name="ZION" votes="7" />
+            <Precinct name="N WEST MULLINS" votes="18" />
+            <Precinct name="S WEST MULLINS" votes="26" />
+            <Precinct name="N EAST MULLINS" votes="27" />
+            <Precinct name="S EAST MULLINS" votes="18" />
+            <Precinct name="NICHOLS" votes="11" />
+            <Precinct name="Absentee" votes="135" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="2" />
+            <Precinct name="Provisional" votes="2" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Brian Wallace" party="DEM" totalVotes="11791">
+            <VoteType name="Election Day" votes="11791">
+                <Precinct name="BRITTON'S NECK" votes="483" />
+                <Precinct name="FRIENDSHIP" votes="175" />
+                <Precinct name="CENTENARY" votes="553" />
+                <Precinct name="RAINS" votes="369" />
+                <Precinct name="MARION NO. 1" votes="492" />
+                <Precinct name="MARION NO. 2" votes="578" />
+                <Precinct name="MARION NORTH" votes="596" />
+                <Precinct name="MARION SOUTH" votes="1067" />
+                <Precinct name="MARION WEST" votes="537" />
+                <Precinct name="SELLERS" votes="111" />
+                <Precinct name="TEMPERANCE" votes="452" />
+                <Precinct name="ZION" votes="277" />
+                <Precinct name="N WEST MULLINS" votes="679" />
+                <Precinct name="S WEST MULLINS" votes="653" />
+                <Precinct name="N EAST MULLINS" votes="816" />
+                <Precinct name="S EAST MULLINS" votes="645" />
+                <Precinct name="NICHOLS" votes="338" />
+                <Precinct name="Absentee" votes="2903" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="19" />
+                <Precinct name="Provisional" votes="46" />
+                <Precinct name="Failsafe Provisional" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Freddie McEachern Jr" party="CON" totalVotes="376">
+            <VoteType name="Election Day" votes="376">
+                <Precinct name="BRITTON'S NECK" votes="6" />
+                <Precinct name="FRIENDSHIP" votes="1" />
+                <Precinct name="CENTENARY" votes="19" />
+                <Precinct name="RAINS" votes="17" />
+                <Precinct name="MARION NO. 1" votes="25" />
+                <Precinct name="MARION NO. 2" votes="23" />
+                <Precinct name="MARION NORTH" votes="17" />
+                <Precinct name="MARION SOUTH" votes="74" />
+                <Precinct name="MARION WEST" votes="16" />
+                <Precinct name="SELLERS" votes="4" />
+                <Precinct name="TEMPERANCE" votes="20" />
+                <Precinct name="ZION" votes="1" />
+                <Precinct name="N WEST MULLINS" votes="11" />
+                <Precinct name="S WEST MULLINS" votes="22" />
+                <Precinct name="N EAST MULLINS" votes="20" />
+                <Precinct name="S EAST MULLINS" votes="10" />
+                <Precinct name="NICHOLS" votes="7" />
+                <Precinct name="Absentee" votes="77" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="5" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Lavon Rhames" party="REP" totalVotes="1149">
+            <VoteType name="Election Day" votes="1149">
+                <Precinct name="BRITTON'S NECK" votes="103" />
+                <Precinct name="FRIENDSHIP" votes="12" />
+                <Precinct name="CENTENARY" votes="72" />
+                <Precinct name="RAINS" votes="37" />
+                <Precinct name="MARION NO. 1" votes="35" />
+                <Precinct name="MARION NO. 2" votes="80" />
+                <Precinct name="MARION NORTH" votes="70" />
+                <Precinct name="MARION SOUTH" votes="71" />
+                <Precinct name="MARION WEST" votes="101" />
+                <Precinct name="SELLERS" votes="10" />
+                <Precinct name="TEMPERANCE" votes="50" />
+                <Precinct name="ZION" votes="18" />
+                <Precinct name="N WEST MULLINS" votes="53" />
+                <Precinct name="S WEST MULLINS" votes="55" />
+                <Precinct name="N EAST MULLINS" votes="68" />
+                <Precinct name="S EAST MULLINS" votes="57" />
+                <Precinct name="NICHOLS" votes="56" />
+                <Precinct name="Absentee" votes="199" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Write-In" party="NON" totalVotes="611">
+            <VoteType name="Election Day" votes="611">
+                <Precinct name="BRITTON'S NECK" votes="202" />
+                <Precinct name="FRIENDSHIP" votes="4" />
+                <Precinct name="CENTENARY" votes="24" />
+                <Precinct name="RAINS" votes="7" />
+                <Precinct name="MARION NO. 1" votes="11" />
+                <Precinct name="MARION NO. 2" votes="4" />
+                <Precinct name="MARION NORTH" votes="59" />
+                <Precinct name="MARION SOUTH" votes="37" />
+                <Precinct name="MARION WEST" votes="3" />
+                <Precinct name="SELLERS" votes="1" />
+                <Precinct name="TEMPERANCE" votes="8" />
+                <Precinct name="ZION" votes="4" />
+                <Precinct name="N WEST MULLINS" votes="6" />
+                <Precinct name="S WEST MULLINS" votes="6" />
+                <Precinct name="N EAST MULLINS" votes="3" />
+                <Precinct name="S EAST MULLINS" votes="1" />
+                <Precinct name="NICHOLS" votes="0" />
+                <Precinct name="Absentee" votes="227" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="2" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0111" text="Probate Judge" voteFor="1" isQuestion="false" precinctsReporting="17" precinctsReported="17">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BRITTON'S NECK" votes="0" />
+            <Precinct name="FRIENDSHIP" votes="0" />
+            <Precinct name="CENTENARY" votes="0" />
+            <Precinct name="RAINS" votes="0" />
+            <Precinct name="MARION NO. 1" votes="0" />
+            <Precinct name="MARION NO. 2" votes="0" />
+            <Precinct name="MARION NORTH" votes="0" />
+            <Precinct name="MARION SOUTH" votes="0" />
+            <Precinct name="MARION WEST" votes="0" />
+            <Precinct name="SELLERS" votes="0" />
+            <Precinct name="TEMPERANCE" votes="0" />
+            <Precinct name="ZION" votes="0" />
+            <Precinct name="N WEST MULLINS" votes="0" />
+            <Precinct name="S WEST MULLINS" votes="0" />
+            <Precinct name="N EAST MULLINS" votes="0" />
+            <Precinct name="S EAST MULLINS" votes="0" />
+            <Precinct name="NICHOLS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1561">
+            <Precinct name="BRITTON'S NECK" votes="153" />
+            <Precinct name="FRIENDSHIP" votes="22" />
+            <Precinct name="CENTENARY" votes="72" />
+            <Precinct name="RAINS" votes="45" />
+            <Precinct name="MARION NO. 1" votes="58" />
+            <Precinct name="MARION NO. 2" votes="93" />
+            <Precinct name="MARION NORTH" votes="96" />
+            <Precinct name="MARION SOUTH" votes="84" />
+            <Precinct name="MARION WEST" votes="92" />
+            <Precinct name="SELLERS" votes="13" />
+            <Precinct name="TEMPERANCE" votes="53" />
+            <Precinct name="ZION" votes="32" />
+            <Precinct name="N WEST MULLINS" votes="75" />
+            <Precinct name="S WEST MULLINS" votes="72" />
+            <Precinct name="N EAST MULLINS" votes="108" />
+            <Precinct name="S EAST MULLINS" votes="70" />
+            <Precinct name="NICHOLS" votes="82" />
+            <Precinct name="Absentee" votes="337" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="2" />
+            <Precinct name="Failsafe Provisional" votes="1" />
+        </VoteType>
+        <Choice key="001" text="T Carroll Atkinson III" party="DEM" totalVotes="12720">
+            <VoteType name="Election Day" votes="12720">
+                <Precinct name="BRITTON'S NECK" votes="671" />
+                <Precinct name="FRIENDSHIP" votes="178" />
+                <Precinct name="CENTENARY" votes="618" />
+                <Precinct name="RAINS" votes="394" />
+                <Precinct name="MARION NO. 1" votes="527" />
+                <Precinct name="MARION NO. 2" votes="613" />
+                <Precinct name="MARION NORTH" votes="671" />
+                <Precinct name="MARION SOUTH" votes="1206" />
+                <Precinct name="MARION WEST" votes="584" />
+                <Precinct name="SELLERS" votes="120" />
+                <Precinct name="TEMPERANCE" votes="495" />
+                <Precinct name="ZION" votes="274" />
+                <Precinct name="N WEST MULLINS" votes="688" />
+                <Precinct name="S WEST MULLINS" votes="689" />
+                <Precinct name="N EAST MULLINS" votes="820" />
+                <Precinct name="S EAST MULLINS" votes="658" />
+                <Precinct name="NICHOLS" votes="329" />
+                <Precinct name="Absentee" votes="3106" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="23" />
+                <Precinct name="Provisional" votes="54" />
+                <Precinct name="Failsafe Provisional" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="135">
+            <VoteType name="Election Day" votes="135">
+                <Precinct name="BRITTON'S NECK" votes="10" />
+                <Precinct name="FRIENDSHIP" votes="0" />
+                <Precinct name="CENTENARY" votes="0" />
+                <Precinct name="RAINS" votes="1" />
+                <Precinct name="MARION NO. 1" votes="1" />
+                <Precinct name="MARION NO. 2" votes="2" />
+                <Precinct name="MARION NORTH" votes="1" />
+                <Precinct name="MARION SOUTH" votes="2" />
+                <Precinct name="MARION WEST" votes="1" />
+                <Precinct name="SELLERS" votes="0" />
+                <Precinct name="TEMPERANCE" votes="0" />
+                <Precinct name="ZION" votes="1" />
+                <Precinct name="N WEST MULLINS" votes="4" />
+                <Precinct name="S WEST MULLINS" votes="1" />
+                <Precinct name="N EAST MULLINS" votes="6" />
+                <Precinct name="S EAST MULLINS" votes="3" />
+                <Precinct name="NICHOLS" votes="1" />
+                <Precinct name="Absentee" votes="100" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0112" text="Clerk of Court" voteFor="1" isQuestion="false" precinctsReporting="17" precinctsReported="17">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BRITTON'S NECK" votes="0" />
+            <Precinct name="FRIENDSHIP" votes="0" />
+            <Precinct name="CENTENARY" votes="0" />
+            <Precinct name="RAINS" votes="0" />
+            <Precinct name="MARION NO. 1" votes="0" />
+            <Precinct name="MARION NO. 2" votes="0" />
+            <Precinct name="MARION NORTH" votes="0" />
+            <Precinct name="MARION SOUTH" votes="0" />
+            <Precinct name="MARION WEST" votes="0" />
+            <Precinct name="SELLERS" votes="0" />
+            <Precinct name="TEMPERANCE" votes="0" />
+            <Precinct name="ZION" votes="0" />
+            <Precinct name="N WEST MULLINS" votes="0" />
+            <Precinct name="S WEST MULLINS" votes="0" />
+            <Precinct name="N EAST MULLINS" votes="0" />
+            <Precinct name="S EAST MULLINS" votes="0" />
+            <Precinct name="NICHOLS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1863">
+            <Precinct name="BRITTON'S NECK" votes="150" />
+            <Precinct name="FRIENDSHIP" votes="20" />
+            <Precinct name="CENTENARY" votes="73" />
+            <Precinct name="RAINS" votes="48" />
+            <Precinct name="MARION NO. 1" votes="55" />
+            <Precinct name="MARION NO. 2" votes="116" />
+            <Precinct name="MARION NORTH" votes="109" />
+            <Precinct name="MARION SOUTH" votes="94" />
+            <Precinct name="MARION WEST" votes="128" />
+            <Precinct name="SELLERS" votes="18" />
+            <Precinct name="TEMPERANCE" votes="52" />
+            <Precinct name="ZION" votes="35" />
+            <Precinct name="N WEST MULLINS" votes="77" />
+            <Precinct name="S WEST MULLINS" votes="82" />
+            <Precinct name="N EAST MULLINS" votes="113" />
+            <Precinct name="S EAST MULLINS" votes="96" />
+            <Precinct name="NICHOLS" votes="79" />
+            <Precinct name="Absentee" votes="513" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="2" />
+            <Precinct name="Failsafe Provisional" votes="2" />
+        </VoteType>
+        <Choice key="001" text="Christy Mincey Gray" party="DEM" totalVotes="12520">
+            <VoteType name="Election Day" votes="12520">
+                <Precinct name="BRITTON'S NECK" votes="682" />
+                <Precinct name="FRIENDSHIP" votes="180" />
+                <Precinct name="CENTENARY" votes="617" />
+                <Precinct name="RAINS" votes="390" />
+                <Precinct name="MARION NO. 1" votes="530" />
+                <Precinct name="MARION NO. 2" votes="589" />
+                <Precinct name="MARION NORTH" votes="658" />
+                <Precinct name="MARION SOUTH" votes="1197" />
+                <Precinct name="MARION WEST" votes="548" />
+                <Precinct name="SELLERS" votes="115" />
+                <Precinct name="TEMPERANCE" votes="495" />
+                <Precinct name="ZION" votes="272" />
+                <Precinct name="N WEST MULLINS" votes="689" />
+                <Precinct name="S WEST MULLINS" votes="678" />
+                <Precinct name="N EAST MULLINS" votes="816" />
+                <Precinct name="S EAST MULLINS" votes="632" />
+                <Precinct name="NICHOLS" votes="332" />
+                <Precinct name="Absentee" votes="3021" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="23" />
+                <Precinct name="Provisional" votes="54" />
+                <Precinct name="Failsafe Provisional" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="33">
+            <VoteType name="Election Day" votes="33">
+                <Precinct name="BRITTON'S NECK" votes="2" />
+                <Precinct name="FRIENDSHIP" votes="0" />
+                <Precinct name="CENTENARY" votes="0" />
+                <Precinct name="RAINS" votes="2" />
+                <Precinct name="MARION NO. 1" votes="1" />
+                <Precinct name="MARION NO. 2" votes="3" />
+                <Precinct name="MARION NORTH" votes="1" />
+                <Precinct name="MARION SOUTH" votes="1" />
+                <Precinct name="MARION WEST" votes="1" />
+                <Precinct name="SELLERS" votes="0" />
+                <Precinct name="TEMPERANCE" votes="1" />
+                <Precinct name="ZION" votes="0" />
+                <Precinct name="N WEST MULLINS" votes="1" />
+                <Precinct name="S WEST MULLINS" votes="2" />
+                <Precinct name="N EAST MULLINS" votes="5" />
+                <Precinct name="S EAST MULLINS" votes="3" />
+                <Precinct name="NICHOLS" votes="1" />
+                <Precinct name="Absentee" votes="9" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0113" text="Coroner" voteFor="1" isQuestion="false" precinctsReporting="17" precinctsReported="17">
+        <VoteType name="overVotes" votes="1">
+            <Precinct name="BRITTON'S NECK" votes="0" />
+            <Precinct name="FRIENDSHIP" votes="0" />
+            <Precinct name="CENTENARY" votes="0" />
+            <Precinct name="RAINS" votes="0" />
+            <Precinct name="MARION NO. 1" votes="0" />
+            <Precinct name="MARION NO. 2" votes="0" />
+            <Precinct name="MARION NORTH" votes="0" />
+            <Precinct name="MARION SOUTH" votes="0" />
+            <Precinct name="MARION WEST" votes="0" />
+            <Precinct name="SELLERS" votes="0" />
+            <Precinct name="TEMPERANCE" votes="0" />
+            <Precinct name="ZION" votes="0" />
+            <Precinct name="N WEST MULLINS" votes="0" />
+            <Precinct name="S WEST MULLINS" votes="0" />
+            <Precinct name="N EAST MULLINS" votes="0" />
+            <Precinct name="S EAST MULLINS" votes="0" />
+            <Precinct name="NICHOLS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="1" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1347">
+            <Precinct name="BRITTON'S NECK" votes="116" />
+            <Precinct name="FRIENDSHIP" votes="14" />
+            <Precinct name="CENTENARY" votes="51" />
+            <Precinct name="RAINS" votes="36" />
+            <Precinct name="MARION NO. 1" votes="39" />
+            <Precinct name="MARION NO. 2" votes="78" />
+            <Precinct name="MARION NORTH" votes="85" />
+            <Precinct name="MARION SOUTH" votes="63" />
+            <Precinct name="MARION WEST" votes="75" />
+            <Precinct name="SELLERS" votes="13" />
+            <Precinct name="TEMPERANCE" votes="37" />
+            <Precinct name="ZION" votes="26" />
+            <Precinct name="N WEST MULLINS" votes="68" />
+            <Precinct name="S WEST MULLINS" votes="69" />
+            <Precinct name="N EAST MULLINS" votes="81" />
+            <Precinct name="S EAST MULLINS" votes="65" />
+            <Precinct name="NICHOLS" votes="66" />
+            <Precinct name="Absentee" votes="358" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="2" />
+            <Precinct name="Provisional" votes="4" />
+            <Precinct name="Failsafe Provisional" votes="1" />
+        </VoteType>
+        <Choice key="001" text="Jerry M Richardson" party="DEM" totalVotes="13032">
+            <VoteType name="Election Day" votes="13032">
+                <Precinct name="BRITTON'S NECK" votes="714" />
+                <Precinct name="FRIENDSHIP" votes="186" />
+                <Precinct name="CENTENARY" votes="638" />
+                <Precinct name="RAINS" votes="402" />
+                <Precinct name="MARION NO. 1" votes="547" />
+                <Precinct name="MARION NO. 2" votes="628" />
+                <Precinct name="MARION NORTH" votes="681" />
+                <Precinct name="MARION SOUTH" votes="1227" />
+                <Precinct name="MARION WEST" votes="602" />
+                <Precinct name="SELLERS" votes="120" />
+                <Precinct name="TEMPERANCE" votes="511" />
+                <Precinct name="ZION" votes="281" />
+                <Precinct name="N WEST MULLINS" votes="695" />
+                <Precinct name="S WEST MULLINS" votes="692" />
+                <Precinct name="N EAST MULLINS" votes="849" />
+                <Precinct name="S EAST MULLINS" votes="664" />
+                <Precinct name="NICHOLS" votes="345" />
+                <Precinct name="Absentee" votes="3174" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="22" />
+                <Precinct name="Provisional" votes="52" />
+                <Precinct name="Failsafe Provisional" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="36">
+            <VoteType name="Election Day" votes="36">
+                <Precinct name="BRITTON'S NECK" votes="4" />
+                <Precinct name="FRIENDSHIP" votes="0" />
+                <Precinct name="CENTENARY" votes="1" />
+                <Precinct name="RAINS" votes="2" />
+                <Precinct name="MARION NO. 1" votes="0" />
+                <Precinct name="MARION NO. 2" votes="2" />
+                <Precinct name="MARION NORTH" votes="2" />
+                <Precinct name="MARION SOUTH" votes="2" />
+                <Precinct name="MARION WEST" votes="0" />
+                <Precinct name="SELLERS" votes="0" />
+                <Precinct name="TEMPERANCE" votes="0" />
+                <Precinct name="ZION" votes="0" />
+                <Precinct name="N WEST MULLINS" votes="4" />
+                <Precinct name="S WEST MULLINS" votes="1" />
+                <Precinct name="N EAST MULLINS" votes="4" />
+                <Precinct name="S EAST MULLINS" votes="2" />
+                <Precinct name="NICHOLS" votes="1" />
+                <Precinct name="Absentee" votes="11" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0114" text="County Council District 1" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="MARION NO. 1" votes="0" />
+            <Precinct name="MARION NO. 2" votes="0" />
+            <Precinct name="MARION NORTH" votes="0" />
+            <Precinct name="TEMPERANCE" votes="0" />
+            <Precinct name="ZION" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="237">
+            <Precinct name="MARION NO. 1" votes="29" />
+            <Precinct name="MARION NO. 2" votes="42" />
+            <Precinct name="MARION NORTH" votes="55" />
+            <Precinct name="TEMPERANCE" votes="44" />
+            <Precinct name="ZION" votes="8" />
+            <Precinct name="Absentee" votes="58" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="John Q Atkinson Jr" party="DEM" totalVotes="2009">
+            <VoteType name="Election Day" votes="2009">
+                <Precinct name="MARION NO. 1" votes="304" />
+                <Precinct name="MARION NO. 2" votes="303" />
+                <Precinct name="MARION NORTH" votes="373" />
+                <Precinct name="TEMPERANCE" votes="504" />
+                <Precinct name="ZION" votes="77" />
+                <Precinct name="Absentee" votes="440" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="7" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="15">
+            <VoteType name="Election Day" votes="15">
+                <Precinct name="MARION NO. 1" votes="0" />
+                <Precinct name="MARION NO. 2" votes="4" />
+                <Precinct name="MARION NORTH" votes="0" />
+                <Precinct name="TEMPERANCE" votes="0" />
+                <Precinct name="ZION" votes="0" />
+                <Precinct name="Absentee" votes="11" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0115" text="County Council District 2" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="FRIENDSHIP" votes="0" />
+            <Precinct name="CENTENARY" votes="0" />
+            <Precinct name="MARION NO. 1" votes="0" />
+            <Precinct name="MARION NO. 2" votes="0" />
+            <Precinct name="MARION SOUTH" votes="0" />
+            <Precinct name="MARION WEST" votes="0" />
+            <Precinct name="SELLERS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="278">
+            <Precinct name="FRIENDSHIP" votes="27" />
+            <Precinct name="CENTENARY" votes="2" />
+            <Precinct name="MARION NO. 1" votes="18" />
+            <Precinct name="MARION NO. 2" votes="38" />
+            <Precinct name="MARION SOUTH" votes="7" />
+            <Precinct name="MARION WEST" votes="123" />
+            <Precinct name="SELLERS" votes="16" />
+            <Precinct name="Absentee" votes="45" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="2" />
+        </VoteType>
+        <Choice key="001" text="Oscar Foxworth" party="DEM" totalVotes="1870">
+            <VoteType name="Election Day" votes="1870">
+                <Precinct name="FRIENDSHIP" votes="173" />
+                <Precinct name="CENTENARY" votes="68" />
+                <Precinct name="MARION NO. 1" votes="174" />
+                <Precinct name="MARION NO. 2" votes="175" />
+                <Precinct name="MARION SOUTH" votes="133" />
+                <Precinct name="MARION WEST" votes="554" />
+                <Precinct name="SELLERS" votes="116" />
+                <Precinct name="Absentee" votes="461" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="14" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="11">
+            <VoteType name="Election Day" votes="11">
+                <Precinct name="FRIENDSHIP" votes="0" />
+                <Precinct name="CENTENARY" votes="0" />
+                <Precinct name="MARION NO. 1" votes="0" />
+                <Precinct name="MARION NO. 2" votes="0" />
+                <Precinct name="MARION SOUTH" votes="1" />
+                <Precinct name="MARION WEST" votes="0" />
+                <Precinct name="SELLERS" votes="1" />
+                <Precinct name="Absentee" votes="9" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0116" text="County Council District 4" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="N WEST MULLINS" votes="0" />
+            <Precinct name="S WEST MULLINS" votes="0" />
+            <Precinct name="N EAST MULLINS" votes="0" />
+            <Precinct name="S EAST MULLINS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="269">
+            <Precinct name="N WEST MULLINS" votes="59" />
+            <Precinct name="S WEST MULLINS" votes="16" />
+            <Precinct name="N EAST MULLINS" votes="54" />
+            <Precinct name="S EAST MULLINS" votes="45" />
+            <Precinct name="Absentee" votes="94" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="1" />
+        </VoteType>
+        <Choice key="001" text="Allen W Floyd" party="DEM" totalVotes="2084">
+            <VoteType name="Election Day" votes="2084">
+                <Precinct name="N WEST MULLINS" votes="522" />
+                <Precinct name="S WEST MULLINS" votes="199" />
+                <Precinct name="N EAST MULLINS" votes="454" />
+                <Precinct name="S EAST MULLINS" votes="445" />
+                <Precinct name="Absentee" votes="456" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="4" />
+                <Precinct name="Provisional" votes="4" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="17">
+            <VoteType name="Election Day" votes="17">
+                <Precinct name="N WEST MULLINS" votes="0" />
+                <Precinct name="S WEST MULLINS" votes="1" />
+                <Precinct name="N EAST MULLINS" votes="8" />
+                <Precinct name="S EAST MULLINS" votes="6" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0117" text="County Council District 6" voteFor="1" isQuestion="false" precinctsReporting="9" precinctsReported="9">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="CENTENARY" votes="0" />
+            <Precinct name="MARION NORTH" votes="0" />
+            <Precinct name="MARION SOUTH" votes="0" />
+            <Precinct name="ZION" votes="0" />
+            <Precinct name="N WEST MULLINS" votes="0" />
+            <Precinct name="S WEST MULLINS" votes="0" />
+            <Precinct name="N EAST MULLINS" votes="0" />
+            <Precinct name="S EAST MULLINS" votes="0" />
+            <Precinct name="NICHOLS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="238">
+            <Precinct name="CENTENARY" votes="10" />
+            <Precinct name="MARION NORTH" votes="39" />
+            <Precinct name="MARION SOUTH" votes="3" />
+            <Precinct name="ZION" votes="24" />
+            <Precinct name="N WEST MULLINS" votes="11" />
+            <Precinct name="S WEST MULLINS" votes="13" />
+            <Precinct name="N EAST MULLINS" votes="49" />
+            <Precinct name="S EAST MULLINS" votes="5" />
+            <Precinct name="NICHOLS" votes="7" />
+            <Precinct name="Absentee" votes="76" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="1" />
+        </VoteType>
+        <Choice key="001" text="Buddy Collins" party="DEM" totalVotes="1517">
+            <VoteType name="Election Day" votes="1517">
+                <Precinct name="CENTENARY" votes="49" />
+                <Precinct name="MARION NORTH" votes="236" />
+                <Precinct name="MARION SOUTH" votes="57" />
+                <Precinct name="ZION" votes="198" />
+                <Precinct name="N WEST MULLINS" votes="63" />
+                <Precinct name="S WEST MULLINS" votes="97" />
+                <Precinct name="N EAST MULLINS" votes="365" />
+                <Precinct name="S EAST MULLINS" votes="30" />
+                <Precinct name="NICHOLS" votes="57" />
+                <Precinct name="Absentee" votes="354" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="3" />
+                <Precinct name="Provisional" votes="8" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="9">
+            <VoteType name="Election Day" votes="9">
+                <Precinct name="CENTENARY" votes="0" />
+                <Precinct name="MARION NORTH" votes="2" />
+                <Precinct name="MARION SOUTH" votes="0" />
+                <Precinct name="ZION" votes="0" />
+                <Precinct name="N WEST MULLINS" votes="0" />
+                <Precinct name="S WEST MULLINS" votes="0" />
+                <Precinct name="N EAST MULLINS" votes="4" />
+                <Precinct name="S EAST MULLINS" votes="1" />
+                <Precinct name="NICHOLS" votes="0" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0118" text="Soil and Water  District Commission" voteFor="1" isQuestion="false" precinctsReporting="17" precinctsReported="17">
+        <VoteType name="overVotes" votes="1">
+            <Precinct name="BRITTON'S NECK" votes="0" />
+            <Precinct name="FRIENDSHIP" votes="0" />
+            <Precinct name="CENTENARY" votes="0" />
+            <Precinct name="RAINS" votes="0" />
+            <Precinct name="MARION NO. 1" votes="0" />
+            <Precinct name="MARION NO. 2" votes="0" />
+            <Precinct name="MARION NORTH" votes="0" />
+            <Precinct name="MARION SOUTH" votes="0" />
+            <Precinct name="MARION WEST" votes="0" />
+            <Precinct name="SELLERS" votes="0" />
+            <Precinct name="TEMPERANCE" votes="0" />
+            <Precinct name="ZION" votes="0" />
+            <Precinct name="N WEST MULLINS" votes="0" />
+            <Precinct name="S WEST MULLINS" votes="0" />
+            <Precinct name="N EAST MULLINS" votes="0" />
+            <Precinct name="S EAST MULLINS" votes="0" />
+            <Precinct name="NICHOLS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="1" />
+        </VoteType>
+        <VoteType name="underVotes" votes="6483">
+            <Precinct name="BRITTON'S NECK" votes="456" />
+            <Precinct name="FRIENDSHIP" votes="105" />
+            <Precinct name="CENTENARY" votes="342" />
+            <Precinct name="RAINS" votes="212" />
+            <Precinct name="MARION NO. 1" votes="239" />
+            <Precinct name="MARION NO. 2" votes="233" />
+            <Precinct name="MARION NORTH" votes="292" />
+            <Precinct name="MARION SOUTH" votes="633" />
+            <Precinct name="MARION WEST" votes="248" />
+            <Precinct name="SELLERS" votes="75" />
+            <Precinct name="TEMPERANCE" votes="233" />
+            <Precinct name="ZION" votes="154" />
+            <Precinct name="N WEST MULLINS" votes="387" />
+            <Precinct name="S WEST MULLINS" votes="295" />
+            <Precinct name="N EAST MULLINS" votes="391" />
+            <Precinct name="S EAST MULLINS" votes="160" />
+            <Precinct name="NICHOLS" votes="154" />
+            <Precinct name="Absentee" votes="1832" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="14" />
+            <Precinct name="Provisional" votes="27" />
+            <Precinct name="Failsafe Provisional" votes="1" />
+        </VoteType>
+        <Choice key="001" text="James C Taylor" party="NON" totalVotes="7896">
+            <VoteType name="Election Day" votes="7896">
+                <Precinct name="BRITTON'S NECK" votes="374" />
+                <Precinct name="FRIENDSHIP" votes="93" />
+                <Precinct name="CENTENARY" votes="348" />
+                <Precinct name="RAINS" votes="226" />
+                <Precinct name="MARION NO. 1" votes="347" />
+                <Precinct name="MARION NO. 2" votes="474" />
+                <Precinct name="MARION NORTH" votes="472" />
+                <Precinct name="MARION SOUTH" votes="657" />
+                <Precinct name="MARION WEST" votes="428" />
+                <Precinct name="SELLERS" votes="58" />
+                <Precinct name="TEMPERANCE" votes="312" />
+                <Precinct name="ZION" votes="153" />
+                <Precinct name="N WEST MULLINS" votes="379" />
+                <Precinct name="S WEST MULLINS" votes="465" />
+                <Precinct name="N EAST MULLINS" votes="538" />
+                <Precinct name="S EAST MULLINS" votes="568" />
+                <Precinct name="NICHOLS" votes="258" />
+                <Precinct name="Absentee" votes="1705" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="10" />
+                <Precinct name="Provisional" votes="29" />
+                <Precinct name="Failsafe Provisional" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="36">
+            <VoteType name="Election Day" votes="36">
+                <Precinct name="BRITTON'S NECK" votes="4" />
+                <Precinct name="FRIENDSHIP" votes="2" />
+                <Precinct name="CENTENARY" votes="0" />
+                <Precinct name="RAINS" votes="2" />
+                <Precinct name="MARION NO. 1" votes="0" />
+                <Precinct name="MARION NO. 2" votes="1" />
+                <Precinct name="MARION NORTH" votes="4" />
+                <Precinct name="MARION SOUTH" votes="2" />
+                <Precinct name="MARION WEST" votes="1" />
+                <Precinct name="SELLERS" votes="0" />
+                <Precinct name="TEMPERANCE" votes="3" />
+                <Precinct name="ZION" votes="0" />
+                <Precinct name="N WEST MULLINS" votes="1" />
+                <Precinct name="S WEST MULLINS" votes="2" />
+                <Precinct name="N EAST MULLINS" votes="5" />
+                <Precinct name="S EAST MULLINS" votes="3" />
+                <Precinct name="NICHOLS" votes="0" />
+                <Precinct name="Absentee" votes="6" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0119" text="City Council District 1" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="N WEST MULLINS" votes="0" />
+            <Precinct name="S WEST MULLINS" votes="0" />
+            <Precinct name="N EAST MULLINS" votes="0" />
+            <Precinct name="S EAST MULLINS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="146">
+            <Precinct name="N WEST MULLINS" votes="100" />
+            <Precinct name="S WEST MULLINS" votes="5" />
+            <Precinct name="N EAST MULLINS" votes="5" />
+            <Precinct name="S EAST MULLINS" votes="14" />
+            <Precinct name="Absentee" votes="21" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="1" />
+        </VoteType>
+        <Choice key="001" text="Michael Cullipher" party="NON" totalVotes="115">
+            <VoteType name="Election Day" votes="115">
+                <Precinct name="N WEST MULLINS" votes="29" />
+                <Precinct name="S WEST MULLINS" votes="6" />
+                <Precinct name="N EAST MULLINS" votes="0" />
+                <Precinct name="S EAST MULLINS" votes="56" />
+                <Precinct name="Absentee" votes="23" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Linda G Schiavo" party="NON" totalVotes="105">
+            <VoteType name="Election Day" votes="105">
+                <Precinct name="N WEST MULLINS" votes="15" />
+                <Precinct name="S WEST MULLINS" votes="11" />
+                <Precinct name="N EAST MULLINS" votes="3" />
+                <Precinct name="S EAST MULLINS" votes="54" />
+                <Precinct name="Absentee" votes="21" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Robert L Woodbury" party="NON" totalVotes="189">
+            <VoteType name="Election Day" votes="189">
+                <Precinct name="N WEST MULLINS" votes="107" />
+                <Precinct name="S WEST MULLINS" votes="23" />
+                <Precinct name="N EAST MULLINS" votes="5" />
+                <Precinct name="S EAST MULLINS" votes="31" />
+                <Precinct name="Absentee" votes="22" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Write-In" party="NON" totalVotes="9">
+            <VoteType name="Election Day" votes="9">
+                <Precinct name="N WEST MULLINS" votes="1" />
+                <Precinct name="S WEST MULLINS" votes="0" />
+                <Precinct name="N EAST MULLINS" votes="0" />
+                <Precinct name="S EAST MULLINS" votes="6" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0120" text="City Council District 5" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="N EAST MULLINS" votes="0" />
+            <Precinct name="S EAST MULLINS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="78">
+            <Precinct name="N EAST MULLINS" votes="28" />
+            <Precinct name="S EAST MULLINS" votes="13" />
+            <Precinct name="Absentee" votes="36" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="1" />
+        </VoteType>
+        <Choice key="001" text="Sherry C Hayes" party="NON" totalVotes="147">
+            <VoteType name="Election Day" votes="147">
+                <Precinct name="N EAST MULLINS" votes="43" />
+                <Precinct name="S EAST MULLINS" votes="56" />
+                <Precinct name="Absentee" votes="47" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="150">
+            <VoteType name="Election Day" votes="150">
+                <Precinct name="N EAST MULLINS" votes="17" />
+                <Precinct name="S EAST MULLINS" votes="91" />
+                <Precinct name="Absentee" votes="42" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0121" text="Town Council TOWN OF NICHOLS" voteFor="2" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="NICHOLS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="140">
+            <Precinct name="NICHOLS" votes="120" />
+            <Precinct name="Absentee" votes="19" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="1" />
+        </VoteType>
+        <Choice key="001" text="Pamela Catlett" party="NON" totalVotes="61">
+            <VoteType name="Election Day" votes="61">
+                <Precinct name="NICHOLS" votes="55" />
+                <Precinct name="Absentee" votes="6" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Kathryn A McCormick" party="NON" totalVotes="89">
+            <VoteType name="Election Day" votes="89">
+                <Precinct name="NICHOLS" votes="72" />
+                <Precinct name="Absentee" votes="17" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Verna M Nance" party="NON" totalVotes="73">
+            <VoteType name="Election Day" votes="73">
+                <Precinct name="NICHOLS" votes="51" />
+                <Precinct name="Absentee" votes="21" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="WRITE-IN" party="NON" totalVotes="5">
+            <VoteType name="Election Day" votes="5">
+                <Precinct name="NICHOLS" votes="2" />
+                <Precinct name="Absentee" votes="3" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

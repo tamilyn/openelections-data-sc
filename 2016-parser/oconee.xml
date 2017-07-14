@@ -1,0 +1,3301 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>11/16/2016 3:28:37 PM EST</Timestamp>
+    <ElectionName>2016 Statewide General Election</ElectionName>
+    <ElectionDate>11/8/2016</ElectionDate>
+    <Region>Oconee</Region>
+    <VoterTurnout totalVoters="50114" ballotsCast="33984" voterTurnout="67.81">
+        <Precincts>
+            <Precinct name="Newry-Corinth" totalVoters="281" ballotsCast="155" voterTurnout="55.16" percentReporting="4" />
+            <Precinct name="Earles Grove" totalVoters="824" ballotsCast="508" voterTurnout="61.65" percentReporting="4" />
+            <Precinct name="Ravenel" totalVoters="2505" ballotsCast="1300" voterTurnout="51.90" percentReporting="4" />
+            <Precinct name="Fair Play" totalVoters="947" ballotsCast="541" voterTurnout="57.13" percentReporting="4" />
+            <Precinct name="Friendship" totalVoters="1988" ballotsCast="1070" voterTurnout="53.82" percentReporting="4" />
+            <Precinct name="Holly Springs" totalVoters="361" ballotsCast="227" voterTurnout="62.88" percentReporting="4" />
+            <Precinct name="Keowee" totalVoters="1783" ballotsCast="852" voterTurnout="47.78" percentReporting="4" />
+            <Precinct name="Long Creek" totalVoters="384" ballotsCast="244" voterTurnout="63.54" percentReporting="4" />
+            <Precinct name="Mountain Rest" totalVoters="876" ballotsCast="551" voterTurnout="62.90" percentReporting="4" />
+            <Precinct name="Madison" totalVoters="605" ballotsCast="366" voterTurnout="60.50" percentReporting="4" />
+            <Precinct name="Bountyland" totalVoters="1791" ballotsCast="806" voterTurnout="45.00" percentReporting="4" />
+            <Precinct name="Oakway" totalVoters="1315" ballotsCast="758" voterTurnout="57.64" percentReporting="4" />
+            <Precinct name="Return" totalVoters="693" ballotsCast="448" voterTurnout="64.65" percentReporting="4" />
+            <Precinct name="Richland" totalVoters="998" ballotsCast="608" voterTurnout="60.92" percentReporting="4" />
+            <Precinct name="Salem" totalVoters="1791" ballotsCast="1026" voterTurnout="57.29" percentReporting="4" />
+            <Precinct name="Stamp Creek" totalVoters="2741" ballotsCast="998" voterTurnout="36.41" percentReporting="4" />
+            <Precinct name="New Hope" totalVoters="2239" ballotsCast="1014" voterTurnout="45.29" percentReporting="4" />
+            <Precinct name="Shiloh" totalVoters="1172" ballotsCast="651" voterTurnout="55.55" percentReporting="4" />
+            <Precinct name="South Union" totalVoters="1557" ballotsCast="821" voterTurnout="52.73" percentReporting="4" />
+            <Precinct name="Tamassee" totalVoters="1332" ballotsCast="781" voterTurnout="58.63" percentReporting="4" />
+            <Precinct name="Tokeena-Providence" totalVoters="1291" ballotsCast="712" voterTurnout="55.15" percentReporting="4" />
+            <Precinct name="Utica" totalVoters="732" ballotsCast="349" voterTurnout="47.68" percentReporting="4" />
+            <Precinct name="Walhalla 1" totalVoters="3583" ballotsCast="1462" voterTurnout="40.80" percentReporting="4" />
+            <Precinct name="Walhalla 2" totalVoters="2720" ballotsCast="1101" voterTurnout="40.48" percentReporting="4" />
+            <Precinct name="Westminster 1" totalVoters="2924" ballotsCast="1391" voterTurnout="47.57" percentReporting="4" />
+            <Precinct name="Westminster 2" totalVoters="1841" ballotsCast="833" voterTurnout="45.25" percentReporting="4" />
+            <Precinct name="West Union" totalVoters="1825" ballotsCast="901" voterTurnout="49.37" percentReporting="4" />
+            <Precinct name="Seneca 1" totalVoters="2826" ballotsCast="1260" voterTurnout="44.59" percentReporting="4" />
+            <Precinct name="Seneca 2" totalVoters="2165" ballotsCast="967" voterTurnout="44.67" percentReporting="4" />
+            <Precinct name="Seneca 3" totalVoters="1381" ballotsCast="654" voterTurnout="47.36" percentReporting="4" />
+            <Precinct name="Seneca 4" totalVoters="2909" ballotsCast="1238" voterTurnout="42.56" percentReporting="4" />
+            <Precinct name="Absentee" totalVoters="0" ballotsCast="9249" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Failsafe" totalVoters="0" ballotsCast="36" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Provisional" totalVoters="0" ballotsCast="76" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Failsafe Provisional" totalVoters="0" ballotsCast="30" voterTurnout="0.00" percentReporting="32" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="0103" text="STRAIGHT PARTY" voteFor="1" isQuestion="false" precinctsReporting="31" precinctsReported="31">
+        <VoteType name="overVotes" votes="6">
+            <Precinct name="Newry-Corinth" votes="0" />
+            <Precinct name="Earles Grove" votes="0" />
+            <Precinct name="Ravenel" votes="0" />
+            <Precinct name="Fair Play" votes="0" />
+            <Precinct name="Friendship" votes="0" />
+            <Precinct name="Holly Springs" votes="0" />
+            <Precinct name="Keowee" votes="0" />
+            <Precinct name="Long Creek" votes="0" />
+            <Precinct name="Mountain Rest" votes="0" />
+            <Precinct name="Madison" votes="0" />
+            <Precinct name="Bountyland" votes="0" />
+            <Precinct name="Oakway" votes="0" />
+            <Precinct name="Return" votes="0" />
+            <Precinct name="Richland" votes="0" />
+            <Precinct name="Salem" votes="0" />
+            <Precinct name="Stamp Creek" votes="0" />
+            <Precinct name="New Hope" votes="0" />
+            <Precinct name="Shiloh" votes="0" />
+            <Precinct name="South Union" votes="0" />
+            <Precinct name="Tamassee" votes="0" />
+            <Precinct name="Tokeena-Providence" votes="0" />
+            <Precinct name="Utica" votes="0" />
+            <Precinct name="Walhalla 1" votes="0" />
+            <Precinct name="Walhalla 2" votes="0" />
+            <Precinct name="Westminster 1" votes="0" />
+            <Precinct name="Westminster 2" votes="0" />
+            <Precinct name="West Union" votes="0" />
+            <Precinct name="Seneca 1" votes="0" />
+            <Precinct name="Seneca 2" votes="0" />
+            <Precinct name="Seneca 3" votes="0" />
+            <Precinct name="Seneca 4" votes="0" />
+            <Precinct name="Absentee" votes="5" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="1" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="18209">
+            <Precinct name="Newry-Corinth" votes="90" />
+            <Precinct name="Earles Grove" votes="278" />
+            <Precinct name="Ravenel" votes="783" />
+            <Precinct name="Fair Play" votes="254" />
+            <Precinct name="Friendship" votes="521" />
+            <Precinct name="Holly Springs" votes="104" />
+            <Precinct name="Keowee" votes="468" />
+            <Precinct name="Long Creek" votes="139" />
+            <Precinct name="Mountain Rest" votes="321" />
+            <Precinct name="Madison" votes="180" />
+            <Precinct name="Bountyland" votes="425" />
+            <Precinct name="Oakway" votes="404" />
+            <Precinct name="Return" votes="253" />
+            <Precinct name="Richland" votes="342" />
+            <Precinct name="Salem" votes="526" />
+            <Precinct name="Stamp Creek" votes="559" />
+            <Precinct name="New Hope" votes="591" />
+            <Precinct name="Shiloh" votes="338" />
+            <Precinct name="South Union" votes="390" />
+            <Precinct name="Tamassee" votes="429" />
+            <Precinct name="Tokeena-Providence" votes="373" />
+            <Precinct name="Utica" votes="156" />
+            <Precinct name="Walhalla 1" votes="840" />
+            <Precinct name="Walhalla 2" votes="541" />
+            <Precinct name="Westminster 1" votes="692" />
+            <Precinct name="Westminster 2" votes="447" />
+            <Precinct name="West Union" votes="510" />
+            <Precinct name="Seneca 1" votes="615" />
+            <Precinct name="Seneca 2" votes="539" />
+            <Precinct name="Seneca 3" votes="360" />
+            <Precinct name="Seneca 4" votes="620" />
+            <Precinct name="Absentee" votes="5061" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="18" />
+            <Precinct name="Provisional" votes="28" />
+            <Precinct name="Failsafe Provisional" votes="14" />
+        </VoteType>
+        <Choice key="001" text="Democratic" party="DEM" totalVotes="3517">
+            <VoteType name="Election Day" votes="3517">
+                <Precinct name="Newry-Corinth" votes="15" />
+                <Precinct name="Earles Grove" votes="34" />
+                <Precinct name="Ravenel" votes="155" />
+                <Precinct name="Fair Play" votes="35" />
+                <Precinct name="Friendship" votes="110" />
+                <Precinct name="Holly Springs" votes="7" />
+                <Precinct name="Keowee" votes="48" />
+                <Precinct name="Long Creek" votes="22" />
+                <Precinct name="Mountain Rest" votes="38" />
+                <Precinct name="Madison" votes="13" />
+                <Precinct name="Bountyland" votes="63" />
+                <Precinct name="Oakway" votes="54" />
+                <Precinct name="Return" votes="23" />
+                <Precinct name="Richland" votes="44" />
+                <Precinct name="Salem" votes="53" />
+                <Precinct name="Stamp Creek" votes="67" />
+                <Precinct name="New Hope" votes="46" />
+                <Precinct name="Shiloh" votes="114" />
+                <Precinct name="South Union" votes="54" />
+                <Precinct name="Tamassee" votes="51" />
+                <Precinct name="Tokeena-Providence" votes="50" />
+                <Precinct name="Utica" votes="84" />
+                <Precinct name="Walhalla 1" votes="108" />
+                <Precinct name="Walhalla 2" votes="120" />
+                <Precinct name="Westminster 1" votes="106" />
+                <Precinct name="Westminster 2" votes="54" />
+                <Precinct name="West Union" votes="63" />
+                <Precinct name="Seneca 1" votes="300" />
+                <Precinct name="Seneca 2" votes="137" />
+                <Precinct name="Seneca 3" votes="76" />
+                <Precinct name="Seneca 4" votes="291" />
+                <Precinct name="Absentee" votes="1064" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="12" />
+                <Precinct name="Failsafe Provisional" votes="4" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Working Families" party="WFM" totalVotes="164">
+            <VoteType name="Election Day" votes="164">
+                <Precinct name="Newry-Corinth" votes="1" />
+                <Precinct name="Earles Grove" votes="3" />
+                <Precinct name="Ravenel" votes="1" />
+                <Precinct name="Fair Play" votes="1" />
+                <Precinct name="Friendship" votes="9" />
+                <Precinct name="Holly Springs" votes="5" />
+                <Precinct name="Keowee" votes="4" />
+                <Precinct name="Long Creek" votes="1" />
+                <Precinct name="Mountain Rest" votes="2" />
+                <Precinct name="Madison" votes="1" />
+                <Precinct name="Bountyland" votes="6" />
+                <Precinct name="Oakway" votes="3" />
+                <Precinct name="Return" votes="2" />
+                <Precinct name="Richland" votes="2" />
+                <Precinct name="Salem" votes="7" />
+                <Precinct name="Stamp Creek" votes="0" />
+                <Precinct name="New Hope" votes="1" />
+                <Precinct name="Shiloh" votes="4" />
+                <Precinct name="South Union" votes="10" />
+                <Precinct name="Tamassee" votes="2" />
+                <Precinct name="Tokeena-Providence" votes="3" />
+                <Precinct name="Utica" votes="6" />
+                <Precinct name="Walhalla 1" votes="11" />
+                <Precinct name="Walhalla 2" votes="17" />
+                <Precinct name="Westminster 1" votes="13" />
+                <Precinct name="Westminster 2" votes="7" />
+                <Precinct name="West Union" votes="5" />
+                <Precinct name="Seneca 1" votes="7" />
+                <Precinct name="Seneca 2" votes="3" />
+                <Precinct name="Seneca 3" votes="3" />
+                <Precinct name="Seneca 4" votes="11" />
+                <Precinct name="Absentee" votes="8" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="5" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Constitution" party="CON" totalVotes="34">
+            <VoteType name="Election Day" votes="34">
+                <Precinct name="Newry-Corinth" votes="1" />
+                <Precinct name="Earles Grove" votes="0" />
+                <Precinct name="Ravenel" votes="0" />
+                <Precinct name="Fair Play" votes="1" />
+                <Precinct name="Friendship" votes="4" />
+                <Precinct name="Holly Springs" votes="1" />
+                <Precinct name="Keowee" votes="1" />
+                <Precinct name="Long Creek" votes="0" />
+                <Precinct name="Mountain Rest" votes="0" />
+                <Precinct name="Madison" votes="0" />
+                <Precinct name="Bountyland" votes="0" />
+                <Precinct name="Oakway" votes="4" />
+                <Precinct name="Return" votes="0" />
+                <Precinct name="Richland" votes="1" />
+                <Precinct name="Salem" votes="2" />
+                <Precinct name="Stamp Creek" votes="0" />
+                <Precinct name="New Hope" votes="0" />
+                <Precinct name="Shiloh" votes="1" />
+                <Precinct name="South Union" votes="1" />
+                <Precinct name="Tamassee" votes="0" />
+                <Precinct name="Tokeena-Providence" votes="1" />
+                <Precinct name="Utica" votes="0" />
+                <Precinct name="Walhalla 1" votes="1" />
+                <Precinct name="Walhalla 2" votes="3" />
+                <Precinct name="Westminster 1" votes="2" />
+                <Precinct name="Westminster 2" votes="2" />
+                <Precinct name="West Union" votes="1" />
+                <Precinct name="Seneca 1" votes="0" />
+                <Precinct name="Seneca 2" votes="0" />
+                <Precinct name="Seneca 3" votes="0" />
+                <Precinct name="Seneca 4" votes="3" />
+                <Precinct name="Absentee" votes="3" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Independence" party="IND" totalVotes="202">
+            <VoteType name="Election Day" votes="202">
+                <Precinct name="Newry-Corinth" votes="0" />
+                <Precinct name="Earles Grove" votes="1" />
+                <Precinct name="Ravenel" votes="6" />
+                <Precinct name="Fair Play" votes="3" />
+                <Precinct name="Friendship" votes="13" />
+                <Precinct name="Holly Springs" votes="3" />
+                <Precinct name="Keowee" votes="6" />
+                <Precinct name="Long Creek" votes="2" />
+                <Precinct name="Mountain Rest" votes="3" />
+                <Precinct name="Madison" votes="3" />
+                <Precinct name="Bountyland" votes="5" />
+                <Precinct name="Oakway" votes="4" />
+                <Precinct name="Return" votes="1" />
+                <Precinct name="Richland" votes="7" />
+                <Precinct name="Salem" votes="8" />
+                <Precinct name="Stamp Creek" votes="7" />
+                <Precinct name="New Hope" votes="5" />
+                <Precinct name="Shiloh" votes="4" />
+                <Precinct name="South Union" votes="10" />
+                <Precinct name="Tamassee" votes="4" />
+                <Precinct name="Tokeena-Providence" votes="5" />
+                <Precinct name="Utica" votes="5" />
+                <Precinct name="Walhalla 1" votes="13" />
+                <Precinct name="Walhalla 2" votes="5" />
+                <Precinct name="Westminster 1" votes="5" />
+                <Precinct name="Westminster 2" votes="9" />
+                <Precinct name="West Union" votes="5" />
+                <Precinct name="Seneca 1" votes="12" />
+                <Precinct name="Seneca 2" votes="3" />
+                <Precinct name="Seneca 3" votes="5" />
+                <Precinct name="Seneca 4" votes="6" />
+                <Precinct name="Absentee" votes="34" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Green" party="GRN" totalVotes="84">
+            <VoteType name="Election Day" votes="84">
+                <Precinct name="Newry-Corinth" votes="0" />
+                <Precinct name="Earles Grove" votes="2" />
+                <Precinct name="Ravenel" votes="2" />
+                <Precinct name="Fair Play" votes="0" />
+                <Precinct name="Friendship" votes="3" />
+                <Precinct name="Holly Springs" votes="0" />
+                <Precinct name="Keowee" votes="3" />
+                <Precinct name="Long Creek" votes="4" />
+                <Precinct name="Mountain Rest" votes="2" />
+                <Precinct name="Madison" votes="0" />
+                <Precinct name="Bountyland" votes="1" />
+                <Precinct name="Oakway" votes="0" />
+                <Precinct name="Return" votes="0" />
+                <Precinct name="Richland" votes="2" />
+                <Precinct name="Salem" votes="4" />
+                <Precinct name="Stamp Creek" votes="1" />
+                <Precinct name="New Hope" votes="1" />
+                <Precinct name="Shiloh" votes="1" />
+                <Precinct name="South Union" votes="4" />
+                <Precinct name="Tamassee" votes="2" />
+                <Precinct name="Tokeena-Providence" votes="0" />
+                <Precinct name="Utica" votes="2" />
+                <Precinct name="Walhalla 1" votes="7" />
+                <Precinct name="Walhalla 2" votes="5" />
+                <Precinct name="Westminster 1" votes="6" />
+                <Precinct name="Westminster 2" votes="2" />
+                <Precinct name="West Union" votes="1" />
+                <Precinct name="Seneca 1" votes="6" />
+                <Precinct name="Seneca 2" votes="2" />
+                <Precinct name="Seneca 3" votes="2" />
+                <Precinct name="Seneca 4" votes="6" />
+                <Precinct name="Absentee" votes="13" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Republican" party="REP" totalVotes="11565">
+            <VoteType name="Election Day" votes="11565">
+                <Precinct name="Newry-Corinth" votes="48" />
+                <Precinct name="Earles Grove" votes="188" />
+                <Precinct name="Ravenel" votes="351" />
+                <Precinct name="Fair Play" votes="244" />
+                <Precinct name="Friendship" votes="395" />
+                <Precinct name="Holly Springs" votes="104" />
+                <Precinct name="Keowee" votes="318" />
+                <Precinct name="Long Creek" votes="74" />
+                <Precinct name="Mountain Rest" votes="181" />
+                <Precinct name="Madison" votes="169" />
+                <Precinct name="Bountyland" votes="303" />
+                <Precinct name="Oakway" votes="281" />
+                <Precinct name="Return" votes="166" />
+                <Precinct name="Richland" votes="207" />
+                <Precinct name="Salem" votes="418" />
+                <Precinct name="Stamp Creek" votes="363" />
+                <Precinct name="New Hope" votes="368" />
+                <Precinct name="Shiloh" votes="186" />
+                <Precinct name="South Union" votes="346" />
+                <Precinct name="Tamassee" votes="287" />
+                <Precinct name="Tokeena-Providence" votes="278" />
+                <Precinct name="Utica" votes="93" />
+                <Precinct name="Walhalla 1" votes="470" />
+                <Precinct name="Walhalla 2" votes="398" />
+                <Precinct name="Westminster 1" votes="554" />
+                <Precinct name="Westminster 2" votes="306" />
+                <Precinct name="West Union" votes="309" />
+                <Precinct name="Seneca 1" votes="314" />
+                <Precinct name="Seneca 2" votes="275" />
+                <Precinct name="Seneca 3" votes="203" />
+                <Precinct name="Seneca 4" votes="289" />
+                <Precinct name="Absentee" votes="3024" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="15" />
+                <Precinct name="Provisional" votes="28" />
+                <Precinct name="Failsafe Provisional" votes="12" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="American" party="AMR" totalVotes="115">
+            <VoteType name="Election Day" votes="115">
+                <Precinct name="Newry-Corinth" votes="0" />
+                <Precinct name="Earles Grove" votes="2" />
+                <Precinct name="Ravenel" votes="1" />
+                <Precinct name="Fair Play" votes="3" />
+                <Precinct name="Friendship" votes="9" />
+                <Precinct name="Holly Springs" votes="2" />
+                <Precinct name="Keowee" votes="2" />
+                <Precinct name="Long Creek" votes="2" />
+                <Precinct name="Mountain Rest" votes="3" />
+                <Precinct name="Madison" votes="0" />
+                <Precinct name="Bountyland" votes="1" />
+                <Precinct name="Oakway" votes="4" />
+                <Precinct name="Return" votes="1" />
+                <Precinct name="Richland" votes="1" />
+                <Precinct name="Salem" votes="7" />
+                <Precinct name="Stamp Creek" votes="0" />
+                <Precinct name="New Hope" votes="1" />
+                <Precinct name="Shiloh" votes="2" />
+                <Precinct name="South Union" votes="3" />
+                <Precinct name="Tamassee" votes="3" />
+                <Precinct name="Tokeena-Providence" votes="2" />
+                <Precinct name="Utica" votes="2" />
+                <Precinct name="Walhalla 1" votes="3" />
+                <Precinct name="Walhalla 2" votes="9" />
+                <Precinct name="Westminster 1" votes="8" />
+                <Precinct name="Westminster 2" votes="4" />
+                <Precinct name="West Union" votes="5" />
+                <Precinct name="Seneca 1" votes="1" />
+                <Precinct name="Seneca 2" votes="3" />
+                <Precinct name="Seneca 3" votes="1" />
+                <Precinct name="Seneca 4" votes="7" />
+                <Precinct name="Absentee" votes="22" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="008" text="Libertarian" party="LIB" totalVotes="88">
+            <VoteType name="Election Day" votes="88">
+                <Precinct name="Newry-Corinth" votes="0" />
+                <Precinct name="Earles Grove" votes="0" />
+                <Precinct name="Ravenel" votes="1" />
+                <Precinct name="Fair Play" votes="0" />
+                <Precinct name="Friendship" votes="6" />
+                <Precinct name="Holly Springs" votes="1" />
+                <Precinct name="Keowee" votes="2" />
+                <Precinct name="Long Creek" votes="0" />
+                <Precinct name="Mountain Rest" votes="1" />
+                <Precinct name="Madison" votes="0" />
+                <Precinct name="Bountyland" votes="2" />
+                <Precinct name="Oakway" votes="4" />
+                <Precinct name="Return" votes="2" />
+                <Precinct name="Richland" votes="2" />
+                <Precinct name="Salem" votes="1" />
+                <Precinct name="Stamp Creek" votes="1" />
+                <Precinct name="New Hope" votes="1" />
+                <Precinct name="Shiloh" votes="1" />
+                <Precinct name="South Union" votes="3" />
+                <Precinct name="Tamassee" votes="3" />
+                <Precinct name="Tokeena-Providence" votes="0" />
+                <Precinct name="Utica" votes="1" />
+                <Precinct name="Walhalla 1" votes="9" />
+                <Precinct name="Walhalla 2" votes="3" />
+                <Precinct name="Westminster 1" votes="5" />
+                <Precinct name="Westminster 2" votes="2" />
+                <Precinct name="West Union" votes="2" />
+                <Precinct name="Seneca 1" votes="5" />
+                <Precinct name="Seneca 2" votes="5" />
+                <Precinct name="Seneca 3" votes="4" />
+                <Precinct name="Seneca 4" votes="5" />
+                <Precinct name="Absentee" votes="15" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0104" text="President and Vice President" voteFor="1" isQuestion="false" precinctsReporting="31" precinctsReported="31">
+        <VoteType name="overVotes" votes="4">
+            <Precinct name="Newry-Corinth" votes="0" />
+            <Precinct name="Earles Grove" votes="0" />
+            <Precinct name="Ravenel" votes="0" />
+            <Precinct name="Fair Play" votes="0" />
+            <Precinct name="Friendship" votes="0" />
+            <Precinct name="Holly Springs" votes="0" />
+            <Precinct name="Keowee" votes="0" />
+            <Precinct name="Long Creek" votes="0" />
+            <Precinct name="Mountain Rest" votes="0" />
+            <Precinct name="Madison" votes="0" />
+            <Precinct name="Bountyland" votes="0" />
+            <Precinct name="Oakway" votes="0" />
+            <Precinct name="Return" votes="0" />
+            <Precinct name="Richland" votes="0" />
+            <Precinct name="Salem" votes="0" />
+            <Precinct name="Stamp Creek" votes="0" />
+            <Precinct name="New Hope" votes="0" />
+            <Precinct name="Shiloh" votes="0" />
+            <Precinct name="South Union" votes="0" />
+            <Precinct name="Tamassee" votes="0" />
+            <Precinct name="Tokeena-Providence" votes="0" />
+            <Precinct name="Utica" votes="0" />
+            <Precinct name="Walhalla 1" votes="0" />
+            <Precinct name="Walhalla 2" votes="0" />
+            <Precinct name="Westminster 1" votes="0" />
+            <Precinct name="Westminster 2" votes="0" />
+            <Precinct name="West Union" votes="0" />
+            <Precinct name="Seneca 1" votes="0" />
+            <Precinct name="Seneca 2" votes="0" />
+            <Precinct name="Seneca 3" votes="0" />
+            <Precinct name="Seneca 4" votes="0" />
+            <Precinct name="Absentee" votes="3" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="1" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="345">
+            <Precinct name="Newry-Corinth" votes="0" />
+            <Precinct name="Earles Grove" votes="3" />
+            <Precinct name="Ravenel" votes="13" />
+            <Precinct name="Fair Play" votes="6" />
+            <Precinct name="Friendship" votes="11" />
+            <Precinct name="Holly Springs" votes="4" />
+            <Precinct name="Keowee" votes="10" />
+            <Precinct name="Long Creek" votes="1" />
+            <Precinct name="Mountain Rest" votes="6" />
+            <Precinct name="Madison" votes="4" />
+            <Precinct name="Bountyland" votes="9" />
+            <Precinct name="Oakway" votes="8" />
+            <Precinct name="Return" votes="5" />
+            <Precinct name="Richland" votes="4" />
+            <Precinct name="Salem" votes="12" />
+            <Precinct name="Stamp Creek" votes="11" />
+            <Precinct name="New Hope" votes="7" />
+            <Precinct name="Shiloh" votes="7" />
+            <Precinct name="South Union" votes="7" />
+            <Precinct name="Tamassee" votes="4" />
+            <Precinct name="Tokeena-Providence" votes="8" />
+            <Precinct name="Utica" votes="4" />
+            <Precinct name="Walhalla 1" votes="14" />
+            <Precinct name="Walhalla 2" votes="1" />
+            <Precinct name="Westminster 1" votes="12" />
+            <Precinct name="Westminster 2" votes="6" />
+            <Precinct name="West Union" votes="8" />
+            <Precinct name="Seneca 1" votes="8" />
+            <Precinct name="Seneca 2" votes="12" />
+            <Precinct name="Seneca 3" votes="4" />
+            <Precinct name="Seneca 4" votes="12" />
+            <Precinct name="Absentee" votes="124" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Hillary Rodham Clinton / Timothy Michael Kaine" party="DEM" totalVotes="7998">
+            <VoteType name="Election Day" votes="7998">
+                <Precinct name="Newry-Corinth" votes="45" />
+                <Precinct name="Earles Grove" votes="65" />
+                <Precinct name="Ravenel" votes="432" />
+                <Precinct name="Fair Play" votes="62" />
+                <Precinct name="Friendship" votes="230" />
+                <Precinct name="Holly Springs" votes="18" />
+                <Precinct name="Keowee" votes="140" />
+                <Precinct name="Long Creek" votes="61" />
+                <Precinct name="Mountain Rest" votes="108" />
+                <Precinct name="Madison" votes="33" />
+                <Precinct name="Bountyland" votes="181" />
+                <Precinct name="Oakway" votes="103" />
+                <Precinct name="Return" votes="53" />
+                <Precinct name="Richland" votes="97" />
+                <Precinct name="Salem" votes="137" />
+                <Precinct name="Stamp Creek" votes="247" />
+                <Precinct name="New Hope" votes="166" />
+                <Precinct name="Shiloh" votes="215" />
+                <Precinct name="South Union" votes="143" />
+                <Precinct name="Tamassee" votes="119" />
+                <Precinct name="Tokeena-Providence" votes="104" />
+                <Precinct name="Utica" votes="145" />
+                <Precinct name="Walhalla 1" votes="279" />
+                <Precinct name="Walhalla 2" votes="216" />
+                <Precinct name="Westminster 1" votes="204" />
+                <Precinct name="Westminster 2" votes="121" />
+                <Precinct name="West Union" votes="165" />
+                <Precinct name="Seneca 1" votes="529" />
+                <Precinct name="Seneca 2" votes="298" />
+                <Precinct name="Seneca 3" votes="166" />
+                <Precinct name="Seneca 4" votes="527" />
+                <Precinct name="Absentee" votes="2564" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="6" />
+                <Precinct name="Provisional" votes="16" />
+                <Precinct name="Failsafe Provisional" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Darrell Castle / Scott Bradley" party="CON" totalVotes="92">
+            <VoteType name="Election Day" votes="92">
+                <Precinct name="Newry-Corinth" votes="0" />
+                <Precinct name="Earles Grove" votes="0" />
+                <Precinct name="Ravenel" votes="1" />
+                <Precinct name="Fair Play" votes="1" />
+                <Precinct name="Friendship" votes="6" />
+                <Precinct name="Holly Springs" votes="0" />
+                <Precinct name="Keowee" votes="1" />
+                <Precinct name="Long Creek" votes="0" />
+                <Precinct name="Mountain Rest" votes="1" />
+                <Precinct name="Madison" votes="1" />
+                <Precinct name="Bountyland" votes="4" />
+                <Precinct name="Oakway" votes="2" />
+                <Precinct name="Return" votes="0" />
+                <Precinct name="Richland" votes="1" />
+                <Precinct name="Salem" votes="1" />
+                <Precinct name="Stamp Creek" votes="2" />
+                <Precinct name="New Hope" votes="4" />
+                <Precinct name="Shiloh" votes="3" />
+                <Precinct name="South Union" votes="2" />
+                <Precinct name="Tamassee" votes="1" />
+                <Precinct name="Tokeena-Providence" votes="6" />
+                <Precinct name="Utica" votes="1" />
+                <Precinct name="Walhalla 1" votes="4" />
+                <Precinct name="Walhalla 2" votes="5" />
+                <Precinct name="Westminster 1" votes="5" />
+                <Precinct name="Westminster 2" votes="1" />
+                <Precinct name="West Union" votes="4" />
+                <Precinct name="Seneca 1" votes="5" />
+                <Precinct name="Seneca 2" votes="8" />
+                <Precinct name="Seneca 3" votes="1" />
+                <Precinct name="Seneca 4" votes="4" />
+                <Precinct name="Absentee" votes="17" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Evan McMullin / Nathan Johnson" party="IND" totalVotes="316">
+            <VoteType name="Election Day" votes="316">
+                <Precinct name="Newry-Corinth" votes="0" />
+                <Precinct name="Earles Grove" votes="0" />
+                <Precinct name="Ravenel" votes="26" />
+                <Precinct name="Fair Play" votes="3" />
+                <Precinct name="Friendship" votes="16" />
+                <Precinct name="Holly Springs" votes="0" />
+                <Precinct name="Keowee" votes="9" />
+                <Precinct name="Long Creek" votes="1" />
+                <Precinct name="Mountain Rest" votes="4" />
+                <Precinct name="Madison" votes="3" />
+                <Precinct name="Bountyland" votes="11" />
+                <Precinct name="Oakway" votes="9" />
+                <Precinct name="Return" votes="2" />
+                <Precinct name="Richland" votes="4" />
+                <Precinct name="Salem" votes="2" />
+                <Precinct name="Stamp Creek" votes="9" />
+                <Precinct name="New Hope" votes="16" />
+                <Precinct name="Shiloh" votes="12" />
+                <Precinct name="South Union" votes="9" />
+                <Precinct name="Tamassee" votes="8" />
+                <Precinct name="Tokeena-Providence" votes="8" />
+                <Precinct name="Utica" votes="2" />
+                <Precinct name="Walhalla 1" votes="12" />
+                <Precinct name="Walhalla 2" votes="7" />
+                <Precinct name="Westminster 1" votes="10" />
+                <Precinct name="Westminster 2" votes="6" />
+                <Precinct name="West Union" votes="8" />
+                <Precinct name="Seneca 1" votes="18" />
+                <Precinct name="Seneca 2" votes="11" />
+                <Precinct name="Seneca 3" votes="9" />
+                <Precinct name="Seneca 4" votes="13" />
+                <Precinct name="Absentee" votes="67" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Jill Stein / Ajamu Baraka" party="GRN" totalVotes="225">
+            <VoteType name="Election Day" votes="225">
+                <Precinct name="Newry-Corinth" votes="2" />
+                <Precinct name="Earles Grove" votes="3" />
+                <Precinct name="Ravenel" votes="6" />
+                <Precinct name="Fair Play" votes="0" />
+                <Precinct name="Friendship" votes="7" />
+                <Precinct name="Holly Springs" votes="1" />
+                <Precinct name="Keowee" votes="5" />
+                <Precinct name="Long Creek" votes="6" />
+                <Precinct name="Mountain Rest" votes="5" />
+                <Precinct name="Madison" votes="7" />
+                <Precinct name="Bountyland" votes="10" />
+                <Precinct name="Oakway" votes="3" />
+                <Precinct name="Return" votes="0" />
+                <Precinct name="Richland" votes="7" />
+                <Precinct name="Salem" votes="3" />
+                <Precinct name="Stamp Creek" votes="5" />
+                <Precinct name="New Hope" votes="5" />
+                <Precinct name="Shiloh" votes="1" />
+                <Precinct name="South Union" votes="6" />
+                <Precinct name="Tamassee" votes="2" />
+                <Precinct name="Tokeena-Providence" votes="4" />
+                <Precinct name="Utica" votes="7" />
+                <Precinct name="Walhalla 1" votes="17" />
+                <Precinct name="Walhalla 2" votes="7" />
+                <Precinct name="Westminster 1" votes="10" />
+                <Precinct name="Westminster 2" votes="8" />
+                <Precinct name="West Union" votes="6" />
+                <Precinct name="Seneca 1" votes="10" />
+                <Precinct name="Seneca 2" votes="11" />
+                <Precinct name="Seneca 3" votes="3" />
+                <Precinct name="Seneca 4" votes="14" />
+                <Precinct name="Absentee" votes="43" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Donald J Trump / Michael R Pence" party="REP" totalVotes="24178">
+            <VoteType name="Election Day" votes="24178">
+                <Precinct name="Newry-Corinth" votes="103" />
+                <Precinct name="Earles Grove" votes="428" />
+                <Precinct name="Ravenel" votes="780" />
+                <Precinct name="Fair Play" votes="463" />
+                <Precinct name="Friendship" votes="763" />
+                <Precinct name="Holly Springs" votes="199" />
+                <Precinct name="Keowee" votes="673" />
+                <Precinct name="Long Creek" votes="165" />
+                <Precinct name="Mountain Rest" votes="417" />
+                <Precinct name="Madison" votes="312" />
+                <Precinct name="Bountyland" votes="572" />
+                <Precinct name="Oakway" votes="619" />
+                <Precinct name="Return" votes="377" />
+                <Precinct name="Richland" votes="479" />
+                <Precinct name="Salem" votes="851" />
+                <Precinct name="Stamp Creek" votes="696" />
+                <Precinct name="New Hope" votes="782" />
+                <Precinct name="Shiloh" votes="394" />
+                <Precinct name="South Union" votes="635" />
+                <Precinct name="Tamassee" votes="631" />
+                <Precinct name="Tokeena-Providence" votes="562" />
+                <Precinct name="Utica" votes="180" />
+                <Precinct name="Walhalla 1" votes="1091" />
+                <Precinct name="Walhalla 2" votes="843" />
+                <Precinct name="Westminster 1" votes="1128" />
+                <Precinct name="Westminster 2" votes="680" />
+                <Precinct name="West Union" votes="686" />
+                <Precinct name="Seneca 1" votes="648" />
+                <Precinct name="Seneca 2" votes="586" />
+                <Precinct name="Seneca 3" votes="452" />
+                <Precinct name="Seneca 4" votes="637" />
+                <Precinct name="Absentee" votes="6237" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="27" />
+                <Precinct name="Provisional" votes="56" />
+                <Precinct name="Failsafe Provisional" votes="26" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Peter Skewes / Michael Lacy" party="AMR" totalVotes="101">
+            <VoteType name="Election Day" votes="101">
+                <Precinct name="Newry-Corinth" votes="1" />
+                <Precinct name="Earles Grove" votes="1" />
+                <Precinct name="Ravenel" votes="6" />
+                <Precinct name="Fair Play" votes="1" />
+                <Precinct name="Friendship" votes="4" />
+                <Precinct name="Holly Springs" votes="1" />
+                <Precinct name="Keowee" votes="1" />
+                <Precinct name="Long Creek" votes="2" />
+                <Precinct name="Mountain Rest" votes="1" />
+                <Precinct name="Madison" votes="0" />
+                <Precinct name="Bountyland" votes="1" />
+                <Precinct name="Oakway" votes="3" />
+                <Precinct name="Return" votes="0" />
+                <Precinct name="Richland" votes="2" />
+                <Precinct name="Salem" votes="2" />
+                <Precinct name="Stamp Creek" votes="2" />
+                <Precinct name="New Hope" votes="5" />
+                <Precinct name="Shiloh" votes="7" />
+                <Precinct name="South Union" votes="2" />
+                <Precinct name="Tamassee" votes="1" />
+                <Precinct name="Tokeena-Providence" votes="5" />
+                <Precinct name="Utica" votes="3" />
+                <Precinct name="Walhalla 1" votes="2" />
+                <Precinct name="Walhalla 2" votes="3" />
+                <Precinct name="Westminster 1" votes="2" />
+                <Precinct name="Westminster 2" votes="2" />
+                <Precinct name="West Union" votes="3" />
+                <Precinct name="Seneca 1" votes="1" />
+                <Precinct name="Seneca 2" votes="4" />
+                <Precinct name="Seneca 3" votes="2" />
+                <Precinct name="Seneca 4" votes="5" />
+                <Precinct name="Absentee" votes="26" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="Gary Johnson / Bill Weld" party="LIB" totalVotes="725">
+            <VoteType name="Election Day" votes="725">
+                <Precinct name="Newry-Corinth" votes="4" />
+                <Precinct name="Earles Grove" votes="8" />
+                <Precinct name="Ravenel" votes="36" />
+                <Precinct name="Fair Play" votes="5" />
+                <Precinct name="Friendship" votes="33" />
+                <Precinct name="Holly Springs" votes="4" />
+                <Precinct name="Keowee" votes="13" />
+                <Precinct name="Long Creek" votes="8" />
+                <Precinct name="Mountain Rest" votes="9" />
+                <Precinct name="Madison" votes="6" />
+                <Precinct name="Bountyland" votes="18" />
+                <Precinct name="Oakway" votes="11" />
+                <Precinct name="Return" votes="11" />
+                <Precinct name="Richland" votes="14" />
+                <Precinct name="Salem" votes="18" />
+                <Precinct name="Stamp Creek" votes="26" />
+                <Precinct name="New Hope" votes="29" />
+                <Precinct name="Shiloh" votes="12" />
+                <Precinct name="South Union" votes="17" />
+                <Precinct name="Tamassee" votes="15" />
+                <Precinct name="Tokeena-Providence" votes="15" />
+                <Precinct name="Utica" votes="7" />
+                <Precinct name="Walhalla 1" votes="43" />
+                <Precinct name="Walhalla 2" votes="19" />
+                <Precinct name="Westminster 1" votes="20" />
+                <Precinct name="Westminster 2" votes="9" />
+                <Precinct name="West Union" votes="21" />
+                <Precinct name="Seneca 1" votes="41" />
+                <Precinct name="Seneca 2" votes="37" />
+                <Precinct name="Seneca 3" votes="17" />
+                <Precinct name="Seneca 4" votes="26" />
+                <Precinct name="Absentee" votes="168" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="3" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0105" text="U.S. Senate" voteFor="1" isQuestion="false" precinctsReporting="31" precinctsReported="31">
+        <VoteType name="overVotes" votes="6">
+            <Precinct name="Newry-Corinth" votes="0" />
+            <Precinct name="Earles Grove" votes="0" />
+            <Precinct name="Ravenel" votes="0" />
+            <Precinct name="Fair Play" votes="0" />
+            <Precinct name="Friendship" votes="0" />
+            <Precinct name="Holly Springs" votes="0" />
+            <Precinct name="Keowee" votes="0" />
+            <Precinct name="Long Creek" votes="0" />
+            <Precinct name="Mountain Rest" votes="0" />
+            <Precinct name="Madison" votes="0" />
+            <Precinct name="Bountyland" votes="0" />
+            <Precinct name="Oakway" votes="0" />
+            <Precinct name="Return" votes="0" />
+            <Precinct name="Richland" votes="0" />
+            <Precinct name="Salem" votes="0" />
+            <Precinct name="Stamp Creek" votes="0" />
+            <Precinct name="New Hope" votes="0" />
+            <Precinct name="Shiloh" votes="0" />
+            <Precinct name="South Union" votes="0" />
+            <Precinct name="Tamassee" votes="0" />
+            <Precinct name="Tokeena-Providence" votes="0" />
+            <Precinct name="Utica" votes="0" />
+            <Precinct name="Walhalla 1" votes="0" />
+            <Precinct name="Walhalla 2" votes="0" />
+            <Precinct name="Westminster 1" votes="0" />
+            <Precinct name="Westminster 2" votes="0" />
+            <Precinct name="West Union" votes="0" />
+            <Precinct name="Seneca 1" votes="0" />
+            <Precinct name="Seneca 2" votes="0" />
+            <Precinct name="Seneca 3" votes="0" />
+            <Precinct name="Seneca 4" votes="0" />
+            <Precinct name="Absentee" votes="5" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="1" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1231">
+            <Precinct name="Newry-Corinth" votes="3" />
+            <Precinct name="Earles Grove" votes="11" />
+            <Precinct name="Ravenel" votes="34" />
+            <Precinct name="Fair Play" votes="15" />
+            <Precinct name="Friendship" votes="37" />
+            <Precinct name="Holly Springs" votes="3" />
+            <Precinct name="Keowee" votes="20" />
+            <Precinct name="Long Creek" votes="13" />
+            <Precinct name="Mountain Rest" votes="16" />
+            <Precinct name="Madison" votes="12" />
+            <Precinct name="Bountyland" votes="21" />
+            <Precinct name="Oakway" votes="30" />
+            <Precinct name="Return" votes="9" />
+            <Precinct name="Richland" votes="24" />
+            <Precinct name="Salem" votes="36" />
+            <Precinct name="Stamp Creek" votes="28" />
+            <Precinct name="New Hope" votes="35" />
+            <Precinct name="Shiloh" votes="13" />
+            <Precinct name="South Union" votes="29" />
+            <Precinct name="Tamassee" votes="24" />
+            <Precinct name="Tokeena-Providence" votes="37" />
+            <Precinct name="Utica" votes="7" />
+            <Precinct name="Walhalla 1" votes="55" />
+            <Precinct name="Walhalla 2" votes="41" />
+            <Precinct name="Westminster 1" votes="39" />
+            <Precinct name="Westminster 2" votes="42" />
+            <Precinct name="West Union" votes="36" />
+            <Precinct name="Seneca 1" votes="51" />
+            <Precinct name="Seneca 2" votes="24" />
+            <Precinct name="Seneca 3" votes="19" />
+            <Precinct name="Seneca 4" votes="45" />
+            <Precinct name="Absentee" votes="412" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="3" />
+            <Precinct name="Provisional" votes="3" />
+            <Precinct name="Failsafe Provisional" votes="4" />
+        </VoteType>
+        <Choice key="001" text="Thomas Dixon" party="DEM" totalVotes="5863">
+            <VoteType name="Election Day" votes="5863">
+                <Precinct name="Newry-Corinth" votes="40" />
+                <Precinct name="Earles Grove" votes="51" />
+                <Precinct name="Ravenel" votes="311" />
+                <Precinct name="Fair Play" votes="49" />
+                <Precinct name="Friendship" votes="159" />
+                <Precinct name="Holly Springs" votes="19" />
+                <Precinct name="Keowee" votes="84" />
+                <Precinct name="Long Creek" votes="49" />
+                <Precinct name="Mountain Rest" votes="91" />
+                <Precinct name="Madison" votes="27" />
+                <Precinct name="Bountyland" votes="117" />
+                <Precinct name="Oakway" votes="87" />
+                <Precinct name="Return" votes="35" />
+                <Precinct name="Richland" votes="70" />
+                <Precinct name="Salem" votes="98" />
+                <Precinct name="Stamp Creek" votes="138" />
+                <Precinct name="New Hope" votes="117" />
+                <Precinct name="Shiloh" votes="175" />
+                <Precinct name="South Union" votes="101" />
+                <Precinct name="Tamassee" votes="82" />
+                <Precinct name="Tokeena-Providence" votes="83" />
+                <Precinct name="Utica" votes="119" />
+                <Precinct name="Walhalla 1" votes="188" />
+                <Precinct name="Walhalla 2" votes="165" />
+                <Precinct name="Westminster 1" votes="150" />
+                <Precinct name="Westminster 2" votes="93" />
+                <Precinct name="West Union" votes="111" />
+                <Precinct name="Seneca 1" votes="401" />
+                <Precinct name="Seneca 2" votes="226" />
+                <Precinct name="Seneca 3" votes="125" />
+                <Precinct name="Seneca 4" votes="399" />
+                <Precinct name="Absentee" votes="1881" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="4" />
+                <Precinct name="Provisional" votes="14" />
+                <Precinct name="Failsafe Provisional" votes="4" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Thomas Dixon" party="WFM" totalVotes="614">
+            <VoteType name="Election Day" votes="614">
+                <Precinct name="Newry-Corinth" votes="7" />
+                <Precinct name="Earles Grove" votes="13" />
+                <Precinct name="Ravenel" votes="14" />
+                <Precinct name="Fair Play" votes="9" />
+                <Precinct name="Friendship" votes="25" />
+                <Precinct name="Holly Springs" votes="8" />
+                <Precinct name="Keowee" votes="14" />
+                <Precinct name="Long Creek" votes="6" />
+                <Precinct name="Mountain Rest" votes="12" />
+                <Precinct name="Madison" votes="10" />
+                <Precinct name="Bountyland" votes="20" />
+                <Precinct name="Oakway" votes="10" />
+                <Precinct name="Return" votes="11" />
+                <Precinct name="Richland" votes="11" />
+                <Precinct name="Salem" votes="17" />
+                <Precinct name="Stamp Creek" votes="2" />
+                <Precinct name="New Hope" votes="12" />
+                <Precinct name="Shiloh" votes="6" />
+                <Precinct name="South Union" votes="24" />
+                <Precinct name="Tamassee" votes="20" />
+                <Precinct name="Tokeena-Providence" votes="17" />
+                <Precinct name="Utica" votes="15" />
+                <Precinct name="Walhalla 1" votes="49" />
+                <Precinct name="Walhalla 2" votes="35" />
+                <Precinct name="Westminster 1" votes="34" />
+                <Precinct name="Westminster 2" votes="17" />
+                <Precinct name="West Union" votes="16" />
+                <Precinct name="Seneca 1" votes="34" />
+                <Precinct name="Seneca 2" votes="19" />
+                <Precinct name="Seneca 3" votes="11" />
+                <Precinct name="Seneca 4" votes="39" />
+                <Precinct name="Absentee" votes="74" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="3" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Bill Bledsoe" party="CON" totalVotes="219">
+            <VoteType name="Election Day" votes="219">
+                <Precinct name="Newry-Corinth" votes="3" />
+                <Precinct name="Earles Grove" votes="3" />
+                <Precinct name="Ravenel" votes="5" />
+                <Precinct name="Fair Play" votes="3" />
+                <Precinct name="Friendship" votes="12" />
+                <Precinct name="Holly Springs" votes="1" />
+                <Precinct name="Keowee" votes="1" />
+                <Precinct name="Long Creek" votes="3" />
+                <Precinct name="Mountain Rest" votes="1" />
+                <Precinct name="Madison" votes="3" />
+                <Precinct name="Bountyland" votes="4" />
+                <Precinct name="Oakway" votes="3" />
+                <Precinct name="Return" votes="1" />
+                <Precinct name="Richland" votes="2" />
+                <Precinct name="Salem" votes="12" />
+                <Precinct name="Stamp Creek" votes="3" />
+                <Precinct name="New Hope" votes="3" />
+                <Precinct name="Shiloh" votes="4" />
+                <Precinct name="South Union" votes="7" />
+                <Precinct name="Tamassee" votes="3" />
+                <Precinct name="Tokeena-Providence" votes="9" />
+                <Precinct name="Utica" votes="2" />
+                <Precinct name="Walhalla 1" votes="17" />
+                <Precinct name="Walhalla 2" votes="12" />
+                <Precinct name="Westminster 1" votes="15" />
+                <Precinct name="Westminster 2" votes="10" />
+                <Precinct name="West Union" votes="5" />
+                <Precinct name="Seneca 1" votes="8" />
+                <Precinct name="Seneca 2" votes="5" />
+                <Precinct name="Seneca 3" votes="5" />
+                <Precinct name="Seneca 4" votes="10" />
+                <Precinct name="Absentee" votes="41" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="2" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Thomas Dixon" party="GRN" totalVotes="245">
+            <VoteType name="Election Day" votes="245">
+                <Precinct name="Newry-Corinth" votes="1" />
+                <Precinct name="Earles Grove" votes="3" />
+                <Precinct name="Ravenel" votes="6" />
+                <Precinct name="Fair Play" votes="2" />
+                <Precinct name="Friendship" votes="9" />
+                <Precinct name="Holly Springs" votes="1" />
+                <Precinct name="Keowee" votes="9" />
+                <Precinct name="Long Creek" votes="9" />
+                <Precinct name="Mountain Rest" votes="6" />
+                <Precinct name="Madison" votes="2" />
+                <Precinct name="Bountyland" votes="8" />
+                <Precinct name="Oakway" votes="2" />
+                <Precinct name="Return" votes="1" />
+                <Precinct name="Richland" votes="4" />
+                <Precinct name="Salem" votes="2" />
+                <Precinct name="Stamp Creek" votes="13" />
+                <Precinct name="New Hope" votes="4" />
+                <Precinct name="Shiloh" votes="4" />
+                <Precinct name="South Union" votes="5" />
+                <Precinct name="Tamassee" votes="5" />
+                <Precinct name="Tokeena-Providence" votes="1" />
+                <Precinct name="Utica" votes="5" />
+                <Precinct name="Walhalla 1" votes="17" />
+                <Precinct name="Walhalla 2" votes="9" />
+                <Precinct name="Westminster 1" votes="7" />
+                <Precinct name="Westminster 2" votes="8" />
+                <Precinct name="West Union" votes="8" />
+                <Precinct name="Seneca 1" votes="9" />
+                <Precinct name="Seneca 2" votes="12" />
+                <Precinct name="Seneca 3" votes="8" />
+                <Precinct name="Seneca 4" votes="14" />
+                <Precinct name="Absentee" votes="49" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Tim Scott" party="REP" totalVotes="25248">
+            <VoteType name="Election Day" votes="25248">
+                <Precinct name="Newry-Corinth" votes="96" />
+                <Precinct name="Earles Grove" votes="423" />
+                <Precinct name="Ravenel" votes="903" />
+                <Precinct name="Fair Play" votes="455" />
+                <Precinct name="Friendship" votes="801" />
+                <Precinct name="Holly Springs" votes="190" />
+                <Precinct name="Keowee" votes="705" />
+                <Precinct name="Long Creek" votes="161" />
+                <Precinct name="Mountain Rest" votes="416" />
+                <Precinct name="Madison" votes="303" />
+                <Precinct name="Bountyland" votes="626" />
+                <Precinct name="Oakway" votes="615" />
+                <Precinct name="Return" votes="386" />
+                <Precinct name="Richland" votes="488" />
+                <Precinct name="Salem" votes="846" />
+                <Precinct name="Stamp Creek" votes="809" />
+                <Precinct name="New Hope" votes="830" />
+                <Precinct name="Shiloh" votes="436" />
+                <Precinct name="South Union" votes="643" />
+                <Precinct name="Tamassee" votes="633" />
+                <Precinct name="Tokeena-Providence" votes="554" />
+                <Precinct name="Utica" votes="195" />
+                <Precinct name="Walhalla 1" votes="1108" />
+                <Precinct name="Walhalla 2" votes="803" />
+                <Precinct name="Westminster 1" votes="1119" />
+                <Precinct name="Westminster 2" votes="643" />
+                <Precinct name="West Union" votes="697" />
+                <Precinct name="Seneca 1" votes="742" />
+                <Precinct name="Seneca 2" votes="659" />
+                <Precinct name="Seneca 3" votes="469" />
+                <Precinct name="Seneca 4" votes="704" />
+                <Precinct name="Absentee" votes="6693" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="26" />
+                <Precinct name="Provisional" votes="50" />
+                <Precinct name="Failsafe Provisional" votes="21" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Rebel Michael Scarborough" party="AMR" totalVotes="211">
+            <VoteType name="Election Day" votes="211">
+                <Precinct name="Newry-Corinth" votes="2" />
+                <Precinct name="Earles Grove" votes="3" />
+                <Precinct name="Ravenel" votes="9" />
+                <Precinct name="Fair Play" votes="6" />
+                <Precinct name="Friendship" votes="12" />
+                <Precinct name="Holly Springs" votes="2" />
+                <Precinct name="Keowee" votes="6" />
+                <Precinct name="Long Creek" votes="2" />
+                <Precinct name="Mountain Rest" votes="4" />
+                <Precinct name="Madison" votes="2" />
+                <Precinct name="Bountyland" votes="2" />
+                <Precinct name="Oakway" votes="4" />
+                <Precinct name="Return" votes="1" />
+                <Precinct name="Richland" votes="4" />
+                <Precinct name="Salem" votes="6" />
+                <Precinct name="Stamp Creek" votes="1" />
+                <Precinct name="New Hope" votes="7" />
+                <Precinct name="Shiloh" votes="8" />
+                <Precinct name="South Union" votes="7" />
+                <Precinct name="Tamassee" votes="4" />
+                <Precinct name="Tokeena-Providence" votes="4" />
+                <Precinct name="Utica" votes="3" />
+                <Precinct name="Walhalla 1" votes="11" />
+                <Precinct name="Walhalla 2" votes="14" />
+                <Precinct name="Westminster 1" votes="10" />
+                <Precinct name="Westminster 2" votes="10" />
+                <Precinct name="West Union" votes="12" />
+                <Precinct name="Seneca 1" votes="4" />
+                <Precinct name="Seneca 2" votes="6" />
+                <Precinct name="Seneca 3" votes="5" />
+                <Precinct name="Seneca 4" votes="8" />
+                <Precinct name="Absentee" votes="31" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="Bill Bledsoe" party="LIB" totalVotes="327">
+            <VoteType name="Election Day" votes="327">
+                <Precinct name="Newry-Corinth" votes="3" />
+                <Precinct name="Earles Grove" votes="1" />
+                <Precinct name="Ravenel" votes="18" />
+                <Precinct name="Fair Play" votes="2" />
+                <Precinct name="Friendship" votes="13" />
+                <Precinct name="Holly Springs" votes="3" />
+                <Precinct name="Keowee" votes="11" />
+                <Precinct name="Long Creek" votes="1" />
+                <Precinct name="Mountain Rest" votes="5" />
+                <Precinct name="Madison" votes="7" />
+                <Precinct name="Bountyland" votes="8" />
+                <Precinct name="Oakway" votes="6" />
+                <Precinct name="Return" votes="4" />
+                <Precinct name="Richland" votes="4" />
+                <Precinct name="Salem" votes="8" />
+                <Precinct name="Stamp Creek" votes="4" />
+                <Precinct name="New Hope" votes="5" />
+                <Precinct name="Shiloh" votes="5" />
+                <Precinct name="South Union" votes="5" />
+                <Precinct name="Tamassee" votes="9" />
+                <Precinct name="Tokeena-Providence" votes="7" />
+                <Precinct name="Utica" votes="3" />
+                <Precinct name="Walhalla 1" votes="16" />
+                <Precinct name="Walhalla 2" votes="20" />
+                <Precinct name="Westminster 1" votes="16" />
+                <Precinct name="Westminster 2" votes="10" />
+                <Precinct name="West Union" votes="16" />
+                <Precinct name="Seneca 1" votes="10" />
+                <Precinct name="Seneca 2" votes="15" />
+                <Precinct name="Seneca 3" votes="12" />
+                <Precinct name="Seneca 4" votes="19" />
+                <Precinct name="Absentee" votes="58" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="008" text="Write-In" party="NON" totalVotes="20">
+            <VoteType name="Election Day" votes="20">
+                <Precinct name="Newry-Corinth" votes="0" />
+                <Precinct name="Earles Grove" votes="0" />
+                <Precinct name="Ravenel" votes="0" />
+                <Precinct name="Fair Play" votes="0" />
+                <Precinct name="Friendship" votes="2" />
+                <Precinct name="Holly Springs" votes="0" />
+                <Precinct name="Keowee" votes="2" />
+                <Precinct name="Long Creek" votes="0" />
+                <Precinct name="Mountain Rest" votes="0" />
+                <Precinct name="Madison" votes="0" />
+                <Precinct name="Bountyland" votes="0" />
+                <Precinct name="Oakway" votes="1" />
+                <Precinct name="Return" votes="0" />
+                <Precinct name="Richland" votes="1" />
+                <Precinct name="Salem" votes="1" />
+                <Precinct name="Stamp Creek" votes="0" />
+                <Precinct name="New Hope" votes="1" />
+                <Precinct name="Shiloh" votes="0" />
+                <Precinct name="South Union" votes="0" />
+                <Precinct name="Tamassee" votes="1" />
+                <Precinct name="Tokeena-Providence" votes="0" />
+                <Precinct name="Utica" votes="0" />
+                <Precinct name="Walhalla 1" votes="1" />
+                <Precinct name="Walhalla 2" votes="2" />
+                <Precinct name="Westminster 1" votes="1" />
+                <Precinct name="Westminster 2" votes="0" />
+                <Precinct name="West Union" votes="0" />
+                <Precinct name="Seneca 1" votes="1" />
+                <Precinct name="Seneca 2" votes="1" />
+                <Precinct name="Seneca 3" votes="0" />
+                <Precinct name="Seneca 4" votes="0" />
+                <Precinct name="Absentee" votes="5" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0106" text="U.S.  House of Representatives, District  3" voteFor="1" isQuestion="false" precinctsReporting="31" precinctsReported="31">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Newry-Corinth" votes="0" />
+            <Precinct name="Earles Grove" votes="0" />
+            <Precinct name="Ravenel" votes="0" />
+            <Precinct name="Fair Play" votes="0" />
+            <Precinct name="Friendship" votes="0" />
+            <Precinct name="Holly Springs" votes="0" />
+            <Precinct name="Keowee" votes="0" />
+            <Precinct name="Long Creek" votes="0" />
+            <Precinct name="Mountain Rest" votes="0" />
+            <Precinct name="Madison" votes="0" />
+            <Precinct name="Bountyland" votes="0" />
+            <Precinct name="Oakway" votes="0" />
+            <Precinct name="Return" votes="0" />
+            <Precinct name="Richland" votes="0" />
+            <Precinct name="Salem" votes="0" />
+            <Precinct name="Stamp Creek" votes="0" />
+            <Precinct name="New Hope" votes="0" />
+            <Precinct name="Shiloh" votes="0" />
+            <Precinct name="South Union" votes="0" />
+            <Precinct name="Tamassee" votes="0" />
+            <Precinct name="Tokeena-Providence" votes="0" />
+            <Precinct name="Utica" votes="0" />
+            <Precinct name="Walhalla 1" votes="0" />
+            <Precinct name="Walhalla 2" votes="0" />
+            <Precinct name="Westminster 1" votes="0" />
+            <Precinct name="Westminster 2" votes="0" />
+            <Precinct name="West Union" votes="0" />
+            <Precinct name="Seneca 1" votes="0" />
+            <Precinct name="Seneca 2" votes="0" />
+            <Precinct name="Seneca 3" votes="0" />
+            <Precinct name="Seneca 4" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1792">
+            <Precinct name="Newry-Corinth" votes="7" />
+            <Precinct name="Earles Grove" votes="15" />
+            <Precinct name="Ravenel" votes="52" />
+            <Precinct name="Fair Play" votes="33" />
+            <Precinct name="Friendship" votes="65" />
+            <Precinct name="Holly Springs" votes="11" />
+            <Precinct name="Keowee" votes="40" />
+            <Precinct name="Long Creek" votes="20" />
+            <Precinct name="Mountain Rest" votes="28" />
+            <Precinct name="Madison" votes="15" />
+            <Precinct name="Bountyland" votes="39" />
+            <Precinct name="Oakway" votes="35" />
+            <Precinct name="Return" votes="18" />
+            <Precinct name="Richland" votes="42" />
+            <Precinct name="Salem" votes="56" />
+            <Precinct name="Stamp Creek" votes="48" />
+            <Precinct name="New Hope" votes="51" />
+            <Precinct name="Shiloh" votes="24" />
+            <Precinct name="South Union" votes="44" />
+            <Precinct name="Tamassee" votes="38" />
+            <Precinct name="Tokeena-Providence" votes="42" />
+            <Precinct name="Utica" votes="17" />
+            <Precinct name="Walhalla 1" votes="77" />
+            <Precinct name="Walhalla 2" votes="60" />
+            <Precinct name="Westminster 1" votes="64" />
+            <Precinct name="Westminster 2" votes="45" />
+            <Precinct name="West Union" votes="48" />
+            <Precinct name="Seneca 1" votes="66" />
+            <Precinct name="Seneca 2" votes="46" />
+            <Precinct name="Seneca 3" votes="22" />
+            <Precinct name="Seneca 4" votes="78" />
+            <Precinct name="Absentee" votes="536" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="3" />
+            <Precinct name="Provisional" votes="4" />
+            <Precinct name="Failsafe Provisional" votes="3" />
+        </VoteType>
+        <Choice key="001" text="Hosea Cleveland" party="DEM" totalVotes="7153">
+            <VoteType name="Election Day" votes="7153">
+                <Precinct name="Newry-Corinth" votes="45" />
+                <Precinct name="Earles Grove" votes="61" />
+                <Precinct name="Ravenel" votes="377" />
+                <Precinct name="Fair Play" votes="57" />
+                <Precinct name="Friendship" votes="216" />
+                <Precinct name="Holly Springs" votes="20" />
+                <Precinct name="Keowee" votes="112" />
+                <Precinct name="Long Creek" votes="64" />
+                <Precinct name="Mountain Rest" votes="110" />
+                <Precinct name="Madison" votes="35" />
+                <Precinct name="Bountyland" votes="155" />
+                <Precinct name="Oakway" votes="98" />
+                <Precinct name="Return" votes="56" />
+                <Precinct name="Richland" votes="81" />
+                <Precinct name="Salem" votes="115" />
+                <Precinct name="Stamp Creek" votes="182" />
+                <Precinct name="New Hope" votes="135" />
+                <Precinct name="Shiloh" votes="199" />
+                <Precinct name="South Union" votes="129" />
+                <Precinct name="Tamassee" votes="108" />
+                <Precinct name="Tokeena-Providence" votes="95" />
+                <Precinct name="Utica" votes="145" />
+                <Precinct name="Walhalla 1" votes="233" />
+                <Precinct name="Walhalla 2" votes="199" />
+                <Precinct name="Westminster 1" votes="187" />
+                <Precinct name="Westminster 2" votes="121" />
+                <Precinct name="West Union" votes="144" />
+                <Precinct name="Seneca 1" votes="497" />
+                <Precinct name="Seneca 2" votes="271" />
+                <Precinct name="Seneca 3" votes="163" />
+                <Precinct name="Seneca 4" votes="491" />
+                <Precinct name="Absentee" votes="2225" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="3" />
+                <Precinct name="Provisional" votes="20" />
+                <Precinct name="Failsafe Provisional" votes="4" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Jeff Duncan" party="REP" totalVotes="24998">
+            <VoteType name="Election Day" votes="24998">
+                <Precinct name="Newry-Corinth" votes="103" />
+                <Precinct name="Earles Grove" votes="432" />
+                <Precinct name="Ravenel" votes="870" />
+                <Precinct name="Fair Play" votes="449" />
+                <Precinct name="Friendship" votes="788" />
+                <Precinct name="Holly Springs" votes="195" />
+                <Precinct name="Keowee" votes="700" />
+                <Precinct name="Long Creek" votes="160" />
+                <Precinct name="Mountain Rest" votes="412" />
+                <Precinct name="Madison" votes="315" />
+                <Precinct name="Bountyland" votes="611" />
+                <Precinct name="Oakway" votes="624" />
+                <Precinct name="Return" votes="374" />
+                <Precinct name="Richland" votes="483" />
+                <Precinct name="Salem" votes="853" />
+                <Precinct name="Stamp Creek" votes="766" />
+                <Precinct name="New Hope" votes="828" />
+                <Precinct name="Shiloh" votes="428" />
+                <Precinct name="South Union" votes="647" />
+                <Precinct name="Tamassee" votes="634" />
+                <Precinct name="Tokeena-Providence" votes="575" />
+                <Precinct name="Utica" votes="187" />
+                <Precinct name="Walhalla 1" votes="1148" />
+                <Precinct name="Walhalla 2" votes="841" />
+                <Precinct name="Westminster 1" votes="1139" />
+                <Precinct name="Westminster 2" votes="667" />
+                <Precinct name="West Union" votes="706" />
+                <Precinct name="Seneca 1" votes="697" />
+                <Precinct name="Seneca 2" votes="648" />
+                <Precinct name="Seneca 3" votes="469" />
+                <Precinct name="Seneca 4" votes="667" />
+                <Precinct name="Absentee" votes="6477" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="30" />
+                <Precinct name="Provisional" votes="52" />
+                <Precinct name="Failsafe Provisional" votes="23" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="41">
+            <VoteType name="Election Day" votes="41">
+                <Precinct name="Newry-Corinth" votes="0" />
+                <Precinct name="Earles Grove" votes="0" />
+                <Precinct name="Ravenel" votes="1" />
+                <Precinct name="Fair Play" votes="2" />
+                <Precinct name="Friendship" votes="1" />
+                <Precinct name="Holly Springs" votes="1" />
+                <Precinct name="Keowee" votes="0" />
+                <Precinct name="Long Creek" votes="0" />
+                <Precinct name="Mountain Rest" votes="1" />
+                <Precinct name="Madison" votes="1" />
+                <Precinct name="Bountyland" votes="1" />
+                <Precinct name="Oakway" votes="1" />
+                <Precinct name="Return" votes="0" />
+                <Precinct name="Richland" votes="2" />
+                <Precinct name="Salem" votes="2" />
+                <Precinct name="Stamp Creek" votes="2" />
+                <Precinct name="New Hope" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+                <Precinct name="South Union" votes="1" />
+                <Precinct name="Tamassee" votes="1" />
+                <Precinct name="Tokeena-Providence" votes="0" />
+                <Precinct name="Utica" votes="0" />
+                <Precinct name="Walhalla 1" votes="4" />
+                <Precinct name="Walhalla 2" votes="1" />
+                <Precinct name="Westminster 1" votes="1" />
+                <Precinct name="Westminster 2" votes="0" />
+                <Precinct name="West Union" votes="3" />
+                <Precinct name="Seneca 1" votes="0" />
+                <Precinct name="Seneca 2" votes="2" />
+                <Precinct name="Seneca 3" votes="0" />
+                <Precinct name="Seneca 4" votes="2" />
+                <Precinct name="Absentee" votes="11" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0107" text="State  Senate, District  1" voteFor="1" isQuestion="false" precinctsReporting="31" precinctsReported="31">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Newry-Corinth" votes="0" />
+            <Precinct name="Earles Grove" votes="0" />
+            <Precinct name="Ravenel" votes="0" />
+            <Precinct name="Fair Play" votes="0" />
+            <Precinct name="Friendship" votes="0" />
+            <Precinct name="Holly Springs" votes="0" />
+            <Precinct name="Keowee" votes="0" />
+            <Precinct name="Long Creek" votes="0" />
+            <Precinct name="Mountain Rest" votes="0" />
+            <Precinct name="Madison" votes="0" />
+            <Precinct name="Bountyland" votes="0" />
+            <Precinct name="Oakway" votes="0" />
+            <Precinct name="Return" votes="0" />
+            <Precinct name="Richland" votes="0" />
+            <Precinct name="Salem" votes="0" />
+            <Precinct name="Stamp Creek" votes="0" />
+            <Precinct name="New Hope" votes="0" />
+            <Precinct name="Shiloh" votes="0" />
+            <Precinct name="South Union" votes="0" />
+            <Precinct name="Tamassee" votes="0" />
+            <Precinct name="Tokeena-Providence" votes="0" />
+            <Precinct name="Utica" votes="0" />
+            <Precinct name="Walhalla 1" votes="0" />
+            <Precinct name="Walhalla 2" votes="0" />
+            <Precinct name="Westminster 1" votes="0" />
+            <Precinct name="Westminster 2" votes="0" />
+            <Precinct name="West Union" votes="0" />
+            <Precinct name="Seneca 1" votes="0" />
+            <Precinct name="Seneca 2" votes="0" />
+            <Precinct name="Seneca 3" votes="0" />
+            <Precinct name="Seneca 4" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="5222">
+            <Precinct name="Newry-Corinth" votes="29" />
+            <Precinct name="Earles Grove" votes="48" />
+            <Precinct name="Ravenel" votes="236" />
+            <Precinct name="Fair Play" votes="71" />
+            <Precinct name="Friendship" votes="165" />
+            <Precinct name="Holly Springs" votes="16" />
+            <Precinct name="Keowee" votes="77" />
+            <Precinct name="Long Creek" votes="50" />
+            <Precinct name="Mountain Rest" votes="68" />
+            <Precinct name="Madison" votes="41" />
+            <Precinct name="Bountyland" votes="96" />
+            <Precinct name="Oakway" votes="73" />
+            <Precinct name="Return" votes="44" />
+            <Precinct name="Richland" votes="72" />
+            <Precinct name="Salem" votes="107" />
+            <Precinct name="Stamp Creek" votes="147" />
+            <Precinct name="New Hope" votes="119" />
+            <Precinct name="Shiloh" votes="123" />
+            <Precinct name="South Union" votes="91" />
+            <Precinct name="Tamassee" votes="71" />
+            <Precinct name="Tokeena-Providence" votes="93" />
+            <Precinct name="Utica" votes="90" />
+            <Precinct name="Walhalla 1" votes="138" />
+            <Precinct name="Walhalla 2" votes="125" />
+            <Precinct name="Westminster 1" votes="130" />
+            <Precinct name="Westminster 2" votes="83" />
+            <Precinct name="West Union" votes="99" />
+            <Precinct name="Seneca 1" votes="331" />
+            <Precinct name="Seneca 2" votes="182" />
+            <Precinct name="Seneca 3" votes="111" />
+            <Precinct name="Seneca 4" votes="332" />
+            <Precinct name="Absentee" votes="1736" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="6" />
+            <Precinct name="Provisional" votes="18" />
+            <Precinct name="Failsafe Provisional" votes="4" />
+        </VoteType>
+        <Choice key="001" text="Thomas C Alexander" party="REP" totalVotes="28547">
+            <VoteType name="Election Day" votes="28547">
+                <Precinct name="Newry-Corinth" votes="125" />
+                <Precinct name="Earles Grove" votes="457" />
+                <Precinct name="Ravenel" votes="1050" />
+                <Precinct name="Fair Play" votes="468" />
+                <Precinct name="Friendship" votes="900" />
+                <Precinct name="Holly Springs" votes="210" />
+                <Precinct name="Keowee" votes="772" />
+                <Precinct name="Long Creek" votes="192" />
+                <Precinct name="Mountain Rest" votes="478" />
+                <Precinct name="Madison" votes="322" />
+                <Precinct name="Bountyland" votes="705" />
+                <Precinct name="Oakway" votes="682" />
+                <Precinct name="Return" votes="402" />
+                <Precinct name="Richland" votes="533" />
+                <Precinct name="Salem" votes="917" />
+                <Precinct name="Stamp Creek" votes="845" />
+                <Precinct name="New Hope" votes="891" />
+                <Precinct name="Shiloh" votes="524" />
+                <Precinct name="South Union" votes="724" />
+                <Precinct name="Tamassee" votes="704" />
+                <Precinct name="Tokeena-Providence" votes="616" />
+                <Precinct name="Utica" votes="255" />
+                <Precinct name="Walhalla 1" votes="1321" />
+                <Precinct name="Walhalla 2" votes="971" />
+                <Precinct name="Westminster 1" votes="1252" />
+                <Precinct name="Westminster 2" votes="748" />
+                <Precinct name="West Union" votes="795" />
+                <Precinct name="Seneca 1" votes="911" />
+                <Precinct name="Seneca 2" votes="777" />
+                <Precinct name="Seneca 3" votes="537" />
+                <Precinct name="Seneca 4" votes="891" />
+                <Precinct name="Absentee" votes="7458" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="30" />
+                <Precinct name="Provisional" votes="58" />
+                <Precinct name="Failsafe Provisional" votes="26" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="215">
+            <VoteType name="Election Day" votes="215">
+                <Precinct name="Newry-Corinth" votes="1" />
+                <Precinct name="Earles Grove" votes="3" />
+                <Precinct name="Ravenel" votes="14" />
+                <Precinct name="Fair Play" votes="2" />
+                <Precinct name="Friendship" votes="5" />
+                <Precinct name="Holly Springs" votes="1" />
+                <Precinct name="Keowee" votes="3" />
+                <Precinct name="Long Creek" votes="2" />
+                <Precinct name="Mountain Rest" votes="5" />
+                <Precinct name="Madison" votes="3" />
+                <Precinct name="Bountyland" votes="5" />
+                <Precinct name="Oakway" votes="3" />
+                <Precinct name="Return" votes="2" />
+                <Precinct name="Richland" votes="3" />
+                <Precinct name="Salem" votes="2" />
+                <Precinct name="Stamp Creek" votes="6" />
+                <Precinct name="New Hope" votes="4" />
+                <Precinct name="Shiloh" votes="4" />
+                <Precinct name="South Union" votes="6" />
+                <Precinct name="Tamassee" votes="6" />
+                <Precinct name="Tokeena-Providence" votes="3" />
+                <Precinct name="Utica" votes="4" />
+                <Precinct name="Walhalla 1" votes="3" />
+                <Precinct name="Walhalla 2" votes="5" />
+                <Precinct name="Westminster 1" votes="9" />
+                <Precinct name="Westminster 2" votes="2" />
+                <Precinct name="West Union" votes="7" />
+                <Precinct name="Seneca 1" votes="18" />
+                <Precinct name="Seneca 2" votes="8" />
+                <Precinct name="Seneca 3" votes="6" />
+                <Precinct name="Seneca 4" votes="15" />
+                <Precinct name="Absentee" votes="55" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0108" text="State  House of Representatives, District  1" voteFor="1" isQuestion="false" precinctsReporting="14" precinctsReported="14">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Holly Springs" votes="0" />
+            <Precinct name="Keowee" votes="0" />
+            <Precinct name="Long Creek" votes="0" />
+            <Precinct name="Mountain Rest" votes="0" />
+            <Precinct name="Madison" votes="0" />
+            <Precinct name="Richland" votes="0" />
+            <Precinct name="Salem" votes="0" />
+            <Precinct name="Stamp Creek" votes="0" />
+            <Precinct name="Tamassee" votes="0" />
+            <Precinct name="Walhalla 1" votes="0" />
+            <Precinct name="Walhalla 2" votes="0" />
+            <Precinct name="Westminster 1" votes="0" />
+            <Precinct name="Westminster 2" votes="0" />
+            <Precinct name="West Union" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="2242">
+            <Precinct name="Holly Springs" votes="14" />
+            <Precinct name="Keowee" votes="84" />
+            <Precinct name="Long Creek" votes="58" />
+            <Precinct name="Mountain Rest" votes="76" />
+            <Precinct name="Madison" votes="39" />
+            <Precinct name="Richland" votes="85" />
+            <Precinct name="Salem" votes="128" />
+            <Precinct name="Stamp Creek" votes="164" />
+            <Precinct name="Tamassee" votes="82" />
+            <Precinct name="Walhalla 1" votes="152" />
+            <Precinct name="Walhalla 2" votes="144" />
+            <Precinct name="Westminster 1" votes="146" />
+            <Precinct name="Westminster 2" votes="93" />
+            <Precinct name="West Union" votes="127" />
+            <Precinct name="Absentee" votes="835" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="5" />
+            <Precinct name="Provisional" votes="10" />
+        </VoteType>
+        <Choice key="001" text="Bill Whitmire" party="REP" totalVotes="13935">
+            <VoteType name="Election Day" votes="13935">
+                <Precinct name="Holly Springs" votes="212" />
+                <Precinct name="Keowee" votes="766" />
+                <Precinct name="Long Creek" votes="183" />
+                <Precinct name="Mountain Rest" votes="470" />
+                <Precinct name="Madison" votes="325" />
+                <Precinct name="Richland" votes="521" />
+                <Precinct name="Salem" votes="895" />
+                <Precinct name="Stamp Creek" votes="827" />
+                <Precinct name="Tamassee" votes="692" />
+                <Precinct name="Walhalla 1" votes="1306" />
+                <Precinct name="Walhalla 2" votes="954" />
+                <Precinct name="Westminster 1" votes="1237" />
+                <Precinct name="Westminster 2" votes="737" />
+                <Precinct name="West Union" votes="767" />
+                <Precinct name="Absentee" votes="3993" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="20" />
+                <Precinct name="Provisional" votes="30" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="94">
+            <VoteType name="Election Day" votes="94">
+                <Precinct name="Holly Springs" votes="1" />
+                <Precinct name="Keowee" votes="2" />
+                <Precinct name="Long Creek" votes="3" />
+                <Precinct name="Mountain Rest" votes="5" />
+                <Precinct name="Madison" votes="2" />
+                <Precinct name="Richland" votes="2" />
+                <Precinct name="Salem" votes="3" />
+                <Precinct name="Stamp Creek" votes="7" />
+                <Precinct name="Tamassee" votes="7" />
+                <Precinct name="Walhalla 1" votes="4" />
+                <Precinct name="Walhalla 2" votes="3" />
+                <Precinct name="Westminster 1" votes="8" />
+                <Precinct name="Westminster 2" votes="3" />
+                <Precinct name="West Union" votes="7" />
+                <Precinct name="Absentee" votes="37" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0109" text="State  House of Representatives, District  2" voteFor="1" isQuestion="false" precinctsReporting="17" precinctsReported="17">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Newry-Corinth" votes="0" />
+            <Precinct name="Earles Grove" votes="0" />
+            <Precinct name="Ravenel" votes="0" />
+            <Precinct name="Fair Play" votes="0" />
+            <Precinct name="Friendship" votes="0" />
+            <Precinct name="Bountyland" votes="0" />
+            <Precinct name="Oakway" votes="0" />
+            <Precinct name="Return" votes="0" />
+            <Precinct name="New Hope" votes="0" />
+            <Precinct name="Shiloh" votes="0" />
+            <Precinct name="South Union" votes="0" />
+            <Precinct name="Tokeena-Providence" votes="0" />
+            <Precinct name="Utica" votes="0" />
+            <Precinct name="Seneca 1" votes="0" />
+            <Precinct name="Seneca 2" votes="0" />
+            <Precinct name="Seneca 3" votes="0" />
+            <Precinct name="Seneca 4" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="3518">
+            <Precinct name="Newry-Corinth" votes="29" />
+            <Precinct name="Earles Grove" votes="62" />
+            <Precinct name="Ravenel" votes="247" />
+            <Precinct name="Fair Play" votes="78" />
+            <Precinct name="Friendship" votes="171" />
+            <Precinct name="Bountyland" votes="107" />
+            <Precinct name="Oakway" votes="80" />
+            <Precinct name="Return" votes="46" />
+            <Precinct name="New Hope" votes="121" />
+            <Precinct name="Shiloh" votes="136" />
+            <Precinct name="South Union" votes="102" />
+            <Precinct name="Tokeena-Providence" votes="102" />
+            <Precinct name="Utica" votes="87" />
+            <Precinct name="Seneca 1" votes="356" />
+            <Precinct name="Seneca 2" votes="191" />
+            <Precinct name="Seneca 3" votes="132" />
+            <Precinct name="Seneca 4" votes="361" />
+            <Precinct name="Absentee" votes="1093" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="16" />
+        </VoteType>
+        <Choice key="001" text="Bill Sandifer" party="REP" totalVotes="13988">
+            <VoteType name="Election Day" votes="13988">
+                <Precinct name="Newry-Corinth" votes="125" />
+                <Precinct name="Earles Grove" votes="442" />
+                <Precinct name="Ravenel" votes="1037" />
+                <Precinct name="Fair Play" votes="459" />
+                <Precinct name="Friendship" votes="890" />
+                <Precinct name="Bountyland" votes="691" />
+                <Precinct name="Oakway" votes="671" />
+                <Precinct name="Return" votes="398" />
+                <Precinct name="New Hope" votes="888" />
+                <Precinct name="Shiloh" votes="513" />
+                <Precinct name="South Union" votes="712" />
+                <Precinct name="Tokeena-Providence" votes="605" />
+                <Precinct name="Utica" votes="256" />
+                <Precinct name="Seneca 1" votes="887" />
+                <Precinct name="Seneca 2" votes="764" />
+                <Precinct name="Seneca 3" votes="518" />
+                <Precinct name="Seneca 4" votes="859" />
+                <Precinct name="Absentee" votes="3243" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="10" />
+                <Precinct name="Provisional" votes="20" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="177">
+            <VoteType name="Election Day" votes="177">
+                <Precinct name="Newry-Corinth" votes="1" />
+                <Precinct name="Earles Grove" votes="4" />
+                <Precinct name="Ravenel" votes="16" />
+                <Precinct name="Fair Play" votes="4" />
+                <Precinct name="Friendship" votes="9" />
+                <Precinct name="Bountyland" votes="8" />
+                <Precinct name="Oakway" votes="7" />
+                <Precinct name="Return" votes="4" />
+                <Precinct name="New Hope" votes="5" />
+                <Precinct name="Shiloh" votes="2" />
+                <Precinct name="South Union" votes="7" />
+                <Precinct name="Tokeena-Providence" votes="5" />
+                <Precinct name="Utica" votes="6" />
+                <Precinct name="Seneca 1" votes="17" />
+                <Precinct name="Seneca 2" votes="12" />
+                <Precinct name="Seneca 3" votes="4" />
+                <Precinct name="Seneca 4" votes="18" />
+                <Precinct name="Absentee" votes="48" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0110" text=" Solicitor, Circuit  10" voteFor="1" isQuestion="false" precinctsReporting="31" precinctsReported="31">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Newry-Corinth" votes="0" />
+            <Precinct name="Earles Grove" votes="0" />
+            <Precinct name="Ravenel" votes="0" />
+            <Precinct name="Fair Play" votes="0" />
+            <Precinct name="Friendship" votes="0" />
+            <Precinct name="Holly Springs" votes="0" />
+            <Precinct name="Keowee" votes="0" />
+            <Precinct name="Long Creek" votes="0" />
+            <Precinct name="Mountain Rest" votes="0" />
+            <Precinct name="Madison" votes="0" />
+            <Precinct name="Bountyland" votes="0" />
+            <Precinct name="Oakway" votes="0" />
+            <Precinct name="Return" votes="0" />
+            <Precinct name="Richland" votes="0" />
+            <Precinct name="Salem" votes="0" />
+            <Precinct name="Stamp Creek" votes="0" />
+            <Precinct name="New Hope" votes="0" />
+            <Precinct name="Shiloh" votes="0" />
+            <Precinct name="South Union" votes="0" />
+            <Precinct name="Tamassee" votes="0" />
+            <Precinct name="Tokeena-Providence" votes="0" />
+            <Precinct name="Utica" votes="0" />
+            <Precinct name="Walhalla 1" votes="0" />
+            <Precinct name="Walhalla 2" votes="0" />
+            <Precinct name="Westminster 1" votes="0" />
+            <Precinct name="Westminster 2" votes="0" />
+            <Precinct name="West Union" votes="0" />
+            <Precinct name="Seneca 1" votes="0" />
+            <Precinct name="Seneca 2" votes="0" />
+            <Precinct name="Seneca 3" votes="0" />
+            <Precinct name="Seneca 4" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="6049">
+            <Precinct name="Newry-Corinth" votes="31" />
+            <Precinct name="Earles Grove" votes="58" />
+            <Precinct name="Ravenel" votes="259" />
+            <Precinct name="Fair Play" votes="79" />
+            <Precinct name="Friendship" votes="188" />
+            <Precinct name="Holly Springs" votes="18" />
+            <Precinct name="Keowee" votes="88" />
+            <Precinct name="Long Creek" votes="58" />
+            <Precinct name="Mountain Rest" votes="85" />
+            <Precinct name="Madison" votes="44" />
+            <Precinct name="Bountyland" votes="114" />
+            <Precinct name="Oakway" votes="74" />
+            <Precinct name="Return" votes="46" />
+            <Precinct name="Richland" votes="92" />
+            <Precinct name="Salem" votes="131" />
+            <Precinct name="Stamp Creek" votes="167" />
+            <Precinct name="New Hope" votes="142" />
+            <Precinct name="Shiloh" votes="147" />
+            <Precinct name="South Union" votes="104" />
+            <Precinct name="Tamassee" votes="88" />
+            <Precinct name="Tokeena-Providence" votes="100" />
+            <Precinct name="Utica" votes="98" />
+            <Precinct name="Walhalla 1" votes="183" />
+            <Precinct name="Walhalla 2" votes="158" />
+            <Precinct name="Westminster 1" votes="157" />
+            <Precinct name="Westminster 2" votes="94" />
+            <Precinct name="West Union" votes="128" />
+            <Precinct name="Seneca 1" votes="374" />
+            <Precinct name="Seneca 2" votes="204" />
+            <Precinct name="Seneca 3" votes="126" />
+            <Precinct name="Seneca 4" votes="376" />
+            <Precinct name="Absentee" votes="2012" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="6" />
+            <Precinct name="Provisional" votes="16" />
+            <Precinct name="Failsafe Provisional" votes="4" />
+        </VoteType>
+        <Choice key="001" text="David Wagner" party="REP" totalVotes="27780">
+            <VoteType name="Election Day" votes="27780">
+                <Precinct name="Newry-Corinth" votes="124" />
+                <Precinct name="Earles Grove" votes="449" />
+                <Precinct name="Ravenel" votes="1032" />
+                <Precinct name="Fair Play" votes="460" />
+                <Precinct name="Friendship" votes="877" />
+                <Precinct name="Holly Springs" votes="209" />
+                <Precinct name="Keowee" votes="762" />
+                <Precinct name="Long Creek" votes="184" />
+                <Precinct name="Mountain Rest" votes="460" />
+                <Precinct name="Madison" votes="322" />
+                <Precinct name="Bountyland" votes="690" />
+                <Precinct name="Oakway" votes="680" />
+                <Precinct name="Return" votes="401" />
+                <Precinct name="Richland" votes="513" />
+                <Precinct name="Salem" votes="894" />
+                <Precinct name="Stamp Creek" votes="828" />
+                <Precinct name="New Hope" votes="868" />
+                <Precinct name="Shiloh" votes="501" />
+                <Precinct name="South Union" votes="717" />
+                <Precinct name="Tamassee" votes="690" />
+                <Precinct name="Tokeena-Providence" votes="611" />
+                <Precinct name="Utica" votes="247" />
+                <Precinct name="Walhalla 1" votes="1275" />
+                <Precinct name="Walhalla 2" votes="939" />
+                <Precinct name="Westminster 1" votes="1229" />
+                <Precinct name="Westminster 2" votes="735" />
+                <Precinct name="West Union" votes="771" />
+                <Precinct name="Seneca 1" votes="877" />
+                <Precinct name="Seneca 2" votes="756" />
+                <Precinct name="Seneca 3" votes="524" />
+                <Precinct name="Seneca 4" votes="851" />
+                <Precinct name="Absentee" votes="7188" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="30" />
+                <Precinct name="Provisional" votes="60" />
+                <Precinct name="Failsafe Provisional" votes="26" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="155">
+            <VoteType name="Election Day" votes="155">
+                <Precinct name="Newry-Corinth" votes="0" />
+                <Precinct name="Earles Grove" votes="1" />
+                <Precinct name="Ravenel" votes="9" />
+                <Precinct name="Fair Play" votes="2" />
+                <Precinct name="Friendship" votes="5" />
+                <Precinct name="Holly Springs" votes="0" />
+                <Precinct name="Keowee" votes="2" />
+                <Precinct name="Long Creek" votes="2" />
+                <Precinct name="Mountain Rest" votes="6" />
+                <Precinct name="Madison" votes="0" />
+                <Precinct name="Bountyland" votes="2" />
+                <Precinct name="Oakway" votes="4" />
+                <Precinct name="Return" votes="1" />
+                <Precinct name="Richland" votes="3" />
+                <Precinct name="Salem" votes="1" />
+                <Precinct name="Stamp Creek" votes="3" />
+                <Precinct name="New Hope" votes="4" />
+                <Precinct name="Shiloh" votes="3" />
+                <Precinct name="South Union" votes="0" />
+                <Precinct name="Tamassee" votes="3" />
+                <Precinct name="Tokeena-Providence" votes="1" />
+                <Precinct name="Utica" votes="4" />
+                <Precinct name="Walhalla 1" votes="4" />
+                <Precinct name="Walhalla 2" votes="4" />
+                <Precinct name="Westminster 1" votes="5" />
+                <Precinct name="Westminster 2" votes="4" />
+                <Precinct name="West Union" votes="2" />
+                <Precinct name="Seneca 1" votes="9" />
+                <Precinct name="Seneca 2" votes="7" />
+                <Precinct name="Seneca 3" votes="4" />
+                <Precinct name="Seneca 4" votes="11" />
+                <Precinct name="Absentee" votes="49" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0111" text="Sheriff" voteFor="1" isQuestion="false" precinctsReporting="31" precinctsReported="31">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Newry-Corinth" votes="0" />
+            <Precinct name="Earles Grove" votes="0" />
+            <Precinct name="Ravenel" votes="0" />
+            <Precinct name="Fair Play" votes="0" />
+            <Precinct name="Friendship" votes="0" />
+            <Precinct name="Holly Springs" votes="0" />
+            <Precinct name="Keowee" votes="0" />
+            <Precinct name="Long Creek" votes="0" />
+            <Precinct name="Mountain Rest" votes="0" />
+            <Precinct name="Madison" votes="0" />
+            <Precinct name="Bountyland" votes="0" />
+            <Precinct name="Oakway" votes="0" />
+            <Precinct name="Return" votes="0" />
+            <Precinct name="Richland" votes="0" />
+            <Precinct name="Salem" votes="0" />
+            <Precinct name="Stamp Creek" votes="0" />
+            <Precinct name="New Hope" votes="0" />
+            <Precinct name="Shiloh" votes="0" />
+            <Precinct name="South Union" votes="0" />
+            <Precinct name="Tamassee" votes="0" />
+            <Precinct name="Tokeena-Providence" votes="0" />
+            <Precinct name="Utica" votes="0" />
+            <Precinct name="Walhalla 1" votes="0" />
+            <Precinct name="Walhalla 2" votes="0" />
+            <Precinct name="Westminster 1" votes="0" />
+            <Precinct name="Westminster 2" votes="0" />
+            <Precinct name="West Union" votes="0" />
+            <Precinct name="Seneca 1" votes="0" />
+            <Precinct name="Seneca 2" votes="0" />
+            <Precinct name="Seneca 3" votes="0" />
+            <Precinct name="Seneca 4" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="4899">
+            <Precinct name="Newry-Corinth" votes="25" />
+            <Precinct name="Earles Grove" votes="44" />
+            <Precinct name="Ravenel" votes="228" />
+            <Precinct name="Fair Play" votes="61" />
+            <Precinct name="Friendship" votes="150" />
+            <Precinct name="Holly Springs" votes="9" />
+            <Precinct name="Keowee" votes="78" />
+            <Precinct name="Long Creek" votes="48" />
+            <Precinct name="Mountain Rest" votes="51" />
+            <Precinct name="Madison" votes="35" />
+            <Precinct name="Bountyland" votes="92" />
+            <Precinct name="Oakway" votes="63" />
+            <Precinct name="Return" votes="41" />
+            <Precinct name="Richland" votes="74" />
+            <Precinct name="Salem" votes="99" />
+            <Precinct name="Stamp Creek" votes="135" />
+            <Precinct name="New Hope" votes="114" />
+            <Precinct name="Shiloh" votes="131" />
+            <Precinct name="South Union" votes="76" />
+            <Precinct name="Tamassee" votes="75" />
+            <Precinct name="Tokeena-Providence" votes="80" />
+            <Precinct name="Utica" votes="87" />
+            <Precinct name="Walhalla 1" votes="132" />
+            <Precinct name="Walhalla 2" votes="117" />
+            <Precinct name="Westminster 1" votes="118" />
+            <Precinct name="Westminster 2" votes="82" />
+            <Precinct name="West Union" votes="104" />
+            <Precinct name="Seneca 1" votes="321" />
+            <Precinct name="Seneca 2" votes="167" />
+            <Precinct name="Seneca 3" votes="110" />
+            <Precinct name="Seneca 4" votes="319" />
+            <Precinct name="Absentee" votes="1612" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="4" />
+            <Precinct name="Provisional" votes="13" />
+            <Precinct name="Failsafe Provisional" votes="4" />
+        </VoteType>
+        <Choice key="001" text="Mike Crenshaw" party="REP" totalVotes="28922">
+            <VoteType name="Election Day" votes="28922">
+                <Precinct name="Newry-Corinth" votes="129" />
+                <Precinct name="Earles Grove" votes="464" />
+                <Precinct name="Ravenel" votes="1061" />
+                <Precinct name="Fair Play" votes="478" />
+                <Precinct name="Friendship" votes="915" />
+                <Precinct name="Holly Springs" votes="218" />
+                <Precinct name="Keowee" votes="772" />
+                <Precinct name="Long Creek" votes="194" />
+                <Precinct name="Mountain Rest" votes="497" />
+                <Precinct name="Madison" votes="329" />
+                <Precinct name="Bountyland" votes="713" />
+                <Precinct name="Oakway" votes="692" />
+                <Precinct name="Return" votes="406" />
+                <Precinct name="Richland" votes="530" />
+                <Precinct name="Salem" votes="927" />
+                <Precinct name="Stamp Creek" votes="861" />
+                <Precinct name="New Hope" votes="894" />
+                <Precinct name="Shiloh" votes="518" />
+                <Precinct name="South Union" votes="741" />
+                <Precinct name="Tamassee" votes="703" />
+                <Precinct name="Tokeena-Providence" votes="630" />
+                <Precinct name="Utica" votes="258" />
+                <Precinct name="Walhalla 1" votes="1323" />
+                <Precinct name="Walhalla 2" votes="979" />
+                <Precinct name="Westminster 1" votes="1261" />
+                <Precinct name="Westminster 2" votes="749" />
+                <Precinct name="West Union" votes="793" />
+                <Precinct name="Seneca 1" votes="928" />
+                <Precinct name="Seneca 2" votes="794" />
+                <Precinct name="Seneca 3" votes="537" />
+                <Precinct name="Seneca 4" votes="909" />
+                <Precinct name="Absentee" votes="7599" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="31" />
+                <Precinct name="Provisional" votes="63" />
+                <Precinct name="Failsafe Provisional" votes="26" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="163">
+            <VoteType name="Election Day" votes="163">
+                <Precinct name="Newry-Corinth" votes="1" />
+                <Precinct name="Earles Grove" votes="0" />
+                <Precinct name="Ravenel" votes="11" />
+                <Precinct name="Fair Play" votes="2" />
+                <Precinct name="Friendship" votes="5" />
+                <Precinct name="Holly Springs" votes="0" />
+                <Precinct name="Keowee" votes="2" />
+                <Precinct name="Long Creek" votes="2" />
+                <Precinct name="Mountain Rest" votes="3" />
+                <Precinct name="Madison" votes="2" />
+                <Precinct name="Bountyland" votes="1" />
+                <Precinct name="Oakway" votes="3" />
+                <Precinct name="Return" votes="1" />
+                <Precinct name="Richland" votes="4" />
+                <Precinct name="Salem" votes="0" />
+                <Precinct name="Stamp Creek" votes="2" />
+                <Precinct name="New Hope" votes="6" />
+                <Precinct name="Shiloh" votes="2" />
+                <Precinct name="South Union" votes="4" />
+                <Precinct name="Tamassee" votes="3" />
+                <Precinct name="Tokeena-Providence" votes="2" />
+                <Precinct name="Utica" votes="4" />
+                <Precinct name="Walhalla 1" votes="7" />
+                <Precinct name="Walhalla 2" votes="5" />
+                <Precinct name="Westminster 1" votes="12" />
+                <Precinct name="Westminster 2" votes="2" />
+                <Precinct name="West Union" votes="4" />
+                <Precinct name="Seneca 1" votes="11" />
+                <Precinct name="Seneca 2" votes="6" />
+                <Precinct name="Seneca 3" votes="7" />
+                <Precinct name="Seneca 4" votes="10" />
+                <Precinct name="Absentee" votes="38" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0112" text="Clerk of Court" voteFor="1" isQuestion="false" precinctsReporting="31" precinctsReported="31">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Newry-Corinth" votes="0" />
+            <Precinct name="Earles Grove" votes="0" />
+            <Precinct name="Ravenel" votes="0" />
+            <Precinct name="Fair Play" votes="0" />
+            <Precinct name="Friendship" votes="0" />
+            <Precinct name="Holly Springs" votes="0" />
+            <Precinct name="Keowee" votes="0" />
+            <Precinct name="Long Creek" votes="0" />
+            <Precinct name="Mountain Rest" votes="0" />
+            <Precinct name="Madison" votes="0" />
+            <Precinct name="Bountyland" votes="0" />
+            <Precinct name="Oakway" votes="0" />
+            <Precinct name="Return" votes="0" />
+            <Precinct name="Richland" votes="0" />
+            <Precinct name="Salem" votes="0" />
+            <Precinct name="Stamp Creek" votes="0" />
+            <Precinct name="New Hope" votes="0" />
+            <Precinct name="Shiloh" votes="0" />
+            <Precinct name="South Union" votes="0" />
+            <Precinct name="Tamassee" votes="0" />
+            <Precinct name="Tokeena-Providence" votes="0" />
+            <Precinct name="Utica" votes="0" />
+            <Precinct name="Walhalla 1" votes="0" />
+            <Precinct name="Walhalla 2" votes="0" />
+            <Precinct name="Westminster 1" votes="0" />
+            <Precinct name="Westminster 2" votes="0" />
+            <Precinct name="West Union" votes="0" />
+            <Precinct name="Seneca 1" votes="0" />
+            <Precinct name="Seneca 2" votes="0" />
+            <Precinct name="Seneca 3" votes="0" />
+            <Precinct name="Seneca 4" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="5659">
+            <Precinct name="Newry-Corinth" votes="30" />
+            <Precinct name="Earles Grove" votes="55" />
+            <Precinct name="Ravenel" votes="251" />
+            <Precinct name="Fair Play" votes="71" />
+            <Precinct name="Friendship" votes="171" />
+            <Precinct name="Holly Springs" votes="16" />
+            <Precinct name="Keowee" votes="85" />
+            <Precinct name="Long Creek" votes="58" />
+            <Precinct name="Mountain Rest" votes="76" />
+            <Precinct name="Madison" votes="37" />
+            <Precinct name="Bountyland" votes="106" />
+            <Precinct name="Oakway" votes="73" />
+            <Precinct name="Return" votes="47" />
+            <Precinct name="Richland" votes="84" />
+            <Precinct name="Salem" votes="118" />
+            <Precinct name="Stamp Creek" votes="163" />
+            <Precinct name="New Hope" votes="131" />
+            <Precinct name="Shiloh" votes="141" />
+            <Precinct name="South Union" votes="101" />
+            <Precinct name="Tamassee" votes="80" />
+            <Precinct name="Tokeena-Providence" votes="93" />
+            <Precinct name="Utica" votes="95" />
+            <Precinct name="Walhalla 1" votes="158" />
+            <Precinct name="Walhalla 2" votes="141" />
+            <Precinct name="Westminster 1" votes="148" />
+            <Precinct name="Westminster 2" votes="88" />
+            <Precinct name="West Union" votes="121" />
+            <Precinct name="Seneca 1" votes="353" />
+            <Precinct name="Seneca 2" votes="195" />
+            <Precinct name="Seneca 3" votes="126" />
+            <Precinct name="Seneca 4" votes="346" />
+            <Precinct name="Absentee" votes="1875" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="5" />
+            <Precinct name="Provisional" votes="17" />
+            <Precinct name="Failsafe Provisional" votes="4" />
+        </VoteType>
+        <Choice key="001" text="Beverly H Whitfield" party="REP" totalVotes="28218">
+            <VoteType name="Election Day" votes="28218">
+                <Precinct name="Newry-Corinth" votes="125" />
+                <Precinct name="Earles Grove" votes="453" />
+                <Precinct name="Ravenel" votes="1041" />
+                <Precinct name="Fair Play" votes="469" />
+                <Precinct name="Friendship" votes="893" />
+                <Precinct name="Holly Springs" votes="211" />
+                <Precinct name="Keowee" votes="765" />
+                <Precinct name="Long Creek" votes="184" />
+                <Precinct name="Mountain Rest" votes="471" />
+                <Precinct name="Madison" votes="329" />
+                <Precinct name="Bountyland" votes="697" />
+                <Precinct name="Oakway" votes="682" />
+                <Precinct name="Return" votes="401" />
+                <Precinct name="Richland" votes="522" />
+                <Precinct name="Salem" votes="907" />
+                <Precinct name="Stamp Creek" votes="834" />
+                <Precinct name="New Hope" votes="881" />
+                <Precinct name="Shiloh" votes="509" />
+                <Precinct name="South Union" votes="719" />
+                <Precinct name="Tamassee" votes="697" />
+                <Precinct name="Tokeena-Providence" votes="616" />
+                <Precinct name="Utica" votes="251" />
+                <Precinct name="Walhalla 1" votes="1299" />
+                <Precinct name="Walhalla 2" votes="957" />
+                <Precinct name="Westminster 1" votes="1239" />
+                <Precinct name="Westminster 2" votes="744" />
+                <Precinct name="West Union" votes="779" />
+                <Precinct name="Seneca 1" votes="898" />
+                <Precinct name="Seneca 2" votes="768" />
+                <Precinct name="Seneca 3" votes="525" />
+                <Precinct name="Seneca 4" votes="885" />
+                <Precinct name="Absentee" votes="7351" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="31" />
+                <Precinct name="Provisional" votes="59" />
+                <Precinct name="Failsafe Provisional" votes="26" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="107">
+            <VoteType name="Election Day" votes="107">
+                <Precinct name="Newry-Corinth" votes="0" />
+                <Precinct name="Earles Grove" votes="0" />
+                <Precinct name="Ravenel" votes="8" />
+                <Precinct name="Fair Play" votes="1" />
+                <Precinct name="Friendship" votes="6" />
+                <Precinct name="Holly Springs" votes="0" />
+                <Precinct name="Keowee" votes="2" />
+                <Precinct name="Long Creek" votes="2" />
+                <Precinct name="Mountain Rest" votes="4" />
+                <Precinct name="Madison" votes="0" />
+                <Precinct name="Bountyland" votes="3" />
+                <Precinct name="Oakway" votes="3" />
+                <Precinct name="Return" votes="0" />
+                <Precinct name="Richland" votes="2" />
+                <Precinct name="Salem" votes="1" />
+                <Precinct name="Stamp Creek" votes="1" />
+                <Precinct name="New Hope" votes="2" />
+                <Precinct name="Shiloh" votes="1" />
+                <Precinct name="South Union" votes="1" />
+                <Precinct name="Tamassee" votes="4" />
+                <Precinct name="Tokeena-Providence" votes="3" />
+                <Precinct name="Utica" votes="3" />
+                <Precinct name="Walhalla 1" votes="5" />
+                <Precinct name="Walhalla 2" votes="3" />
+                <Precinct name="Westminster 1" votes="4" />
+                <Precinct name="Westminster 2" votes="1" />
+                <Precinct name="West Union" votes="1" />
+                <Precinct name="Seneca 1" votes="9" />
+                <Precinct name="Seneca 2" votes="4" />
+                <Precinct name="Seneca 3" votes="3" />
+                <Precinct name="Seneca 4" votes="7" />
+                <Precinct name="Absentee" votes="23" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0113" text="Coroner" voteFor="1" isQuestion="false" precinctsReporting="31" precinctsReported="31">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Newry-Corinth" votes="0" />
+            <Precinct name="Earles Grove" votes="0" />
+            <Precinct name="Ravenel" votes="0" />
+            <Precinct name="Fair Play" votes="0" />
+            <Precinct name="Friendship" votes="0" />
+            <Precinct name="Holly Springs" votes="0" />
+            <Precinct name="Keowee" votes="0" />
+            <Precinct name="Long Creek" votes="0" />
+            <Precinct name="Mountain Rest" votes="0" />
+            <Precinct name="Madison" votes="0" />
+            <Precinct name="Bountyland" votes="0" />
+            <Precinct name="Oakway" votes="0" />
+            <Precinct name="Return" votes="0" />
+            <Precinct name="Richland" votes="0" />
+            <Precinct name="Salem" votes="0" />
+            <Precinct name="Stamp Creek" votes="0" />
+            <Precinct name="New Hope" votes="0" />
+            <Precinct name="Shiloh" votes="0" />
+            <Precinct name="South Union" votes="0" />
+            <Precinct name="Tamassee" votes="0" />
+            <Precinct name="Tokeena-Providence" votes="0" />
+            <Precinct name="Utica" votes="0" />
+            <Precinct name="Walhalla 1" votes="0" />
+            <Precinct name="Walhalla 2" votes="0" />
+            <Precinct name="Westminster 1" votes="0" />
+            <Precinct name="Westminster 2" votes="0" />
+            <Precinct name="West Union" votes="0" />
+            <Precinct name="Seneca 1" votes="0" />
+            <Precinct name="Seneca 2" votes="0" />
+            <Precinct name="Seneca 3" votes="0" />
+            <Precinct name="Seneca 4" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="4701">
+            <Precinct name="Newry-Corinth" votes="24" />
+            <Precinct name="Earles Grove" votes="41" />
+            <Precinct name="Ravenel" votes="234" />
+            <Precinct name="Fair Play" votes="70" />
+            <Precinct name="Friendship" votes="129" />
+            <Precinct name="Holly Springs" votes="11" />
+            <Precinct name="Keowee" votes="67" />
+            <Precinct name="Long Creek" votes="52" />
+            <Precinct name="Mountain Rest" votes="54" />
+            <Precinct name="Madison" votes="31" />
+            <Precinct name="Bountyland" votes="80" />
+            <Precinct name="Oakway" votes="60" />
+            <Precinct name="Return" votes="31" />
+            <Precinct name="Richland" votes="68" />
+            <Precinct name="Salem" votes="94" />
+            <Precinct name="Stamp Creek" votes="152" />
+            <Precinct name="New Hope" votes="103" />
+            <Precinct name="Shiloh" votes="119" />
+            <Precinct name="South Union" votes="82" />
+            <Precinct name="Tamassee" votes="66" />
+            <Precinct name="Tokeena-Providence" votes="80" />
+            <Precinct name="Utica" votes="73" />
+            <Precinct name="Walhalla 1" votes="123" />
+            <Precinct name="Walhalla 2" votes="109" />
+            <Precinct name="Westminster 1" votes="110" />
+            <Precinct name="Westminster 2" votes="72" />
+            <Precinct name="West Union" votes="100" />
+            <Precinct name="Seneca 1" votes="287" />
+            <Precinct name="Seneca 2" votes="164" />
+            <Precinct name="Seneca 3" votes="97" />
+            <Precinct name="Seneca 4" votes="281" />
+            <Precinct name="Absentee" votes="1613" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="4" />
+            <Precinct name="Provisional" votes="16" />
+            <Precinct name="Failsafe Provisional" votes="4" />
+        </VoteType>
+        <Choice key="001" text="Karl E Addis" party="REP" totalVotes="29212">
+            <VoteType name="Election Day" votes="29212">
+                <Precinct name="Newry-Corinth" votes="131" />
+                <Precinct name="Earles Grove" votes="467" />
+                <Precinct name="Ravenel" votes="1064" />
+                <Precinct name="Fair Play" votes="470" />
+                <Precinct name="Friendship" votes="939" />
+                <Precinct name="Holly Springs" votes="216" />
+                <Precinct name="Keowee" votes="785" />
+                <Precinct name="Long Creek" votes="191" />
+                <Precinct name="Mountain Rest" votes="495" />
+                <Precinct name="Madison" votes="334" />
+                <Precinct name="Bountyland" votes="724" />
+                <Precinct name="Oakway" votes="696" />
+                <Precinct name="Return" votes="417" />
+                <Precinct name="Richland" votes="539" />
+                <Precinct name="Salem" votes="931" />
+                <Precinct name="Stamp Creek" votes="846" />
+                <Precinct name="New Hope" votes="909" />
+                <Precinct name="Shiloh" votes="531" />
+                <Precinct name="South Union" votes="738" />
+                <Precinct name="Tamassee" votes="714" />
+                <Precinct name="Tokeena-Providence" votes="632" />
+                <Precinct name="Utica" votes="275" />
+                <Precinct name="Walhalla 1" votes="1339" />
+                <Precinct name="Walhalla 2" votes="987" />
+                <Precinct name="Westminster 1" votes="1276" />
+                <Precinct name="Westminster 2" votes="760" />
+                <Precinct name="West Union" votes="799" />
+                <Precinct name="Seneca 1" votes="964" />
+                <Precinct name="Seneca 2" votes="801" />
+                <Precinct name="Seneca 3" votes="556" />
+                <Precinct name="Seneca 4" votes="953" />
+                <Precinct name="Absentee" votes="7615" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="32" />
+                <Precinct name="Provisional" votes="60" />
+                <Precinct name="Failsafe Provisional" votes="26" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="71">
+            <VoteType name="Election Day" votes="71">
+                <Precinct name="Newry-Corinth" votes="0" />
+                <Precinct name="Earles Grove" votes="0" />
+                <Precinct name="Ravenel" votes="2" />
+                <Precinct name="Fair Play" votes="1" />
+                <Precinct name="Friendship" votes="2" />
+                <Precinct name="Holly Springs" votes="0" />
+                <Precinct name="Keowee" votes="0" />
+                <Precinct name="Long Creek" votes="1" />
+                <Precinct name="Mountain Rest" votes="2" />
+                <Precinct name="Madison" votes="1" />
+                <Precinct name="Bountyland" votes="2" />
+                <Precinct name="Oakway" votes="2" />
+                <Precinct name="Return" votes="0" />
+                <Precinct name="Richland" votes="1" />
+                <Precinct name="Salem" votes="1" />
+                <Precinct name="Stamp Creek" votes="0" />
+                <Precinct name="New Hope" votes="2" />
+                <Precinct name="Shiloh" votes="1" />
+                <Precinct name="South Union" votes="1" />
+                <Precinct name="Tamassee" votes="1" />
+                <Precinct name="Tokeena-Providence" votes="0" />
+                <Precinct name="Utica" votes="1" />
+                <Precinct name="Walhalla 1" votes="0" />
+                <Precinct name="Walhalla 2" votes="5" />
+                <Precinct name="Westminster 1" votes="5" />
+                <Precinct name="Westminster 2" votes="1" />
+                <Precinct name="West Union" votes="2" />
+                <Precinct name="Seneca 1" votes="9" />
+                <Precinct name="Seneca 2" votes="2" />
+                <Precinct name="Seneca 3" votes="1" />
+                <Precinct name="Seneca 4" votes="4" />
+                <Precinct name="Absentee" votes="21" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0114" text="Auditor" voteFor="1" isQuestion="false" precinctsReporting="31" precinctsReported="31">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Newry-Corinth" votes="0" />
+            <Precinct name="Earles Grove" votes="0" />
+            <Precinct name="Ravenel" votes="0" />
+            <Precinct name="Fair Play" votes="0" />
+            <Precinct name="Friendship" votes="0" />
+            <Precinct name="Holly Springs" votes="0" />
+            <Precinct name="Keowee" votes="0" />
+            <Precinct name="Long Creek" votes="0" />
+            <Precinct name="Mountain Rest" votes="0" />
+            <Precinct name="Madison" votes="0" />
+            <Precinct name="Bountyland" votes="0" />
+            <Precinct name="Oakway" votes="0" />
+            <Precinct name="Return" votes="0" />
+            <Precinct name="Richland" votes="0" />
+            <Precinct name="Salem" votes="0" />
+            <Precinct name="Stamp Creek" votes="0" />
+            <Precinct name="New Hope" votes="0" />
+            <Precinct name="Shiloh" votes="0" />
+            <Precinct name="South Union" votes="0" />
+            <Precinct name="Tamassee" votes="0" />
+            <Precinct name="Tokeena-Providence" votes="0" />
+            <Precinct name="Utica" votes="0" />
+            <Precinct name="Walhalla 1" votes="0" />
+            <Precinct name="Walhalla 2" votes="0" />
+            <Precinct name="Westminster 1" votes="0" />
+            <Precinct name="Westminster 2" votes="0" />
+            <Precinct name="West Union" votes="0" />
+            <Precinct name="Seneca 1" votes="0" />
+            <Precinct name="Seneca 2" votes="0" />
+            <Precinct name="Seneca 3" votes="0" />
+            <Precinct name="Seneca 4" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="5548">
+            <Precinct name="Newry-Corinth" votes="27" />
+            <Precinct name="Earles Grove" votes="53" />
+            <Precinct name="Ravenel" votes="249" />
+            <Precinct name="Fair Play" votes="78" />
+            <Precinct name="Friendship" votes="164" />
+            <Precinct name="Holly Springs" votes="16" />
+            <Precinct name="Keowee" votes="81" />
+            <Precinct name="Long Creek" votes="60" />
+            <Precinct name="Mountain Rest" votes="76" />
+            <Precinct name="Madison" votes="35" />
+            <Precinct name="Bountyland" votes="99" />
+            <Precinct name="Oakway" votes="77" />
+            <Precinct name="Return" votes="44" />
+            <Precinct name="Richland" votes="81" />
+            <Precinct name="Salem" votes="109" />
+            <Precinct name="Stamp Creek" votes="161" />
+            <Precinct name="New Hope" votes="122" />
+            <Precinct name="Shiloh" votes="133" />
+            <Precinct name="South Union" votes="93" />
+            <Precinct name="Tamassee" votes="76" />
+            <Precinct name="Tokeena-Providence" votes="91" />
+            <Precinct name="Utica" votes="88" />
+            <Precinct name="Walhalla 1" votes="156" />
+            <Precinct name="Walhalla 2" votes="144" />
+            <Precinct name="Westminster 1" votes="144" />
+            <Precinct name="Westminster 2" votes="96" />
+            <Precinct name="West Union" votes="121" />
+            <Precinct name="Seneca 1" votes="346" />
+            <Precinct name="Seneca 2" votes="183" />
+            <Precinct name="Seneca 3" votes="114" />
+            <Precinct name="Seneca 4" votes="329" />
+            <Precinct name="Absentee" votes="1875" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="6" />
+            <Precinct name="Provisional" votes="17" />
+            <Precinct name="Failsafe Provisional" votes="4" />
+        </VoteType>
+        <Choice key="001" text="Christy Hubbard" party="REP" totalVotes="28337">
+            <VoteType name="Election Day" votes="28337">
+                <Precinct name="Newry-Corinth" votes="128" />
+                <Precinct name="Earles Grove" votes="455" />
+                <Precinct name="Ravenel" votes="1048" />
+                <Precinct name="Fair Play" votes="462" />
+                <Precinct name="Friendship" votes="902" />
+                <Precinct name="Holly Springs" votes="211" />
+                <Precinct name="Keowee" votes="770" />
+                <Precinct name="Long Creek" votes="183" />
+                <Precinct name="Mountain Rest" votes="472" />
+                <Precinct name="Madison" votes="330" />
+                <Precinct name="Bountyland" votes="704" />
+                <Precinct name="Oakway" votes="677" />
+                <Precinct name="Return" votes="404" />
+                <Precinct name="Richland" votes="525" />
+                <Precinct name="Salem" votes="916" />
+                <Precinct name="Stamp Creek" votes="837" />
+                <Precinct name="New Hope" votes="890" />
+                <Precinct name="Shiloh" votes="517" />
+                <Precinct name="South Union" votes="728" />
+                <Precinct name="Tamassee" votes="702" />
+                <Precinct name="Tokeena-Providence" votes="617" />
+                <Precinct name="Utica" votes="258" />
+                <Precinct name="Walhalla 1" votes="1302" />
+                <Precinct name="Walhalla 2" votes="954" />
+                <Precinct name="Westminster 1" votes="1240" />
+                <Precinct name="Westminster 2" votes="737" />
+                <Precinct name="West Union" votes="775" />
+                <Precinct name="Seneca 1" votes="905" />
+                <Precinct name="Seneca 2" votes="780" />
+                <Precinct name="Seneca 3" votes="538" />
+                <Precinct name="Seneca 4" votes="903" />
+                <Precinct name="Absentee" votes="7352" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="30" />
+                <Precinct name="Provisional" votes="59" />
+                <Precinct name="Failsafe Provisional" votes="26" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="99">
+            <VoteType name="Election Day" votes="99">
+                <Precinct name="Newry-Corinth" votes="0" />
+                <Precinct name="Earles Grove" votes="0" />
+                <Precinct name="Ravenel" votes="3" />
+                <Precinct name="Fair Play" votes="1" />
+                <Precinct name="Friendship" votes="4" />
+                <Precinct name="Holly Springs" votes="0" />
+                <Precinct name="Keowee" votes="1" />
+                <Precinct name="Long Creek" votes="1" />
+                <Precinct name="Mountain Rest" votes="3" />
+                <Precinct name="Madison" votes="1" />
+                <Precinct name="Bountyland" votes="3" />
+                <Precinct name="Oakway" votes="4" />
+                <Precinct name="Return" votes="0" />
+                <Precinct name="Richland" votes="2" />
+                <Precinct name="Salem" votes="1" />
+                <Precinct name="Stamp Creek" votes="0" />
+                <Precinct name="New Hope" votes="2" />
+                <Precinct name="Shiloh" votes="1" />
+                <Precinct name="South Union" votes="0" />
+                <Precinct name="Tamassee" votes="3" />
+                <Precinct name="Tokeena-Providence" votes="4" />
+                <Precinct name="Utica" votes="3" />
+                <Precinct name="Walhalla 1" votes="4" />
+                <Precinct name="Walhalla 2" votes="3" />
+                <Precinct name="Westminster 1" votes="7" />
+                <Precinct name="Westminster 2" votes="0" />
+                <Precinct name="West Union" votes="5" />
+                <Precinct name="Seneca 1" votes="9" />
+                <Precinct name="Seneca 2" votes="4" />
+                <Precinct name="Seneca 3" votes="2" />
+                <Precinct name="Seneca 4" votes="6" />
+                <Precinct name="Absentee" votes="22" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0115" text="County Treasurer" voteFor="1" isQuestion="false" precinctsReporting="31" precinctsReported="31">
+        <VoteType name="overVotes" votes="1">
+            <Precinct name="Newry-Corinth" votes="0" />
+            <Precinct name="Earles Grove" votes="0" />
+            <Precinct name="Ravenel" votes="0" />
+            <Precinct name="Fair Play" votes="0" />
+            <Precinct name="Friendship" votes="0" />
+            <Precinct name="Holly Springs" votes="0" />
+            <Precinct name="Keowee" votes="0" />
+            <Precinct name="Long Creek" votes="0" />
+            <Precinct name="Mountain Rest" votes="0" />
+            <Precinct name="Madison" votes="0" />
+            <Precinct name="Bountyland" votes="0" />
+            <Precinct name="Oakway" votes="0" />
+            <Precinct name="Return" votes="0" />
+            <Precinct name="Richland" votes="0" />
+            <Precinct name="Salem" votes="0" />
+            <Precinct name="Stamp Creek" votes="0" />
+            <Precinct name="New Hope" votes="0" />
+            <Precinct name="Shiloh" votes="0" />
+            <Precinct name="South Union" votes="0" />
+            <Precinct name="Tamassee" votes="0" />
+            <Precinct name="Tokeena-Providence" votes="0" />
+            <Precinct name="Utica" votes="0" />
+            <Precinct name="Walhalla 1" votes="0" />
+            <Precinct name="Walhalla 2" votes="0" />
+            <Precinct name="Westminster 1" votes="0" />
+            <Precinct name="Westminster 2" votes="0" />
+            <Precinct name="West Union" votes="0" />
+            <Precinct name="Seneca 1" votes="0" />
+            <Precinct name="Seneca 2" votes="0" />
+            <Precinct name="Seneca 3" votes="0" />
+            <Precinct name="Seneca 4" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="1" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="5489">
+            <Precinct name="Newry-Corinth" votes="26" />
+            <Precinct name="Earles Grove" votes="58" />
+            <Precinct name="Ravenel" votes="253" />
+            <Precinct name="Fair Play" votes="78" />
+            <Precinct name="Friendship" votes="160" />
+            <Precinct name="Holly Springs" votes="15" />
+            <Precinct name="Keowee" votes="78" />
+            <Precinct name="Long Creek" votes="60" />
+            <Precinct name="Mountain Rest" votes="75" />
+            <Precinct name="Madison" votes="35" />
+            <Precinct name="Bountyland" votes="93" />
+            <Precinct name="Oakway" votes="77" />
+            <Precinct name="Return" votes="43" />
+            <Precinct name="Richland" votes="82" />
+            <Precinct name="Salem" votes="106" />
+            <Precinct name="Stamp Creek" votes="158" />
+            <Precinct name="New Hope" votes="118" />
+            <Precinct name="Shiloh" votes="137" />
+            <Precinct name="South Union" votes="89" />
+            <Precinct name="Tamassee" votes="74" />
+            <Precinct name="Tokeena-Providence" votes="94" />
+            <Precinct name="Utica" votes="87" />
+            <Precinct name="Walhalla 1" votes="156" />
+            <Precinct name="Walhalla 2" votes="143" />
+            <Precinct name="Westminster 1" votes="146" />
+            <Precinct name="Westminster 2" votes="94" />
+            <Precinct name="West Union" votes="121" />
+            <Precinct name="Seneca 1" votes="340" />
+            <Precinct name="Seneca 2" votes="181" />
+            <Precinct name="Seneca 3" votes="109" />
+            <Precinct name="Seneca 4" votes="329" />
+            <Precinct name="Absentee" votes="1847" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="6" />
+            <Precinct name="Provisional" votes="16" />
+            <Precinct name="Failsafe Provisional" votes="5" />
+        </VoteType>
+        <Choice key="001" text="Greg Nowell" party="REP" totalVotes="28406">
+            <VoteType name="Election Day" votes="28406">
+                <Precinct name="Newry-Corinth" votes="128" />
+                <Precinct name="Earles Grove" votes="450" />
+                <Precinct name="Ravenel" votes="1043" />
+                <Precinct name="Fair Play" votes="461" />
+                <Precinct name="Friendship" votes="906" />
+                <Precinct name="Holly Springs" votes="212" />
+                <Precinct name="Keowee" votes="773" />
+                <Precinct name="Long Creek" votes="183" />
+                <Precinct name="Mountain Rest" votes="472" />
+                <Precinct name="Madison" votes="331" />
+                <Precinct name="Bountyland" votes="710" />
+                <Precinct name="Oakway" votes="679" />
+                <Precinct name="Return" votes="404" />
+                <Precinct name="Richland" votes="523" />
+                <Precinct name="Salem" votes="919" />
+                <Precinct name="Stamp Creek" votes="840" />
+                <Precinct name="New Hope" votes="894" />
+                <Precinct name="Shiloh" votes="513" />
+                <Precinct name="South Union" votes="732" />
+                <Precinct name="Tamassee" votes="705" />
+                <Precinct name="Tokeena-Providence" votes="617" />
+                <Precinct name="Utica" votes="260" />
+                <Precinct name="Walhalla 1" votes="1303" />
+                <Precinct name="Walhalla 2" votes="955" />
+                <Precinct name="Westminster 1" votes="1241" />
+                <Precinct name="Westminster 2" votes="739" />
+                <Precinct name="West Union" votes="779" />
+                <Precinct name="Seneca 1" votes="912" />
+                <Precinct name="Seneca 2" votes="782" />
+                <Precinct name="Seneca 3" votes="542" />
+                <Precinct name="Seneca 4" votes="900" />
+                <Precinct name="Absentee" votes="7384" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="30" />
+                <Precinct name="Provisional" votes="59" />
+                <Precinct name="Failsafe Provisional" votes="25" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="88">
+            <VoteType name="Election Day" votes="88">
+                <Precinct name="Newry-Corinth" votes="1" />
+                <Precinct name="Earles Grove" votes="0" />
+                <Precinct name="Ravenel" votes="4" />
+                <Precinct name="Fair Play" votes="2" />
+                <Precinct name="Friendship" votes="4" />
+                <Precinct name="Holly Springs" votes="0" />
+                <Precinct name="Keowee" votes="1" />
+                <Precinct name="Long Creek" votes="1" />
+                <Precinct name="Mountain Rest" votes="4" />
+                <Precinct name="Madison" votes="0" />
+                <Precinct name="Bountyland" votes="3" />
+                <Precinct name="Oakway" votes="2" />
+                <Precinct name="Return" votes="1" />
+                <Precinct name="Richland" votes="3" />
+                <Precinct name="Salem" votes="1" />
+                <Precinct name="Stamp Creek" votes="0" />
+                <Precinct name="New Hope" votes="2" />
+                <Precinct name="Shiloh" votes="1" />
+                <Precinct name="South Union" votes="0" />
+                <Precinct name="Tamassee" votes="2" />
+                <Precinct name="Tokeena-Providence" votes="1" />
+                <Precinct name="Utica" votes="2" />
+                <Precinct name="Walhalla 1" votes="3" />
+                <Precinct name="Walhalla 2" votes="3" />
+                <Precinct name="Westminster 1" votes="4" />
+                <Precinct name="Westminster 2" votes="0" />
+                <Precinct name="West Union" votes="1" />
+                <Precinct name="Seneca 1" votes="8" />
+                <Precinct name="Seneca 2" votes="4" />
+                <Precinct name="Seneca 3" votes="3" />
+                <Precinct name="Seneca 4" votes="9" />
+                <Precinct name="Absentee" votes="18" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0116" text="County Council District 2" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Mountain Rest" votes="0" />
+            <Precinct name="Walhalla 1" votes="0" />
+            <Precinct name="Walhalla 2" votes="0" />
+            <Precinct name="West Union" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="714">
+            <Precinct name="Mountain Rest" votes="68" />
+            <Precinct name="Walhalla 1" votes="158" />
+            <Precinct name="Walhalla 2" votes="129" />
+            <Precinct name="West Union" votes="91" />
+            <Precinct name="Absentee" votes="259" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="3" />
+            <Precinct name="Provisional" votes="6" />
+        </VoteType>
+        <Choice key="001" text="Wayne McCall" party="REP" totalVotes="4919">
+            <VoteType name="Election Day" votes="4919">
+                <Precinct name="Mountain Rest" votes="480" />
+                <Precinct name="Walhalla 1" votes="1295" />
+                <Precinct name="Walhalla 2" votes="969" />
+                <Precinct name="West Union" votes="621" />
+                <Precinct name="Absentee" votes="1531" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="13" />
+                <Precinct name="Provisional" votes="10" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="39">
+            <VoteType name="Election Day" votes="39">
+                <Precinct name="Mountain Rest" votes="3" />
+                <Precinct name="Walhalla 1" votes="9" />
+                <Precinct name="Walhalla 2" votes="3" />
+                <Precinct name="West Union" votes="9" />
+                <Precinct name="Absentee" votes="15" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0117" text="County Council District 4" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Holly Springs" votes="0" />
+            <Precinct name="Long Creek" votes="0" />
+            <Precinct name="Madison" votes="0" />
+            <Precinct name="Oakway" votes="0" />
+            <Precinct name="Return" votes="0" />
+            <Precinct name="Richland" votes="0" />
+            <Precinct name="Westminster 1" votes="0" />
+            <Precinct name="Westminster 2" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="705">
+            <Precinct name="Holly Springs" votes="13" />
+            <Precinct name="Long Creek" votes="56" />
+            <Precinct name="Madison" votes="35" />
+            <Precinct name="Oakway" votes="68" />
+            <Precinct name="Return" votes="39" />
+            <Precinct name="Richland" votes="77" />
+            <Precinct name="Westminster 1" votes="133" />
+            <Precinct name="Westminster 2" votes="89" />
+            <Precinct name="Absentee" votes="193" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="2" />
+        </VoteType>
+        <Choice key="001" text="Julian Davis III" party="REP" totalVotes="5353">
+            <VoteType name="Election Day" votes="5353">
+                <Precinct name="Holly Springs" votes="214" />
+                <Precinct name="Long Creek" votes="186" />
+                <Precinct name="Madison" votes="328" />
+                <Precinct name="Oakway" votes="688" />
+                <Precinct name="Return" votes="409" />
+                <Precinct name="Richland" votes="528" />
+                <Precinct name="Westminster 1" votes="1249" />
+                <Precinct name="Westminster 2" votes="742" />
+                <Precinct name="Absentee" votes="990" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="5" />
+                <Precinct name="Provisional" votes="14" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="25">
+            <VoteType name="Election Day" votes="25">
+                <Precinct name="Holly Springs" votes="0" />
+                <Precinct name="Long Creek" votes="2" />
+                <Precinct name="Madison" votes="3" />
+                <Precinct name="Oakway" votes="2" />
+                <Precinct name="Return" votes="0" />
+                <Precinct name="Richland" votes="3" />
+                <Precinct name="Westminster 1" votes="9" />
+                <Precinct name="Westminster 2" votes="2" />
+                <Precinct name="Absentee" votes="4" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0118" text="County Council District 5" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Earles Grove" votes="0" />
+            <Precinct name="Ravenel" votes="0" />
+            <Precinct name="Fair Play" votes="0" />
+            <Precinct name="Friendship" votes="0" />
+            <Precinct name="Shiloh" votes="0" />
+            <Precinct name="South Union" votes="0" />
+            <Precinct name="Tokeena-Providence" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1133">
+            <Precinct name="Earles Grove" votes="51" />
+            <Precinct name="Ravenel" votes="252" />
+            <Precinct name="Fair Play" votes="82" />
+            <Precinct name="Friendship" votes="153" />
+            <Precinct name="Shiloh" votes="128" />
+            <Precinct name="South Union" votes="92" />
+            <Precinct name="Tokeena-Providence" votes="90" />
+            <Precinct name="Absentee" votes="281" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="3" />
+        </VoteType>
+        <Choice key="001" text="James Glenn Hart" party="REP" totalVotes="5729">
+            <VoteType name="Election Day" votes="5729">
+                <Precinct name="Earles Grove" votes="457" />
+                <Precinct name="Ravenel" votes="1044" />
+                <Precinct name="Fair Play" votes="456" />
+                <Precinct name="Friendship" votes="913" />
+                <Precinct name="Shiloh" votes="523" />
+                <Precinct name="South Union" votes="720" />
+                <Precinct name="Tokeena-Providence" votes="622" />
+                <Precinct name="Absentee" votes="978" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="14" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="22">
+            <VoteType name="Election Day" votes="22">
+                <Precinct name="Earles Grove" votes="0" />
+                <Precinct name="Ravenel" votes="4" />
+                <Precinct name="Fair Play" votes="3" />
+                <Precinct name="Friendship" votes="4" />
+                <Precinct name="Shiloh" votes="0" />
+                <Precinct name="South Union" votes="9" />
+                <Precinct name="Tokeena-Providence" votes="0" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0119" text="School Board District 2" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="overVotes" votes="3">
+            <Precinct name="Mountain Rest" votes="0" />
+            <Precinct name="Walhalla 1" votes="0" />
+            <Precinct name="Walhalla 2" votes="0" />
+            <Precinct name="West Union" votes="0" />
+            <Precinct name="Absentee" votes="3" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1957">
+            <Precinct name="Mountain Rest" votes="197" />
+            <Precinct name="Walhalla 1" votes="452" />
+            <Precinct name="Walhalla 2" votes="375" />
+            <Precinct name="West Union" votes="237" />
+            <Precinct name="Absentee" votes="681" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="4" />
+            <Precinct name="Provisional" votes="11" />
+        </VoteType>
+        <Choice key="001" text="Joe Rukat" party="NON" totalVotes="3691">
+            <VoteType name="Election Day" votes="3691">
+                <Precinct name="Mountain Rest" votes="352" />
+                <Precinct name="Walhalla 1" votes="1008" />
+                <Precinct name="Walhalla 2" votes="722" />
+                <Precinct name="West Union" votes="483" />
+                <Precinct name="Absentee" votes="1109" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="12" />
+                <Precinct name="Provisional" votes="5" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="21">
+            <VoteType name="Election Day" votes="21">
+                <Precinct name="Mountain Rest" votes="2" />
+                <Precinct name="Walhalla 1" votes="2" />
+                <Precinct name="Walhalla 2" votes="4" />
+                <Precinct name="West Union" votes="1" />
+                <Precinct name="Absentee" votes="12" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0120" text="School Board District 4" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Holly Springs" votes="0" />
+            <Precinct name="Long Creek" votes="0" />
+            <Precinct name="Madison" votes="0" />
+            <Precinct name="Oakway" votes="0" />
+            <Precinct name="Return" votes="0" />
+            <Precinct name="Richland" votes="0" />
+            <Precinct name="Westminster 1" votes="0" />
+            <Precinct name="Westminster 2" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1891">
+            <Precinct name="Holly Springs" votes="70" />
+            <Precinct name="Long Creek" votes="92" />
+            <Precinct name="Madison" votes="122" />
+            <Precinct name="Oakway" votes="210" />
+            <Precinct name="Return" votes="134" />
+            <Precinct name="Richland" votes="200" />
+            <Precinct name="Westminster 1" votes="387" />
+            <Precinct name="Westminster 2" votes="210" />
+            <Precinct name="Absentee" votes="448" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="2" />
+            <Precinct name="Provisional" votes="16" />
+        </VoteType>
+        <Choice key="001" text="Patrick Maxwell James" party="NON" totalVotes="1420">
+            <VoteType name="Election Day" votes="1420">
+                <Precinct name="Holly Springs" votes="46" />
+                <Precinct name="Long Creek" votes="59" />
+                <Precinct name="Madison" votes="86" />
+                <Precinct name="Oakway" votes="224" />
+                <Precinct name="Return" votes="107" />
+                <Precinct name="Richland" votes="134" />
+                <Precinct name="Westminster 1" votes="325" />
+                <Precinct name="Westminster 2" votes="219" />
+                <Precinct name="Absentee" votes="219" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Denise McCormick" party="NON" totalVotes="2755">
+            <VoteType name="Election Day" votes="2755">
+                <Precinct name="Holly Springs" votes="111" />
+                <Precinct name="Long Creek" votes="92" />
+                <Precinct name="Madison" votes="158" />
+                <Precinct name="Oakway" votes="321" />
+                <Precinct name="Return" votes="207" />
+                <Precinct name="Richland" votes="271" />
+                <Precinct name="Westminster 1" votes="674" />
+                <Precinct name="Westminster 2" votes="403" />
+                <Precinct name="Absentee" votes="516" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="17">
+            <VoteType name="Election Day" votes="17">
+                <Precinct name="Holly Springs" votes="0" />
+                <Precinct name="Long Creek" votes="1" />
+                <Precinct name="Madison" votes="0" />
+                <Precinct name="Oakway" votes="3" />
+                <Precinct name="Return" votes="0" />
+                <Precinct name="Richland" votes="3" />
+                <Precinct name="Westminster 1" votes="5" />
+                <Precinct name="Westminster 2" votes="1" />
+                <Precinct name="Absentee" votes="4" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0121" text="School Board District 5" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="overVotes" votes="1">
+            <Precinct name="Earles Grove" votes="0" />
+            <Precinct name="Ravenel" votes="0" />
+            <Precinct name="Fair Play" votes="0" />
+            <Precinct name="Friendship" votes="0" />
+            <Precinct name="Shiloh" votes="0" />
+            <Precinct name="South Union" votes="0" />
+            <Precinct name="Tokeena-Providence" votes="0" />
+            <Precinct name="Absentee" votes="1" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="2565">
+            <Precinct name="Earles Grove" votes="165" />
+            <Precinct name="Ravenel" votes="452" />
+            <Precinct name="Fair Play" votes="204" />
+            <Precinct name="Friendship" votes="409" />
+            <Precinct name="Shiloh" votes="239" />
+            <Precinct name="South Union" votes="301" />
+            <Precinct name="Tokeena-Providence" votes="275" />
+            <Precinct name="Absentee" votes="507" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="12" />
+        </VoteType>
+        <Choice key="001" text="Buddy G Herring" party="NON" totalVotes="4286">
+            <VoteType name="Election Day" votes="4286">
+                <Precinct name="Earles Grove" votes="340" />
+                <Precinct name="Ravenel" votes="839" />
+                <Precinct name="Fair Play" votes="328" />
+                <Precinct name="Friendship" votes="655" />
+                <Precinct name="Shiloh" votes="411" />
+                <Precinct name="South Union" votes="518" />
+                <Precinct name="Tokeena-Providence" votes="437" />
+                <Precinct name="Absentee" votes="751" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="5" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="32">
+            <VoteType name="Election Day" votes="32">
+                <Precinct name="Earles Grove" votes="3" />
+                <Precinct name="Ravenel" votes="9" />
+                <Precinct name="Fair Play" votes="9" />
+                <Precinct name="Friendship" votes="6" />
+                <Precinct name="Shiloh" votes="1" />
+                <Precinct name="South Union" votes="2" />
+                <Precinct name="Tokeena-Providence" votes="0" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0122" text="Soil and Water District Commission" voteFor="1" isQuestion="false" precinctsReporting="31" precinctsReported="31">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Newry-Corinth" votes="0" />
+            <Precinct name="Earles Grove" votes="0" />
+            <Precinct name="Ravenel" votes="0" />
+            <Precinct name="Fair Play" votes="0" />
+            <Precinct name="Friendship" votes="0" />
+            <Precinct name="Holly Springs" votes="0" />
+            <Precinct name="Keowee" votes="0" />
+            <Precinct name="Long Creek" votes="0" />
+            <Precinct name="Mountain Rest" votes="0" />
+            <Precinct name="Madison" votes="0" />
+            <Precinct name="Bountyland" votes="0" />
+            <Precinct name="Oakway" votes="0" />
+            <Precinct name="Return" votes="0" />
+            <Precinct name="Richland" votes="0" />
+            <Precinct name="Salem" votes="0" />
+            <Precinct name="Stamp Creek" votes="0" />
+            <Precinct name="New Hope" votes="0" />
+            <Precinct name="Shiloh" votes="0" />
+            <Precinct name="South Union" votes="0" />
+            <Precinct name="Tamassee" votes="0" />
+            <Precinct name="Tokeena-Providence" votes="0" />
+            <Precinct name="Utica" votes="0" />
+            <Precinct name="Walhalla 1" votes="0" />
+            <Precinct name="Walhalla 2" votes="0" />
+            <Precinct name="Westminster 1" votes="0" />
+            <Precinct name="Westminster 2" votes="0" />
+            <Precinct name="West Union" votes="0" />
+            <Precinct name="Seneca 1" votes="0" />
+            <Precinct name="Seneca 2" votes="0" />
+            <Precinct name="Seneca 3" votes="0" />
+            <Precinct name="Seneca 4" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="12453">
+            <Precinct name="Newry-Corinth" votes="34" />
+            <Precinct name="Earles Grove" votes="169" />
+            <Precinct name="Ravenel" votes="462" />
+            <Precinct name="Fair Play" votes="224" />
+            <Precinct name="Friendship" votes="429" />
+            <Precinct name="Holly Springs" votes="67" />
+            <Precinct name="Keowee" votes="258" />
+            <Precinct name="Long Creek" votes="100" />
+            <Precinct name="Mountain Rest" votes="213" />
+            <Precinct name="Madison" votes="123" />
+            <Precinct name="Bountyland" votes="261" />
+            <Precinct name="Oakway" votes="235" />
+            <Precinct name="Return" votes="141" />
+            <Precinct name="Richland" votes="211" />
+            <Precinct name="Salem" votes="349" />
+            <Precinct name="Stamp Creek" votes="372" />
+            <Precinct name="New Hope" votes="354" />
+            <Precinct name="Shiloh" votes="246" />
+            <Precinct name="South Union" votes="316" />
+            <Precinct name="Tamassee" votes="242" />
+            <Precinct name="Tokeena-Providence" votes="286" />
+            <Precinct name="Utica" votes="129" />
+            <Precinct name="Walhalla 1" votes="483" />
+            <Precinct name="Walhalla 2" votes="388" />
+            <Precinct name="Westminster 1" votes="416" />
+            <Precinct name="Westminster 2" votes="245" />
+            <Precinct name="West Union" votes="308" />
+            <Precinct name="Seneca 1" votes="510" />
+            <Precinct name="Seneca 2" votes="322" />
+            <Precinct name="Seneca 3" votes="199" />
+            <Precinct name="Seneca 4" votes="467" />
+            <Precinct name="Absentee" votes="3825" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="12" />
+            <Precinct name="Provisional" votes="45" />
+            <Precinct name="Failsafe Provisional" votes="12" />
+        </VoteType>
+        <Choice key="001" text="L J Jones" party="NON" totalVotes="21398">
+            <VoteType name="Election Day" votes="21398">
+                <Precinct name="Newry-Corinth" votes="120" />
+                <Precinct name="Earles Grove" votes="336" />
+                <Precinct name="Ravenel" votes="831" />
+                <Precinct name="Fair Play" votes="314" />
+                <Precinct name="Friendship" votes="631" />
+                <Precinct name="Holly Springs" votes="160" />
+                <Precinct name="Keowee" votes="591" />
+                <Precinct name="Long Creek" votes="144" />
+                <Precinct name="Mountain Rest" votes="336" />
+                <Precinct name="Madison" votes="243" />
+                <Precinct name="Bountyland" votes="543" />
+                <Precinct name="Oakway" votes="520" />
+                <Precinct name="Return" votes="304" />
+                <Precinct name="Richland" votes="395" />
+                <Precinct name="Salem" votes="671" />
+                <Precinct name="Stamp Creek" votes="623" />
+                <Precinct name="New Hope" votes="654" />
+                <Precinct name="Shiloh" votes="403" />
+                <Precinct name="South Union" votes="504" />
+                <Precinct name="Tamassee" votes="537" />
+                <Precinct name="Tokeena-Providence" votes="424" />
+                <Precinct name="Utica" votes="218" />
+                <Precinct name="Walhalla 1" votes="978" />
+                <Precinct name="Walhalla 2" votes="710" />
+                <Precinct name="Westminster 1" votes="968" />
+                <Precinct name="Westminster 2" votes="584" />
+                <Precinct name="West Union" votes="591" />
+                <Precinct name="Seneca 1" votes="745" />
+                <Precinct name="Seneca 2" votes="639" />
+                <Precinct name="Seneca 3" votes="449" />
+                <Precinct name="Seneca 4" votes="766" />
+                <Precinct name="Absentee" votes="5393" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="24" />
+                <Precinct name="Provisional" votes="31" />
+                <Precinct name="Failsafe Provisional" votes="18" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="133">
+            <VoteType name="Election Day" votes="133">
+                <Precinct name="Newry-Corinth" votes="1" />
+                <Precinct name="Earles Grove" votes="3" />
+                <Precinct name="Ravenel" votes="7" />
+                <Precinct name="Fair Play" votes="3" />
+                <Precinct name="Friendship" votes="10" />
+                <Precinct name="Holly Springs" votes="0" />
+                <Precinct name="Keowee" votes="3" />
+                <Precinct name="Long Creek" votes="0" />
+                <Precinct name="Mountain Rest" votes="2" />
+                <Precinct name="Madison" votes="0" />
+                <Precinct name="Bountyland" votes="2" />
+                <Precinct name="Oakway" votes="3" />
+                <Precinct name="Return" votes="3" />
+                <Precinct name="Richland" votes="2" />
+                <Precinct name="Salem" votes="6" />
+                <Precinct name="Stamp Creek" votes="3" />
+                <Precinct name="New Hope" votes="6" />
+                <Precinct name="Shiloh" votes="2" />
+                <Precinct name="South Union" votes="1" />
+                <Precinct name="Tamassee" votes="2" />
+                <Precinct name="Tokeena-Providence" votes="2" />
+                <Precinct name="Utica" votes="2" />
+                <Precinct name="Walhalla 1" votes="1" />
+                <Precinct name="Walhalla 2" votes="3" />
+                <Precinct name="Westminster 1" votes="7" />
+                <Precinct name="Westminster 2" votes="4" />
+                <Precinct name="West Union" votes="2" />
+                <Precinct name="Seneca 1" votes="5" />
+                <Precinct name="Seneca 2" votes="6" />
+                <Precinct name="Seneca 3" votes="6" />
+                <Precinct name="Seneca 4" votes="5" />
+                <Precinct name="Absentee" votes="31" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0123" text="Keowee Fire District Commission" voteFor="2" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Stamp Creek" votes="0" />
+            <Precinct name="New Hope" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="2083">
+            <Precinct name="Stamp Creek" votes="841" />
+            <Precinct name="New Hope" votes="154" />
+            <Precinct name="Absentee" votes="1085" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="2" />
+        </VoteType>
+        <Choice key="001" text="Don Chamberlain" party="NON" totalVotes="965">
+            <VoteType name="Election Day" votes="965">
+                <Precinct name="Stamp Creek" votes="398" />
+                <Precinct name="New Hope" votes="54" />
+                <Precinct name="Absentee" votes="510" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="3" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Mark Flavin" party="NON" totalVotes="561">
+            <VoteType name="Election Day" votes="561">
+                <Precinct name="Stamp Creek" votes="260" />
+                <Precinct name="New Hope" votes="16" />
+                <Precinct name="Absentee" votes="285" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Bill Griffiths" party="NON" totalVotes="822">
+            <VoteType name="Election Day" votes="822">
+                <Precinct name="Stamp Creek" votes="375" />
+                <Precinct name="New Hope" votes="45" />
+                <Precinct name="Absentee" votes="400" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Leo Primeau" party="NON" totalVotes="470">
+            <VoteType name="Election Day" votes="470">
+                <Precinct name="Stamp Creek" votes="118" />
+                <Precinct name="New Hope" votes="85" />
+                <Precinct name="Absentee" votes="267" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Write-In" party="NON" totalVotes="5">
+            <VoteType name="Election Day" votes="5">
+                <Precinct name="Stamp Creek" votes="4" />
+                <Precinct name="New Hope" votes="0" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0124" text="Beaverdam Creek Watershed District" voteFor="3" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Earles Grove" votes="0" />
+            <Precinct name="Fair Play" votes="0" />
+            <Precinct name="Oakway" votes="0" />
+            <Precinct name="South Union" votes="0" />
+            <Precinct name="Tokeena-Providence" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="6893">
+            <Precinct name="Earles Grove" votes="1453" />
+            <Precinct name="Fair Play" votes="344" />
+            <Precinct name="Oakway" votes="1504" />
+            <Precinct name="South Union" votes="2400" />
+            <Precinct name="Tokeena-Providence" votes="790" />
+            <Precinct name="Absentee" votes="384" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="3" />
+            <Precinct name="Provisional" votes="15" />
+        </VoteType>
+        <Choice key="001" text="Write-In" party="NON" totalVotes="229">
+            <VoteType name="Election Day" votes="229">
+                <Precinct name="Earles Grove" votes="71" />
+                <Precinct name="Fair Play" votes="25" />
+                <Precinct name="Oakway" votes="47" />
+                <Precinct name="South Union" votes="39" />
+                <Precinct name="Tokeena-Providence" votes="32" />
+                <Precinct name="Absentee" votes="15" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

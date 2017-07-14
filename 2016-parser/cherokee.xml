@@ -1,0 +1,2789 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>11/16/2016 1:54:14 PM EST</Timestamp>
+    <ElectionName>2016 Statewide General Election</ElectionName>
+    <ElectionDate>11/8/2016</ElectionDate>
+    <Region>Cherokee</Region>
+    <VoterTurnout totalVoters="32085" ballotsCast="21892" voterTurnout="68.23">
+        <Precincts>
+            <Precinct name="Allens" totalVoters="1031" ballotsCast="573" voterTurnout="55.58" percentReporting="4" />
+            <Precinct name="Alma Mill" totalVoters="1787" ballotsCast="773" voterTurnout="43.26" percentReporting="4" />
+            <Precinct name="Antioch and Kings Creek" totalVoters="1239" ballotsCast="729" voterTurnout="58.84" percentReporting="4" />
+            <Precinct name="Ashworth" totalVoters="1115" ballotsCast="660" voterTurnout="59.19" percentReporting="4" />
+            <Precinct name="Blacksburg Ward No. 1" totalVoters="961" ballotsCast="506" voterTurnout="52.65" percentReporting="4" />
+            <Precinct name="Blacksburg Ward No. 2" totalVoters="1357" ballotsCast="736" voterTurnout="54.24" percentReporting="4" />
+            <Precinct name="Draytonville" totalVoters="1539" ballotsCast="816" voterTurnout="53.02" percentReporting="4" />
+            <Precinct name="Ezells and Butler" totalVoters="1365" ballotsCast="803" voterTurnout="58.83" percentReporting="4" />
+            <Precinct name="Gaffney Ward No. 1" totalVoters="765" ballotsCast="333" voterTurnout="43.53" percentReporting="4" />
+            <Precinct name="Gaffney Ward No. 2" totalVoters="1235" ballotsCast="524" voterTurnout="42.43" percentReporting="4" />
+            <Precinct name="Gaffney Ward No. 3" totalVoters="1062" ballotsCast="454" voterTurnout="42.75" percentReporting="4" />
+            <Precinct name="Gaffney Ward No. 4" totalVoters="1241" ballotsCast="663" voterTurnout="53.42" percentReporting="4" />
+            <Precinct name="Gaffney Ward No. 5" totalVoters="1067" ballotsCast="538" voterTurnout="50.42" percentReporting="4" />
+            <Precinct name="Gaffney Ward No. 6" totalVoters="1142" ballotsCast="600" voterTurnout="52.54" percentReporting="4" />
+            <Precinct name="Grassy Pond" totalVoters="1982" ballotsCast="1178" voterTurnout="59.43" percentReporting="4" />
+            <Precinct name="Goucher and Thicketty" totalVoters="1080" ballotsCast="653" voterTurnout="60.46" percentReporting="4" />
+            <Precinct name="Holly Grove-Buffalo" totalVoters="1271" ballotsCast="683" voterTurnout="53.74" percentReporting="4" />
+            <Precinct name="Limestone Mill" totalVoters="853" ballotsCast="354" voterTurnout="41.50" percentReporting="4" />
+            <Precinct name="Littlejohn's and Sarratt's" totalVoters="338" ballotsCast="230" voterTurnout="68.05" percentReporting="4" />
+            <Precinct name="Macedonia" totalVoters="1360" ballotsCast="774" voterTurnout="56.91" percentReporting="4" />
+            <Precinct name="Morgan" totalVoters="1106" ballotsCast="675" voterTurnout="61.03" percentReporting="4" />
+            <Precinct name="Musgrove Mill" totalVoters="1342" ballotsCast="665" voterTurnout="49.55" percentReporting="4" />
+            <Precinct name="Ninety Nine and Cherokee Falls" totalVoters="897" ballotsCast="501" voterTurnout="55.85" percentReporting="4" />
+            <Precinct name="Pleasant Grove" totalVoters="938" ballotsCast="490" voterTurnout="52.24" percentReporting="4" />
+            <Precinct name="Pleasant Meadows" totalVoters="732" ballotsCast="350" voterTurnout="47.81" percentReporting="4" />
+            <Precinct name="Timber Ridge" totalVoters="881" ballotsCast="539" voterTurnout="61.18" percentReporting="4" />
+            <Precinct name="White Plains" totalVoters="1306" ballotsCast="737" voterTurnout="56.43" percentReporting="4" />
+            <Precinct name="Wilkinsville and Metcalf" totalVoters="533" ballotsCast="335" voterTurnout="62.85" percentReporting="4" />
+            <Precinct name="Woods" totalVoters="883" ballotsCast="602" voterTurnout="68.18" percentReporting="4" />
+            <Precinct name="Absentee" totalVoters="0" ballotsCast="4256" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Emergency" totalVoters="0" ballotsCast="0" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Failsafe" totalVoters="0" ballotsCast="157" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Provisional" totalVoters="0" ballotsCast="5" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Failsafe Provisional" totalVoters="0" ballotsCast="0" voterTurnout="0.00" percentReporting="32" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="0103" text="STRAIGHT PARTY" voteFor="1" isQuestion="false" precinctsReporting="29" precinctsReported="29">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Allens" votes="0" />
+            <Precinct name="Alma Mill" votes="0" />
+            <Precinct name="Antioch and Kings Creek" votes="0" />
+            <Precinct name="Ashworth" votes="0" />
+            <Precinct name="Blacksburg Ward No. 1" votes="0" />
+            <Precinct name="Blacksburg Ward No. 2" votes="0" />
+            <Precinct name="Draytonville" votes="0" />
+            <Precinct name="Ezells and Butler" votes="0" />
+            <Precinct name="Gaffney Ward No. 1" votes="0" />
+            <Precinct name="Gaffney Ward No. 2" votes="0" />
+            <Precinct name="Gaffney Ward No. 3" votes="0" />
+            <Precinct name="Gaffney Ward No. 4" votes="0" />
+            <Precinct name="Gaffney Ward No. 5" votes="0" />
+            <Precinct name="Gaffney Ward No. 6" votes="0" />
+            <Precinct name="Grassy Pond" votes="0" />
+            <Precinct name="Goucher and Thicketty" votes="0" />
+            <Precinct name="Holly Grove-Buffalo" votes="0" />
+            <Precinct name="Limestone Mill" votes="0" />
+            <Precinct name="Littlejohn's and Sarratt's" votes="0" />
+            <Precinct name="Macedonia" votes="0" />
+            <Precinct name="Morgan" votes="0" />
+            <Precinct name="Musgrove Mill" votes="0" />
+            <Precinct name="Ninety Nine and Cherokee Falls" votes="0" />
+            <Precinct name="Pleasant Grove" votes="0" />
+            <Precinct name="Pleasant Meadows" votes="0" />
+            <Precinct name="Timber Ridge" votes="0" />
+            <Precinct name="White Plains" votes="0" />
+            <Precinct name="Wilkinsville and Metcalf" votes="0" />
+            <Precinct name="Woods" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="10406">
+            <Precinct name="Allens" votes="284" />
+            <Precinct name="Alma Mill" votes="337" />
+            <Precinct name="Antioch and Kings Creek" votes="293" />
+            <Precinct name="Ashworth" votes="363" />
+            <Precinct name="Blacksburg Ward No. 1" votes="236" />
+            <Precinct name="Blacksburg Ward No. 2" votes="353" />
+            <Precinct name="Draytonville" votes="425" />
+            <Precinct name="Ezells and Butler" votes="405" />
+            <Precinct name="Gaffney Ward No. 1" votes="94" />
+            <Precinct name="Gaffney Ward No. 2" votes="136" />
+            <Precinct name="Gaffney Ward No. 3" votes="182" />
+            <Precinct name="Gaffney Ward No. 4" votes="309" />
+            <Precinct name="Gaffney Ward No. 5" votes="309" />
+            <Precinct name="Gaffney Ward No. 6" votes="350" />
+            <Precinct name="Grassy Pond" votes="694" />
+            <Precinct name="Goucher and Thicketty" votes="331" />
+            <Precinct name="Holly Grove-Buffalo" votes="324" />
+            <Precinct name="Limestone Mill" votes="135" />
+            <Precinct name="Littlejohn's and Sarratt's" votes="136" />
+            <Precinct name="Macedonia" votes="408" />
+            <Precinct name="Morgan" votes="286" />
+            <Precinct name="Musgrove Mill" votes="336" />
+            <Precinct name="Ninety Nine and Cherokee Falls" votes="277" />
+            <Precinct name="Pleasant Grove" votes="227" />
+            <Precinct name="Pleasant Meadows" votes="132" />
+            <Precinct name="Timber Ridge" votes="287" />
+            <Precinct name="White Plains" votes="337" />
+            <Precinct name="Wilkinsville and Metcalf" votes="193" />
+            <Precinct name="Woods" votes="346" />
+            <Precinct name="Absentee" votes="1811" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="65" />
+            <Precinct name="Provisional" votes="5" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Democratic" party="DEM" totalVotes="3995">
+            <VoteType name="Election Day" votes="3995">
+                <Precinct name="Allens" votes="29" />
+                <Precinct name="Alma Mill" votes="253" />
+                <Precinct name="Antioch and Kings Creek" votes="45" />
+                <Precinct name="Ashworth" votes="28" />
+                <Precinct name="Blacksburg Ward No. 1" votes="88" />
+                <Precinct name="Blacksburg Ward No. 2" votes="67" />
+                <Precinct name="Draytonville" votes="115" />
+                <Precinct name="Ezells and Butler" votes="66" />
+                <Precinct name="Gaffney Ward No. 1" votes="185" />
+                <Precinct name="Gaffney Ward No. 2" votes="317" />
+                <Precinct name="Gaffney Ward No. 3" votes="241" />
+                <Precinct name="Gaffney Ward No. 4" votes="225" />
+                <Precinct name="Gaffney Ward No. 5" votes="96" />
+                <Precinct name="Gaffney Ward No. 6" votes="83" />
+                <Precinct name="Grassy Pond" votes="131" />
+                <Precinct name="Goucher and Thicketty" votes="41" />
+                <Precinct name="Holly Grove-Buffalo" votes="37" />
+                <Precinct name="Limestone Mill" votes="124" />
+                <Precinct name="Littlejohn's and Sarratt's" votes="4" />
+                <Precinct name="Macedonia" votes="65" />
+                <Precinct name="Morgan" votes="44" />
+                <Precinct name="Musgrove Mill" votes="109" />
+                <Precinct name="Ninety Nine and Cherokee Falls" votes="19" />
+                <Precinct name="Pleasant Grove" votes="153" />
+                <Precinct name="Pleasant Meadows" votes="163" />
+                <Precinct name="Timber Ridge" votes="35" />
+                <Precinct name="White Plains" votes="78" />
+                <Precinct name="Wilkinsville and Metcalf" votes="5" />
+                <Precinct name="Woods" votes="30" />
+                <Precinct name="Absentee" votes="1078" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="41" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Working Families" party="WFM" totalVotes="160">
+            <VoteType name="Election Day" votes="160">
+                <Precinct name="Allens" votes="6" />
+                <Precinct name="Alma Mill" votes="10" />
+                <Precinct name="Antioch and Kings Creek" votes="13" />
+                <Precinct name="Ashworth" votes="3" />
+                <Precinct name="Blacksburg Ward No. 1" votes="3" />
+                <Precinct name="Blacksburg Ward No. 2" votes="6" />
+                <Precinct name="Draytonville" votes="10" />
+                <Precinct name="Ezells and Butler" votes="11" />
+                <Precinct name="Gaffney Ward No. 1" votes="4" />
+                <Precinct name="Gaffney Ward No. 2" votes="4" />
+                <Precinct name="Gaffney Ward No. 3" votes="2" />
+                <Precinct name="Gaffney Ward No. 4" votes="4" />
+                <Precinct name="Gaffney Ward No. 5" votes="3" />
+                <Precinct name="Gaffney Ward No. 6" votes="2" />
+                <Precinct name="Grassy Pond" votes="8" />
+                <Precinct name="Goucher and Thicketty" votes="5" />
+                <Precinct name="Holly Grove-Buffalo" votes="3" />
+                <Precinct name="Limestone Mill" votes="8" />
+                <Precinct name="Littlejohn's and Sarratt's" votes="0" />
+                <Precinct name="Macedonia" votes="8" />
+                <Precinct name="Morgan" votes="5" />
+                <Precinct name="Musgrove Mill" votes="5" />
+                <Precinct name="Ninety Nine and Cherokee Falls" votes="3" />
+                <Precinct name="Pleasant Grove" votes="1" />
+                <Precinct name="Pleasant Meadows" votes="5" />
+                <Precinct name="Timber Ridge" votes="6" />
+                <Precinct name="White Plains" votes="9" />
+                <Precinct name="Wilkinsville and Metcalf" votes="0" />
+                <Precinct name="Woods" votes="2" />
+                <Precinct name="Absentee" votes="8" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="3" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Constitution" party="CON" totalVotes="17">
+            <VoteType name="Election Day" votes="17">
+                <Precinct name="Allens" votes="1" />
+                <Precinct name="Alma Mill" votes="1" />
+                <Precinct name="Antioch and Kings Creek" votes="0" />
+                <Precinct name="Ashworth" votes="0" />
+                <Precinct name="Blacksburg Ward No. 1" votes="0" />
+                <Precinct name="Blacksburg Ward No. 2" votes="2" />
+                <Precinct name="Draytonville" votes="1" />
+                <Precinct name="Ezells and Butler" votes="1" />
+                <Precinct name="Gaffney Ward No. 1" votes="0" />
+                <Precinct name="Gaffney Ward No. 2" votes="0" />
+                <Precinct name="Gaffney Ward No. 3" votes="2" />
+                <Precinct name="Gaffney Ward No. 4" votes="0" />
+                <Precinct name="Gaffney Ward No. 5" votes="0" />
+                <Precinct name="Gaffney Ward No. 6" votes="0" />
+                <Precinct name="Grassy Pond" votes="0" />
+                <Precinct name="Goucher and Thicketty" votes="0" />
+                <Precinct name="Holly Grove-Buffalo" votes="0" />
+                <Precinct name="Limestone Mill" votes="1" />
+                <Precinct name="Littlejohn's and Sarratt's" votes="0" />
+                <Precinct name="Macedonia" votes="0" />
+                <Precinct name="Morgan" votes="0" />
+                <Precinct name="Musgrove Mill" votes="1" />
+                <Precinct name="Ninety Nine and Cherokee Falls" votes="0" />
+                <Precinct name="Pleasant Grove" votes="0" />
+                <Precinct name="Pleasant Meadows" votes="0" />
+                <Precinct name="Timber Ridge" votes="2" />
+                <Precinct name="White Plains" votes="2" />
+                <Precinct name="Wilkinsville and Metcalf" votes="0" />
+                <Precinct name="Woods" votes="1" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Independence" party="IND" totalVotes="124">
+            <VoteType name="Election Day" votes="124">
+                <Precinct name="Allens" votes="4" />
+                <Precinct name="Alma Mill" votes="1" />
+                <Precinct name="Antioch and Kings Creek" votes="9" />
+                <Precinct name="Ashworth" votes="2" />
+                <Precinct name="Blacksburg Ward No. 1" votes="1" />
+                <Precinct name="Blacksburg Ward No. 2" votes="2" />
+                <Precinct name="Draytonville" votes="9" />
+                <Precinct name="Ezells and Butler" votes="3" />
+                <Precinct name="Gaffney Ward No. 1" votes="3" />
+                <Precinct name="Gaffney Ward No. 2" votes="4" />
+                <Precinct name="Gaffney Ward No. 3" votes="1" />
+                <Precinct name="Gaffney Ward No. 4" votes="3" />
+                <Precinct name="Gaffney Ward No. 5" votes="8" />
+                <Precinct name="Gaffney Ward No. 6" votes="1" />
+                <Precinct name="Grassy Pond" votes="5" />
+                <Precinct name="Goucher and Thicketty" votes="8" />
+                <Precinct name="Holly Grove-Buffalo" votes="8" />
+                <Precinct name="Limestone Mill" votes="2" />
+                <Precinct name="Littlejohn's and Sarratt's" votes="0" />
+                <Precinct name="Macedonia" votes="4" />
+                <Precinct name="Morgan" votes="5" />
+                <Precinct name="Musgrove Mill" votes="1" />
+                <Precinct name="Ninety Nine and Cherokee Falls" votes="7" />
+                <Precinct name="Pleasant Grove" votes="2" />
+                <Precinct name="Pleasant Meadows" votes="1" />
+                <Precinct name="Timber Ridge" votes="3" />
+                <Precinct name="White Plains" votes="8" />
+                <Precinct name="Wilkinsville and Metcalf" votes="2" />
+                <Precinct name="Woods" votes="2" />
+                <Precinct name="Absentee" votes="14" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Green" party="GRN" totalVotes="45">
+            <VoteType name="Election Day" votes="45">
+                <Precinct name="Allens" votes="5" />
+                <Precinct name="Alma Mill" votes="3" />
+                <Precinct name="Antioch and Kings Creek" votes="3" />
+                <Precinct name="Ashworth" votes="1" />
+                <Precinct name="Blacksburg Ward No. 1" votes="1" />
+                <Precinct name="Blacksburg Ward No. 2" votes="0" />
+                <Precinct name="Draytonville" votes="1" />
+                <Precinct name="Ezells and Butler" votes="3" />
+                <Precinct name="Gaffney Ward No. 1" votes="0" />
+                <Precinct name="Gaffney Ward No. 2" votes="1" />
+                <Precinct name="Gaffney Ward No. 3" votes="0" />
+                <Precinct name="Gaffney Ward No. 4" votes="0" />
+                <Precinct name="Gaffney Ward No. 5" votes="1" />
+                <Precinct name="Gaffney Ward No. 6" votes="0" />
+                <Precinct name="Grassy Pond" votes="4" />
+                <Precinct name="Goucher and Thicketty" votes="1" />
+                <Precinct name="Holly Grove-Buffalo" votes="4" />
+                <Precinct name="Limestone Mill" votes="1" />
+                <Precinct name="Littlejohn's and Sarratt's" votes="0" />
+                <Precinct name="Macedonia" votes="3" />
+                <Precinct name="Morgan" votes="1" />
+                <Precinct name="Musgrove Mill" votes="2" />
+                <Precinct name="Ninety Nine and Cherokee Falls" votes="1" />
+                <Precinct name="Pleasant Grove" votes="1" />
+                <Precinct name="Pleasant Meadows" votes="0" />
+                <Precinct name="Timber Ridge" votes="3" />
+                <Precinct name="White Plains" votes="0" />
+                <Precinct name="Wilkinsville and Metcalf" votes="1" />
+                <Precinct name="Woods" votes="1" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Republican" party="REP" totalVotes="7030">
+            <VoteType name="Election Day" votes="7030">
+                <Precinct name="Allens" votes="238" />
+                <Precinct name="Alma Mill" votes="165" />
+                <Precinct name="Antioch and Kings Creek" votes="356" />
+                <Precinct name="Ashworth" votes="259" />
+                <Precinct name="Blacksburg Ward No. 1" votes="173" />
+                <Precinct name="Blacksburg Ward No. 2" votes="300" />
+                <Precinct name="Draytonville" votes="249" />
+                <Precinct name="Ezells and Butler" votes="310" />
+                <Precinct name="Gaffney Ward No. 1" votes="43" />
+                <Precinct name="Gaffney Ward No. 2" votes="58" />
+                <Precinct name="Gaffney Ward No. 3" votes="23" />
+                <Precinct name="Gaffney Ward No. 4" votes="118" />
+                <Precinct name="Gaffney Ward No. 5" votes="119" />
+                <Precinct name="Gaffney Ward No. 6" votes="160" />
+                <Precinct name="Grassy Pond" votes="331" />
+                <Precinct name="Goucher and Thicketty" votes="266" />
+                <Precinct name="Holly Grove-Buffalo" votes="304" />
+                <Precinct name="Limestone Mill" votes="80" />
+                <Precinct name="Littlejohn's and Sarratt's" votes="89" />
+                <Precinct name="Macedonia" votes="284" />
+                <Precinct name="Morgan" votes="333" />
+                <Precinct name="Musgrove Mill" votes="209" />
+                <Precinct name="Ninety Nine and Cherokee Falls" votes="190" />
+                <Precinct name="Pleasant Grove" votes="105" />
+                <Precinct name="Pleasant Meadows" votes="46" />
+                <Precinct name="Timber Ridge" votes="203" />
+                <Precinct name="White Plains" votes="296" />
+                <Precinct name="Wilkinsville and Metcalf" votes="129" />
+                <Precinct name="Woods" votes="216" />
+                <Precinct name="Absentee" votes="1336" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="42" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="American" party="AMR" totalVotes="75">
+            <VoteType name="Election Day" votes="75">
+                <Precinct name="Allens" votes="5" />
+                <Precinct name="Alma Mill" votes="3" />
+                <Precinct name="Antioch and Kings Creek" votes="7" />
+                <Precinct name="Ashworth" votes="2" />
+                <Precinct name="Blacksburg Ward No. 1" votes="0" />
+                <Precinct name="Blacksburg Ward No. 2" votes="3" />
+                <Precinct name="Draytonville" votes="6" />
+                <Precinct name="Ezells and Butler" votes="2" />
+                <Precinct name="Gaffney Ward No. 1" votes="3" />
+                <Precinct name="Gaffney Ward No. 2" votes="3" />
+                <Precinct name="Gaffney Ward No. 3" votes="2" />
+                <Precinct name="Gaffney Ward No. 4" votes="3" />
+                <Precinct name="Gaffney Ward No. 5" votes="0" />
+                <Precinct name="Gaffney Ward No. 6" votes="3" />
+                <Precinct name="Grassy Pond" votes="0" />
+                <Precinct name="Goucher and Thicketty" votes="0" />
+                <Precinct name="Holly Grove-Buffalo" votes="2" />
+                <Precinct name="Limestone Mill" votes="1" />
+                <Precinct name="Littlejohn's and Sarratt's" votes="1" />
+                <Precinct name="Macedonia" votes="0" />
+                <Precinct name="Morgan" votes="1" />
+                <Precinct name="Musgrove Mill" votes="2" />
+                <Precinct name="Ninety Nine and Cherokee Falls" votes="4" />
+                <Precinct name="Pleasant Grove" votes="0" />
+                <Precinct name="Pleasant Meadows" votes="3" />
+                <Precinct name="Timber Ridge" votes="0" />
+                <Precinct name="White Plains" votes="6" />
+                <Precinct name="Wilkinsville and Metcalf" votes="4" />
+                <Precinct name="Woods" votes="2" />
+                <Precinct name="Absentee" votes="5" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="008" text="Libertarian" party="LIB" totalVotes="40">
+            <VoteType name="Election Day" votes="40">
+                <Precinct name="Allens" votes="1" />
+                <Precinct name="Alma Mill" votes="0" />
+                <Precinct name="Antioch and Kings Creek" votes="3" />
+                <Precinct name="Ashworth" votes="2" />
+                <Precinct name="Blacksburg Ward No. 1" votes="4" />
+                <Precinct name="Blacksburg Ward No. 2" votes="3" />
+                <Precinct name="Draytonville" votes="0" />
+                <Precinct name="Ezells and Butler" votes="2" />
+                <Precinct name="Gaffney Ward No. 1" votes="1" />
+                <Precinct name="Gaffney Ward No. 2" votes="1" />
+                <Precinct name="Gaffney Ward No. 3" votes="1" />
+                <Precinct name="Gaffney Ward No. 4" votes="1" />
+                <Precinct name="Gaffney Ward No. 5" votes="2" />
+                <Precinct name="Gaffney Ward No. 6" votes="1" />
+                <Precinct name="Grassy Pond" votes="5" />
+                <Precinct name="Goucher and Thicketty" votes="1" />
+                <Precinct name="Holly Grove-Buffalo" votes="1" />
+                <Precinct name="Limestone Mill" votes="2" />
+                <Precinct name="Littlejohn's and Sarratt's" votes="0" />
+                <Precinct name="Macedonia" votes="2" />
+                <Precinct name="Morgan" votes="0" />
+                <Precinct name="Musgrove Mill" votes="0" />
+                <Precinct name="Ninety Nine and Cherokee Falls" votes="0" />
+                <Precinct name="Pleasant Grove" votes="1" />
+                <Precinct name="Pleasant Meadows" votes="0" />
+                <Precinct name="Timber Ridge" votes="0" />
+                <Precinct name="White Plains" votes="1" />
+                <Precinct name="Wilkinsville and Metcalf" votes="1" />
+                <Precinct name="Woods" votes="2" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0104" text="President and Vice President" voteFor="1" isQuestion="false" precinctsReporting="29" precinctsReported="29">
+        <VoteType name="overVotes" votes="2">
+            <Precinct name="Allens" votes="0" />
+            <Precinct name="Alma Mill" votes="0" />
+            <Precinct name="Antioch and Kings Creek" votes="0" />
+            <Precinct name="Ashworth" votes="0" />
+            <Precinct name="Blacksburg Ward No. 1" votes="0" />
+            <Precinct name="Blacksburg Ward No. 2" votes="0" />
+            <Precinct name="Draytonville" votes="0" />
+            <Precinct name="Ezells and Butler" votes="0" />
+            <Precinct name="Gaffney Ward No. 1" votes="0" />
+            <Precinct name="Gaffney Ward No. 2" votes="0" />
+            <Precinct name="Gaffney Ward No. 3" votes="0" />
+            <Precinct name="Gaffney Ward No. 4" votes="0" />
+            <Precinct name="Gaffney Ward No. 5" votes="0" />
+            <Precinct name="Gaffney Ward No. 6" votes="0" />
+            <Precinct name="Grassy Pond" votes="0" />
+            <Precinct name="Goucher and Thicketty" votes="0" />
+            <Precinct name="Holly Grove-Buffalo" votes="0" />
+            <Precinct name="Limestone Mill" votes="0" />
+            <Precinct name="Littlejohn's and Sarratt's" votes="0" />
+            <Precinct name="Macedonia" votes="0" />
+            <Precinct name="Morgan" votes="0" />
+            <Precinct name="Musgrove Mill" votes="0" />
+            <Precinct name="Ninety Nine and Cherokee Falls" votes="0" />
+            <Precinct name="Pleasant Grove" votes="0" />
+            <Precinct name="Pleasant Meadows" votes="0" />
+            <Precinct name="Timber Ridge" votes="0" />
+            <Precinct name="White Plains" votes="0" />
+            <Precinct name="Wilkinsville and Metcalf" votes="0" />
+            <Precinct name="Woods" votes="0" />
+            <Precinct name="Absentee" votes="2" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="131">
+            <Precinct name="Allens" votes="4" />
+            <Precinct name="Alma Mill" votes="9" />
+            <Precinct name="Antioch and Kings Creek" votes="8" />
+            <Precinct name="Ashworth" votes="2" />
+            <Precinct name="Blacksburg Ward No. 1" votes="4" />
+            <Precinct name="Blacksburg Ward No. 2" votes="3" />
+            <Precinct name="Draytonville" votes="0" />
+            <Precinct name="Ezells and Butler" votes="5" />
+            <Precinct name="Gaffney Ward No. 1" votes="3" />
+            <Precinct name="Gaffney Ward No. 2" votes="4" />
+            <Precinct name="Gaffney Ward No. 3" votes="2" />
+            <Precinct name="Gaffney Ward No. 4" votes="4" />
+            <Precinct name="Gaffney Ward No. 5" votes="8" />
+            <Precinct name="Gaffney Ward No. 6" votes="2" />
+            <Precinct name="Grassy Pond" votes="8" />
+            <Precinct name="Goucher and Thicketty" votes="3" />
+            <Precinct name="Holly Grove-Buffalo" votes="5" />
+            <Precinct name="Limestone Mill" votes="1" />
+            <Precinct name="Littlejohn's and Sarratt's" votes="0" />
+            <Precinct name="Macedonia" votes="8" />
+            <Precinct name="Morgan" votes="2" />
+            <Precinct name="Musgrove Mill" votes="2" />
+            <Precinct name="Ninety Nine and Cherokee Falls" votes="5" />
+            <Precinct name="Pleasant Grove" votes="0" />
+            <Precinct name="Pleasant Meadows" votes="3" />
+            <Precinct name="Timber Ridge" votes="3" />
+            <Precinct name="White Plains" votes="8" />
+            <Precinct name="Wilkinsville and Metcalf" votes="1" />
+            <Precinct name="Woods" votes="1" />
+            <Precinct name="Absentee" votes="22" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Hillary Rodham Clinton / Timothy Michael Kaine" party="DEM" totalVotes="6092">
+            <VoteType name="Election Day" votes="6092">
+                <Precinct name="Allens" votes="51" />
+                <Precinct name="Alma Mill" votes="404" />
+                <Precinct name="Antioch and Kings Creek" votes="77" />
+                <Precinct name="Ashworth" votes="60" />
+                <Precinct name="Blacksburg Ward No. 1" votes="129" />
+                <Precinct name="Blacksburg Ward No. 2" votes="120" />
+                <Precinct name="Draytonville" votes="168" />
+                <Precinct name="Ezells and Butler" votes="122" />
+                <Precinct name="Gaffney Ward No. 1" votes="231" />
+                <Precinct name="Gaffney Ward No. 2" votes="406" />
+                <Precinct name="Gaffney Ward No. 3" votes="370" />
+                <Precinct name="Gaffney Ward No. 4" votes="331" />
+                <Precinct name="Gaffney Ward No. 5" votes="193" />
+                <Precinct name="Gaffney Ward No. 6" votes="150" />
+                <Precinct name="Grassy Pond" votes="223" />
+                <Precinct name="Goucher and Thicketty" votes="83" />
+                <Precinct name="Holly Grove-Buffalo" votes="69" />
+                <Precinct name="Limestone Mill" votes="163" />
+                <Precinct name="Littlejohn's and Sarratt's" votes="22" />
+                <Precinct name="Macedonia" votes="126" />
+                <Precinct name="Morgan" votes="75" />
+                <Precinct name="Musgrove Mill" votes="172" />
+                <Precinct name="Ninety Nine and Cherokee Falls" votes="45" />
+                <Precinct name="Pleasant Grove" votes="230" />
+                <Precinct name="Pleasant Meadows" votes="244" />
+                <Precinct name="Timber Ridge" votes="55" />
+                <Precinct name="White Plains" votes="126" />
+                <Precinct name="Wilkinsville and Metcalf" votes="14" />
+                <Precinct name="Woods" votes="74" />
+                <Precinct name="Absentee" votes="1491" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="65" />
+                <Precinct name="Provisional" votes="3" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Darrell Castle / Scott Bradley" party="CON" totalVotes="52">
+            <VoteType name="Election Day" votes="52">
+                <Precinct name="Allens" votes="1" />
+                <Precinct name="Alma Mill" votes="1" />
+                <Precinct name="Antioch and Kings Creek" votes="2" />
+                <Precinct name="Ashworth" votes="0" />
+                <Precinct name="Blacksburg Ward No. 1" votes="1" />
+                <Precinct name="Blacksburg Ward No. 2" votes="3" />
+                <Precinct name="Draytonville" votes="2" />
+                <Precinct name="Ezells and Butler" votes="4" />
+                <Precinct name="Gaffney Ward No. 1" votes="0" />
+                <Precinct name="Gaffney Ward No. 2" votes="0" />
+                <Precinct name="Gaffney Ward No. 3" votes="0" />
+                <Precinct name="Gaffney Ward No. 4" votes="1" />
+                <Precinct name="Gaffney Ward No. 5" votes="1" />
+                <Precinct name="Gaffney Ward No. 6" votes="4" />
+                <Precinct name="Grassy Pond" votes="0" />
+                <Precinct name="Goucher and Thicketty" votes="5" />
+                <Precinct name="Holly Grove-Buffalo" votes="1" />
+                <Precinct name="Limestone Mill" votes="0" />
+                <Precinct name="Littlejohn's and Sarratt's" votes="2" />
+                <Precinct name="Macedonia" votes="0" />
+                <Precinct name="Morgan" votes="0" />
+                <Precinct name="Musgrove Mill" votes="4" />
+                <Precinct name="Ninety Nine and Cherokee Falls" votes="0" />
+                <Precinct name="Pleasant Grove" votes="0" />
+                <Precinct name="Pleasant Meadows" votes="0" />
+                <Precinct name="Timber Ridge" votes="0" />
+                <Precinct name="White Plains" votes="1" />
+                <Precinct name="Wilkinsville and Metcalf" votes="2" />
+                <Precinct name="Woods" votes="8" />
+                <Precinct name="Absentee" votes="8" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Evan McMullin / Nathan Johnson" party="IND" totalVotes="96">
+            <VoteType name="Election Day" votes="96">
+                <Precinct name="Allens" votes="1" />
+                <Precinct name="Alma Mill" votes="4" />
+                <Precinct name="Antioch and Kings Creek" votes="6" />
+                <Precinct name="Ashworth" votes="3" />
+                <Precinct name="Blacksburg Ward No. 1" votes="1" />
+                <Precinct name="Blacksburg Ward No. 2" votes="1" />
+                <Precinct name="Draytonville" votes="3" />
+                <Precinct name="Ezells and Butler" votes="7" />
+                <Precinct name="Gaffney Ward No. 1" votes="0" />
+                <Precinct name="Gaffney Ward No. 2" votes="4" />
+                <Precinct name="Gaffney Ward No. 3" votes="2" />
+                <Precinct name="Gaffney Ward No. 4" votes="6" />
+                <Precinct name="Gaffney Ward No. 5" votes="4" />
+                <Precinct name="Gaffney Ward No. 6" votes="2" />
+                <Precinct name="Grassy Pond" votes="4" />
+                <Precinct name="Goucher and Thicketty" votes="2" />
+                <Precinct name="Holly Grove-Buffalo" votes="6" />
+                <Precinct name="Limestone Mill" votes="0" />
+                <Precinct name="Littlejohn's and Sarratt's" votes="0" />
+                <Precinct name="Macedonia" votes="1" />
+                <Precinct name="Morgan" votes="3" />
+                <Precinct name="Musgrove Mill" votes="6" />
+                <Precinct name="Ninety Nine and Cherokee Falls" votes="3" />
+                <Precinct name="Pleasant Grove" votes="5" />
+                <Precinct name="Pleasant Meadows" votes="3" />
+                <Precinct name="Timber Ridge" votes="3" />
+                <Precinct name="White Plains" votes="0" />
+                <Precinct name="Wilkinsville and Metcalf" votes="2" />
+                <Precinct name="Woods" votes="2" />
+                <Precinct name="Absentee" votes="11" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Jill Stein / Ajamu Baraka" party="GRN" totalVotes="80">
+            <VoteType name="Election Day" votes="80">
+                <Precinct name="Allens" votes="5" />
+                <Precinct name="Alma Mill" votes="5" />
+                <Precinct name="Antioch and Kings Creek" votes="2" />
+                <Precinct name="Ashworth" votes="6" />
+                <Precinct name="Blacksburg Ward No. 1" votes="0" />
+                <Precinct name="Blacksburg Ward No. 2" votes="2" />
+                <Precinct name="Draytonville" votes="2" />
+                <Precinct name="Ezells and Butler" votes="4" />
+                <Precinct name="Gaffney Ward No. 1" votes="0" />
+                <Precinct name="Gaffney Ward No. 2" votes="3" />
+                <Precinct name="Gaffney Ward No. 3" votes="1" />
+                <Precinct name="Gaffney Ward No. 4" votes="5" />
+                <Precinct name="Gaffney Ward No. 5" votes="3" />
+                <Precinct name="Gaffney Ward No. 6" votes="2" />
+                <Precinct name="Grassy Pond" votes="8" />
+                <Precinct name="Goucher and Thicketty" votes="2" />
+                <Precinct name="Holly Grove-Buffalo" votes="7" />
+                <Precinct name="Limestone Mill" votes="1" />
+                <Precinct name="Littlejohn's and Sarratt's" votes="0" />
+                <Precinct name="Macedonia" votes="2" />
+                <Precinct name="Morgan" votes="4" />
+                <Precinct name="Musgrove Mill" votes="2" />
+                <Precinct name="Ninety Nine and Cherokee Falls" votes="0" />
+                <Precinct name="Pleasant Grove" votes="0" />
+                <Precinct name="Pleasant Meadows" votes="1" />
+                <Precinct name="Timber Ridge" votes="1" />
+                <Precinct name="White Plains" votes="0" />
+                <Precinct name="Wilkinsville and Metcalf" votes="0" />
+                <Precinct name="Woods" votes="1" />
+                <Precinct name="Absentee" votes="11" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Donald J Trump / Michael R Pence" party="REP" totalVotes="15167">
+            <VoteType name="Election Day" votes="15167">
+                <Precinct name="Allens" votes="505" />
+                <Precinct name="Alma Mill" votes="343" />
+                <Precinct name="Antioch and Kings Creek" votes="621" />
+                <Precinct name="Ashworth" votes="582" />
+                <Precinct name="Blacksburg Ward No. 1" votes="365" />
+                <Precinct name="Blacksburg Ward No. 2" votes="584" />
+                <Precinct name="Draytonville" votes="630" />
+                <Precinct name="Ezells and Butler" votes="655" />
+                <Precinct name="Gaffney Ward No. 1" votes="94" />
+                <Precinct name="Gaffney Ward No. 2" votes="102" />
+                <Precinct name="Gaffney Ward No. 3" votes="71" />
+                <Precinct name="Gaffney Ward No. 4" votes="306" />
+                <Precinct name="Gaffney Ward No. 5" votes="319" />
+                <Precinct name="Gaffney Ward No. 6" votes="431" />
+                <Precinct name="Grassy Pond" votes="918" />
+                <Precinct name="Goucher and Thicketty" votes="552" />
+                <Precinct name="Holly Grove-Buffalo" votes="581" />
+                <Precinct name="Limestone Mill" votes="185" />
+                <Precinct name="Littlejohn's and Sarratt's" votes="204" />
+                <Precinct name="Macedonia" votes="628" />
+                <Precinct name="Morgan" votes="585" />
+                <Precinct name="Musgrove Mill" votes="473" />
+                <Precinct name="Ninety Nine and Cherokee Falls" votes="445" />
+                <Precinct name="Pleasant Grove" votes="251" />
+                <Precinct name="Pleasant Meadows" votes="98" />
+                <Precinct name="Timber Ridge" votes="468" />
+                <Precinct name="White Plains" votes="592" />
+                <Precinct name="Wilkinsville and Metcalf" votes="310" />
+                <Precinct name="Woods" votes="507" />
+                <Precinct name="Absentee" votes="2672" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="88" />
+                <Precinct name="Provisional" votes="2" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Peter Skewes / Michael Lacy" party="AMR" totalVotes="30">
+            <VoteType name="Election Day" votes="30">
+                <Precinct name="Allens" votes="2" />
+                <Precinct name="Alma Mill" votes="3" />
+                <Precinct name="Antioch and Kings Creek" votes="3" />
+                <Precinct name="Ashworth" votes="1" />
+                <Precinct name="Blacksburg Ward No. 1" votes="0" />
+                <Precinct name="Blacksburg Ward No. 2" votes="3" />
+                <Precinct name="Draytonville" votes="2" />
+                <Precinct name="Ezells and Butler" votes="0" />
+                <Precinct name="Gaffney Ward No. 1" votes="1" />
+                <Precinct name="Gaffney Ward No. 2" votes="0" />
+                <Precinct name="Gaffney Ward No. 3" votes="0" />
+                <Precinct name="Gaffney Ward No. 4" votes="0" />
+                <Precinct name="Gaffney Ward No. 5" votes="1" />
+                <Precinct name="Gaffney Ward No. 6" votes="1" />
+                <Precinct name="Grassy Pond" votes="0" />
+                <Precinct name="Goucher and Thicketty" votes="1" />
+                <Precinct name="Holly Grove-Buffalo" votes="0" />
+                <Precinct name="Limestone Mill" votes="0" />
+                <Precinct name="Littlejohn's and Sarratt's" votes="1" />
+                <Precinct name="Macedonia" votes="0" />
+                <Precinct name="Morgan" votes="0" />
+                <Precinct name="Musgrove Mill" votes="1" />
+                <Precinct name="Ninety Nine and Cherokee Falls" votes="0" />
+                <Precinct name="Pleasant Grove" votes="0" />
+                <Precinct name="Pleasant Meadows" votes="1" />
+                <Precinct name="Timber Ridge" votes="0" />
+                <Precinct name="White Plains" votes="1" />
+                <Precinct name="Wilkinsville and Metcalf" votes="2" />
+                <Precinct name="Woods" votes="0" />
+                <Precinct name="Absentee" votes="6" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="Gary Johnson / Bill Weld" party="LIB" totalVotes="242">
+            <VoteType name="Election Day" votes="242">
+                <Precinct name="Allens" votes="4" />
+                <Precinct name="Alma Mill" votes="4" />
+                <Precinct name="Antioch and Kings Creek" votes="10" />
+                <Precinct name="Ashworth" votes="6" />
+                <Precinct name="Blacksburg Ward No. 1" votes="6" />
+                <Precinct name="Blacksburg Ward No. 2" votes="20" />
+                <Precinct name="Draytonville" votes="9" />
+                <Precinct name="Ezells and Butler" votes="6" />
+                <Precinct name="Gaffney Ward No. 1" votes="4" />
+                <Precinct name="Gaffney Ward No. 2" votes="5" />
+                <Precinct name="Gaffney Ward No. 3" votes="8" />
+                <Precinct name="Gaffney Ward No. 4" votes="10" />
+                <Precinct name="Gaffney Ward No. 5" votes="9" />
+                <Precinct name="Gaffney Ward No. 6" votes="8" />
+                <Precinct name="Grassy Pond" votes="17" />
+                <Precinct name="Goucher and Thicketty" votes="5" />
+                <Precinct name="Holly Grove-Buffalo" votes="14" />
+                <Precinct name="Limestone Mill" votes="4" />
+                <Precinct name="Littlejohn's and Sarratt's" votes="1" />
+                <Precinct name="Macedonia" votes="9" />
+                <Precinct name="Morgan" votes="6" />
+                <Precinct name="Musgrove Mill" votes="5" />
+                <Precinct name="Ninety Nine and Cherokee Falls" votes="3" />
+                <Precinct name="Pleasant Grove" votes="4" />
+                <Precinct name="Pleasant Meadows" votes="0" />
+                <Precinct name="Timber Ridge" votes="9" />
+                <Precinct name="White Plains" votes="9" />
+                <Precinct name="Wilkinsville and Metcalf" votes="4" />
+                <Precinct name="Woods" votes="9" />
+                <Precinct name="Absentee" votes="33" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0105" text="U.S. Senate" voteFor="1" isQuestion="false" precinctsReporting="29" precinctsReported="29">
+        <VoteType name="overVotes" votes="2">
+            <Precinct name="Allens" votes="0" />
+            <Precinct name="Alma Mill" votes="0" />
+            <Precinct name="Antioch and Kings Creek" votes="0" />
+            <Precinct name="Ashworth" votes="0" />
+            <Precinct name="Blacksburg Ward No. 1" votes="0" />
+            <Precinct name="Blacksburg Ward No. 2" votes="0" />
+            <Precinct name="Draytonville" votes="0" />
+            <Precinct name="Ezells and Butler" votes="0" />
+            <Precinct name="Gaffney Ward No. 1" votes="0" />
+            <Precinct name="Gaffney Ward No. 2" votes="0" />
+            <Precinct name="Gaffney Ward No. 3" votes="0" />
+            <Precinct name="Gaffney Ward No. 4" votes="0" />
+            <Precinct name="Gaffney Ward No. 5" votes="0" />
+            <Precinct name="Gaffney Ward No. 6" votes="0" />
+            <Precinct name="Grassy Pond" votes="0" />
+            <Precinct name="Goucher and Thicketty" votes="0" />
+            <Precinct name="Holly Grove-Buffalo" votes="0" />
+            <Precinct name="Limestone Mill" votes="0" />
+            <Precinct name="Littlejohn's and Sarratt's" votes="0" />
+            <Precinct name="Macedonia" votes="0" />
+            <Precinct name="Morgan" votes="0" />
+            <Precinct name="Musgrove Mill" votes="0" />
+            <Precinct name="Ninety Nine and Cherokee Falls" votes="0" />
+            <Precinct name="Pleasant Grove" votes="0" />
+            <Precinct name="Pleasant Meadows" votes="0" />
+            <Precinct name="Timber Ridge" votes="0" />
+            <Precinct name="White Plains" votes="0" />
+            <Precinct name="Wilkinsville and Metcalf" votes="0" />
+            <Precinct name="Woods" votes="0" />
+            <Precinct name="Absentee" votes="2" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="870">
+            <Precinct name="Allens" votes="28" />
+            <Precinct name="Alma Mill" votes="39" />
+            <Precinct name="Antioch and Kings Creek" votes="42" />
+            <Precinct name="Ashworth" votes="16" />
+            <Precinct name="Blacksburg Ward No. 1" votes="17" />
+            <Precinct name="Blacksburg Ward No. 2" votes="46" />
+            <Precinct name="Draytonville" votes="29" />
+            <Precinct name="Ezells and Butler" votes="18" />
+            <Precinct name="Gaffney Ward No. 1" votes="15" />
+            <Precinct name="Gaffney Ward No. 2" votes="15" />
+            <Precinct name="Gaffney Ward No. 3" votes="27" />
+            <Precinct name="Gaffney Ward No. 4" votes="20" />
+            <Precinct name="Gaffney Ward No. 5" votes="20" />
+            <Precinct name="Gaffney Ward No. 6" votes="29" />
+            <Precinct name="Grassy Pond" votes="27" />
+            <Precinct name="Goucher and Thicketty" votes="20" />
+            <Precinct name="Holly Grove-Buffalo" votes="29" />
+            <Precinct name="Limestone Mill" votes="19" />
+            <Precinct name="Littlejohn's and Sarratt's" votes="7" />
+            <Precinct name="Macedonia" votes="23" />
+            <Precinct name="Morgan" votes="17" />
+            <Precinct name="Musgrove Mill" votes="18" />
+            <Precinct name="Ninety Nine and Cherokee Falls" votes="22" />
+            <Precinct name="Pleasant Grove" votes="14" />
+            <Precinct name="Pleasant Meadows" votes="17" />
+            <Precinct name="Timber Ridge" votes="17" />
+            <Precinct name="White Plains" votes="29" />
+            <Precinct name="Wilkinsville and Metcalf" votes="17" />
+            <Precinct name="Woods" votes="13" />
+            <Precinct name="Absentee" votes="209" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="10" />
+            <Precinct name="Provisional" votes="1" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Thomas Dixon" party="DEM" totalVotes="5239">
+            <VoteType name="Election Day" votes="5239">
+                <Precinct name="Allens" votes="39" />
+                <Precinct name="Alma Mill" votes="351" />
+                <Precinct name="Antioch and Kings Creek" votes="65" />
+                <Precinct name="Ashworth" votes="51" />
+                <Precinct name="Blacksburg Ward No. 1" votes="119" />
+                <Precinct name="Blacksburg Ward No. 2" votes="99" />
+                <Precinct name="Draytonville" votes="148" />
+                <Precinct name="Ezells and Butler" votes="99" />
+                <Precinct name="Gaffney Ward No. 1" votes="207" />
+                <Precinct name="Gaffney Ward No. 2" votes="373" />
+                <Precinct name="Gaffney Ward No. 3" votes="321" />
+                <Precinct name="Gaffney Ward No. 4" votes="294" />
+                <Precinct name="Gaffney Ward No. 5" votes="155" />
+                <Precinct name="Gaffney Ward No. 6" votes="120" />
+                <Precinct name="Grassy Pond" votes="179" />
+                <Precinct name="Goucher and Thicketty" votes="61" />
+                <Precinct name="Holly Grove-Buffalo" votes="61" />
+                <Precinct name="Limestone Mill" votes="149" />
+                <Precinct name="Littlejohn's and Sarratt's" votes="18" />
+                <Precinct name="Macedonia" votes="91" />
+                <Precinct name="Morgan" votes="67" />
+                <Precinct name="Musgrove Mill" votes="154" />
+                <Precinct name="Ninety Nine and Cherokee Falls" votes="37" />
+                <Precinct name="Pleasant Grove" votes="201" />
+                <Precinct name="Pleasant Meadows" votes="208" />
+                <Precinct name="Timber Ridge" votes="48" />
+                <Precinct name="White Plains" votes="104" />
+                <Precinct name="Wilkinsville and Metcalf" votes="12" />
+                <Precinct name="Woods" votes="52" />
+                <Precinct name="Absentee" votes="1299" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="56" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Thomas Dixon" party="WFM" totalVotes="534">
+            <VoteType name="Election Day" votes="534">
+                <Precinct name="Allens" votes="16" />
+                <Precinct name="Alma Mill" votes="23" />
+                <Precinct name="Antioch and Kings Creek" votes="36" />
+                <Precinct name="Ashworth" votes="18" />
+                <Precinct name="Blacksburg Ward No. 1" votes="10" />
+                <Precinct name="Blacksburg Ward No. 2" votes="25" />
+                <Precinct name="Draytonville" votes="31" />
+                <Precinct name="Ezells and Butler" votes="29" />
+                <Precinct name="Gaffney Ward No. 1" votes="15" />
+                <Precinct name="Gaffney Ward No. 2" votes="14" />
+                <Precinct name="Gaffney Ward No. 3" votes="13" />
+                <Precinct name="Gaffney Ward No. 4" votes="9" />
+                <Precinct name="Gaffney Ward No. 5" votes="11" />
+                <Precinct name="Gaffney Ward No. 6" votes="16" />
+                <Precinct name="Grassy Pond" votes="21" />
+                <Precinct name="Goucher and Thicketty" votes="18" />
+                <Precinct name="Holly Grove-Buffalo" votes="14" />
+                <Precinct name="Limestone Mill" votes="13" />
+                <Precinct name="Littlejohn's and Sarratt's" votes="2" />
+                <Precinct name="Macedonia" votes="18" />
+                <Precinct name="Morgan" votes="11" />
+                <Precinct name="Musgrove Mill" votes="12" />
+                <Precinct name="Ninety Nine and Cherokee Falls" votes="14" />
+                <Precinct name="Pleasant Grove" votes="9" />
+                <Precinct name="Pleasant Meadows" votes="14" />
+                <Precinct name="Timber Ridge" votes="20" />
+                <Precinct name="White Plains" votes="33" />
+                <Precinct name="Wilkinsville and Metcalf" votes="6" />
+                <Precinct name="Woods" votes="9" />
+                <Precinct name="Absentee" votes="47" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="7" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Bill Bledsoe" party="CON" totalVotes="163">
+            <VoteType name="Election Day" votes="163">
+                <Precinct name="Allens" votes="6" />
+                <Precinct name="Alma Mill" votes="5" />
+                <Precinct name="Antioch and Kings Creek" votes="10" />
+                <Precinct name="Ashworth" votes="2" />
+                <Precinct name="Blacksburg Ward No. 1" votes="3" />
+                <Precinct name="Blacksburg Ward No. 2" votes="9" />
+                <Precinct name="Draytonville" votes="6" />
+                <Precinct name="Ezells and Butler" votes="6" />
+                <Precinct name="Gaffney Ward No. 1" votes="1" />
+                <Precinct name="Gaffney Ward No. 2" votes="1" />
+                <Precinct name="Gaffney Ward No. 3" votes="1" />
+                <Precinct name="Gaffney Ward No. 4" votes="2" />
+                <Precinct name="Gaffney Ward No. 5" votes="1" />
+                <Precinct name="Gaffney Ward No. 6" votes="5" />
+                <Precinct name="Grassy Pond" votes="6" />
+                <Precinct name="Goucher and Thicketty" votes="6" />
+                <Precinct name="Holly Grove-Buffalo" votes="8" />
+                <Precinct name="Limestone Mill" votes="2" />
+                <Precinct name="Littlejohn's and Sarratt's" votes="2" />
+                <Precinct name="Macedonia" votes="11" />
+                <Precinct name="Morgan" votes="2" />
+                <Precinct name="Musgrove Mill" votes="9" />
+                <Precinct name="Ninety Nine and Cherokee Falls" votes="4" />
+                <Precinct name="Pleasant Grove" votes="2" />
+                <Precinct name="Pleasant Meadows" votes="0" />
+                <Precinct name="Timber Ridge" votes="5" />
+                <Precinct name="White Plains" votes="11" />
+                <Precinct name="Wilkinsville and Metcalf" votes="2" />
+                <Precinct name="Woods" votes="10" />
+                <Precinct name="Absentee" votes="23" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Thomas Dixon" party="GRN" totalVotes="128">
+            <VoteType name="Election Day" votes="128">
+                <Precinct name="Allens" votes="5" />
+                <Precinct name="Alma Mill" votes="5" />
+                <Precinct name="Antioch and Kings Creek" votes="7" />
+                <Precinct name="Ashworth" votes="6" />
+                <Precinct name="Blacksburg Ward No. 1" votes="1" />
+                <Precinct name="Blacksburg Ward No. 2" votes="2" />
+                <Precinct name="Draytonville" votes="5" />
+                <Precinct name="Ezells and Butler" votes="4" />
+                <Precinct name="Gaffney Ward No. 1" votes="1" />
+                <Precinct name="Gaffney Ward No. 2" votes="0" />
+                <Precinct name="Gaffney Ward No. 3" votes="2" />
+                <Precinct name="Gaffney Ward No. 4" votes="5" />
+                <Precinct name="Gaffney Ward No. 5" votes="3" />
+                <Precinct name="Gaffney Ward No. 6" votes="2" />
+                <Precinct name="Grassy Pond" votes="10" />
+                <Precinct name="Goucher and Thicketty" votes="6" />
+                <Precinct name="Holly Grove-Buffalo" votes="6" />
+                <Precinct name="Limestone Mill" votes="5" />
+                <Precinct name="Littlejohn's and Sarratt's" votes="0" />
+                <Precinct name="Macedonia" votes="5" />
+                <Precinct name="Morgan" votes="2" />
+                <Precinct name="Musgrove Mill" votes="3" />
+                <Precinct name="Ninety Nine and Cherokee Falls" votes="5" />
+                <Precinct name="Pleasant Grove" votes="4" />
+                <Precinct name="Pleasant Meadows" votes="1" />
+                <Precinct name="Timber Ridge" votes="5" />
+                <Precinct name="White Plains" votes="5" />
+                <Precinct name="Wilkinsville and Metcalf" votes="2" />
+                <Precinct name="Woods" votes="4" />
+                <Precinct name="Absentee" votes="15" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Tim Scott" party="REP" totalVotes="14565">
+            <VoteType name="Election Day" votes="14565">
+                <Precinct name="Allens" votes="465" />
+                <Precinct name="Alma Mill" votes="334" />
+                <Precinct name="Antioch and Kings Creek" votes="552" />
+                <Precinct name="Ashworth" votes="559" />
+                <Precinct name="Blacksburg Ward No. 1" votes="343" />
+                <Precinct name="Blacksburg Ward No. 2" votes="529" />
+                <Precinct name="Draytonville" votes="582" />
+                <Precinct name="Ezells and Butler" votes="629" />
+                <Precinct name="Gaffney Ward No. 1" votes="85" />
+                <Precinct name="Gaffney Ward No. 2" votes="112" />
+                <Precinct name="Gaffney Ward No. 3" votes="82" />
+                <Precinct name="Gaffney Ward No. 4" votes="319" />
+                <Precinct name="Gaffney Ward No. 5" votes="334" />
+                <Precinct name="Gaffney Ward No. 6" votes="416" />
+                <Precinct name="Grassy Pond" votes="922" />
+                <Precinct name="Goucher and Thicketty" votes="532" />
+                <Precinct name="Holly Grove-Buffalo" votes="546" />
+                <Precinct name="Limestone Mill" votes="162" />
+                <Precinct name="Littlejohn's and Sarratt's" votes="199" />
+                <Precinct name="Macedonia" votes="617" />
+                <Precinct name="Morgan" votes="567" />
+                <Precinct name="Musgrove Mill" votes="463" />
+                <Precinct name="Ninety Nine and Cherokee Falls" votes="410" />
+                <Precinct name="Pleasant Grove" votes="257" />
+                <Precinct name="Pleasant Meadows" votes="105" />
+                <Precinct name="Timber Ridge" votes="435" />
+                <Precinct name="White Plains" votes="537" />
+                <Precinct name="Wilkinsville and Metcalf" votes="286" />
+                <Precinct name="Woods" votes="494" />
+                <Precinct name="Absentee" votes="2612" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="78" />
+                <Precinct name="Provisional" votes="2" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Rebel Michael Scarborough" party="AMR" totalVotes="165">
+            <VoteType name="Election Day" votes="165">
+                <Precinct name="Allens" votes="7" />
+                <Precinct name="Alma Mill" votes="6" />
+                <Precinct name="Antioch and Kings Creek" votes="6" />
+                <Precinct name="Ashworth" votes="2" />
+                <Precinct name="Blacksburg Ward No. 1" votes="4" />
+                <Precinct name="Blacksburg Ward No. 2" votes="5" />
+                <Precinct name="Draytonville" votes="9" />
+                <Precinct name="Ezells and Butler" votes="7" />
+                <Precinct name="Gaffney Ward No. 1" votes="4" />
+                <Precinct name="Gaffney Ward No. 2" votes="5" />
+                <Precinct name="Gaffney Ward No. 3" votes="3" />
+                <Precinct name="Gaffney Ward No. 4" votes="9" />
+                <Precinct name="Gaffney Ward No. 5" votes="3" />
+                <Precinct name="Gaffney Ward No. 6" votes="7" />
+                <Precinct name="Grassy Pond" votes="4" />
+                <Precinct name="Goucher and Thicketty" votes="5" />
+                <Precinct name="Holly Grove-Buffalo" votes="10" />
+                <Precinct name="Limestone Mill" votes="2" />
+                <Precinct name="Littlejohn's and Sarratt's" votes="0" />
+                <Precinct name="Macedonia" votes="3" />
+                <Precinct name="Morgan" votes="2" />
+                <Precinct name="Musgrove Mill" votes="4" />
+                <Precinct name="Ninety Nine and Cherokee Falls" votes="6" />
+                <Precinct name="Pleasant Grove" votes="1" />
+                <Precinct name="Pleasant Meadows" votes="3" />
+                <Precinct name="Timber Ridge" votes="2" />
+                <Precinct name="White Plains" votes="8" />
+                <Precinct name="Wilkinsville and Metcalf" votes="8" />
+                <Precinct name="Woods" votes="7" />
+                <Precinct name="Absentee" votes="21" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="Bill Bledsoe" party="LIB" totalVotes="209">
+            <VoteType name="Election Day" votes="209">
+                <Precinct name="Allens" votes="4" />
+                <Precinct name="Alma Mill" votes="8" />
+                <Precinct name="Antioch and Kings Creek" votes="11" />
+                <Precinct name="Ashworth" votes="6" />
+                <Precinct name="Blacksburg Ward No. 1" votes="8" />
+                <Precinct name="Blacksburg Ward No. 2" votes="21" />
+                <Precinct name="Draytonville" votes="6" />
+                <Precinct name="Ezells and Butler" votes="11" />
+                <Precinct name="Gaffney Ward No. 1" votes="5" />
+                <Precinct name="Gaffney Ward No. 2" votes="3" />
+                <Precinct name="Gaffney Ward No. 3" votes="5" />
+                <Precinct name="Gaffney Ward No. 4" votes="5" />
+                <Precinct name="Gaffney Ward No. 5" votes="9" />
+                <Precinct name="Gaffney Ward No. 6" votes="4" />
+                <Precinct name="Grassy Pond" votes="9" />
+                <Precinct name="Goucher and Thicketty" votes="5" />
+                <Precinct name="Holly Grove-Buffalo" votes="9" />
+                <Precinct name="Limestone Mill" votes="2" />
+                <Precinct name="Littlejohn's and Sarratt's" votes="2" />
+                <Precinct name="Macedonia" votes="6" />
+                <Precinct name="Morgan" votes="7" />
+                <Precinct name="Musgrove Mill" votes="2" />
+                <Precinct name="Ninety Nine and Cherokee Falls" votes="3" />
+                <Precinct name="Pleasant Grove" votes="2" />
+                <Precinct name="Pleasant Meadows" votes="2" />
+                <Precinct name="Timber Ridge" votes="6" />
+                <Precinct name="White Plains" votes="9" />
+                <Precinct name="Wilkinsville and Metcalf" votes="2" />
+                <Precinct name="Woods" votes="10" />
+                <Precinct name="Absentee" votes="27" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="008" text="Write-In" party="NON" totalVotes="17">
+            <VoteType name="Election Day" votes="17">
+                <Precinct name="Allens" votes="3" />
+                <Precinct name="Alma Mill" votes="2" />
+                <Precinct name="Antioch and Kings Creek" votes="0" />
+                <Precinct name="Ashworth" votes="0" />
+                <Precinct name="Blacksburg Ward No. 1" votes="1" />
+                <Precinct name="Blacksburg Ward No. 2" votes="0" />
+                <Precinct name="Draytonville" votes="0" />
+                <Precinct name="Ezells and Butler" votes="0" />
+                <Precinct name="Gaffney Ward No. 1" votes="0" />
+                <Precinct name="Gaffney Ward No. 2" votes="1" />
+                <Precinct name="Gaffney Ward No. 3" votes="0" />
+                <Precinct name="Gaffney Ward No. 4" votes="0" />
+                <Precinct name="Gaffney Ward No. 5" votes="2" />
+                <Precinct name="Gaffney Ward No. 6" votes="1" />
+                <Precinct name="Grassy Pond" votes="0" />
+                <Precinct name="Goucher and Thicketty" votes="0" />
+                <Precinct name="Holly Grove-Buffalo" votes="0" />
+                <Precinct name="Limestone Mill" votes="0" />
+                <Precinct name="Littlejohn's and Sarratt's" votes="0" />
+                <Precinct name="Macedonia" votes="0" />
+                <Precinct name="Morgan" votes="0" />
+                <Precinct name="Musgrove Mill" votes="0" />
+                <Precinct name="Ninety Nine and Cherokee Falls" votes="0" />
+                <Precinct name="Pleasant Grove" votes="0" />
+                <Precinct name="Pleasant Meadows" votes="0" />
+                <Precinct name="Timber Ridge" votes="1" />
+                <Precinct name="White Plains" votes="1" />
+                <Precinct name="Wilkinsville and Metcalf" votes="0" />
+                <Precinct name="Woods" votes="3" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0106" text="U.S.  House of Representatives, District  5" voteFor="1" isQuestion="false" precinctsReporting="29" precinctsReported="29">
+        <VoteType name="overVotes" votes="2">
+            <Precinct name="Allens" votes="0" />
+            <Precinct name="Alma Mill" votes="0" />
+            <Precinct name="Antioch and Kings Creek" votes="0" />
+            <Precinct name="Ashworth" votes="0" />
+            <Precinct name="Blacksburg Ward No. 1" votes="0" />
+            <Precinct name="Blacksburg Ward No. 2" votes="0" />
+            <Precinct name="Draytonville" votes="0" />
+            <Precinct name="Ezells and Butler" votes="0" />
+            <Precinct name="Gaffney Ward No. 1" votes="0" />
+            <Precinct name="Gaffney Ward No. 2" votes="0" />
+            <Precinct name="Gaffney Ward No. 3" votes="0" />
+            <Precinct name="Gaffney Ward No. 4" votes="0" />
+            <Precinct name="Gaffney Ward No. 5" votes="0" />
+            <Precinct name="Gaffney Ward No. 6" votes="0" />
+            <Precinct name="Grassy Pond" votes="0" />
+            <Precinct name="Goucher and Thicketty" votes="0" />
+            <Precinct name="Holly Grove-Buffalo" votes="0" />
+            <Precinct name="Limestone Mill" votes="0" />
+            <Precinct name="Littlejohn's and Sarratt's" votes="0" />
+            <Precinct name="Macedonia" votes="0" />
+            <Precinct name="Morgan" votes="0" />
+            <Precinct name="Musgrove Mill" votes="0" />
+            <Precinct name="Ninety Nine and Cherokee Falls" votes="0" />
+            <Precinct name="Pleasant Grove" votes="0" />
+            <Precinct name="Pleasant Meadows" votes="0" />
+            <Precinct name="Timber Ridge" votes="0" />
+            <Precinct name="White Plains" votes="0" />
+            <Precinct name="Wilkinsville and Metcalf" votes="0" />
+            <Precinct name="Woods" votes="0" />
+            <Precinct name="Absentee" votes="2" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1030">
+            <Precinct name="Allens" votes="33" />
+            <Precinct name="Alma Mill" votes="46" />
+            <Precinct name="Antioch and Kings Creek" votes="35" />
+            <Precinct name="Ashworth" votes="18" />
+            <Precinct name="Blacksburg Ward No. 1" votes="16" />
+            <Precinct name="Blacksburg Ward No. 2" votes="51" />
+            <Precinct name="Draytonville" votes="28" />
+            <Precinct name="Ezells and Butler" votes="29" />
+            <Precinct name="Gaffney Ward No. 1" votes="16" />
+            <Precinct name="Gaffney Ward No. 2" votes="20" />
+            <Precinct name="Gaffney Ward No. 3" votes="26" />
+            <Precinct name="Gaffney Ward No. 4" votes="27" />
+            <Precinct name="Gaffney Ward No. 5" votes="22" />
+            <Precinct name="Gaffney Ward No. 6" votes="30" />
+            <Precinct name="Grassy Pond" votes="44" />
+            <Precinct name="Goucher and Thicketty" votes="25" />
+            <Precinct name="Holly Grove-Buffalo" votes="35" />
+            <Precinct name="Limestone Mill" votes="20" />
+            <Precinct name="Littlejohn's and Sarratt's" votes="11" />
+            <Precinct name="Macedonia" votes="34" />
+            <Precinct name="Morgan" votes="26" />
+            <Precinct name="Musgrove Mill" votes="17" />
+            <Precinct name="Ninety Nine and Cherokee Falls" votes="26" />
+            <Precinct name="Pleasant Grove" votes="14" />
+            <Precinct name="Pleasant Meadows" votes="16" />
+            <Precinct name="Timber Ridge" votes="25" />
+            <Precinct name="White Plains" votes="35" />
+            <Precinct name="Wilkinsville and Metcalf" votes="22" />
+            <Precinct name="Woods" votes="17" />
+            <Precinct name="Absentee" votes="250" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="14" />
+            <Precinct name="Provisional" votes="2" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Fran Person" party="DEM" totalVotes="5772">
+            <VoteType name="Election Day" votes="5772">
+                <Precinct name="Allens" votes="54" />
+                <Precinct name="Alma Mill" votes="389" />
+                <Precinct name="Antioch and Kings Creek" votes="85" />
+                <Precinct name="Ashworth" votes="65" />
+                <Precinct name="Blacksburg Ward No. 1" votes="126" />
+                <Precinct name="Blacksburg Ward No. 2" votes="112" />
+                <Precinct name="Draytonville" votes="166" />
+                <Precinct name="Ezells and Butler" votes="114" />
+                <Precinct name="Gaffney Ward No. 1" votes="219" />
+                <Precinct name="Gaffney Ward No. 2" votes="390" />
+                <Precinct name="Gaffney Ward No. 3" votes="347" />
+                <Precinct name="Gaffney Ward No. 4" votes="313" />
+                <Precinct name="Gaffney Ward No. 5" votes="179" />
+                <Precinct name="Gaffney Ward No. 6" votes="133" />
+                <Precinct name="Grassy Pond" votes="207" />
+                <Precinct name="Goucher and Thicketty" votes="77" />
+                <Precinct name="Holly Grove-Buffalo" votes="69" />
+                <Precinct name="Limestone Mill" votes="157" />
+                <Precinct name="Littlejohn's and Sarratt's" votes="22" />
+                <Precinct name="Macedonia" votes="107" />
+                <Precinct name="Morgan" votes="77" />
+                <Precinct name="Musgrove Mill" votes="178" />
+                <Precinct name="Ninety Nine and Cherokee Falls" votes="44" />
+                <Precinct name="Pleasant Grove" votes="220" />
+                <Precinct name="Pleasant Meadows" votes="223" />
+                <Precinct name="Timber Ridge" votes="55" />
+                <Precinct name="White Plains" votes="124" />
+                <Precinct name="Wilkinsville and Metcalf" votes="15" />
+                <Precinct name="Woods" votes="66" />
+                <Precinct name="Absentee" votes="1380" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="57" />
+                <Precinct name="Provisional" votes="2" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Mick Mulvaney" party="REP" totalVotes="14637">
+            <VoteType name="Election Day" votes="14637">
+                <Precinct name="Allens" votes="474" />
+                <Precinct name="Alma Mill" votes="321" />
+                <Precinct name="Antioch and Kings Creek" votes="586" />
+                <Precinct name="Ashworth" votes="563" />
+                <Precinct name="Blacksburg Ward No. 1" votes="351" />
+                <Precinct name="Blacksburg Ward No. 2" votes="556" />
+                <Precinct name="Draytonville" votes="593" />
+                <Precinct name="Ezells and Butler" votes="641" />
+                <Precinct name="Gaffney Ward No. 1" votes="87" />
+                <Precinct name="Gaffney Ward No. 2" votes="103" />
+                <Precinct name="Gaffney Ward No. 3" votes="73" />
+                <Precinct name="Gaffney Ward No. 4" votes="307" />
+                <Precinct name="Gaffney Ward No. 5" votes="327" />
+                <Precinct name="Gaffney Ward No. 6" votes="426" />
+                <Precinct name="Grassy Pond" votes="916" />
+                <Precinct name="Goucher and Thicketty" votes="532" />
+                <Precinct name="Holly Grove-Buffalo" votes="561" />
+                <Precinct name="Limestone Mill" votes="172" />
+                <Precinct name="Littlejohn's and Sarratt's" votes="191" />
+                <Precinct name="Macedonia" votes="622" />
+                <Precinct name="Morgan" votes="564" />
+                <Precinct name="Musgrove Mill" votes="459" />
+                <Precinct name="Ninety Nine and Cherokee Falls" votes="422" />
+                <Precinct name="Pleasant Grove" votes="250" />
+                <Precinct name="Pleasant Meadows" votes="101" />
+                <Precinct name="Timber Ridge" votes="444" />
+                <Precinct name="White Plains" votes="557" />
+                <Precinct name="Wilkinsville and Metcalf" votes="291" />
+                <Precinct name="Woods" votes="502" />
+                <Precinct name="Absentee" votes="2564" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="80" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Rudy Barnes Jr" party="AMR" totalVotes="440">
+            <VoteType name="Election Day" votes="440">
+                <Precinct name="Allens" votes="12" />
+                <Precinct name="Alma Mill" votes="16" />
+                <Precinct name="Antioch and Kings Creek" votes="22" />
+                <Precinct name="Ashworth" votes="14" />
+                <Precinct name="Blacksburg Ward No. 1" votes="12" />
+                <Precinct name="Blacksburg Ward No. 2" votes="17" />
+                <Precinct name="Draytonville" votes="29" />
+                <Precinct name="Ezells and Butler" votes="19" />
+                <Precinct name="Gaffney Ward No. 1" votes="11" />
+                <Precinct name="Gaffney Ward No. 2" votes="10" />
+                <Precinct name="Gaffney Ward No. 3" votes="8" />
+                <Precinct name="Gaffney Ward No. 4" votes="16" />
+                <Precinct name="Gaffney Ward No. 5" votes="9" />
+                <Precinct name="Gaffney Ward No. 6" votes="11" />
+                <Precinct name="Grassy Pond" votes="10" />
+                <Precinct name="Goucher and Thicketty" votes="19" />
+                <Precinct name="Holly Grove-Buffalo" votes="18" />
+                <Precinct name="Limestone Mill" votes="5" />
+                <Precinct name="Littlejohn's and Sarratt's" votes="6" />
+                <Precinct name="Macedonia" votes="11" />
+                <Precinct name="Morgan" votes="8" />
+                <Precinct name="Musgrove Mill" votes="11" />
+                <Precinct name="Ninety Nine and Cherokee Falls" votes="9" />
+                <Precinct name="Pleasant Grove" votes="6" />
+                <Precinct name="Pleasant Meadows" votes="9" />
+                <Precinct name="Timber Ridge" votes="15" />
+                <Precinct name="White Plains" votes="20" />
+                <Precinct name="Wilkinsville and Metcalf" votes="7" />
+                <Precinct name="Woods" votes="16" />
+                <Precinct name="Absentee" votes="58" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="6" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Write-In" party="NON" totalVotes="11">
+            <VoteType name="Election Day" votes="11">
+                <Precinct name="Allens" votes="0" />
+                <Precinct name="Alma Mill" votes="1" />
+                <Precinct name="Antioch and Kings Creek" votes="1" />
+                <Precinct name="Ashworth" votes="0" />
+                <Precinct name="Blacksburg Ward No. 1" votes="1" />
+                <Precinct name="Blacksburg Ward No. 2" votes="0" />
+                <Precinct name="Draytonville" votes="0" />
+                <Precinct name="Ezells and Butler" votes="0" />
+                <Precinct name="Gaffney Ward No. 1" votes="0" />
+                <Precinct name="Gaffney Ward No. 2" votes="1" />
+                <Precinct name="Gaffney Ward No. 3" votes="0" />
+                <Precinct name="Gaffney Ward No. 4" votes="0" />
+                <Precinct name="Gaffney Ward No. 5" votes="1" />
+                <Precinct name="Gaffney Ward No. 6" votes="0" />
+                <Precinct name="Grassy Pond" votes="1" />
+                <Precinct name="Goucher and Thicketty" votes="0" />
+                <Precinct name="Holly Grove-Buffalo" votes="0" />
+                <Precinct name="Limestone Mill" votes="0" />
+                <Precinct name="Littlejohn's and Sarratt's" votes="0" />
+                <Precinct name="Macedonia" votes="0" />
+                <Precinct name="Morgan" votes="0" />
+                <Precinct name="Musgrove Mill" votes="0" />
+                <Precinct name="Ninety Nine and Cherokee Falls" votes="0" />
+                <Precinct name="Pleasant Grove" votes="0" />
+                <Precinct name="Pleasant Meadows" votes="1" />
+                <Precinct name="Timber Ridge" votes="0" />
+                <Precinct name="White Plains" votes="1" />
+                <Precinct name="Wilkinsville and Metcalf" votes="0" />
+                <Precinct name="Woods" votes="1" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0107" text="State  Senate, District  14" voteFor="1" isQuestion="false" precinctsReporting="29" precinctsReported="29">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Allens" votes="0" />
+            <Precinct name="Alma Mill" votes="0" />
+            <Precinct name="Antioch and Kings Creek" votes="0" />
+            <Precinct name="Ashworth" votes="0" />
+            <Precinct name="Blacksburg Ward No. 1" votes="0" />
+            <Precinct name="Blacksburg Ward No. 2" votes="0" />
+            <Precinct name="Draytonville" votes="0" />
+            <Precinct name="Ezells and Butler" votes="0" />
+            <Precinct name="Gaffney Ward No. 1" votes="0" />
+            <Precinct name="Gaffney Ward No. 2" votes="0" />
+            <Precinct name="Gaffney Ward No. 3" votes="0" />
+            <Precinct name="Gaffney Ward No. 4" votes="0" />
+            <Precinct name="Gaffney Ward No. 5" votes="0" />
+            <Precinct name="Gaffney Ward No. 6" votes="0" />
+            <Precinct name="Grassy Pond" votes="0" />
+            <Precinct name="Goucher and Thicketty" votes="0" />
+            <Precinct name="Holly Grove-Buffalo" votes="0" />
+            <Precinct name="Limestone Mill" votes="0" />
+            <Precinct name="Littlejohn's and Sarratt's" votes="0" />
+            <Precinct name="Macedonia" votes="0" />
+            <Precinct name="Morgan" votes="0" />
+            <Precinct name="Musgrove Mill" votes="0" />
+            <Precinct name="Ninety Nine and Cherokee Falls" votes="0" />
+            <Precinct name="Pleasant Grove" votes="0" />
+            <Precinct name="Pleasant Meadows" votes="0" />
+            <Precinct name="Timber Ridge" votes="0" />
+            <Precinct name="White Plains" votes="0" />
+            <Precinct name="Wilkinsville and Metcalf" votes="0" />
+            <Precinct name="Woods" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="4466">
+            <Precinct name="Allens" votes="33" />
+            <Precinct name="Alma Mill" votes="285" />
+            <Precinct name="Antioch and Kings Creek" votes="72" />
+            <Precinct name="Ashworth" votes="53" />
+            <Precinct name="Blacksburg Ward No. 1" votes="100" />
+            <Precinct name="Blacksburg Ward No. 2" votes="104" />
+            <Precinct name="Draytonville" votes="111" />
+            <Precinct name="Ezells and Butler" votes="83" />
+            <Precinct name="Gaffney Ward No. 1" votes="175" />
+            <Precinct name="Gaffney Ward No. 2" votes="297" />
+            <Precinct name="Gaffney Ward No. 3" votes="239" />
+            <Precinct name="Gaffney Ward No. 4" votes="219" />
+            <Precinct name="Gaffney Ward No. 5" votes="104" />
+            <Precinct name="Gaffney Ward No. 6" votes="85" />
+            <Precinct name="Grassy Pond" votes="153" />
+            <Precinct name="Goucher and Thicketty" votes="49" />
+            <Precinct name="Holly Grove-Buffalo" votes="83" />
+            <Precinct name="Limestone Mill" votes="129" />
+            <Precinct name="Littlejohn's and Sarratt's" votes="22" />
+            <Precinct name="Macedonia" votes="80" />
+            <Precinct name="Morgan" votes="67" />
+            <Precinct name="Musgrove Mill" votes="112" />
+            <Precinct name="Ninety Nine and Cherokee Falls" votes="45" />
+            <Precinct name="Pleasant Grove" votes="139" />
+            <Precinct name="Pleasant Meadows" votes="171" />
+            <Precinct name="Timber Ridge" votes="47" />
+            <Precinct name="White Plains" votes="89" />
+            <Precinct name="Wilkinsville and Metcalf" votes="13" />
+            <Precinct name="Woods" votes="49" />
+            <Precinct name="Absentee" votes="1207" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="48" />
+            <Precinct name="Provisional" votes="3" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Harvey Peeler" party="REP" totalVotes="17242">
+            <VoteType name="Election Day" votes="17242">
+                <Precinct name="Allens" votes="538" />
+                <Precinct name="Alma Mill" votes="481" />
+                <Precinct name="Antioch and Kings Creek" votes="653" />
+                <Precinct name="Ashworth" votes="603" />
+                <Precinct name="Blacksburg Ward No. 1" votes="403" />
+                <Precinct name="Blacksburg Ward No. 2" votes="628" />
+                <Precinct name="Draytonville" votes="699" />
+                <Precinct name="Ezells and Butler" votes="715" />
+                <Precinct name="Gaffney Ward No. 1" votes="154" />
+                <Precinct name="Gaffney Ward No. 2" votes="216" />
+                <Precinct name="Gaffney Ward No. 3" votes="209" />
+                <Precinct name="Gaffney Ward No. 4" votes="437" />
+                <Precinct name="Gaffney Ward No. 5" votes="423" />
+                <Precinct name="Gaffney Ward No. 6" votes="508" />
+                <Precinct name="Grassy Pond" votes="1016" />
+                <Precinct name="Goucher and Thicketty" votes="603" />
+                <Precinct name="Holly Grove-Buffalo" votes="598" />
+                <Precinct name="Limestone Mill" votes="222" />
+                <Precinct name="Littlejohn's and Sarratt's" votes="208" />
+                <Precinct name="Macedonia" votes="690" />
+                <Precinct name="Morgan" votes="605" />
+                <Precinct name="Musgrove Mill" votes="546" />
+                <Precinct name="Ninety Nine and Cherokee Falls" votes="455" />
+                <Precinct name="Pleasant Grove" votes="344" />
+                <Precinct name="Pleasant Meadows" votes="174" />
+                <Precinct name="Timber Ridge" votes="490" />
+                <Precinct name="White Plains" votes="640" />
+                <Precinct name="Wilkinsville and Metcalf" votes="321" />
+                <Precinct name="Woods" votes="552" />
+                <Precinct name="Absentee" votes="3001" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="108" />
+                <Precinct name="Provisional" votes="2" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="184">
+            <VoteType name="Election Day" votes="184">
+                <Precinct name="Allens" votes="2" />
+                <Precinct name="Alma Mill" votes="7" />
+                <Precinct name="Antioch and Kings Creek" votes="4" />
+                <Precinct name="Ashworth" votes="4" />
+                <Precinct name="Blacksburg Ward No. 1" votes="3" />
+                <Precinct name="Blacksburg Ward No. 2" votes="4" />
+                <Precinct name="Draytonville" votes="6" />
+                <Precinct name="Ezells and Butler" votes="5" />
+                <Precinct name="Gaffney Ward No. 1" votes="4" />
+                <Precinct name="Gaffney Ward No. 2" votes="11" />
+                <Precinct name="Gaffney Ward No. 3" votes="6" />
+                <Precinct name="Gaffney Ward No. 4" votes="7" />
+                <Precinct name="Gaffney Ward No. 5" votes="11" />
+                <Precinct name="Gaffney Ward No. 6" votes="7" />
+                <Precinct name="Grassy Pond" votes="9" />
+                <Precinct name="Goucher and Thicketty" votes="1" />
+                <Precinct name="Holly Grove-Buffalo" votes="2" />
+                <Precinct name="Limestone Mill" votes="3" />
+                <Precinct name="Littlejohn's and Sarratt's" votes="0" />
+                <Precinct name="Macedonia" votes="4" />
+                <Precinct name="Morgan" votes="3" />
+                <Precinct name="Musgrove Mill" votes="7" />
+                <Precinct name="Ninety Nine and Cherokee Falls" votes="1" />
+                <Precinct name="Pleasant Grove" votes="7" />
+                <Precinct name="Pleasant Meadows" votes="5" />
+                <Precinct name="Timber Ridge" votes="2" />
+                <Precinct name="White Plains" votes="8" />
+                <Precinct name="Wilkinsville and Metcalf" votes="1" />
+                <Precinct name="Woods" votes="1" />
+                <Precinct name="Absentee" votes="48" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0108" text="State  House of Representatives, District  29" voteFor="1" isQuestion="false" precinctsReporting="16" precinctsReported="16">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Allens" votes="0" />
+            <Precinct name="Alma Mill" votes="0" />
+            <Precinct name="Antioch and Kings Creek" votes="0" />
+            <Precinct name="Draytonville" votes="0" />
+            <Precinct name="Gaffney Ward No. 3" votes="0" />
+            <Precinct name="Gaffney Ward No. 4" votes="0" />
+            <Precinct name="Gaffney Ward No. 5" votes="0" />
+            <Precinct name="Gaffney Ward No. 6" votes="0" />
+            <Precinct name="Goucher and Thicketty" votes="0" />
+            <Precinct name="Littlejohn's and Sarratt's" votes="0" />
+            <Precinct name="Macedonia" votes="0" />
+            <Precinct name="Musgrove Mill" votes="0" />
+            <Precinct name="Pleasant Meadows" votes="0" />
+            <Precinct name="Timber Ridge" votes="0" />
+            <Precinct name="White Plains" votes="0" />
+            <Precinct name="Wilkinsville and Metcalf" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1922">
+            <Precinct name="Allens" votes="58" />
+            <Precinct name="Alma Mill" votes="5" />
+            <Precinct name="Antioch and Kings Creek" votes="0" />
+            <Precinct name="Draytonville" votes="60" />
+            <Precinct name="Gaffney Ward No. 3" votes="268" />
+            <Precinct name="Gaffney Ward No. 4" votes="221" />
+            <Precinct name="Gaffney Ward No. 5" votes="114" />
+            <Precinct name="Gaffney Ward No. 6" votes="100" />
+            <Precinct name="Goucher and Thicketty" votes="67" />
+            <Precinct name="Littlejohn's and Sarratt's" votes="26" />
+            <Precinct name="Macedonia" votes="78" />
+            <Precinct name="Musgrove Mill" votes="127" />
+            <Precinct name="Pleasant Meadows" votes="12" />
+            <Precinct name="Timber Ridge" votes="64" />
+            <Precinct name="White Plains" votes="104" />
+            <Precinct name="Wilkinsville and Metcalf" votes="31" />
+            <Precinct name="Absentee" votes="565" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="21" />
+            <Precinct name="Provisional" votes="1" />
+        </VoteType>
+        <Choice key="001" text="Dennis Carroll Moss" party="REP" totalVotes="7001">
+            <VoteType name="Election Day" votes="7001">
+                <Precinct name="Allens" votes="512" />
+                <Precinct name="Alma Mill" votes="0" />
+                <Precinct name="Antioch and Kings Creek" votes="0" />
+                <Precinct name="Draytonville" votes="430" />
+                <Precinct name="Gaffney Ward No. 3" votes="181" />
+                <Precinct name="Gaffney Ward No. 4" votes="376" />
+                <Precinct name="Gaffney Ward No. 5" votes="417" />
+                <Precinct name="Gaffney Ward No. 6" votes="497" />
+                <Precinct name="Goucher and Thicketty" votes="584" />
+                <Precinct name="Littlejohn's and Sarratt's" votes="203" />
+                <Precinct name="Macedonia" votes="476" />
+                <Precinct name="Musgrove Mill" votes="533" />
+                <Precinct name="Pleasant Meadows" votes="3" />
+                <Precinct name="Timber Ridge" votes="473" />
+                <Precinct name="White Plains" votes="627" />
+                <Precinct name="Wilkinsville and Metcalf" votes="304" />
+                <Precinct name="Absentee" votes="1341" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="43" />
+                <Precinct name="Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="67">
+            <VoteType name="Election Day" votes="67">
+                <Precinct name="Allens" votes="3" />
+                <Precinct name="Alma Mill" votes="0" />
+                <Precinct name="Antioch and Kings Creek" votes="0" />
+                <Precinct name="Draytonville" votes="3" />
+                <Precinct name="Gaffney Ward No. 3" votes="5" />
+                <Precinct name="Gaffney Ward No. 4" votes="7" />
+                <Precinct name="Gaffney Ward No. 5" votes="7" />
+                <Precinct name="Gaffney Ward No. 6" votes="3" />
+                <Precinct name="Goucher and Thicketty" votes="2" />
+                <Precinct name="Littlejohn's and Sarratt's" votes="1" />
+                <Precinct name="Macedonia" votes="3" />
+                <Precinct name="Musgrove Mill" votes="5" />
+                <Precinct name="Pleasant Meadows" votes="0" />
+                <Precinct name="Timber Ridge" votes="2" />
+                <Precinct name="White Plains" votes="6" />
+                <Precinct name="Wilkinsville and Metcalf" votes="0" />
+                <Precinct name="Absentee" votes="20" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0109" text="State  House of Representatives, District  30" voteFor="1" isQuestion="false" precinctsReporting="19" precinctsReported="19">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Alma Mill" votes="0" />
+            <Precinct name="Antioch and Kings Creek" votes="0" />
+            <Precinct name="Ashworth" votes="0" />
+            <Precinct name="Blacksburg Ward No. 1" votes="0" />
+            <Precinct name="Blacksburg Ward No. 2" votes="0" />
+            <Precinct name="Draytonville" votes="0" />
+            <Precinct name="Ezells and Butler" votes="0" />
+            <Precinct name="Gaffney Ward No. 1" votes="0" />
+            <Precinct name="Gaffney Ward No. 2" votes="0" />
+            <Precinct name="Gaffney Ward No. 4" votes="0" />
+            <Precinct name="Grassy Pond" votes="0" />
+            <Precinct name="Holly Grove-Buffalo" votes="0" />
+            <Precinct name="Limestone Mill" votes="0" />
+            <Precinct name="Macedonia" votes="0" />
+            <Precinct name="Morgan" votes="0" />
+            <Precinct name="Ninety Nine and Cherokee Falls" votes="0" />
+            <Precinct name="Pleasant Grove" votes="0" />
+            <Precinct name="Pleasant Meadows" votes="0" />
+            <Precinct name="Woods" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="3044">
+            <Precinct name="Alma Mill" votes="311" />
+            <Precinct name="Antioch and Kings Creek" votes="81" />
+            <Precinct name="Ashworth" votes="70" />
+            <Precinct name="Blacksburg Ward No. 1" votes="97" />
+            <Precinct name="Blacksburg Ward No. 2" votes="98" />
+            <Precinct name="Draytonville" votes="60" />
+            <Precinct name="Ezells and Butler" votes="100" />
+            <Precinct name="Gaffney Ward No. 1" votes="194" />
+            <Precinct name="Gaffney Ward No. 2" votes="327" />
+            <Precinct name="Gaffney Ward No. 4" votes="19" />
+            <Precinct name="Grassy Pond" votes="170" />
+            <Precinct name="Holly Grove-Buffalo" votes="87" />
+            <Precinct name="Limestone Mill" votes="143" />
+            <Precinct name="Macedonia" votes="25" />
+            <Precinct name="Morgan" votes="74" />
+            <Precinct name="Ninety Nine and Cherokee Falls" votes="50" />
+            <Precinct name="Pleasant Grove" votes="156" />
+            <Precinct name="Pleasant Meadows" votes="166" />
+            <Precinct name="Woods" votes="52" />
+            <Precinct name="Absentee" votes="733" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="29" />
+            <Precinct name="Provisional" votes="2" />
+        </VoteType>
+        <Choice key="001" text="Steve Moss" party="REP" totalVotes="9766">
+            <VoteType name="Election Day" votes="9766">
+                <Precinct name="Alma Mill" votes="449" />
+                <Precinct name="Antioch and Kings Creek" votes="643" />
+                <Precinct name="Ashworth" votes="587" />
+                <Precinct name="Blacksburg Ward No. 1" votes="406" />
+                <Precinct name="Blacksburg Ward No. 2" votes="634" />
+                <Precinct name="Draytonville" votes="258" />
+                <Precinct name="Ezells and Butler" votes="700" />
+                <Precinct name="Gaffney Ward No. 1" votes="136" />
+                <Precinct name="Gaffney Ward No. 2" votes="189" />
+                <Precinct name="Gaffney Ward No. 4" votes="40" />
+                <Precinct name="Grassy Pond" votes="1002" />
+                <Precinct name="Holly Grove-Buffalo" votes="593" />
+                <Precinct name="Limestone Mill" votes="210" />
+                <Precinct name="Macedonia" votes="190" />
+                <Precinct name="Morgan" votes="600" />
+                <Precinct name="Ninety Nine and Cherokee Falls" votes="448" />
+                <Precinct name="Pleasant Grove" votes="329" />
+                <Precinct name="Pleasant Meadows" votes="165" />
+                <Precinct name="Woods" votes="546" />
+                <Precinct name="Absentee" votes="1577" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="63" />
+                <Precinct name="Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="92">
+            <VoteType name="Election Day" votes="92">
+                <Precinct name="Alma Mill" votes="8" />
+                <Precinct name="Antioch and Kings Creek" votes="5" />
+                <Precinct name="Ashworth" votes="3" />
+                <Precinct name="Blacksburg Ward No. 1" votes="3" />
+                <Precinct name="Blacksburg Ward No. 2" votes="4" />
+                <Precinct name="Draytonville" votes="5" />
+                <Precinct name="Ezells and Butler" votes="3" />
+                <Precinct name="Gaffney Ward No. 1" votes="3" />
+                <Precinct name="Gaffney Ward No. 2" votes="8" />
+                <Precinct name="Gaffney Ward No. 4" votes="0" />
+                <Precinct name="Grassy Pond" votes="6" />
+                <Precinct name="Holly Grove-Buffalo" votes="3" />
+                <Precinct name="Limestone Mill" votes="1" />
+                <Precinct name="Macedonia" votes="2" />
+                <Precinct name="Morgan" votes="1" />
+                <Precinct name="Ninety Nine and Cherokee Falls" votes="3" />
+                <Precinct name="Pleasant Grove" votes="5" />
+                <Precinct name="Pleasant Meadows" votes="4" />
+                <Precinct name="Woods" votes="4" />
+                <Precinct name="Absentee" votes="20" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0110" text=" Solicitor, Circuit  7" voteFor="1" isQuestion="false" precinctsReporting="29" precinctsReported="29">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Allens" votes="0" />
+            <Precinct name="Alma Mill" votes="0" />
+            <Precinct name="Antioch and Kings Creek" votes="0" />
+            <Precinct name="Ashworth" votes="0" />
+            <Precinct name="Blacksburg Ward No. 1" votes="0" />
+            <Precinct name="Blacksburg Ward No. 2" votes="0" />
+            <Precinct name="Draytonville" votes="0" />
+            <Precinct name="Ezells and Butler" votes="0" />
+            <Precinct name="Gaffney Ward No. 1" votes="0" />
+            <Precinct name="Gaffney Ward No. 2" votes="0" />
+            <Precinct name="Gaffney Ward No. 3" votes="0" />
+            <Precinct name="Gaffney Ward No. 4" votes="0" />
+            <Precinct name="Gaffney Ward No. 5" votes="0" />
+            <Precinct name="Gaffney Ward No. 6" votes="0" />
+            <Precinct name="Grassy Pond" votes="0" />
+            <Precinct name="Goucher and Thicketty" votes="0" />
+            <Precinct name="Holly Grove-Buffalo" votes="0" />
+            <Precinct name="Limestone Mill" votes="0" />
+            <Precinct name="Littlejohn's and Sarratt's" votes="0" />
+            <Precinct name="Macedonia" votes="0" />
+            <Precinct name="Morgan" votes="0" />
+            <Precinct name="Musgrove Mill" votes="0" />
+            <Precinct name="Ninety Nine and Cherokee Falls" votes="0" />
+            <Precinct name="Pleasant Grove" votes="0" />
+            <Precinct name="Pleasant Meadows" votes="0" />
+            <Precinct name="Timber Ridge" votes="0" />
+            <Precinct name="White Plains" votes="0" />
+            <Precinct name="Wilkinsville and Metcalf" votes="0" />
+            <Precinct name="Woods" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="5236">
+            <Precinct name="Allens" votes="64" />
+            <Precinct name="Alma Mill" votes="323" />
+            <Precinct name="Antioch and Kings Creek" votes="87" />
+            <Precinct name="Ashworth" votes="66" />
+            <Precinct name="Blacksburg Ward No. 1" votes="119" />
+            <Precinct name="Blacksburg Ward No. 2" votes="126" />
+            <Precinct name="Draytonville" votes="139" />
+            <Precinct name="Ezells and Butler" votes="96" />
+            <Precinct name="Gaffney Ward No. 1" votes="197" />
+            <Precinct name="Gaffney Ward No. 2" votes="332" />
+            <Precinct name="Gaffney Ward No. 3" votes="280" />
+            <Precinct name="Gaffney Ward No. 4" votes="248" />
+            <Precinct name="Gaffney Ward No. 5" votes="122" />
+            <Precinct name="Gaffney Ward No. 6" votes="115" />
+            <Precinct name="Grassy Pond" votes="174" />
+            <Precinct name="Goucher and Thicketty" votes="74" />
+            <Precinct name="Holly Grove-Buffalo" votes="104" />
+            <Precinct name="Limestone Mill" votes="148" />
+            <Precinct name="Littlejohn's and Sarratt's" votes="24" />
+            <Precinct name="Macedonia" votes="103" />
+            <Precinct name="Morgan" votes="72" />
+            <Precinct name="Musgrove Mill" votes="128" />
+            <Precinct name="Ninety Nine and Cherokee Falls" votes="65" />
+            <Precinct name="Pleasant Grove" votes="166" />
+            <Precinct name="Pleasant Meadows" votes="180" />
+            <Precinct name="Timber Ridge" votes="65" />
+            <Precinct name="White Plains" votes="106" />
+            <Precinct name="Wilkinsville and Metcalf" votes="36" />
+            <Precinct name="Woods" votes="62" />
+            <Precinct name="Absentee" votes="1358" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="54" />
+            <Precinct name="Provisional" votes="3" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Barry Barnette" party="REP" totalVotes="16555">
+            <VoteType name="Election Day" votes="16555">
+                <Precinct name="Allens" votes="509" />
+                <Precinct name="Alma Mill" votes="442" />
+                <Precinct name="Antioch and Kings Creek" votes="637" />
+                <Precinct name="Ashworth" votes="591" />
+                <Precinct name="Blacksburg Ward No. 1" votes="385" />
+                <Precinct name="Blacksburg Ward No. 2" votes="608" />
+                <Precinct name="Draytonville" votes="673" />
+                <Precinct name="Ezells and Butler" votes="703" />
+                <Precinct name="Gaffney Ward No. 1" votes="132" />
+                <Precinct name="Gaffney Ward No. 2" votes="185" />
+                <Precinct name="Gaffney Ward No. 3" votes="170" />
+                <Precinct name="Gaffney Ward No. 4" votes="407" />
+                <Precinct name="Gaffney Ward No. 5" votes="409" />
+                <Precinct name="Gaffney Ward No. 6" votes="481" />
+                <Precinct name="Grassy Pond" votes="996" />
+                <Precinct name="Goucher and Thicketty" votes="577" />
+                <Precinct name="Holly Grove-Buffalo" votes="577" />
+                <Precinct name="Limestone Mill" votes="205" />
+                <Precinct name="Littlejohn's and Sarratt's" votes="206" />
+                <Precinct name="Macedonia" votes="669" />
+                <Precinct name="Morgan" votes="602" />
+                <Precinct name="Musgrove Mill" votes="534" />
+                <Precinct name="Ninety Nine and Cherokee Falls" votes="435" />
+                <Precinct name="Pleasant Grove" votes="324" />
+                <Precinct name="Pleasant Meadows" votes="169" />
+                <Precinct name="Timber Ridge" votes="474" />
+                <Precinct name="White Plains" votes="629" />
+                <Precinct name="Wilkinsville and Metcalf" votes="299" />
+                <Precinct name="Woods" votes="540" />
+                <Precinct name="Absentee" votes="2884" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="101" />
+                <Precinct name="Provisional" votes="2" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="101">
+            <VoteType name="Election Day" votes="101">
+                <Precinct name="Allens" votes="0" />
+                <Precinct name="Alma Mill" votes="8" />
+                <Precinct name="Antioch and Kings Creek" votes="5" />
+                <Precinct name="Ashworth" votes="3" />
+                <Precinct name="Blacksburg Ward No. 1" votes="2" />
+                <Precinct name="Blacksburg Ward No. 2" votes="2" />
+                <Precinct name="Draytonville" votes="4" />
+                <Precinct name="Ezells and Butler" votes="4" />
+                <Precinct name="Gaffney Ward No. 1" votes="4" />
+                <Precinct name="Gaffney Ward No. 2" votes="7" />
+                <Precinct name="Gaffney Ward No. 3" votes="4" />
+                <Precinct name="Gaffney Ward No. 4" votes="8" />
+                <Precinct name="Gaffney Ward No. 5" votes="7" />
+                <Precinct name="Gaffney Ward No. 6" votes="4" />
+                <Precinct name="Grassy Pond" votes="8" />
+                <Precinct name="Goucher and Thicketty" votes="2" />
+                <Precinct name="Holly Grove-Buffalo" votes="2" />
+                <Precinct name="Limestone Mill" votes="1" />
+                <Precinct name="Littlejohn's and Sarratt's" votes="0" />
+                <Precinct name="Macedonia" votes="2" />
+                <Precinct name="Morgan" votes="1" />
+                <Precinct name="Musgrove Mill" votes="3" />
+                <Precinct name="Ninety Nine and Cherokee Falls" votes="1" />
+                <Precinct name="Pleasant Grove" votes="0" />
+                <Precinct name="Pleasant Meadows" votes="1" />
+                <Precinct name="Timber Ridge" votes="0" />
+                <Precinct name="White Plains" votes="2" />
+                <Precinct name="Wilkinsville and Metcalf" votes="0" />
+                <Precinct name="Woods" votes="0" />
+                <Precinct name="Absentee" votes="14" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0111" text="County Council District 1" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Alma Mill" votes="0" />
+            <Precinct name="Draytonville" votes="0" />
+            <Precinct name="Gaffney Ward No. 1" votes="0" />
+            <Precinct name="Gaffney Ward No. 2" votes="0" />
+            <Precinct name="Gaffney Ward No. 3" votes="0" />
+            <Precinct name="Gaffney Ward No. 4" votes="0" />
+            <Precinct name="Gaffney Ward No. 5" votes="0" />
+            <Precinct name="Gaffney Ward No. 6" votes="0" />
+            <Precinct name="Macedonia" votes="0" />
+            <Precinct name="Musgrove Mill" votes="0" />
+            <Precinct name="Pleasant Meadows" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="458">
+            <Precinct name="Alma Mill" votes="1" />
+            <Precinct name="Draytonville" votes="0" />
+            <Precinct name="Gaffney Ward No. 1" votes="31" />
+            <Precinct name="Gaffney Ward No. 2" votes="56" />
+            <Precinct name="Gaffney Ward No. 3" votes="41" />
+            <Precinct name="Gaffney Ward No. 4" votes="64" />
+            <Precinct name="Gaffney Ward No. 5" votes="11" />
+            <Precinct name="Gaffney Ward No. 6" votes="6" />
+            <Precinct name="Macedonia" votes="13" />
+            <Precinct name="Musgrove Mill" votes="10" />
+            <Precinct name="Pleasant Meadows" votes="59" />
+            <Precinct name="Absentee" votes="159" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="5" />
+            <Precinct name="Provisional" votes="2" />
+        </VoteType>
+        <Choice key="001" text="Rufus H Foster Jr" party="DEM" totalVotes="2482">
+            <VoteType name="Election Day" votes="2482">
+                <Precinct name="Alma Mill" votes="4" />
+                <Precinct name="Draytonville" votes="6" />
+                <Precinct name="Gaffney Ward No. 1" votes="201" />
+                <Precinct name="Gaffney Ward No. 2" votes="391" />
+                <Precinct name="Gaffney Ward No. 3" votes="389" />
+                <Precinct name="Gaffney Ward No. 4" votes="347" />
+                <Precinct name="Gaffney Ward No. 5" votes="51" />
+                <Precinct name="Gaffney Ward No. 6" votes="39" />
+                <Precinct name="Macedonia" votes="10" />
+                <Precinct name="Musgrove Mill" votes="56" />
+                <Precinct name="Pleasant Meadows" votes="287" />
+                <Precinct name="Absentee" votes="673" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="28" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="23">
+            <VoteType name="Election Day" votes="23">
+                <Precinct name="Alma Mill" votes="0" />
+                <Precinct name="Draytonville" votes="0" />
+                <Precinct name="Gaffney Ward No. 1" votes="3" />
+                <Precinct name="Gaffney Ward No. 2" votes="3" />
+                <Precinct name="Gaffney Ward No. 3" votes="6" />
+                <Precinct name="Gaffney Ward No. 4" votes="4" />
+                <Precinct name="Gaffney Ward No. 5" votes="1" />
+                <Precinct name="Gaffney Ward No. 6" votes="0" />
+                <Precinct name="Macedonia" votes="0" />
+                <Precinct name="Musgrove Mill" votes="0" />
+                <Precinct name="Pleasant Meadows" votes="4" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0112" text="County Council District 3" voteFor="1" isQuestion="false" precinctsReporting="9" precinctsReported="9">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Allens" votes="0" />
+            <Precinct name="Draytonville" votes="0" />
+            <Precinct name="Ezells and Butler" votes="0" />
+            <Precinct name="Gaffney Ward No. 4" votes="0" />
+            <Precinct name="Gaffney Ward No. 5" votes="0" />
+            <Precinct name="Gaffney Ward No. 6" votes="0" />
+            <Precinct name="Goucher and Thicketty" votes="0" />
+            <Precinct name="Macedonia" votes="0" />
+            <Precinct name="Musgrove Mill" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="484">
+            <Precinct name="Allens" votes="4" />
+            <Precinct name="Draytonville" votes="6" />
+            <Precinct name="Ezells and Butler" votes="30" />
+            <Precinct name="Gaffney Ward No. 4" votes="31" />
+            <Precinct name="Gaffney Ward No. 5" votes="80" />
+            <Precinct name="Gaffney Ward No. 6" votes="63" />
+            <Precinct name="Goucher and Thicketty" votes="10" />
+            <Precinct name="Macedonia" votes="53" />
+            <Precinct name="Musgrove Mill" votes="52" />
+            <Precinct name="Absentee" votes="151" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="3" />
+            <Precinct name="Provisional" votes="1" />
+        </VoteType>
+        <Choice key="001" text="J Quay Little" party="REP" totalVotes="3028">
+            <VoteType name="Election Day" votes="3028">
+                <Precinct name="Allens" votes="34" />
+                <Precinct name="Draytonville" votes="47" />
+                <Precinct name="Ezells and Butler" votes="249" />
+                <Precinct name="Gaffney Ward No. 4" votes="215" />
+                <Precinct name="Gaffney Ward No. 5" votes="388" />
+                <Precinct name="Gaffney Ward No. 6" votes="491" />
+                <Precinct name="Goucher and Thicketty" votes="155" />
+                <Precinct name="Macedonia" votes="383" />
+                <Precinct name="Musgrove Mill" votes="341" />
+                <Precinct name="Absentee" votes="701" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="23" />
+                <Precinct name="Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="27">
+            <VoteType name="Election Day" votes="27">
+                <Precinct name="Allens" votes="0" />
+                <Precinct name="Draytonville" votes="3" />
+                <Precinct name="Ezells and Butler" votes="1" />
+                <Precinct name="Gaffney Ward No. 4" votes="2" />
+                <Precinct name="Gaffney Ward No. 5" votes="7" />
+                <Precinct name="Gaffney Ward No. 6" votes="1" />
+                <Precinct name="Goucher and Thicketty" votes="0" />
+                <Precinct name="Macedonia" votes="2" />
+                <Precinct name="Musgrove Mill" votes="3" />
+                <Precinct name="Absentee" votes="8" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0113" text="County Council District 4" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Alma Mill" votes="0" />
+            <Precinct name="Gaffney Ward No. 1" votes="0" />
+            <Precinct name="Gaffney Ward No. 2" votes="0" />
+            <Precinct name="Gaffney Ward No. 3" votes="0" />
+            <Precinct name="Grassy Pond" votes="0" />
+            <Precinct name="Limestone Mill" votes="0" />
+            <Precinct name="Pleasant Grove" votes="0" />
+            <Precinct name="Woods" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="80">
+            <Precinct name="Alma Mill" votes="16" />
+            <Precinct name="Gaffney Ward No. 1" votes="4" />
+            <Precinct name="Gaffney Ward No. 2" votes="5" />
+            <Precinct name="Gaffney Ward No. 3" votes="2" />
+            <Precinct name="Grassy Pond" votes="12" />
+            <Precinct name="Limestone Mill" votes="8" />
+            <Precinct name="Pleasant Grove" votes="4" />
+            <Precinct name="Woods" votes="7" />
+            <Precinct name="Absentee" votes="21" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Terrance Smith" party="DEM" totalVotes="1184">
+            <VoteType name="Election Day" votes="1184">
+                <Precinct name="Alma Mill" votes="350" />
+                <Precinct name="Gaffney Ward No. 1" votes="50" />
+                <Precinct name="Gaffney Ward No. 2" votes="60" />
+                <Precinct name="Gaffney Ward No. 3" votes="12" />
+                <Precinct name="Grassy Pond" votes="162" />
+                <Precinct name="Limestone Mill" votes="170" />
+                <Precinct name="Pleasant Grove" votes="98" />
+                <Precinct name="Woods" votes="19" />
+                <Precinct name="Absentee" votes="249" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="14" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Tim Spencer" party="REP" totalVotes="1319">
+            <VoteType name="Election Day" votes="1319">
+                <Precinct name="Alma Mill" votes="179" />
+                <Precinct name="Gaffney Ward No. 1" votes="44" />
+                <Precinct name="Gaffney Ward No. 2" votes="9" />
+                <Precinct name="Gaffney Ward No. 3" votes="2" />
+                <Precinct name="Grassy Pond" votes="281" />
+                <Precinct name="Limestone Mill" votes="176" />
+                <Precinct name="Pleasant Grove" votes="149" />
+                <Precinct name="Woods" votes="149" />
+                <Precinct name="Absentee" votes="328" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="4">
+            <VoteType name="Election Day" votes="4">
+                <Precinct name="Alma Mill" votes="2" />
+                <Precinct name="Gaffney Ward No. 1" votes="0" />
+                <Precinct name="Gaffney Ward No. 2" votes="0" />
+                <Precinct name="Gaffney Ward No. 3" votes="0" />
+                <Precinct name="Grassy Pond" votes="1" />
+                <Precinct name="Limestone Mill" votes="0" />
+                <Precinct name="Pleasant Grove" votes="0" />
+                <Precinct name="Woods" votes="0" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0114" text="County Council District 6" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Allens" votes="0" />
+            <Precinct name="Alma Mill" votes="0" />
+            <Precinct name="Draytonville" votes="0" />
+            <Precinct name="Gaffney Ward No. 3" votes="0" />
+            <Precinct name="Holly Grove-Buffalo" votes="0" />
+            <Precinct name="Pleasant Grove" votes="0" />
+            <Precinct name="Timber Ridge" votes="0" />
+            <Precinct name="Wilkinsville and Metcalf" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="92">
+            <Precinct name="Allens" votes="13" />
+            <Precinct name="Alma Mill" votes="6" />
+            <Precinct name="Draytonville" votes="15" />
+            <Precinct name="Gaffney Ward No. 3" votes="0" />
+            <Precinct name="Holly Grove-Buffalo" votes="22" />
+            <Precinct name="Pleasant Grove" votes="5" />
+            <Precinct name="Timber Ridge" votes="2" />
+            <Precinct name="Wilkinsville and Metcalf" votes="5" />
+            <Precinct name="Absentee" votes="22" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="2" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Billy R Short" party="DEM" totalVotes="757">
+            <VoteType name="Election Day" votes="757">
+                <Precinct name="Allens" votes="47" />
+                <Precinct name="Alma Mill" votes="57" />
+                <Precinct name="Draytonville" votes="253" />
+                <Precinct name="Gaffney Ward No. 3" votes="2" />
+                <Precinct name="Holly Grove-Buffalo" votes="59" />
+                <Precinct name="Pleasant Grove" votes="116" />
+                <Precinct name="Timber Ridge" votes="15" />
+                <Precinct name="Wilkinsville and Metcalf" votes="32" />
+                <Precinct name="Absentee" votes="170" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="6" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="David Smith" party="REP" totalVotes="1944">
+            <VoteType name="Election Day" votes="1944">
+                <Precinct name="Allens" votes="247" />
+                <Precinct name="Alma Mill" votes="156" />
+                <Precinct name="Draytonville" votes="481" />
+                <Precinct name="Gaffney Ward No. 3" votes="0" />
+                <Precinct name="Holly Grove-Buffalo" votes="352" />
+                <Precinct name="Pleasant Grove" votes="118" />
+                <Precinct name="Timber Ridge" votes="101" />
+                <Precinct name="Wilkinsville and Metcalf" votes="144" />
+                <Precinct name="Absentee" votes="326" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="19" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="2">
+            <VoteType name="Election Day" votes="2">
+                <Precinct name="Allens" votes="0" />
+                <Precinct name="Alma Mill" votes="2" />
+                <Precinct name="Draytonville" votes="0" />
+                <Precinct name="Gaffney Ward No. 3" votes="0" />
+                <Precinct name="Holly Grove-Buffalo" votes="0" />
+                <Precinct name="Pleasant Grove" votes="0" />
+                <Precinct name="Timber Ridge" votes="0" />
+                <Precinct name="Wilkinsville and Metcalf" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0115" text="Soil and Water District Commission" voteFor="1" isQuestion="false" precinctsReporting="29" precinctsReported="29">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Allens" votes="0" />
+            <Precinct name="Alma Mill" votes="0" />
+            <Precinct name="Antioch and Kings Creek" votes="0" />
+            <Precinct name="Ashworth" votes="0" />
+            <Precinct name="Blacksburg Ward No. 1" votes="0" />
+            <Precinct name="Blacksburg Ward No. 2" votes="0" />
+            <Precinct name="Draytonville" votes="0" />
+            <Precinct name="Ezells and Butler" votes="0" />
+            <Precinct name="Gaffney Ward No. 1" votes="0" />
+            <Precinct name="Gaffney Ward No. 2" votes="0" />
+            <Precinct name="Gaffney Ward No. 3" votes="0" />
+            <Precinct name="Gaffney Ward No. 4" votes="0" />
+            <Precinct name="Gaffney Ward No. 5" votes="0" />
+            <Precinct name="Gaffney Ward No. 6" votes="0" />
+            <Precinct name="Grassy Pond" votes="0" />
+            <Precinct name="Goucher and Thicketty" votes="0" />
+            <Precinct name="Holly Grove-Buffalo" votes="0" />
+            <Precinct name="Limestone Mill" votes="0" />
+            <Precinct name="Littlejohn's and Sarratt's" votes="0" />
+            <Precinct name="Macedonia" votes="0" />
+            <Precinct name="Morgan" votes="0" />
+            <Precinct name="Musgrove Mill" votes="0" />
+            <Precinct name="Ninety Nine and Cherokee Falls" votes="0" />
+            <Precinct name="Pleasant Grove" votes="0" />
+            <Precinct name="Pleasant Meadows" votes="0" />
+            <Precinct name="Timber Ridge" votes="0" />
+            <Precinct name="White Plains" votes="0" />
+            <Precinct name="Wilkinsville and Metcalf" votes="0" />
+            <Precinct name="Woods" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="9161">
+            <Precinct name="Allens" votes="195" />
+            <Precinct name="Alma Mill" votes="334" />
+            <Precinct name="Antioch and Kings Creek" votes="299" />
+            <Precinct name="Ashworth" votes="239" />
+            <Precinct name="Blacksburg Ward No. 1" votes="236" />
+            <Precinct name="Blacksburg Ward No. 2" votes="353" />
+            <Precinct name="Draytonville" votes="210" />
+            <Precinct name="Ezells and Butler" votes="316" />
+            <Precinct name="Gaffney Ward No. 1" votes="203" />
+            <Precinct name="Gaffney Ward No. 2" votes="345" />
+            <Precinct name="Gaffney Ward No. 3" votes="279" />
+            <Precinct name="Gaffney Ward No. 4" votes="299" />
+            <Precinct name="Gaffney Ward No. 5" votes="174" />
+            <Precinct name="Gaffney Ward No. 6" votes="208" />
+            <Precinct name="Grassy Pond" votes="343" />
+            <Precinct name="Goucher and Thicketty" votes="258" />
+            <Precinct name="Holly Grove-Buffalo" votes="253" />
+            <Precinct name="Limestone Mill" votes="171" />
+            <Precinct name="Littlejohn's and Sarratt's" votes="80" />
+            <Precinct name="Macedonia" votes="308" />
+            <Precinct name="Morgan" votes="290" />
+            <Precinct name="Musgrove Mill" votes="252" />
+            <Precinct name="Ninety Nine and Cherokee Falls" votes="188" />
+            <Precinct name="Pleasant Grove" votes="152" />
+            <Precinct name="Pleasant Meadows" votes="212" />
+            <Precinct name="Timber Ridge" votes="195" />
+            <Precinct name="White Plains" votes="306" />
+            <Precinct name="Wilkinsville and Metcalf" votes="112" />
+            <Precinct name="Woods" votes="169" />
+            <Precinct name="Absentee" votes="2095" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="84" />
+            <Precinct name="Provisional" votes="3" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Jane O Waters" party="NON" totalVotes="12631">
+            <VoteType name="Election Day" votes="12631">
+                <Precinct name="Allens" votes="375" />
+                <Precinct name="Alma Mill" votes="432" />
+                <Precinct name="Antioch and Kings Creek" votes="429" />
+                <Precinct name="Ashworth" votes="416" />
+                <Precinct name="Blacksburg Ward No. 1" votes="268" />
+                <Precinct name="Blacksburg Ward No. 2" votes="380" />
+                <Precinct name="Draytonville" votes="602" />
+                <Precinct name="Ezells and Butler" votes="484" />
+                <Precinct name="Gaffney Ward No. 1" votes="129" />
+                <Precinct name="Gaffney Ward No. 2" votes="178" />
+                <Precinct name="Gaffney Ward No. 3" votes="172" />
+                <Precinct name="Gaffney Ward No. 4" votes="355" />
+                <Precinct name="Gaffney Ward No. 5" votes="358" />
+                <Precinct name="Gaffney Ward No. 6" votes="390" />
+                <Precinct name="Grassy Pond" votes="831" />
+                <Precinct name="Goucher and Thicketty" votes="393" />
+                <Precinct name="Holly Grove-Buffalo" votes="428" />
+                <Precinct name="Limestone Mill" votes="183" />
+                <Precinct name="Littlejohn's and Sarratt's" votes="149" />
+                <Precinct name="Macedonia" votes="463" />
+                <Precinct name="Morgan" votes="381" />
+                <Precinct name="Musgrove Mill" votes="412" />
+                <Precinct name="Ninety Nine and Cherokee Falls" votes="311" />
+                <Precinct name="Pleasant Grove" votes="337" />
+                <Precinct name="Pleasant Meadows" votes="136" />
+                <Precinct name="Timber Ridge" votes="341" />
+                <Precinct name="White Plains" votes="427" />
+                <Precinct name="Wilkinsville and Metcalf" votes="223" />
+                <Precinct name="Woods" votes="433" />
+                <Precinct name="Absentee" votes="2140" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="73" />
+                <Precinct name="Provisional" votes="2" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="100">
+            <VoteType name="Election Day" votes="100">
+                <Precinct name="Allens" votes="3" />
+                <Precinct name="Alma Mill" votes="7" />
+                <Precinct name="Antioch and Kings Creek" votes="1" />
+                <Precinct name="Ashworth" votes="5" />
+                <Precinct name="Blacksburg Ward No. 1" votes="2" />
+                <Precinct name="Blacksburg Ward No. 2" votes="3" />
+                <Precinct name="Draytonville" votes="4" />
+                <Precinct name="Ezells and Butler" votes="3" />
+                <Precinct name="Gaffney Ward No. 1" votes="1" />
+                <Precinct name="Gaffney Ward No. 2" votes="1" />
+                <Precinct name="Gaffney Ward No. 3" votes="3" />
+                <Precinct name="Gaffney Ward No. 4" votes="9" />
+                <Precinct name="Gaffney Ward No. 5" votes="6" />
+                <Precinct name="Gaffney Ward No. 6" votes="2" />
+                <Precinct name="Grassy Pond" votes="4" />
+                <Precinct name="Goucher and Thicketty" votes="2" />
+                <Precinct name="Holly Grove-Buffalo" votes="2" />
+                <Precinct name="Limestone Mill" votes="0" />
+                <Precinct name="Littlejohn's and Sarratt's" votes="1" />
+                <Precinct name="Macedonia" votes="3" />
+                <Precinct name="Morgan" votes="4" />
+                <Precinct name="Musgrove Mill" votes="1" />
+                <Precinct name="Ninety Nine and Cherokee Falls" votes="2" />
+                <Precinct name="Pleasant Grove" votes="1" />
+                <Precinct name="Pleasant Meadows" votes="2" />
+                <Precinct name="Timber Ridge" votes="3" />
+                <Precinct name="White Plains" votes="4" />
+                <Precinct name="Wilkinsville and Metcalf" votes="0" />
+                <Precinct name="Woods" votes="0" />
+                <Precinct name="Absentee" votes="21" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0116" text="Thicketty Creek Watershed Conservation District" voteFor="3" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Allens" votes="0" />
+            <Precinct name="Ashworth" votes="0" />
+            <Precinct name="Draytonville" votes="0" />
+            <Precinct name="Ezells and Butler" votes="0" />
+            <Precinct name="Goucher and Thicketty" votes="0" />
+            <Precinct name="Littlejohn's and Sarratt's" votes="0" />
+            <Precinct name="Macedonia" votes="0" />
+            <Precinct name="Musgrove Mill" votes="0" />
+            <Precinct name="Timber Ridge" votes="0" />
+            <Precinct name="White Plains" votes="0" />
+            <Precinct name="Wilkinsville and Metcalf" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="9339">
+            <Precinct name="Allens" votes="1038" />
+            <Precinct name="Ashworth" votes="173" />
+            <Precinct name="Draytonville" votes="672" />
+            <Precinct name="Ezells and Butler" votes="332" />
+            <Precinct name="Goucher and Thicketty" votes="1127" />
+            <Precinct name="Littlejohn's and Sarratt's" votes="107" />
+            <Precinct name="Macedonia" votes="1236" />
+            <Precinct name="Musgrove Mill" votes="1108" />
+            <Precinct name="Timber Ridge" votes="866" />
+            <Precinct name="White Plains" votes="760" />
+            <Precinct name="Wilkinsville and Metcalf" votes="147" />
+            <Precinct name="Absentee" votes="1700" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="65" />
+            <Precinct name="Provisional" votes="8" />
+        </VoteType>
+        <Choice key="001" text="Earby Cash" party="NON" totalVotes="2538">
+            <VoteType name="Election Day" votes="2538">
+                <Precinct name="Allens" votes="234" />
+                <Precinct name="Ashworth" votes="57" />
+                <Precinct name="Draytonville" votes="167" />
+                <Precinct name="Ezells and Butler" votes="133" />
+                <Precinct name="Goucher and Thicketty" votes="280" />
+                <Precinct name="Littlejohn's and Sarratt's" votes="45" />
+                <Precinct name="Macedonia" votes="377" />
+                <Precinct name="Musgrove Mill" votes="299" />
+                <Precinct name="Timber Ridge" votes="232" />
+                <Precinct name="White Plains" votes="207" />
+                <Precinct name="Wilkinsville and Metcalf" votes="34" />
+                <Precinct name="Absentee" votes="461" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="12" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Cecil Goforth" party="NON" totalVotes="2750">
+            <VoteType name="Election Day" votes="2750">
+                <Precinct name="Allens" votes="258" />
+                <Precinct name="Ashworth" votes="58" />
+                <Precinct name="Draytonville" votes="198" />
+                <Precinct name="Ezells and Butler" votes="118" />
+                <Precinct name="Goucher and Thicketty" votes="323" />
+                <Precinct name="Littlejohn's and Sarratt's" votes="47" />
+                <Precinct name="Macedonia" votes="385" />
+                <Precinct name="Musgrove Mill" votes="317" />
+                <Precinct name="Timber Ridge" votes="247" />
+                <Precinct name="White Plains" votes="247" />
+                <Precinct name="Wilkinsville and Metcalf" votes="41" />
+                <Precinct name="Absentee" votes="497" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="13" />
+                <Precinct name="Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Robert Perrine" party="NON" totalVotes="2186">
+            <VoteType name="Election Day" votes="2186">
+                <Precinct name="Allens" votes="187" />
+                <Precinct name="Ashworth" votes="45" />
+                <Precinct name="Draytonville" votes="157" />
+                <Precinct name="Ezells and Butler" votes="106" />
+                <Precinct name="Goucher and Thicketty" votes="228" />
+                <Precinct name="Littlejohn's and Sarratt's" votes="39" />
+                <Precinct name="Macedonia" votes="320" />
+                <Precinct name="Musgrove Mill" votes="264" />
+                <Precinct name="Timber Ridge" votes="211" />
+                <Precinct name="White Plains" votes="178" />
+                <Precinct name="Wilkinsville and Metcalf" votes="27" />
+                <Precinct name="Absentee" votes="415" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="9" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Write-In" party="NON" totalVotes="35">
+            <VoteType name="Election Day" votes="35">
+                <Precinct name="Allens" votes="2" />
+                <Precinct name="Ashworth" votes="0" />
+                <Precinct name="Draytonville" votes="3" />
+                <Precinct name="Ezells and Butler" votes="1" />
+                <Precinct name="Goucher and Thicketty" votes="1" />
+                <Precinct name="Littlejohn's and Sarratt's" votes="2" />
+                <Precinct name="Macedonia" votes="4" />
+                <Precinct name="Musgrove Mill" votes="7" />
+                <Precinct name="Timber Ridge" votes="1" />
+                <Precinct name="White Plains" votes="12" />
+                <Precinct name="Wilkinsville and Metcalf" votes="0" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0117" text="RECREATION DISTRICT QUESTION 1" voteFor="1" isQuestion="true" precinctsReporting="29" precinctsReported="29">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Allens" votes="0" />
+            <Precinct name="Alma Mill" votes="0" />
+            <Precinct name="Antioch and Kings Creek" votes="0" />
+            <Precinct name="Ashworth" votes="0" />
+            <Precinct name="Blacksburg Ward No. 1" votes="0" />
+            <Precinct name="Blacksburg Ward No. 2" votes="0" />
+            <Precinct name="Draytonville" votes="0" />
+            <Precinct name="Ezells and Butler" votes="0" />
+            <Precinct name="Gaffney Ward No. 1" votes="0" />
+            <Precinct name="Gaffney Ward No. 2" votes="0" />
+            <Precinct name="Gaffney Ward No. 3" votes="0" />
+            <Precinct name="Gaffney Ward No. 4" votes="0" />
+            <Precinct name="Gaffney Ward No. 5" votes="0" />
+            <Precinct name="Gaffney Ward No. 6" votes="0" />
+            <Precinct name="Grassy Pond" votes="0" />
+            <Precinct name="Goucher and Thicketty" votes="0" />
+            <Precinct name="Holly Grove-Buffalo" votes="0" />
+            <Precinct name="Limestone Mill" votes="0" />
+            <Precinct name="Littlejohn's and Sarratt's" votes="0" />
+            <Precinct name="Macedonia" votes="0" />
+            <Precinct name="Morgan" votes="0" />
+            <Precinct name="Musgrove Mill" votes="0" />
+            <Precinct name="Ninety Nine and Cherokee Falls" votes="0" />
+            <Precinct name="Pleasant Grove" votes="0" />
+            <Precinct name="Pleasant Meadows" votes="0" />
+            <Precinct name="Timber Ridge" votes="0" />
+            <Precinct name="White Plains" votes="0" />
+            <Precinct name="Wilkinsville and Metcalf" votes="0" />
+            <Precinct name="Woods" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="2174">
+            <Precinct name="Allens" votes="60" />
+            <Precinct name="Alma Mill" votes="124" />
+            <Precinct name="Antioch and Kings Creek" votes="67" />
+            <Precinct name="Ashworth" votes="37" />
+            <Precinct name="Blacksburg Ward No. 1" votes="51" />
+            <Precinct name="Blacksburg Ward No. 2" votes="82" />
+            <Precinct name="Draytonville" votes="64" />
+            <Precinct name="Ezells and Butler" votes="47" />
+            <Precinct name="Gaffney Ward No. 1" votes="37" />
+            <Precinct name="Gaffney Ward No. 2" votes="57" />
+            <Precinct name="Gaffney Ward No. 3" votes="40" />
+            <Precinct name="Gaffney Ward No. 4" votes="57" />
+            <Precinct name="Gaffney Ward No. 5" votes="18" />
+            <Precinct name="Gaffney Ward No. 6" votes="34" />
+            <Precinct name="Grassy Pond" votes="46" />
+            <Precinct name="Goucher and Thicketty" votes="51" />
+            <Precinct name="Holly Grove-Buffalo" votes="89" />
+            <Precinct name="Limestone Mill" votes="77" />
+            <Precinct name="Littlejohn's and Sarratt's" votes="14" />
+            <Precinct name="Macedonia" votes="69" />
+            <Precinct name="Morgan" votes="52" />
+            <Precinct name="Musgrove Mill" votes="53" />
+            <Precinct name="Ninety Nine and Cherokee Falls" votes="54" />
+            <Precinct name="Pleasant Grove" votes="40" />
+            <Precinct name="Pleasant Meadows" votes="24" />
+            <Precinct name="Timber Ridge" votes="50" />
+            <Precinct name="White Plains" votes="83" />
+            <Precinct name="Wilkinsville and Metcalf" votes="19" />
+            <Precinct name="Woods" votes="33" />
+            <Precinct name="Absentee" votes="615" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="27" />
+            <Precinct name="Provisional" votes="3" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Yes, in favor of the question" party="NON" totalVotes="8063">
+            <VoteType name="Election Day" votes="8063">
+                <Precinct name="Allens" votes="196" />
+                <Precinct name="Alma Mill" votes="258" />
+                <Precinct name="Antioch and Kings Creek" votes="239" />
+                <Precinct name="Ashworth" votes="259" />
+                <Precinct name="Blacksburg Ward No. 1" votes="170" />
+                <Precinct name="Blacksburg Ward No. 2" votes="270" />
+                <Precinct name="Draytonville" votes="274" />
+                <Precinct name="Ezells and Butler" votes="265" />
+                <Precinct name="Gaffney Ward No. 1" votes="142" />
+                <Precinct name="Gaffney Ward No. 2" votes="226" />
+                <Precinct name="Gaffney Ward No. 3" votes="206" />
+                <Precinct name="Gaffney Ward No. 4" votes="284" />
+                <Precinct name="Gaffney Ward No. 5" votes="237" />
+                <Precinct name="Gaffney Ward No. 6" votes="264" />
+                <Precinct name="Grassy Pond" votes="510" />
+                <Precinct name="Goucher and Thicketty" votes="218" />
+                <Precinct name="Holly Grove-Buffalo" votes="233" />
+                <Precinct name="Limestone Mill" votes="123" />
+                <Precinct name="Littlejohn's and Sarratt's" votes="88" />
+                <Precinct name="Macedonia" votes="280" />
+                <Precinct name="Morgan" votes="231" />
+                <Precinct name="Musgrove Mill" votes="247" />
+                <Precinct name="Ninety Nine and Cherokee Falls" votes="145" />
+                <Precinct name="Pleasant Grove" votes="193" />
+                <Precinct name="Pleasant Meadows" votes="150" />
+                <Precinct name="Timber Ridge" votes="180" />
+                <Precinct name="White Plains" votes="253" />
+                <Precinct name="Wilkinsville and Metcalf" votes="103" />
+                <Precinct name="Woods" votes="269" />
+                <Precinct name="Absentee" votes="1493" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="55" />
+                <Precinct name="Provisional" votes="2" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="No, opposed to the question" party="NON" totalVotes="11655">
+            <VoteType name="Election Day" votes="11655">
+                <Precinct name="Allens" votes="317" />
+                <Precinct name="Alma Mill" votes="391" />
+                <Precinct name="Antioch and Kings Creek" votes="423" />
+                <Precinct name="Ashworth" votes="364" />
+                <Precinct name="Blacksburg Ward No. 1" votes="285" />
+                <Precinct name="Blacksburg Ward No. 2" votes="384" />
+                <Precinct name="Draytonville" votes="478" />
+                <Precinct name="Ezells and Butler" votes="491" />
+                <Precinct name="Gaffney Ward No. 1" votes="154" />
+                <Precinct name="Gaffney Ward No. 2" votes="241" />
+                <Precinct name="Gaffney Ward No. 3" votes="208" />
+                <Precinct name="Gaffney Ward No. 4" votes="322" />
+                <Precinct name="Gaffney Ward No. 5" votes="283" />
+                <Precinct name="Gaffney Ward No. 6" votes="302" />
+                <Precinct name="Grassy Pond" votes="622" />
+                <Precinct name="Goucher and Thicketty" votes="384" />
+                <Precinct name="Holly Grove-Buffalo" votes="361" />
+                <Precinct name="Limestone Mill" votes="154" />
+                <Precinct name="Littlejohn's and Sarratt's" votes="128" />
+                <Precinct name="Macedonia" votes="425" />
+                <Precinct name="Morgan" votes="392" />
+                <Precinct name="Musgrove Mill" votes="365" />
+                <Precinct name="Ninety Nine and Cherokee Falls" votes="302" />
+                <Precinct name="Pleasant Grove" votes="257" />
+                <Precinct name="Pleasant Meadows" votes="176" />
+                <Precinct name="Timber Ridge" votes="309" />
+                <Precinct name="White Plains" votes="401" />
+                <Precinct name="Wilkinsville and Metcalf" votes="213" />
+                <Precinct name="Woods" votes="300" />
+                <Precinct name="Absentee" votes="2148" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="75" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0118" text="RECREATION DISTRICT QUESTION 2" voteFor="1" isQuestion="true" precinctsReporting="29" precinctsReported="29">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Allens" votes="0" />
+            <Precinct name="Alma Mill" votes="0" />
+            <Precinct name="Antioch and Kings Creek" votes="0" />
+            <Precinct name="Ashworth" votes="0" />
+            <Precinct name="Blacksburg Ward No. 1" votes="0" />
+            <Precinct name="Blacksburg Ward No. 2" votes="0" />
+            <Precinct name="Draytonville" votes="0" />
+            <Precinct name="Ezells and Butler" votes="0" />
+            <Precinct name="Gaffney Ward No. 1" votes="0" />
+            <Precinct name="Gaffney Ward No. 2" votes="0" />
+            <Precinct name="Gaffney Ward No. 3" votes="0" />
+            <Precinct name="Gaffney Ward No. 4" votes="0" />
+            <Precinct name="Gaffney Ward No. 5" votes="0" />
+            <Precinct name="Gaffney Ward No. 6" votes="0" />
+            <Precinct name="Grassy Pond" votes="0" />
+            <Precinct name="Goucher and Thicketty" votes="0" />
+            <Precinct name="Holly Grove-Buffalo" votes="0" />
+            <Precinct name="Limestone Mill" votes="0" />
+            <Precinct name="Littlejohn's and Sarratt's" votes="0" />
+            <Precinct name="Macedonia" votes="0" />
+            <Precinct name="Morgan" votes="0" />
+            <Precinct name="Musgrove Mill" votes="0" />
+            <Precinct name="Ninety Nine and Cherokee Falls" votes="0" />
+            <Precinct name="Pleasant Grove" votes="0" />
+            <Precinct name="Pleasant Meadows" votes="0" />
+            <Precinct name="Timber Ridge" votes="0" />
+            <Precinct name="White Plains" votes="0" />
+            <Precinct name="Wilkinsville and Metcalf" votes="0" />
+            <Precinct name="Woods" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="2193">
+            <Precinct name="Allens" votes="62" />
+            <Precinct name="Alma Mill" votes="127" />
+            <Precinct name="Antioch and Kings Creek" votes="58" />
+            <Precinct name="Ashworth" votes="44" />
+            <Precinct name="Blacksburg Ward No. 1" votes="47" />
+            <Precinct name="Blacksburg Ward No. 2" votes="79" />
+            <Precinct name="Draytonville" votes="72" />
+            <Precinct name="Ezells and Butler" votes="57" />
+            <Precinct name="Gaffney Ward No. 1" votes="41" />
+            <Precinct name="Gaffney Ward No. 2" votes="59" />
+            <Precinct name="Gaffney Ward No. 3" votes="39" />
+            <Precinct name="Gaffney Ward No. 4" votes="60" />
+            <Precinct name="Gaffney Ward No. 5" votes="13" />
+            <Precinct name="Gaffney Ward No. 6" votes="41" />
+            <Precinct name="Grassy Pond" votes="47" />
+            <Precinct name="Goucher and Thicketty" votes="58" />
+            <Precinct name="Holly Grove-Buffalo" votes="85" />
+            <Precinct name="Limestone Mill" votes="84" />
+            <Precinct name="Littlejohn's and Sarratt's" votes="15" />
+            <Precinct name="Macedonia" votes="66" />
+            <Precinct name="Morgan" votes="50" />
+            <Precinct name="Musgrove Mill" votes="49" />
+            <Precinct name="Ninety Nine and Cherokee Falls" votes="48" />
+            <Precinct name="Pleasant Grove" votes="36" />
+            <Precinct name="Pleasant Meadows" votes="22" />
+            <Precinct name="Timber Ridge" votes="47" />
+            <Precinct name="White Plains" votes="76" />
+            <Precinct name="Wilkinsville and Metcalf" votes="15" />
+            <Precinct name="Woods" votes="34" />
+            <Precinct name="Absentee" votes="633" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="26" />
+            <Precinct name="Provisional" votes="3" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Yes, in favor of the question" party="NON" totalVotes="10767">
+            <VoteType name="Election Day" votes="10767">
+                <Precinct name="Allens" votes="271" />
+                <Precinct name="Alma Mill" votes="354" />
+                <Precinct name="Antioch and Kings Creek" votes="342" />
+                <Precinct name="Ashworth" votes="344" />
+                <Precinct name="Blacksburg Ward No. 1" votes="240" />
+                <Precinct name="Blacksburg Ward No. 2" votes="334" />
+                <Precinct name="Draytonville" votes="387" />
+                <Precinct name="Ezells and Butler" votes="386" />
+                <Precinct name="Gaffney Ward No. 1" votes="183" />
+                <Precinct name="Gaffney Ward No. 2" votes="282" />
+                <Precinct name="Gaffney Ward No. 3" votes="254" />
+                <Precinct name="Gaffney Ward No. 4" votes="347" />
+                <Precinct name="Gaffney Ward No. 5" votes="317" />
+                <Precinct name="Gaffney Ward No. 6" votes="329" />
+                <Precinct name="Grassy Pond" votes="676" />
+                <Precinct name="Goucher and Thicketty" votes="340" />
+                <Precinct name="Holly Grove-Buffalo" votes="321" />
+                <Precinct name="Limestone Mill" votes="159" />
+                <Precinct name="Littlejohn's and Sarratt's" votes="112" />
+                <Precinct name="Macedonia" votes="395" />
+                <Precinct name="Morgan" votes="343" />
+                <Precinct name="Musgrove Mill" votes="354" />
+                <Precinct name="Ninety Nine and Cherokee Falls" votes="203" />
+                <Precinct name="Pleasant Grove" votes="257" />
+                <Precinct name="Pleasant Meadows" votes="202" />
+                <Precinct name="Timber Ridge" votes="260" />
+                <Precinct name="White Plains" votes="344" />
+                <Precinct name="Wilkinsville and Metcalf" votes="134" />
+                <Precinct name="Woods" votes="348" />
+                <Precinct name="Absentee" votes="1877" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="72" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="No, opposed to the question" party="NON" totalVotes="8932">
+            <VoteType name="Election Day" votes="8932">
+                <Precinct name="Allens" votes="240" />
+                <Precinct name="Alma Mill" votes="292" />
+                <Precinct name="Antioch and Kings Creek" votes="329" />
+                <Precinct name="Ashworth" votes="272" />
+                <Precinct name="Blacksburg Ward No. 1" votes="219" />
+                <Precinct name="Blacksburg Ward No. 2" votes="323" />
+                <Precinct name="Draytonville" votes="357" />
+                <Precinct name="Ezells and Butler" votes="360" />
+                <Precinct name="Gaffney Ward No. 1" votes="109" />
+                <Precinct name="Gaffney Ward No. 2" votes="183" />
+                <Precinct name="Gaffney Ward No. 3" votes="161" />
+                <Precinct name="Gaffney Ward No. 4" votes="256" />
+                <Precinct name="Gaffney Ward No. 5" votes="208" />
+                <Precinct name="Gaffney Ward No. 6" votes="230" />
+                <Precinct name="Grassy Pond" votes="455" />
+                <Precinct name="Goucher and Thicketty" votes="255" />
+                <Precinct name="Holly Grove-Buffalo" votes="277" />
+                <Precinct name="Limestone Mill" votes="111" />
+                <Precinct name="Littlejohn's and Sarratt's" votes="103" />
+                <Precinct name="Macedonia" votes="313" />
+                <Precinct name="Morgan" votes="282" />
+                <Precinct name="Musgrove Mill" votes="262" />
+                <Precinct name="Ninety Nine and Cherokee Falls" votes="250" />
+                <Precinct name="Pleasant Grove" votes="197" />
+                <Precinct name="Pleasant Meadows" votes="126" />
+                <Precinct name="Timber Ridge" votes="232" />
+                <Precinct name="White Plains" votes="317" />
+                <Precinct name="Wilkinsville and Metcalf" votes="186" />
+                <Precinct name="Woods" votes="220" />
+                <Precinct name="Absentee" votes="1746" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="59" />
+                <Precinct name="Provisional" votes="2" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0119" text="ALCOHOL SALES REFERENDUM" voteFor="1" isQuestion="true" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Gaffney Ward No. 1" votes="0" />
+            <Precinct name="Gaffney Ward No. 2" votes="0" />
+            <Precinct name="Gaffney Ward No. 3" votes="0" />
+            <Precinct name="Gaffney Ward No. 4" votes="0" />
+            <Precinct name="Gaffney Ward No. 5" votes="0" />
+            <Precinct name="Gaffney Ward No. 6" votes="0" />
+            <Precinct name="Pleasant Meadows" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="209">
+            <Precinct name="Gaffney Ward No. 1" votes="11" />
+            <Precinct name="Gaffney Ward No. 2" votes="22" />
+            <Precinct name="Gaffney Ward No. 3" votes="18" />
+            <Precinct name="Gaffney Ward No. 4" votes="21" />
+            <Precinct name="Gaffney Ward No. 5" votes="8" />
+            <Precinct name="Gaffney Ward No. 6" votes="15" />
+            <Precinct name="Pleasant Meadows" votes="13" />
+            <Precinct name="Absentee" votes="99" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="1" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Yes" party="NON" totalVotes="2691">
+            <VoteType name="Election Day" votes="2691">
+                <Precinct name="Gaffney Ward No. 1" votes="222" />
+                <Precinct name="Gaffney Ward No. 2" votes="335" />
+                <Precinct name="Gaffney Ward No. 3" votes="267" />
+                <Precinct name="Gaffney Ward No. 4" votes="386" />
+                <Precinct name="Gaffney Ward No. 5" votes="333" />
+                <Precinct name="Gaffney Ward No. 6" votes="313" />
+                <Precinct name="Pleasant Meadows" votes="208" />
+                <Precinct name="Absentee" votes="602" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="25" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="No" party="NON" totalVotes="1979">
+            <VoteType name="Election Day" votes="1979">
+                <Precinct name="Gaffney Ward No. 1" votes="100" />
+                <Precinct name="Gaffney Ward No. 2" votes="167" />
+                <Precinct name="Gaffney Ward No. 3" votes="169" />
+                <Precinct name="Gaffney Ward No. 4" votes="253" />
+                <Precinct name="Gaffney Ward No. 5" votes="197" />
+                <Precinct name="Gaffney Ward No. 6" votes="272" />
+                <Precinct name="Pleasant Meadows" votes="129" />
+                <Precinct name="Absentee" votes="674" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="18" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

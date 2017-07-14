@@ -1,0 +1,1920 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>11/16/2016 1:42:07 PM EST</Timestamp>
+    <ElectionName>2016 Statewide General Election</ElectionName>
+    <ElectionDate>11/8/2016</ElectionDate>
+    <Region>Calhoun</Region>
+    <VoterTurnout totalVoters="10794" ballotsCast="7631" voterTurnout="70.70">
+        <Precincts>
+            <Precinct name="BETHEL" totalVoters="978" ballotsCast="525" voterTurnout="53.68" percentReporting="4" />
+            <Precinct name="CAMERON" totalVoters="725" ballotsCast="420" voterTurnout="57.93" percentReporting="4" />
+            <Precinct name="CENTER HILL" totalVoters="1178" ballotsCast="612" voterTurnout="51.95" percentReporting="4" />
+            <Precinct name="CRESTON" totalVoters="219" ballotsCast="129" voterTurnout="58.90" percentReporting="4" />
+            <Precinct name="DIXIE" totalVoters="2249" ballotsCast="885" voterTurnout="39.35" percentReporting="4" />
+            <Precinct name="FALL BRANCH" totalVoters="516" ballotsCast="302" voterTurnout="58.53" percentReporting="4" />
+            <Precinct name="FORT MOTTE" totalVoters="273" ballotsCast="165" voterTurnout="60.44" percentReporting="4" />
+            <Precinct name="LONE STAR" totalVoters="1101" ballotsCast="532" voterTurnout="48.32" percentReporting="4" />
+            <Precinct name="MIDWAY" totalVoters="315" ballotsCast="210" voterTurnout="66.67" percentReporting="4" />
+            <Precinct name="MURPH MILL" totalVoters="466" ballotsCast="237" voterTurnout="50.86" percentReporting="4" />
+            <Precinct name="SANDY RUN" totalVoters="1621" ballotsCast="1000" voterTurnout="61.69" percentReporting="4" />
+            <Precinct name="ST. MATTHEWS" totalVoters="1510" ballotsCast="759" voterTurnout="50.26" percentReporting="4" />
+            <Precinct name="Absentee" totalVoters="0" ballotsCast="1797" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Failsafe" totalVoters="0" ballotsCast="55" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Failsafe Provisional" totalVoters="0" ballotsCast="3" voterTurnout="0.00" percentReporting="32" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="0103" text="STRAIGHT PARTY" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="overVotes" votes="1">
+            <Precinct name="BETHEL" votes="0" />
+            <Precinct name="CAMERON" votes="0" />
+            <Precinct name="CENTER HILL" votes="0" />
+            <Precinct name="CRESTON" votes="0" />
+            <Precinct name="DIXIE" votes="0" />
+            <Precinct name="FALL BRANCH" votes="0" />
+            <Precinct name="FORT MOTTE" votes="0" />
+            <Precinct name="LONE STAR" votes="0" />
+            <Precinct name="MIDWAY" votes="0" />
+            <Precinct name="MURPH MILL" votes="0" />
+            <Precinct name="SANDY RUN" votes="0" />
+            <Precinct name="ST. MATTHEWS" votes="0" />
+            <Precinct name="Absentee" votes="1" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="3391">
+            <Precinct name="BETHEL" votes="271" />
+            <Precinct name="CAMERON" votes="213" />
+            <Precinct name="CENTER HILL" votes="246" />
+            <Precinct name="CRESTON" votes="59" />
+            <Precinct name="DIXIE" votes="282" />
+            <Precinct name="FALL BRANCH" votes="145" />
+            <Precinct name="FORT MOTTE" votes="86" />
+            <Precinct name="LONE STAR" votes="214" />
+            <Precinct name="MIDWAY" votes="110" />
+            <Precinct name="MURPH MILL" votes="112" />
+            <Precinct name="SANDY RUN" votes="520" />
+            <Precinct name="ST. MATTHEWS" votes="420" />
+            <Precinct name="Absentee" votes="689" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="21" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="3" />
+        </VoteType>
+        <Choice key="001" text="Democratic" party="DEM" totalVotes="2691">
+            <VoteType name="Election Day" votes="2691">
+                <Precinct name="BETHEL" votes="94" />
+                <Precinct name="CAMERON" votes="146" />
+                <Precinct name="CENTER HILL" votes="232" />
+                <Precinct name="CRESTON" votes="38" />
+                <Precinct name="DIXIE" votes="512" />
+                <Precinct name="FALL BRANCH" votes="87" />
+                <Precinct name="FORT MOTTE" votes="55" />
+                <Precinct name="LONE STAR" votes="176" />
+                <Precinct name="MIDWAY" votes="36" />
+                <Precinct name="MURPH MILL" votes="80" />
+                <Precinct name="SANDY RUN" votes="137" />
+                <Precinct name="ST. MATTHEWS" votes="213" />
+                <Precinct name="Absentee" votes="869" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="16" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Working Families" party="WFW" totalVotes="33">
+            <VoteType name="Election Day" votes="33">
+                <Precinct name="BETHEL" votes="3" />
+                <Precinct name="CAMERON" votes="3" />
+                <Precinct name="CENTER HILL" votes="3" />
+                <Precinct name="CRESTON" votes="0" />
+                <Precinct name="DIXIE" votes="5" />
+                <Precinct name="FALL BRANCH" votes="3" />
+                <Precinct name="FORT MOTTE" votes="1" />
+                <Precinct name="LONE STAR" votes="1" />
+                <Precinct name="MIDWAY" votes="0" />
+                <Precinct name="MURPH MILL" votes="0" />
+                <Precinct name="SANDY RUN" votes="9" />
+                <Precinct name="ST. MATTHEWS" votes="1" />
+                <Precinct name="Absentee" votes="3" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Constitution" party="CON" totalVotes="4">
+            <VoteType name="Election Day" votes="4">
+                <Precinct name="BETHEL" votes="0" />
+                <Precinct name="CAMERON" votes="0" />
+                <Precinct name="CENTER HILL" votes="1" />
+                <Precinct name="CRESTON" votes="1" />
+                <Precinct name="DIXIE" votes="2" />
+                <Precinct name="FALL BRANCH" votes="0" />
+                <Precinct name="FORT MOTTE" votes="0" />
+                <Precinct name="LONE STAR" votes="0" />
+                <Precinct name="MIDWAY" votes="0" />
+                <Precinct name="MURPH MILL" votes="0" />
+                <Precinct name="SANDY RUN" votes="0" />
+                <Precinct name="ST. MATTHEWS" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Independence" party="IND" totalVotes="27">
+            <VoteType name="Election Day" votes="27">
+                <Precinct name="BETHEL" votes="5" />
+                <Precinct name="CAMERON" votes="1" />
+                <Precinct name="CENTER HILL" votes="5" />
+                <Precinct name="CRESTON" votes="0" />
+                <Precinct name="DIXIE" votes="2" />
+                <Precinct name="FALL BRANCH" votes="0" />
+                <Precinct name="FORT MOTTE" votes="1" />
+                <Precinct name="LONE STAR" votes="3" />
+                <Precinct name="MIDWAY" votes="0" />
+                <Precinct name="MURPH MILL" votes="0" />
+                <Precinct name="SANDY RUN" votes="3" />
+                <Precinct name="ST. MATTHEWS" votes="1" />
+                <Precinct name="Absentee" votes="5" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Green" party="GRN" totalVotes="6">
+            <VoteType name="Election Day" votes="6">
+                <Precinct name="BETHEL" votes="2" />
+                <Precinct name="CAMERON" votes="0" />
+                <Precinct name="CENTER HILL" votes="0" />
+                <Precinct name="CRESTON" votes="0" />
+                <Precinct name="DIXIE" votes="1" />
+                <Precinct name="FALL BRANCH" votes="0" />
+                <Precinct name="FORT MOTTE" votes="0" />
+                <Precinct name="LONE STAR" votes="1" />
+                <Precinct name="MIDWAY" votes="0" />
+                <Precinct name="MURPH MILL" votes="0" />
+                <Precinct name="SANDY RUN" votes="0" />
+                <Precinct name="ST. MATTHEWS" votes="0" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Republican" party="REP" totalVotes="1448">
+            <VoteType name="Election Day" votes="1448">
+                <Precinct name="BETHEL" votes="149" />
+                <Precinct name="CAMERON" votes="54" />
+                <Precinct name="CENTER HILL" votes="118" />
+                <Precinct name="CRESTON" votes="31" />
+                <Precinct name="DIXIE" votes="79" />
+                <Precinct name="FALL BRANCH" votes="66" />
+                <Precinct name="FORT MOTTE" votes="21" />
+                <Precinct name="LONE STAR" votes="135" />
+                <Precinct name="MIDWAY" votes="63" />
+                <Precinct name="MURPH MILL" votes="44" />
+                <Precinct name="SANDY RUN" votes="326" />
+                <Precinct name="ST. MATTHEWS" votes="122" />
+                <Precinct name="Absentee" votes="225" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="15" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="American" party="AMR" totalVotes="17">
+            <VoteType name="Election Day" votes="17">
+                <Precinct name="BETHEL" votes="0" />
+                <Precinct name="CAMERON" votes="2" />
+                <Precinct name="CENTER HILL" votes="4" />
+                <Precinct name="CRESTON" votes="0" />
+                <Precinct name="DIXIE" votes="1" />
+                <Precinct name="FALL BRANCH" votes="1" />
+                <Precinct name="FORT MOTTE" votes="0" />
+                <Precinct name="LONE STAR" votes="2" />
+                <Precinct name="MIDWAY" votes="0" />
+                <Precinct name="MURPH MILL" votes="0" />
+                <Precinct name="SANDY RUN" votes="3" />
+                <Precinct name="ST. MATTHEWS" votes="2" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="008" text="Libertarian" party="LIB" totalVotes="13">
+            <VoteType name="Election Day" votes="13">
+                <Precinct name="BETHEL" votes="1" />
+                <Precinct name="CAMERON" votes="1" />
+                <Precinct name="CENTER HILL" votes="3" />
+                <Precinct name="CRESTON" votes="0" />
+                <Precinct name="DIXIE" votes="1" />
+                <Precinct name="FALL BRANCH" votes="0" />
+                <Precinct name="FORT MOTTE" votes="1" />
+                <Precinct name="LONE STAR" votes="0" />
+                <Precinct name="MIDWAY" votes="1" />
+                <Precinct name="MURPH MILL" votes="1" />
+                <Precinct name="SANDY RUN" votes="2" />
+                <Precinct name="ST. MATTHEWS" votes="0" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0104" text="President and Vice President" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="overVotes" votes="3">
+            <Precinct name="BETHEL" votes="0" />
+            <Precinct name="CAMERON" votes="0" />
+            <Precinct name="CENTER HILL" votes="0" />
+            <Precinct name="CRESTON" votes="0" />
+            <Precinct name="DIXIE" votes="0" />
+            <Precinct name="FALL BRANCH" votes="0" />
+            <Precinct name="FORT MOTTE" votes="0" />
+            <Precinct name="LONE STAR" votes="0" />
+            <Precinct name="MIDWAY" votes="0" />
+            <Precinct name="MURPH MILL" votes="0" />
+            <Precinct name="SANDY RUN" votes="0" />
+            <Precinct name="ST. MATTHEWS" votes="0" />
+            <Precinct name="Absentee" votes="3" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="79">
+            <Precinct name="BETHEL" votes="5" />
+            <Precinct name="CAMERON" votes="4" />
+            <Precinct name="CENTER HILL" votes="6" />
+            <Precinct name="CRESTON" votes="1" />
+            <Precinct name="DIXIE" votes="6" />
+            <Precinct name="FALL BRANCH" votes="2" />
+            <Precinct name="FORT MOTTE" votes="4" />
+            <Precinct name="LONE STAR" votes="6" />
+            <Precinct name="MIDWAY" votes="4" />
+            <Precinct name="MURPH MILL" votes="4" />
+            <Precinct name="SANDY RUN" votes="10" />
+            <Precinct name="ST. MATTHEWS" votes="10" />
+            <Precinct name="Absentee" votes="17" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Hillary Rodham Clinton / Timothy Michael Kaine" party="DEM" totalVotes="3573">
+            <VoteType name="Election Day" votes="3573">
+                <Precinct name="BETHEL" votes="128" />
+                <Precinct name="CAMERON" votes="190" />
+                <Precinct name="CENTER HILL" votes="306" />
+                <Precinct name="CRESTON" votes="46" />
+                <Precinct name="DIXIE" votes="639" />
+                <Precinct name="FALL BRANCH" votes="121" />
+                <Precinct name="FORT MOTTE" votes="84" />
+                <Precinct name="LONE STAR" votes="219" />
+                <Precinct name="MIDWAY" votes="46" />
+                <Precinct name="MURPH MILL" votes="117" />
+                <Precinct name="SANDY RUN" votes="228" />
+                <Precinct name="ST. MATTHEWS" votes="301" />
+                <Precinct name="Absentee" votes="1122" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="25" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Darrell Castle / Scott Bradley" party="CON" totalVotes="15">
+            <VoteType name="Election Day" votes="15">
+                <Precinct name="BETHEL" votes="1" />
+                <Precinct name="CAMERON" votes="2" />
+                <Precinct name="CENTER HILL" votes="0" />
+                <Precinct name="CRESTON" votes="2" />
+                <Precinct name="DIXIE" votes="3" />
+                <Precinct name="FALL BRANCH" votes="0" />
+                <Precinct name="FORT MOTTE" votes="0" />
+                <Precinct name="LONE STAR" votes="0" />
+                <Precinct name="MIDWAY" votes="1" />
+                <Precinct name="MURPH MILL" votes="2" />
+                <Precinct name="SANDY RUN" votes="1" />
+                <Precinct name="ST. MATTHEWS" votes="0" />
+                <Precinct name="Absentee" votes="3" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Evan McMullin / Nathan Johnson" party="IND" totalVotes="39">
+            <VoteType name="Election Day" votes="39">
+                <Precinct name="BETHEL" votes="1" />
+                <Precinct name="CAMERON" votes="7" />
+                <Precinct name="CENTER HILL" votes="2" />
+                <Precinct name="CRESTON" votes="1" />
+                <Precinct name="DIXIE" votes="6" />
+                <Precinct name="FALL BRANCH" votes="1" />
+                <Precinct name="FORT MOTTE" votes="0" />
+                <Precinct name="LONE STAR" votes="4" />
+                <Precinct name="MIDWAY" votes="0" />
+                <Precinct name="MURPH MILL" votes="1" />
+                <Precinct name="SANDY RUN" votes="8" />
+                <Precinct name="ST. MATTHEWS" votes="3" />
+                <Precinct name="Absentee" votes="5" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Jill Stein / Ajamu Baraka" party="GRN" totalVotes="24">
+            <VoteType name="Election Day" votes="24">
+                <Precinct name="BETHEL" votes="3" />
+                <Precinct name="CAMERON" votes="3" />
+                <Precinct name="CENTER HILL" votes="4" />
+                <Precinct name="CRESTON" votes="0" />
+                <Precinct name="DIXIE" votes="0" />
+                <Precinct name="FALL BRANCH" votes="4" />
+                <Precinct name="FORT MOTTE" votes="0" />
+                <Precinct name="LONE STAR" votes="0" />
+                <Precinct name="MIDWAY" votes="0" />
+                <Precinct name="MURPH MILL" votes="0" />
+                <Precinct name="SANDY RUN" votes="5" />
+                <Precinct name="ST. MATTHEWS" votes="4" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Donald J Trump / Michael R Pence" party="REP" totalVotes="3787">
+            <VoteType name="Election Day" votes="3787">
+                <Precinct name="BETHEL" votes="378" />
+                <Precinct name="CAMERON" votes="202" />
+                <Precinct name="CENTER HILL" votes="281" />
+                <Precinct name="CRESTON" votes="78" />
+                <Precinct name="DIXIE" votes="219" />
+                <Precinct name="FALL BRANCH" votes="172" />
+                <Precinct name="FORT MOTTE" votes="74" />
+                <Precinct name="LONE STAR" votes="299" />
+                <Precinct name="MIDWAY" votes="157" />
+                <Precinct name="MURPH MILL" votes="110" />
+                <Precinct name="SANDY RUN" votes="734" />
+                <Precinct name="ST. MATTHEWS" votes="426" />
+                <Precinct name="Absentee" votes="627" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="28" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Peter Skewes / Michael Lacy" party="AMR" totalVotes="6">
+            <VoteType name="Election Day" votes="6">
+                <Precinct name="BETHEL" votes="0" />
+                <Precinct name="CAMERON" votes="1" />
+                <Precinct name="CENTER HILL" votes="1" />
+                <Precinct name="CRESTON" votes="0" />
+                <Precinct name="DIXIE" votes="0" />
+                <Precinct name="FALL BRANCH" votes="0" />
+                <Precinct name="FORT MOTTE" votes="0" />
+                <Precinct name="LONE STAR" votes="0" />
+                <Precinct name="MIDWAY" votes="1" />
+                <Precinct name="MURPH MILL" votes="0" />
+                <Precinct name="SANDY RUN" votes="1" />
+                <Precinct name="ST. MATTHEWS" votes="0" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="Gary Johnson / Bill Weld" party="LIB" totalVotes="105">
+            <VoteType name="Election Day" votes="105">
+                <Precinct name="BETHEL" votes="9" />
+                <Precinct name="CAMERON" votes="11" />
+                <Precinct name="CENTER HILL" votes="12" />
+                <Precinct name="CRESTON" votes="1" />
+                <Precinct name="DIXIE" votes="12" />
+                <Precinct name="FALL BRANCH" votes="2" />
+                <Precinct name="FORT MOTTE" votes="3" />
+                <Precinct name="LONE STAR" votes="4" />
+                <Precinct name="MIDWAY" votes="1" />
+                <Precinct name="MURPH MILL" votes="3" />
+                <Precinct name="SANDY RUN" votes="13" />
+                <Precinct name="ST. MATTHEWS" votes="15" />
+                <Precinct name="Absentee" votes="18" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0105" text="U.S. Senate" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="overVotes" votes="1">
+            <Precinct name="BETHEL" votes="0" />
+            <Precinct name="CAMERON" votes="0" />
+            <Precinct name="CENTER HILL" votes="0" />
+            <Precinct name="CRESTON" votes="0" />
+            <Precinct name="DIXIE" votes="0" />
+            <Precinct name="FALL BRANCH" votes="0" />
+            <Precinct name="FORT MOTTE" votes="0" />
+            <Precinct name="LONE STAR" votes="0" />
+            <Precinct name="MIDWAY" votes="0" />
+            <Precinct name="MURPH MILL" votes="0" />
+            <Precinct name="SANDY RUN" votes="0" />
+            <Precinct name="ST. MATTHEWS" votes="0" />
+            <Precinct name="Absentee" votes="1" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="242">
+            <Precinct name="BETHEL" votes="21" />
+            <Precinct name="CAMERON" votes="21" />
+            <Precinct name="CENTER HILL" votes="17" />
+            <Precinct name="CRESTON" votes="2" />
+            <Precinct name="DIXIE" votes="17" />
+            <Precinct name="FALL BRANCH" votes="10" />
+            <Precinct name="FORT MOTTE" votes="4" />
+            <Precinct name="LONE STAR" votes="20" />
+            <Precinct name="MIDWAY" votes="9" />
+            <Precinct name="MURPH MILL" votes="9" />
+            <Precinct name="SANDY RUN" votes="27" />
+            <Precinct name="ST. MATTHEWS" votes="17" />
+            <Precinct name="Absentee" votes="66" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="2" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Thomas Dixon" party="DEM" totalVotes="3236">
+            <VoteType name="Election Day" votes="3236">
+                <Precinct name="BETHEL" votes="121" />
+                <Precinct name="CAMERON" votes="164" />
+                <Precinct name="CENTER HILL" votes="288" />
+                <Precinct name="CRESTON" votes="40" />
+                <Precinct name="DIXIE" votes="596" />
+                <Precinct name="FALL BRANCH" votes="110" />
+                <Precinct name="FORT MOTTE" votes="71" />
+                <Precinct name="LONE STAR" votes="200" />
+                <Precinct name="MIDWAY" votes="41" />
+                <Precinct name="MURPH MILL" votes="102" />
+                <Precinct name="SANDY RUN" votes="182" />
+                <Precinct name="ST. MATTHEWS" votes="270" />
+                <Precinct name="Absentee" votes="1028" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="22" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Thomas Dixon" party="WFW" totalVotes="98">
+            <VoteType name="Election Day" votes="98">
+                <Precinct name="BETHEL" votes="10" />
+                <Precinct name="CAMERON" votes="9" />
+                <Precinct name="CENTER HILL" votes="10" />
+                <Precinct name="CRESTON" votes="0" />
+                <Precinct name="DIXIE" votes="9" />
+                <Precinct name="FALL BRANCH" votes="6" />
+                <Precinct name="FORT MOTTE" votes="3" />
+                <Precinct name="LONE STAR" votes="5" />
+                <Precinct name="MIDWAY" votes="1" />
+                <Precinct name="MURPH MILL" votes="9" />
+                <Precinct name="SANDY RUN" votes="12" />
+                <Precinct name="ST. MATTHEWS" votes="6" />
+                <Precinct name="Absentee" votes="15" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Bill Bledsoe" party="CON" totalVotes="60">
+            <VoteType name="Election Day" votes="60">
+                <Precinct name="BETHEL" votes="6" />
+                <Precinct name="CAMERON" votes="3" />
+                <Precinct name="CENTER HILL" votes="9" />
+                <Precinct name="CRESTON" votes="1" />
+                <Precinct name="DIXIE" votes="5" />
+                <Precinct name="FALL BRANCH" votes="1" />
+                <Precinct name="FORT MOTTE" votes="0" />
+                <Precinct name="LONE STAR" votes="4" />
+                <Precinct name="MIDWAY" votes="2" />
+                <Precinct name="MURPH MILL" votes="7" />
+                <Precinct name="SANDY RUN" votes="10" />
+                <Precinct name="ST. MATTHEWS" votes="5" />
+                <Precinct name="Absentee" votes="7" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Thomas Dixon" party="GRN" totalVotes="31">
+            <VoteType name="Election Day" votes="31">
+                <Precinct name="BETHEL" votes="7" />
+                <Precinct name="CAMERON" votes="2" />
+                <Precinct name="CENTER HILL" votes="3" />
+                <Precinct name="CRESTON" votes="1" />
+                <Precinct name="DIXIE" votes="1" />
+                <Precinct name="FALL BRANCH" votes="1" />
+                <Precinct name="FORT MOTTE" votes="0" />
+                <Precinct name="LONE STAR" votes="3" />
+                <Precinct name="MIDWAY" votes="1" />
+                <Precinct name="MURPH MILL" votes="1" />
+                <Precinct name="SANDY RUN" votes="4" />
+                <Precinct name="ST. MATTHEWS" votes="1" />
+                <Precinct name="Absentee" votes="6" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Tim Scott" party="REP" totalVotes="3834">
+            <VoteType name="Election Day" votes="3834">
+                <Precinct name="BETHEL" votes="351" />
+                <Precinct name="CAMERON" votes="215" />
+                <Precinct name="CENTER HILL" votes="267" />
+                <Precinct name="CRESTON" votes="84" />
+                <Precinct name="DIXIE" votes="245" />
+                <Precinct name="FALL BRANCH" votes="168" />
+                <Precinct name="FORT MOTTE" votes="83" />
+                <Precinct name="LONE STAR" votes="300" />
+                <Precinct name="MIDWAY" votes="155" />
+                <Precinct name="MURPH MILL" votes="104" />
+                <Precinct name="SANDY RUN" votes="738" />
+                <Precinct name="ST. MATTHEWS" votes="446" />
+                <Precinct name="Absentee" votes="649" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="28" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Rebel Michael Scarborough" party="AMR" totalVotes="47">
+            <VoteType name="Election Day" votes="47">
+                <Precinct name="BETHEL" votes="1" />
+                <Precinct name="CAMERON" votes="3" />
+                <Precinct name="CENTER HILL" votes="10" />
+                <Precinct name="CRESTON" votes="1" />
+                <Precinct name="DIXIE" votes="5" />
+                <Precinct name="FALL BRANCH" votes="2" />
+                <Precinct name="FORT MOTTE" votes="0" />
+                <Precinct name="LONE STAR" votes="0" />
+                <Precinct name="MIDWAY" votes="0" />
+                <Precinct name="MURPH MILL" votes="0" />
+                <Precinct name="SANDY RUN" votes="9" />
+                <Precinct name="ST. MATTHEWS" votes="5" />
+                <Precinct name="Absentee" votes="10" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="Bill Bledsoe" party="LIB" totalVotes="76">
+            <VoteType name="Election Day" votes="76">
+                <Precinct name="BETHEL" votes="8" />
+                <Precinct name="CAMERON" votes="3" />
+                <Precinct name="CENTER HILL" votes="7" />
+                <Precinct name="CRESTON" votes="0" />
+                <Precinct name="DIXIE" votes="6" />
+                <Precinct name="FALL BRANCH" votes="4" />
+                <Precinct name="FORT MOTTE" votes="4" />
+                <Precinct name="LONE STAR" votes="0" />
+                <Precinct name="MIDWAY" votes="1" />
+                <Precinct name="MURPH MILL" votes="4" />
+                <Precinct name="SANDY RUN" votes="17" />
+                <Precinct name="ST. MATTHEWS" votes="8" />
+                <Precinct name="Absentee" votes="14" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="008" text="Write-In" party="NON" totalVotes="6">
+            <VoteType name="Election Day" votes="6">
+                <Precinct name="BETHEL" votes="0" />
+                <Precinct name="CAMERON" votes="0" />
+                <Precinct name="CENTER HILL" votes="1" />
+                <Precinct name="CRESTON" votes="0" />
+                <Precinct name="DIXIE" votes="1" />
+                <Precinct name="FALL BRANCH" votes="0" />
+                <Precinct name="FORT MOTTE" votes="0" />
+                <Precinct name="LONE STAR" votes="0" />
+                <Precinct name="MIDWAY" votes="0" />
+                <Precinct name="MURPH MILL" votes="1" />
+                <Precinct name="SANDY RUN" votes="1" />
+                <Precinct name="ST. MATTHEWS" votes="1" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0106" text="U.S.  House of Representatives, District  6" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BETHEL" votes="0" />
+            <Precinct name="CAMERON" votes="0" />
+            <Precinct name="CENTER HILL" votes="0" />
+            <Precinct name="CRESTON" votes="0" />
+            <Precinct name="DIXIE" votes="0" />
+            <Precinct name="FALL BRANCH" votes="0" />
+            <Precinct name="FORT MOTTE" votes="0" />
+            <Precinct name="LONE STAR" votes="0" />
+            <Precinct name="MIDWAY" votes="0" />
+            <Precinct name="MURPH MILL" votes="0" />
+            <Precinct name="SANDY RUN" votes="0" />
+            <Precinct name="ST. MATTHEWS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="278">
+            <Precinct name="BETHEL" votes="24" />
+            <Precinct name="CAMERON" votes="20" />
+            <Precinct name="CENTER HILL" votes="18" />
+            <Precinct name="CRESTON" votes="5" />
+            <Precinct name="DIXIE" votes="18" />
+            <Precinct name="FALL BRANCH" votes="14" />
+            <Precinct name="FORT MOTTE" votes="6" />
+            <Precinct name="LONE STAR" votes="14" />
+            <Precinct name="MIDWAY" votes="11" />
+            <Precinct name="MURPH MILL" votes="11" />
+            <Precinct name="SANDY RUN" votes="39" />
+            <Precinct name="ST. MATTHEWS" votes="18" />
+            <Precinct name="Absentee" votes="79" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="James E Jim Clyburn" party="DEM" totalVotes="3799">
+            <VoteType name="Election Day" votes="3799">
+                <Precinct name="BETHEL" votes="163" />
+                <Precinct name="CAMERON" votes="212" />
+                <Precinct name="CENTER HILL" votes="325" />
+                <Precinct name="CRESTON" votes="55" />
+                <Precinct name="DIXIE" votes="646" />
+                <Precinct name="FALL BRANCH" votes="129" />
+                <Precinct name="FORT MOTTE" votes="88" />
+                <Precinct name="LONE STAR" votes="242" />
+                <Precinct name="MIDWAY" votes="64" />
+                <Precinct name="MURPH MILL" votes="120" />
+                <Precinct name="SANDY RUN" votes="247" />
+                <Precinct name="ST. MATTHEWS" votes="341" />
+                <Precinct name="Absentee" votes="1140" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="26" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Prince Charles Mallory" party="GRN" totalVotes="58">
+            <VoteType name="Election Day" votes="58">
+                <Precinct name="BETHEL" votes="7" />
+                <Precinct name="CAMERON" votes="4" />
+                <Precinct name="CENTER HILL" votes="5" />
+                <Precinct name="CRESTON" votes="2" />
+                <Precinct name="DIXIE" votes="3" />
+                <Precinct name="FALL BRANCH" votes="4" />
+                <Precinct name="FORT MOTTE" votes="0" />
+                <Precinct name="LONE STAR" votes="3" />
+                <Precinct name="MIDWAY" votes="4" />
+                <Precinct name="MURPH MILL" votes="2" />
+                <Precinct name="SANDY RUN" votes="13" />
+                <Precinct name="ST. MATTHEWS" votes="3" />
+                <Precinct name="Absentee" votes="8" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Laura Sterling" party="REP" totalVotes="3386">
+            <VoteType name="Election Day" votes="3386">
+                <Precinct name="BETHEL" votes="322" />
+                <Precinct name="CAMERON" votes="177" />
+                <Precinct name="CENTER HILL" votes="252" />
+                <Precinct name="CRESTON" votes="67" />
+                <Precinct name="DIXIE" votes="210" />
+                <Precinct name="FALL BRANCH" votes="151" />
+                <Precinct name="FORT MOTTE" votes="67" />
+                <Precinct name="LONE STAR" votes="265" />
+                <Precinct name="MIDWAY" votes="129" />
+                <Precinct name="MURPH MILL" votes="98" />
+                <Precinct name="SANDY RUN" votes="676" />
+                <Precinct name="ST. MATTHEWS" votes="386" />
+                <Precinct name="Absentee" votes="557" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="27" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Rich Piotrowski" party="LIB" totalVotes="105">
+            <VoteType name="Election Day" votes="105">
+                <Precinct name="BETHEL" votes="8" />
+                <Precinct name="CAMERON" votes="7" />
+                <Precinct name="CENTER HILL" votes="12" />
+                <Precinct name="CRESTON" votes="0" />
+                <Precinct name="DIXIE" votes="7" />
+                <Precinct name="FALL BRANCH" votes="4" />
+                <Precinct name="FORT MOTTE" votes="4" />
+                <Precinct name="LONE STAR" votes="7" />
+                <Precinct name="MIDWAY" votes="1" />
+                <Precinct name="MURPH MILL" votes="6" />
+                <Precinct name="SANDY RUN" votes="25" />
+                <Precinct name="ST. MATTHEWS" votes="11" />
+                <Precinct name="Absentee" votes="12" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Write-In" party="NON" totalVotes="5">
+            <VoteType name="Election Day" votes="5">
+                <Precinct name="BETHEL" votes="1" />
+                <Precinct name="CAMERON" votes="0" />
+                <Precinct name="CENTER HILL" votes="0" />
+                <Precinct name="CRESTON" votes="0" />
+                <Precinct name="DIXIE" votes="1" />
+                <Precinct name="FALL BRANCH" votes="0" />
+                <Precinct name="FORT MOTTE" votes="0" />
+                <Precinct name="LONE STAR" votes="1" />
+                <Precinct name="MIDWAY" votes="1" />
+                <Precinct name="MURPH MILL" votes="0" />
+                <Precinct name="SANDY RUN" votes="0" />
+                <Precinct name="ST. MATTHEWS" votes="0" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0107" text="State  Senate, District  26" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BETHEL" votes="0" />
+            <Precinct name="CENTER HILL" votes="0" />
+            <Precinct name="FALL BRANCH" votes="0" />
+            <Precinct name="SANDY RUN" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="81">
+            <Precinct name="BETHEL" votes="14" />
+            <Precinct name="CENTER HILL" votes="18" />
+            <Precinct name="FALL BRANCH" votes="9" />
+            <Precinct name="SANDY RUN" votes="19" />
+            <Precinct name="Absentee" votes="20" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Nikki Setzler" party="DEM" totalVotes="1420">
+            <VoteType name="Election Day" votes="1420">
+                <Precinct name="BETHEL" votes="187" />
+                <Precinct name="CENTER HILL" votes="369" />
+                <Precinct name="FALL BRANCH" votes="157" />
+                <Precinct name="SANDY RUN" votes="420" />
+                <Precinct name="Absentee" votes="278" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="9" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Brad Lindsey" party="REP" totalVotes="1435">
+            <VoteType name="Election Day" votes="1435">
+                <Precinct name="BETHEL" votes="322" />
+                <Precinct name="CENTER HILL" votes="224" />
+                <Precinct name="FALL BRANCH" votes="136" />
+                <Precinct name="SANDY RUN" votes="560" />
+                <Precinct name="Absentee" votes="181" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="12" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="5">
+            <VoteType name="Election Day" votes="5">
+                <Precinct name="BETHEL" votes="2" />
+                <Precinct name="CENTER HILL" votes="1" />
+                <Precinct name="FALL BRANCH" votes="0" />
+                <Precinct name="SANDY RUN" votes="1" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0108" text="State  Senate, District  39" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="CAMERON" votes="0" />
+            <Precinct name="CRESTON" votes="0" />
+            <Precinct name="DIXIE" votes="0" />
+            <Precinct name="FORT MOTTE" votes="0" />
+            <Precinct name="LONE STAR" votes="0" />
+            <Precinct name="MIDWAY" votes="0" />
+            <Precinct name="MURPH MILL" votes="0" />
+            <Precinct name="ST. MATTHEWS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="998">
+            <Precinct name="CAMERON" votes="84" />
+            <Precinct name="CRESTON" votes="35" />
+            <Precinct name="DIXIE" votes="108" />
+            <Precinct name="FORT MOTTE" votes="28" />
+            <Precinct name="LONE STAR" votes="169" />
+            <Precinct name="MIDWAY" votes="72" />
+            <Precinct name="MURPH MILL" votes="62" />
+            <Precinct name="ST. MATTHEWS" votes="190" />
+            <Precinct name="Absentee" votes="245" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="5" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="John Matthews" party="DEM" totalVotes="3653">
+            <VoteType name="Election Day" votes="3653">
+                <Precinct name="CAMERON" votes="333" />
+                <Precinct name="CRESTON" votes="93" />
+                <Precinct name="DIXIE" votes="773" />
+                <Precinct name="FORT MOTTE" votes="135" />
+                <Precinct name="LONE STAR" votes="360" />
+                <Precinct name="MIDWAY" votes="136" />
+                <Precinct name="MURPH MILL" votes="172" />
+                <Precinct name="ST. MATTHEWS" votes="557" />
+                <Precinct name="Absentee" votes="1069" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="25" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="36">
+            <VoteType name="Election Day" votes="36">
+                <Precinct name="CAMERON" votes="3" />
+                <Precinct name="CRESTON" votes="1" />
+                <Precinct name="DIXIE" votes="4" />
+                <Precinct name="FORT MOTTE" votes="2" />
+                <Precinct name="LONE STAR" votes="3" />
+                <Precinct name="MIDWAY" votes="2" />
+                <Precinct name="MURPH MILL" votes="3" />
+                <Precinct name="ST. MATTHEWS" votes="12" />
+                <Precinct name="Absentee" votes="3" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="3" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0109" text="State  House of Representatives, District  93" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BETHEL" votes="0" />
+            <Precinct name="CAMERON" votes="0" />
+            <Precinct name="CENTER HILL" votes="0" />
+            <Precinct name="CRESTON" votes="0" />
+            <Precinct name="DIXIE" votes="0" />
+            <Precinct name="FALL BRANCH" votes="0" />
+            <Precinct name="FORT MOTTE" votes="0" />
+            <Precinct name="LONE STAR" votes="0" />
+            <Precinct name="MIDWAY" votes="0" />
+            <Precinct name="MURPH MILL" votes="0" />
+            <Precinct name="SANDY RUN" votes="0" />
+            <Precinct name="ST. MATTHEWS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1646">
+            <Precinct name="BETHEL" votes="130" />
+            <Precinct name="CAMERON" votes="70" />
+            <Precinct name="CENTER HILL" votes="127" />
+            <Precinct name="CRESTON" votes="30" />
+            <Precinct name="DIXIE" votes="91" />
+            <Precinct name="FALL BRANCH" votes="67" />
+            <Precinct name="FORT MOTTE" votes="20" />
+            <Precinct name="LONE STAR" votes="155" />
+            <Precinct name="MIDWAY" votes="58" />
+            <Precinct name="MURPH MILL" votes="50" />
+            <Precinct name="SANDY RUN" votes="359" />
+            <Precinct name="ST. MATTHEWS" votes="142" />
+            <Precinct name="Absentee" votes="332" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="15" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Russell L Ott" party="DEM" totalVotes="5926">
+            <VoteType name="Election Day" votes="5926">
+                <Precinct name="BETHEL" votes="391" />
+                <Precinct name="CAMERON" votes="349" />
+                <Precinct name="CENTER HILL" votes="482" />
+                <Precinct name="CRESTON" votes="98" />
+                <Precinct name="DIXIE" votes="789" />
+                <Precinct name="FALL BRANCH" votes="230" />
+                <Precinct name="FORT MOTTE" votes="144" />
+                <Precinct name="LONE STAR" votes="375" />
+                <Precinct name="MIDWAY" votes="151" />
+                <Precinct name="MURPH MILL" votes="185" />
+                <Precinct name="SANDY RUN" votes="628" />
+                <Precinct name="ST. MATTHEWS" votes="608" />
+                <Precinct name="Absentee" votes="1454" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="39" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="59">
+            <VoteType name="Election Day" votes="59">
+                <Precinct name="BETHEL" votes="4" />
+                <Precinct name="CAMERON" votes="1" />
+                <Precinct name="CENTER HILL" votes="3" />
+                <Precinct name="CRESTON" votes="1" />
+                <Precinct name="DIXIE" votes="5" />
+                <Precinct name="FALL BRANCH" votes="5" />
+                <Precinct name="FORT MOTTE" votes="1" />
+                <Precinct name="LONE STAR" votes="2" />
+                <Precinct name="MIDWAY" votes="1" />
+                <Precinct name="MURPH MILL" votes="2" />
+                <Precinct name="SANDY RUN" votes="13" />
+                <Precinct name="ST. MATTHEWS" votes="9" />
+                <Precinct name="Absentee" votes="11" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0110" text=" Solicitor, Circuit  1" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BETHEL" votes="0" />
+            <Precinct name="CAMERON" votes="0" />
+            <Precinct name="CENTER HILL" votes="0" />
+            <Precinct name="CRESTON" votes="0" />
+            <Precinct name="DIXIE" votes="0" />
+            <Precinct name="FALL BRANCH" votes="0" />
+            <Precinct name="FORT MOTTE" votes="0" />
+            <Precinct name="LONE STAR" votes="0" />
+            <Precinct name="MIDWAY" votes="0" />
+            <Precinct name="MURPH MILL" votes="0" />
+            <Precinct name="SANDY RUN" votes="0" />
+            <Precinct name="ST. MATTHEWS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1792">
+            <Precinct name="BETHEL" votes="151" />
+            <Precinct name="CAMERON" votes="79" />
+            <Precinct name="CENTER HILL" votes="134" />
+            <Precinct name="CRESTON" votes="30" />
+            <Precinct name="DIXIE" votes="102" />
+            <Precinct name="FALL BRANCH" votes="73" />
+            <Precinct name="FORT MOTTE" votes="26" />
+            <Precinct name="LONE STAR" votes="165" />
+            <Precinct name="MIDWAY" votes="55" />
+            <Precinct name="MURPH MILL" votes="58" />
+            <Precinct name="SANDY RUN" votes="382" />
+            <Precinct name="ST. MATTHEWS" votes="156" />
+            <Precinct name="Absentee" votes="368" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="13" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="David M Pascoe" party="DEM" totalVotes="5778">
+            <VoteType name="Election Day" votes="5778">
+                <Precinct name="BETHEL" votes="370" />
+                <Precinct name="CAMERON" votes="337" />
+                <Precinct name="CENTER HILL" votes="475" />
+                <Precinct name="CRESTON" votes="97" />
+                <Precinct name="DIXIE" votes="779" />
+                <Precinct name="FALL BRANCH" votes="228" />
+                <Precinct name="FORT MOTTE" votes="135" />
+                <Precinct name="LONE STAR" votes="364" />
+                <Precinct name="MIDWAY" votes="154" />
+                <Precinct name="MURPH MILL" votes="176" />
+                <Precinct name="SANDY RUN" votes="607" />
+                <Precinct name="ST. MATTHEWS" votes="597" />
+                <Precinct name="Absentee" votes="1415" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="41" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="61">
+            <VoteType name="Election Day" votes="61">
+                <Precinct name="BETHEL" votes="4" />
+                <Precinct name="CAMERON" votes="4" />
+                <Precinct name="CENTER HILL" votes="3" />
+                <Precinct name="CRESTON" votes="2" />
+                <Precinct name="DIXIE" votes="4" />
+                <Precinct name="FALL BRANCH" votes="1" />
+                <Precinct name="FORT MOTTE" votes="4" />
+                <Precinct name="LONE STAR" votes="3" />
+                <Precinct name="MIDWAY" votes="1" />
+                <Precinct name="MURPH MILL" votes="3" />
+                <Precinct name="SANDY RUN" votes="11" />
+                <Precinct name="ST. MATTHEWS" votes="6" />
+                <Precinct name="Absentee" votes="14" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0111" text="Sheriff" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BETHEL" votes="0" />
+            <Precinct name="CAMERON" votes="0" />
+            <Precinct name="CENTER HILL" votes="0" />
+            <Precinct name="CRESTON" votes="0" />
+            <Precinct name="DIXIE" votes="0" />
+            <Precinct name="FALL BRANCH" votes="0" />
+            <Precinct name="FORT MOTTE" votes="0" />
+            <Precinct name="LONE STAR" votes="0" />
+            <Precinct name="MIDWAY" votes="0" />
+            <Precinct name="MURPH MILL" votes="0" />
+            <Precinct name="SANDY RUN" votes="0" />
+            <Precinct name="ST. MATTHEWS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1337">
+            <Precinct name="BETHEL" votes="109" />
+            <Precinct name="CAMERON" votes="46" />
+            <Precinct name="CENTER HILL" votes="115" />
+            <Precinct name="CRESTON" votes="25" />
+            <Precinct name="DIXIE" votes="69" />
+            <Precinct name="FALL BRANCH" votes="50" />
+            <Precinct name="FORT MOTTE" votes="15" />
+            <Precinct name="LONE STAR" votes="129" />
+            <Precinct name="MIDWAY" votes="49" />
+            <Precinct name="MURPH MILL" votes="42" />
+            <Precinct name="SANDY RUN" votes="303" />
+            <Precinct name="ST. MATTHEWS" votes="113" />
+            <Precinct name="Absentee" votes="262" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="10" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Thomas Summers" party="DEM" totalVotes="6237">
+            <VoteType name="Election Day" votes="6237">
+                <Precinct name="BETHEL" votes="411" />
+                <Precinct name="CAMERON" votes="372" />
+                <Precinct name="CENTER HILL" votes="492" />
+                <Precinct name="CRESTON" votes="103" />
+                <Precinct name="DIXIE" votes="816" />
+                <Precinct name="FALL BRANCH" votes="248" />
+                <Precinct name="FORT MOTTE" votes="149" />
+                <Precinct name="LONE STAR" votes="400" />
+                <Precinct name="MIDWAY" votes="161" />
+                <Precinct name="MURPH MILL" votes="190" />
+                <Precinct name="SANDY RUN" votes="688" />
+                <Precinct name="ST. MATTHEWS" votes="639" />
+                <Precinct name="Absentee" votes="1522" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="43" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="57">
+            <VoteType name="Election Day" votes="57">
+                <Precinct name="BETHEL" votes="5" />
+                <Precinct name="CAMERON" votes="2" />
+                <Precinct name="CENTER HILL" votes="5" />
+                <Precinct name="CRESTON" votes="1" />
+                <Precinct name="DIXIE" votes="0" />
+                <Precinct name="FALL BRANCH" votes="4" />
+                <Precinct name="FORT MOTTE" votes="1" />
+                <Precinct name="LONE STAR" votes="3" />
+                <Precinct name="MIDWAY" votes="0" />
+                <Precinct name="MURPH MILL" votes="5" />
+                <Precinct name="SANDY RUN" votes="9" />
+                <Precinct name="ST. MATTHEWS" votes="7" />
+                <Precinct name="Absentee" votes="13" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0112" text="Probate Judge" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BETHEL" votes="0" />
+            <Precinct name="CAMERON" votes="0" />
+            <Precinct name="CENTER HILL" votes="0" />
+            <Precinct name="CRESTON" votes="0" />
+            <Precinct name="DIXIE" votes="0" />
+            <Precinct name="FALL BRANCH" votes="0" />
+            <Precinct name="FORT MOTTE" votes="0" />
+            <Precinct name="LONE STAR" votes="0" />
+            <Precinct name="MIDWAY" votes="0" />
+            <Precinct name="MURPH MILL" votes="0" />
+            <Precinct name="SANDY RUN" votes="0" />
+            <Precinct name="ST. MATTHEWS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1568">
+            <Precinct name="BETHEL" votes="119" />
+            <Precinct name="CAMERON" votes="68" />
+            <Precinct name="CENTER HILL" votes="133" />
+            <Precinct name="CRESTON" votes="33" />
+            <Precinct name="DIXIE" votes="82" />
+            <Precinct name="FALL BRANCH" votes="53" />
+            <Precinct name="FORT MOTTE" votes="17" />
+            <Precinct name="LONE STAR" votes="157" />
+            <Precinct name="MIDWAY" votes="57" />
+            <Precinct name="MURPH MILL" votes="50" />
+            <Precinct name="SANDY RUN" votes="355" />
+            <Precinct name="ST. MATTHEWS" votes="127" />
+            <Precinct name="Absentee" votes="305" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="12" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Kathy Strickland Brown" party="DEM" totalVotes="6036">
+            <VoteType name="Election Day" votes="6036">
+                <Precinct name="BETHEL" votes="406" />
+                <Precinct name="CAMERON" votes="350" />
+                <Precinct name="CENTER HILL" votes="477" />
+                <Precinct name="CRESTON" votes="95" />
+                <Precinct name="DIXIE" votes="802" />
+                <Precinct name="FALL BRANCH" votes="248" />
+                <Precinct name="FORT MOTTE" votes="147" />
+                <Precinct name="LONE STAR" votes="374" />
+                <Precinct name="MIDWAY" votes="153" />
+                <Precinct name="MURPH MILL" votes="185" />
+                <Precinct name="SANDY RUN" votes="638" />
+                <Precinct name="ST. MATTHEWS" votes="630" />
+                <Precinct name="Absentee" votes="1486" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="42" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="27">
+            <VoteType name="Election Day" votes="27">
+                <Precinct name="BETHEL" votes="0" />
+                <Precinct name="CAMERON" votes="2" />
+                <Precinct name="CENTER HILL" votes="2" />
+                <Precinct name="CRESTON" votes="1" />
+                <Precinct name="DIXIE" votes="1" />
+                <Precinct name="FALL BRANCH" votes="1" />
+                <Precinct name="FORT MOTTE" votes="1" />
+                <Precinct name="LONE STAR" votes="1" />
+                <Precinct name="MIDWAY" votes="0" />
+                <Precinct name="MURPH MILL" votes="2" />
+                <Precinct name="SANDY RUN" votes="7" />
+                <Precinct name="ST. MATTHEWS" votes="2" />
+                <Precinct name="Absentee" votes="6" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0113" text="Clerk of Court" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BETHEL" votes="0" />
+            <Precinct name="CAMERON" votes="0" />
+            <Precinct name="CENTER HILL" votes="0" />
+            <Precinct name="CRESTON" votes="0" />
+            <Precinct name="DIXIE" votes="0" />
+            <Precinct name="FALL BRANCH" votes="0" />
+            <Precinct name="FORT MOTTE" votes="0" />
+            <Precinct name="LONE STAR" votes="0" />
+            <Precinct name="MIDWAY" votes="0" />
+            <Precinct name="MURPH MILL" votes="0" />
+            <Precinct name="SANDY RUN" votes="0" />
+            <Precinct name="ST. MATTHEWS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1564">
+            <Precinct name="BETHEL" votes="119" />
+            <Precinct name="CAMERON" votes="66" />
+            <Precinct name="CENTER HILL" votes="131" />
+            <Precinct name="CRESTON" votes="36" />
+            <Precinct name="DIXIE" votes="72" />
+            <Precinct name="FALL BRANCH" votes="56" />
+            <Precinct name="FORT MOTTE" votes="24" />
+            <Precinct name="LONE STAR" votes="161" />
+            <Precinct name="MIDWAY" votes="60" />
+            <Precinct name="MURPH MILL" votes="53" />
+            <Precinct name="SANDY RUN" votes="339" />
+            <Precinct name="ST. MATTHEWS" votes="128" />
+            <Precinct name="Absentee" votes="309" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="10" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Ken Hasty" party="DEM" totalVotes="6048">
+            <VoteType name="Election Day" votes="6048">
+                <Precinct name="BETHEL" votes="405" />
+                <Precinct name="CAMERON" votes="354" />
+                <Precinct name="CENTER HILL" votes="481" />
+                <Precinct name="CRESTON" votes="93" />
+                <Precinct name="DIXIE" votes="811" />
+                <Precinct name="FALL BRANCH" votes="246" />
+                <Precinct name="FORT MOTTE" votes="139" />
+                <Precinct name="LONE STAR" votes="370" />
+                <Precinct name="MIDWAY" votes="150" />
+                <Precinct name="MURPH MILL" votes="182" />
+                <Precinct name="SANDY RUN" votes="658" />
+                <Precinct name="ST. MATTHEWS" votes="628" />
+                <Precinct name="Absentee" votes="1483" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="45" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="19">
+            <VoteType name="Election Day" votes="19">
+                <Precinct name="BETHEL" votes="1" />
+                <Precinct name="CAMERON" votes="0" />
+                <Precinct name="CENTER HILL" votes="0" />
+                <Precinct name="CRESTON" votes="0" />
+                <Precinct name="DIXIE" votes="2" />
+                <Precinct name="FALL BRANCH" votes="0" />
+                <Precinct name="FORT MOTTE" votes="2" />
+                <Precinct name="LONE STAR" votes="1" />
+                <Precinct name="MIDWAY" votes="0" />
+                <Precinct name="MURPH MILL" votes="2" />
+                <Precinct name="SANDY RUN" votes="3" />
+                <Precinct name="ST. MATTHEWS" votes="3" />
+                <Precinct name="Absentee" votes="5" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0114" text="Coroner" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BETHEL" votes="0" />
+            <Precinct name="CAMERON" votes="0" />
+            <Precinct name="CENTER HILL" votes="0" />
+            <Precinct name="CRESTON" votes="0" />
+            <Precinct name="DIXIE" votes="0" />
+            <Precinct name="FALL BRANCH" votes="0" />
+            <Precinct name="FORT MOTTE" votes="0" />
+            <Precinct name="LONE STAR" votes="0" />
+            <Precinct name="MIDWAY" votes="0" />
+            <Precinct name="MURPH MILL" votes="0" />
+            <Precinct name="SANDY RUN" votes="0" />
+            <Precinct name="ST. MATTHEWS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="2685">
+            <Precinct name="BETHEL" votes="109" />
+            <Precinct name="CAMERON" votes="153" />
+            <Precinct name="CENTER HILL" votes="225" />
+            <Precinct name="CRESTON" votes="38" />
+            <Precinct name="DIXIE" votes="438" />
+            <Precinct name="FALL BRANCH" votes="82" />
+            <Precinct name="FORT MOTTE" votes="51" />
+            <Precinct name="LONE STAR" votes="187" />
+            <Precinct name="MIDWAY" votes="45" />
+            <Precinct name="MURPH MILL" votes="87" />
+            <Precinct name="SANDY RUN" votes="173" />
+            <Precinct name="ST. MATTHEWS" votes="197" />
+            <Precinct name="Absentee" votes="886" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="14" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Donnie B Porth" party="REP" totalVotes="4896">
+            <VoteType name="Election Day" votes="4896">
+                <Precinct name="BETHEL" votes="414" />
+                <Precinct name="CAMERON" votes="266" />
+                <Precinct name="CENTER HILL" votes="386" />
+                <Precinct name="CRESTON" votes="91" />
+                <Precinct name="DIXIE" votes="440" />
+                <Precinct name="FALL BRANCH" votes="218" />
+                <Precinct name="FORT MOTTE" votes="113" />
+                <Precinct name="LONE STAR" votes="342" />
+                <Precinct name="MIDWAY" votes="164" />
+                <Precinct name="MURPH MILL" votes="148" />
+                <Precinct name="SANDY RUN" votes="821" />
+                <Precinct name="ST. MATTHEWS" votes="557" />
+                <Precinct name="Absentee" votes="893" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="40" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="50">
+            <VoteType name="Election Day" votes="50">
+                <Precinct name="BETHEL" votes="2" />
+                <Precinct name="CAMERON" votes="1" />
+                <Precinct name="CENTER HILL" votes="1" />
+                <Precinct name="CRESTON" votes="0" />
+                <Precinct name="DIXIE" votes="7" />
+                <Precinct name="FALL BRANCH" votes="2" />
+                <Precinct name="FORT MOTTE" votes="1" />
+                <Precinct name="LONE STAR" votes="3" />
+                <Precinct name="MIDWAY" votes="1" />
+                <Precinct name="MURPH MILL" votes="2" />
+                <Precinct name="SANDY RUN" votes="6" />
+                <Precinct name="ST. MATTHEWS" votes="5" />
+                <Precinct name="Absentee" votes="18" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0115" text="Auditor" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BETHEL" votes="0" />
+            <Precinct name="CAMERON" votes="0" />
+            <Precinct name="CENTER HILL" votes="0" />
+            <Precinct name="CRESTON" votes="0" />
+            <Precinct name="DIXIE" votes="0" />
+            <Precinct name="FALL BRANCH" votes="0" />
+            <Precinct name="FORT MOTTE" votes="0" />
+            <Precinct name="LONE STAR" votes="0" />
+            <Precinct name="MIDWAY" votes="0" />
+            <Precinct name="MURPH MILL" votes="0" />
+            <Precinct name="SANDY RUN" votes="0" />
+            <Precinct name="ST. MATTHEWS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1426">
+            <Precinct name="BETHEL" votes="106" />
+            <Precinct name="CAMERON" votes="62" />
+            <Precinct name="CENTER HILL" votes="121" />
+            <Precinct name="CRESTON" votes="30" />
+            <Precinct name="DIXIE" votes="71" />
+            <Precinct name="FALL BRANCH" votes="52" />
+            <Precinct name="FORT MOTTE" votes="14" />
+            <Precinct name="LONE STAR" votes="147" />
+            <Precinct name="MIDWAY" votes="52" />
+            <Precinct name="MURPH MILL" votes="52" />
+            <Precinct name="SANDY RUN" votes="332" />
+            <Precinct name="ST. MATTHEWS" votes="105" />
+            <Precinct name="Absentee" votes="273" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="9" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="April Wise" party="DEM" totalVotes="6192">
+            <VoteType name="Election Day" votes="6192">
+                <Precinct name="BETHEL" votes="418" />
+                <Precinct name="CAMERON" votes="358" />
+                <Precinct name="CENTER HILL" votes="491" />
+                <Precinct name="CRESTON" votes="98" />
+                <Precinct name="DIXIE" votes="813" />
+                <Precinct name="FALL BRANCH" votes="249" />
+                <Precinct name="FORT MOTTE" votes="151" />
+                <Precinct name="LONE STAR" votes="384" />
+                <Precinct name="MIDWAY" votes="158" />
+                <Precinct name="MURPH MILL" votes="184" />
+                <Precinct name="SANDY RUN" votes="665" />
+                <Precinct name="ST. MATTHEWS" votes="654" />
+                <Precinct name="Absentee" votes="1520" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="46" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="13">
+            <VoteType name="Election Day" votes="13">
+                <Precinct name="BETHEL" votes="1" />
+                <Precinct name="CAMERON" votes="0" />
+                <Precinct name="CENTER HILL" votes="0" />
+                <Precinct name="CRESTON" votes="1" />
+                <Precinct name="DIXIE" votes="1" />
+                <Precinct name="FALL BRANCH" votes="1" />
+                <Precinct name="FORT MOTTE" votes="0" />
+                <Precinct name="LONE STAR" votes="1" />
+                <Precinct name="MIDWAY" votes="0" />
+                <Precinct name="MURPH MILL" votes="1" />
+                <Precinct name="SANDY RUN" votes="3" />
+                <Precinct name="ST. MATTHEWS" votes="0" />
+                <Precinct name="Absentee" votes="4" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0116" text="County Treasurer" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BETHEL" votes="0" />
+            <Precinct name="CAMERON" votes="0" />
+            <Precinct name="CENTER HILL" votes="0" />
+            <Precinct name="CRESTON" votes="0" />
+            <Precinct name="DIXIE" votes="0" />
+            <Precinct name="FALL BRANCH" votes="0" />
+            <Precinct name="FORT MOTTE" votes="0" />
+            <Precinct name="LONE STAR" votes="0" />
+            <Precinct name="MIDWAY" votes="0" />
+            <Precinct name="MURPH MILL" votes="0" />
+            <Precinct name="SANDY RUN" votes="0" />
+            <Precinct name="ST. MATTHEWS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1300">
+            <Precinct name="BETHEL" votes="106" />
+            <Precinct name="CAMERON" votes="58" />
+            <Precinct name="CENTER HILL" votes="103" />
+            <Precinct name="CRESTON" votes="32" />
+            <Precinct name="DIXIE" votes="70" />
+            <Precinct name="FALL BRANCH" votes="47" />
+            <Precinct name="FORT MOTTE" votes="12" />
+            <Precinct name="LONE STAR" votes="139" />
+            <Precinct name="MIDWAY" votes="53" />
+            <Precinct name="MURPH MILL" votes="44" />
+            <Precinct name="SANDY RUN" votes="255" />
+            <Precinct name="ST. MATTHEWS" votes="109" />
+            <Precinct name="Absentee" votes="264" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="8" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Rebecca C Furtick" party="DEM" totalVotes="6313">
+            <VoteType name="Election Day" votes="6313">
+                <Precinct name="BETHEL" votes="418" />
+                <Precinct name="CAMERON" votes="362" />
+                <Precinct name="CENTER HILL" votes="509" />
+                <Precinct name="CRESTON" votes="96" />
+                <Precinct name="DIXIE" votes="815" />
+                <Precinct name="FALL BRANCH" votes="255" />
+                <Precinct name="FORT MOTTE" votes="153" />
+                <Precinct name="LONE STAR" votes="391" />
+                <Precinct name="MIDWAY" votes="157" />
+                <Precinct name="MURPH MILL" votes="192" />
+                <Precinct name="SANDY RUN" votes="738" />
+                <Precinct name="ST. MATTHEWS" votes="648" />
+                <Precinct name="Absentee" votes="1529" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="47" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="18">
+            <VoteType name="Election Day" votes="18">
+                <Precinct name="BETHEL" votes="1" />
+                <Precinct name="CAMERON" votes="0" />
+                <Precinct name="CENTER HILL" votes="0" />
+                <Precinct name="CRESTON" votes="1" />
+                <Precinct name="DIXIE" votes="0" />
+                <Precinct name="FALL BRANCH" votes="0" />
+                <Precinct name="FORT MOTTE" votes="0" />
+                <Precinct name="LONE STAR" votes="2" />
+                <Precinct name="MIDWAY" votes="0" />
+                <Precinct name="MURPH MILL" votes="1" />
+                <Precinct name="SANDY RUN" votes="7" />
+                <Precinct name="ST. MATTHEWS" votes="2" />
+                <Precinct name="Absentee" votes="4" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0117" text="County Council District 1" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="CAMERON" votes="0" />
+            <Precinct name="CRESTON" votes="0" />
+            <Precinct name="FORT MOTTE" votes="0" />
+            <Precinct name="LONE STAR" votes="0" />
+            <Precinct name="MIDWAY" votes="0" />
+            <Precinct name="ST. MATTHEWS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="553">
+            <Precinct name="CAMERON" votes="148" />
+            <Precinct name="CRESTON" votes="35" />
+            <Precinct name="FORT MOTTE" votes="0" />
+            <Precinct name="LONE STAR" votes="121" />
+            <Precinct name="MIDWAY" votes="45" />
+            <Precinct name="ST. MATTHEWS" votes="55" />
+            <Precinct name="Absentee" votes="146" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="3" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="David K Summers Jr" party="REP" totalVotes="1063">
+            <VoteType name="Election Day" votes="1063">
+                <Precinct name="CAMERON" votes="268" />
+                <Precinct name="CRESTON" votes="66" />
+                <Precinct name="FORT MOTTE" votes="4" />
+                <Precinct name="LONE STAR" votes="307" />
+                <Precinct name="MIDWAY" votes="165" />
+                <Precinct name="ST. MATTHEWS" votes="72" />
+                <Precinct name="Absentee" votes="178" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="3" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="6">
+            <VoteType name="Election Day" votes="6">
+                <Precinct name="CAMERON" votes="1" />
+                <Precinct name="CRESTON" votes="1" />
+                <Precinct name="FORT MOTTE" votes="0" />
+                <Precinct name="LONE STAR" votes="1" />
+                <Precinct name="MIDWAY" votes="0" />
+                <Precinct name="ST. MATTHEWS" votes="2" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0118" text="County Council District 2" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BETHEL" votes="0" />
+            <Precinct name="DIXIE" votes="0" />
+            <Precinct name="FORT MOTTE" votes="0" />
+            <Precinct name="LONE STAR" votes="0" />
+            <Precinct name="ST. MATTHEWS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="189">
+            <Precinct name="BETHEL" votes="72" />
+            <Precinct name="DIXIE" votes="22" />
+            <Precinct name="FORT MOTTE" votes="18" />
+            <Precinct name="LONE STAR" votes="9" />
+            <Precinct name="ST. MATTHEWS" votes="13" />
+            <Precinct name="Absentee" votes="52" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="3" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Ken Westbury" party="DEM" totalVotes="1262">
+            <VoteType name="Election Day" votes="1262">
+                <Precinct name="BETHEL" votes="252" />
+                <Precinct name="DIXIE" votes="305" />
+                <Precinct name="FORT MOTTE" votes="143" />
+                <Precinct name="LONE STAR" votes="94" />
+                <Precinct name="ST. MATTHEWS" votes="114" />
+                <Precinct name="Absentee" votes="347" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="7" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="10">
+            <VoteType name="Election Day" votes="10">
+                <Precinct name="BETHEL" votes="1" />
+                <Precinct name="DIXIE" votes="3" />
+                <Precinct name="FORT MOTTE" votes="0" />
+                <Precinct name="LONE STAR" votes="0" />
+                <Precinct name="ST. MATTHEWS" votes="0" />
+                <Precinct name="Absentee" votes="6" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0119" text="Soil and Water District Commission" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BETHEL" votes="0" />
+            <Precinct name="CAMERON" votes="0" />
+            <Precinct name="CENTER HILL" votes="0" />
+            <Precinct name="CRESTON" votes="0" />
+            <Precinct name="DIXIE" votes="0" />
+            <Precinct name="FALL BRANCH" votes="0" />
+            <Precinct name="FORT MOTTE" votes="0" />
+            <Precinct name="LONE STAR" votes="0" />
+            <Precinct name="MIDWAY" votes="0" />
+            <Precinct name="MURPH MILL" votes="0" />
+            <Precinct name="SANDY RUN" votes="0" />
+            <Precinct name="ST. MATTHEWS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="3446">
+            <Precinct name="BETHEL" votes="191" />
+            <Precinct name="CAMERON" votes="185" />
+            <Precinct name="CENTER HILL" votes="290" />
+            <Precinct name="CRESTON" votes="53" />
+            <Precinct name="DIXIE" votes="459" />
+            <Precinct name="FALL BRANCH" votes="119" />
+            <Precinct name="FORT MOTTE" votes="57" />
+            <Precinct name="LONE STAR" votes="280" />
+            <Precinct name="MIDWAY" votes="86" />
+            <Precinct name="MURPH MILL" votes="102" />
+            <Precinct name="SANDY RUN" votes="377" />
+            <Precinct name="ST. MATTHEWS" votes="258" />
+            <Precinct name="Absentee" votes="970" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="19" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Kendall W Wannamaker" party="NON" totalVotes="4160">
+            <VoteType name="Election Day" votes="4160">
+                <Precinct name="BETHEL" votes="331" />
+                <Precinct name="CAMERON" votes="235" />
+                <Precinct name="CENTER HILL" votes="321" />
+                <Precinct name="CRESTON" votes="76" />
+                <Precinct name="DIXIE" votes="422" />
+                <Precinct name="FALL BRANCH" votes="182" />
+                <Precinct name="FORT MOTTE" votes="107" />
+                <Precinct name="LONE STAR" votes="250" />
+                <Precinct name="MIDWAY" votes="124" />
+                <Precinct name="MURPH MILL" votes="133" />
+                <Precinct name="SANDY RUN" votes="619" />
+                <Precinct name="ST. MATTHEWS" votes="500" />
+                <Precinct name="Absentee" votes="821" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="36" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="25">
+            <VoteType name="Election Day" votes="25">
+                <Precinct name="BETHEL" votes="3" />
+                <Precinct name="CAMERON" votes="0" />
+                <Precinct name="CENTER HILL" votes="1" />
+                <Precinct name="CRESTON" votes="0" />
+                <Precinct name="DIXIE" votes="4" />
+                <Precinct name="FALL BRANCH" votes="1" />
+                <Precinct name="FORT MOTTE" votes="1" />
+                <Precinct name="LONE STAR" votes="2" />
+                <Precinct name="MIDWAY" votes="0" />
+                <Precinct name="MURPH MILL" votes="2" />
+                <Precinct name="SANDY RUN" votes="4" />
+                <Precinct name="ST. MATTHEWS" votes="1" />
+                <Precinct name="Absentee" votes="6" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0120" text="School Board District 1" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="CAMERON" votes="0" />
+            <Precinct name="CRESTON" votes="0" />
+            <Precinct name="FORT MOTTE" votes="0" />
+            <Precinct name="LONE STAR" votes="0" />
+            <Precinct name="MIDWAY" votes="0" />
+            <Precinct name="ST. MATTHEWS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="655">
+            <Precinct name="CAMERON" votes="153" />
+            <Precinct name="CRESTON" votes="39" />
+            <Precinct name="FORT MOTTE" votes="0" />
+            <Precinct name="LONE STAR" votes="190" />
+            <Precinct name="MIDWAY" votes="62" />
+            <Precinct name="ST. MATTHEWS" votes="49" />
+            <Precinct name="Absentee" votes="160" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="2" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Michael Felkel" party="NON" totalVotes="406">
+            <VoteType name="Election Day" votes="406">
+                <Precinct name="CAMERON" votes="66" />
+                <Precinct name="CRESTON" votes="33" />
+                <Precinct name="FORT MOTTE" votes="0" />
+                <Precinct name="LONE STAR" votes="100" />
+                <Precinct name="MIDWAY" votes="107" />
+                <Precinct name="ST. MATTHEWS" votes="30" />
+                <Precinct name="Absentee" votes="68" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Gary B Porth" party="NON" totalVotes="553">
+            <VoteType name="Election Day" votes="553">
+                <Precinct name="CAMERON" votes="197" />
+                <Precinct name="CRESTON" votes="30" />
+                <Precinct name="FORT MOTTE" votes="4" />
+                <Precinct name="LONE STAR" votes="137" />
+                <Precinct name="MIDWAY" votes="41" />
+                <Precinct name="ST. MATTHEWS" votes="46" />
+                <Precinct name="Absentee" votes="96" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="8">
+            <VoteType name="Election Day" votes="8">
+                <Precinct name="CAMERON" votes="1" />
+                <Precinct name="CRESTON" votes="0" />
+                <Precinct name="FORT MOTTE" votes="0" />
+                <Precinct name="LONE STAR" votes="2" />
+                <Precinct name="MIDWAY" votes="0" />
+                <Precinct name="ST. MATTHEWS" votes="4" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0121" text="School Board District 3" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BETHEL" votes="0" />
+            <Precinct name="CENTER HILL" votes="0" />
+            <Precinct name="FALL BRANCH" votes="0" />
+            <Precinct name="SANDY RUN" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="476">
+            <Precinct name="BETHEL" votes="44" />
+            <Precinct name="CENTER HILL" votes="18" />
+            <Precinct name="FALL BRANCH" votes="9" />
+            <Precinct name="SANDY RUN" votes="326" />
+            <Precinct name="Absentee" votes="76" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="3" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Sandra M Tucker" party="NON" totalVotes="974">
+            <VoteType name="Election Day" votes="974">
+                <Precinct name="BETHEL" votes="112" />
+                <Precinct name="CENTER HILL" votes="36" />
+                <Precinct name="FALL BRANCH" votes="12" />
+                <Precinct name="SANDY RUN" votes="670" />
+                <Precinct name="Absentee" votes="138" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="6" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="6">
+            <VoteType name="Election Day" votes="6">
+                <Precinct name="BETHEL" votes="0" />
+                <Precinct name="CENTER HILL" votes="0" />
+                <Precinct name="FALL BRANCH" votes="1" />
+                <Precinct name="SANDY RUN" votes="4" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0122" text="School Board District 4" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="CAMERON" votes="0" />
+            <Precinct name="CENTER HILL" votes="0" />
+            <Precinct name="CRESTON" votes="0" />
+            <Precinct name="DIXIE" votes="0" />
+            <Precinct name="MURPH MILL" votes="0" />
+            <Precinct name="ST. MATTHEWS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="457">
+            <Precinct name="CAMERON" votes="0" />
+            <Precinct name="CENTER HILL" votes="90" />
+            <Precinct name="CRESTON" votes="5" />
+            <Precinct name="DIXIE" votes="94" />
+            <Precinct name="MURPH MILL" votes="37" />
+            <Precinct name="ST. MATTHEWS" votes="76" />
+            <Precinct name="Absentee" votes="152" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="3" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Ned Nelson" party="NON" totalVotes="654">
+            <VoteType name="Election Day" votes="654">
+                <Precinct name="CAMERON" votes="2" />
+                <Precinct name="CENTER HILL" votes="69" />
+                <Precinct name="CRESTON" votes="17" />
+                <Precinct name="DIXIE" votes="94" />
+                <Precinct name="MURPH MILL" votes="26" />
+                <Precinct name="ST. MATTHEWS" votes="272" />
+                <Precinct name="Absentee" votes="167" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="7" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Joyce Jones Parrish" party="NON" totalVotes="459">
+            <VoteType name="Election Day" votes="459">
+                <Precinct name="CAMERON" votes="1" />
+                <Precinct name="CENTER HILL" votes="47" />
+                <Precinct name="CRESTON" votes="4" />
+                <Precinct name="DIXIE" votes="94" />
+                <Precinct name="MURPH MILL" votes="23" />
+                <Precinct name="ST. MATTHEWS" votes="152" />
+                <Precinct name="Absentee" votes="134" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="4" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="6">
+            <VoteType name="Election Day" votes="6">
+                <Precinct name="CAMERON" votes="0" />
+                <Precinct name="CENTER HILL" votes="0" />
+                <Precinct name="CRESTON" votes="1" />
+                <Precinct name="DIXIE" votes="1" />
+                <Precinct name="MURPH MILL" votes="1" />
+                <Precinct name="ST. MATTHEWS" votes="3" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

@@ -1,0 +1,2327 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>11/16/2016 12:16:06 PM EST</Timestamp>
+    <ElectionName>2016 Statewide General Election</ElectionName>
+    <ElectionDate>11/8/2016</ElectionDate>
+    <Region>Abbeville</Region>
+    <VoterTurnout totalVoters="15351" ballotsCast="10880" voterTurnout="70.87">
+        <Precincts>
+            <Precinct name="Abbeville No. 1" totalVoters="2161" ballotsCast="898" voterTurnout="41.55" percentReporting="4" />
+            <Precinct name="Abbeville No. 2" totalVoters="1970" ballotsCast="696" voterTurnout="35.33" percentReporting="4" />
+            <Precinct name="Abbeville No. 3" totalVoters="1373" ballotsCast="517" voterTurnout="37.65" percentReporting="4" />
+            <Precinct name="Abbeville No. 4" totalVoters="868" ballotsCast="421" voterTurnout="48.50" percentReporting="4" />
+            <Precinct name="Antreville" totalVoters="1055" ballotsCast="621" voterTurnout="58.86" percentReporting="4" />
+            <Precinct name="Broadmouth" totalVoters="491" ballotsCast="287" voterTurnout="58.45" percentReporting="4" />
+            <Precinct name="Calhoun Falls" totalVoters="1795" ballotsCast="942" voterTurnout="52.48" percentReporting="4" />
+            <Precinct name="Cold Springs" totalVoters="801" ballotsCast="500" voterTurnout="62.42" percentReporting="4" />
+            <Precinct name="Donalds" totalVoters="497" ballotsCast="311" voterTurnout="62.58" percentReporting="4" />
+            <Precinct name="Due West" totalVoters="1433" ballotsCast="803" voterTurnout="56.04" percentReporting="4" />
+            <Precinct name="Hall's Store" totalVoters="655" ballotsCast="405" voterTurnout="61.83" percentReporting="4" />
+            <Precinct name="Keowee" totalVoters="1031" ballotsCast="617" voterTurnout="59.84" percentReporting="4" />
+            <Precinct name="Lowndesville" totalVoters="1031" ballotsCast="586" voterTurnout="56.84" percentReporting="4" />
+            <Precinct name="Lebanon" totalVoters="731" ballotsCast="433" voterTurnout="59.23" percentReporting="4" />
+            <Precinct name="Absentee" totalVoters="0" ballotsCast="2789" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Emergency" totalVoters="0" ballotsCast="0" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Failsafe" totalVoters="0" ballotsCast="1" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Provisional" totalVoters="0" ballotsCast="29" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Failsafe Provisional" totalVoters="0" ballotsCast="24" voterTurnout="0.00" percentReporting="32" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="0103" text="STRAIGHT PARTY" voteFor="1" isQuestion="false" precinctsReporting="14" precinctsReported="14">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Abbeville No. 1" votes="0" />
+            <Precinct name="Abbeville No. 2" votes="0" />
+            <Precinct name="Abbeville No. 3" votes="0" />
+            <Precinct name="Abbeville No. 4" votes="0" />
+            <Precinct name="Antreville" votes="0" />
+            <Precinct name="Broadmouth" votes="0" />
+            <Precinct name="Calhoun Falls" votes="0" />
+            <Precinct name="Cold Springs" votes="0" />
+            <Precinct name="Donalds" votes="0" />
+            <Precinct name="Due West" votes="0" />
+            <Precinct name="Hall's Store" votes="0" />
+            <Precinct name="Keowee" votes="0" />
+            <Precinct name="Lowndesville" votes="0" />
+            <Precinct name="Lebanon" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="5454">
+            <Precinct name="Abbeville No. 1" votes="534" />
+            <Precinct name="Abbeville No. 2" votes="330" />
+            <Precinct name="Abbeville No. 3" votes="287" />
+            <Precinct name="Abbeville No. 4" votes="231" />
+            <Precinct name="Antreville" votes="331" />
+            <Precinct name="Broadmouth" votes="137" />
+            <Precinct name="Calhoun Falls" votes="342" />
+            <Precinct name="Cold Springs" votes="338" />
+            <Precinct name="Donalds" votes="181" />
+            <Precinct name="Due West" votes="438" />
+            <Precinct name="Hall's Store" votes="216" />
+            <Precinct name="Keowee" votes="301" />
+            <Precinct name="Lowndesville" votes="301" />
+            <Precinct name="Lebanon" votes="214" />
+            <Precinct name="Absentee" votes="1251" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="12" />
+            <Precinct name="Failsafe Provisional" votes="9" />
+        </VoteType>
+        <Choice key="001" text="Democratic" party="DEM" totalVotes="2558">
+            <VoteType name="Election Day" votes="2558">
+                <Precinct name="Abbeville No. 1" votes="139" />
+                <Precinct name="Abbeville No. 2" votes="248" />
+                <Precinct name="Abbeville No. 3" votes="134" />
+                <Precinct name="Abbeville No. 4" votes="82" />
+                <Precinct name="Antreville" votes="72" />
+                <Precinct name="Broadmouth" votes="41" />
+                <Precinct name="Calhoun Falls" votes="401" />
+                <Precinct name="Cold Springs" votes="48" />
+                <Precinct name="Donalds" votes="22" />
+                <Precinct name="Due West" votes="155" />
+                <Precinct name="Hall's Store" votes="83" />
+                <Precinct name="Keowee" votes="71" />
+                <Precinct name="Lowndesville" votes="55" />
+                <Precinct name="Lebanon" votes="82" />
+                <Precinct name="Absentee" votes="903" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="12" />
+                <Precinct name="Failsafe Provisional" votes="10" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Working Families" party="WFM" totalVotes="54">
+            <VoteType name="Election Day" votes="54">
+                <Precinct name="Abbeville No. 1" votes="6" />
+                <Precinct name="Abbeville No. 2" votes="7" />
+                <Precinct name="Abbeville No. 3" votes="1" />
+                <Precinct name="Abbeville No. 4" votes="0" />
+                <Precinct name="Antreville" votes="2" />
+                <Precinct name="Broadmouth" votes="2" />
+                <Precinct name="Calhoun Falls" votes="10" />
+                <Precinct name="Cold Springs" votes="1" />
+                <Precinct name="Donalds" votes="1" />
+                <Precinct name="Due West" votes="2" />
+                <Precinct name="Hall's Store" votes="1" />
+                <Precinct name="Keowee" votes="6" />
+                <Precinct name="Lowndesville" votes="1" />
+                <Precinct name="Lebanon" votes="2" />
+                <Precinct name="Absentee" votes="12" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Constitution" party="CON" totalVotes="14">
+            <VoteType name="Election Day" votes="14">
+                <Precinct name="Abbeville No. 1" votes="1" />
+                <Precinct name="Abbeville No. 2" votes="0" />
+                <Precinct name="Abbeville No. 3" votes="0" />
+                <Precinct name="Abbeville No. 4" votes="0" />
+                <Precinct name="Antreville" votes="0" />
+                <Precinct name="Broadmouth" votes="1" />
+                <Precinct name="Calhoun Falls" votes="0" />
+                <Precinct name="Cold Springs" votes="0" />
+                <Precinct name="Donalds" votes="0" />
+                <Precinct name="Due West" votes="2" />
+                <Precinct name="Hall's Store" votes="0" />
+                <Precinct name="Keowee" votes="2" />
+                <Precinct name="Lowndesville" votes="0" />
+                <Precinct name="Lebanon" votes="2" />
+                <Precinct name="Absentee" votes="6" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Independence" party="IND" totalVotes="52">
+            <VoteType name="Election Day" votes="52">
+                <Precinct name="Abbeville No. 1" votes="5" />
+                <Precinct name="Abbeville No. 2" votes="4" />
+                <Precinct name="Abbeville No. 3" votes="2" />
+                <Precinct name="Abbeville No. 4" votes="3" />
+                <Precinct name="Antreville" votes="2" />
+                <Precinct name="Broadmouth" votes="2" />
+                <Precinct name="Calhoun Falls" votes="6" />
+                <Precinct name="Cold Springs" votes="2" />
+                <Precinct name="Donalds" votes="1" />
+                <Precinct name="Due West" votes="0" />
+                <Precinct name="Hall's Store" votes="1" />
+                <Precinct name="Keowee" votes="12" />
+                <Precinct name="Lowndesville" votes="2" />
+                <Precinct name="Lebanon" votes="3" />
+                <Precinct name="Absentee" votes="7" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Green" party="GRN" totalVotes="16">
+            <VoteType name="Election Day" votes="16">
+                <Precinct name="Abbeville No. 1" votes="0" />
+                <Precinct name="Abbeville No. 2" votes="0" />
+                <Precinct name="Abbeville No. 3" votes="1" />
+                <Precinct name="Abbeville No. 4" votes="0" />
+                <Precinct name="Antreville" votes="1" />
+                <Precinct name="Broadmouth" votes="3" />
+                <Precinct name="Calhoun Falls" votes="3" />
+                <Precinct name="Cold Springs" votes="2" />
+                <Precinct name="Donalds" votes="0" />
+                <Precinct name="Due West" votes="1" />
+                <Precinct name="Hall's Store" votes="0" />
+                <Precinct name="Keowee" votes="1" />
+                <Precinct name="Lowndesville" votes="0" />
+                <Precinct name="Lebanon" votes="0" />
+                <Precinct name="Absentee" votes="4" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Republican" party="REP" totalVotes="2674">
+            <VoteType name="Election Day" votes="2674">
+                <Precinct name="Abbeville No. 1" votes="207" />
+                <Precinct name="Abbeville No. 2" votes="103" />
+                <Precinct name="Abbeville No. 3" votes="90" />
+                <Precinct name="Abbeville No. 4" votes="101" />
+                <Precinct name="Antreville" votes="209" />
+                <Precinct name="Broadmouth" votes="99" />
+                <Precinct name="Calhoun Falls" votes="177" />
+                <Precinct name="Cold Springs" votes="107" />
+                <Precinct name="Donalds" votes="104" />
+                <Precinct name="Due West" votes="198" />
+                <Precinct name="Hall's Store" votes="103" />
+                <Precinct name="Keowee" votes="221" />
+                <Precinct name="Lowndesville" votes="222" />
+                <Precinct name="Lebanon" votes="128" />
+                <Precinct name="Absentee" votes="596" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="5" />
+                <Precinct name="Failsafe Provisional" votes="4" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="American" party="AMR" totalVotes="36">
+            <VoteType name="Election Day" votes="36">
+                <Precinct name="Abbeville No. 1" votes="3" />
+                <Precinct name="Abbeville No. 2" votes="3" />
+                <Precinct name="Abbeville No. 3" votes="2" />
+                <Precinct name="Abbeville No. 4" votes="3" />
+                <Precinct name="Antreville" votes="2" />
+                <Precinct name="Broadmouth" votes="2" />
+                <Precinct name="Calhoun Falls" votes="2" />
+                <Precinct name="Cold Springs" votes="1" />
+                <Precinct name="Donalds" votes="1" />
+                <Precinct name="Due West" votes="4" />
+                <Precinct name="Hall's Store" votes="1" />
+                <Precinct name="Keowee" votes="1" />
+                <Precinct name="Lowndesville" votes="3" />
+                <Precinct name="Lebanon" votes="1" />
+                <Precinct name="Absentee" votes="6" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="008" text="Libertarian" party="LIB" totalVotes="22">
+            <VoteType name="Election Day" votes="22">
+                <Precinct name="Abbeville No. 1" votes="3" />
+                <Precinct name="Abbeville No. 2" votes="1" />
+                <Precinct name="Abbeville No. 3" votes="0" />
+                <Precinct name="Abbeville No. 4" votes="1" />
+                <Precinct name="Antreville" votes="2" />
+                <Precinct name="Broadmouth" votes="0" />
+                <Precinct name="Calhoun Falls" votes="1" />
+                <Precinct name="Cold Springs" votes="1" />
+                <Precinct name="Donalds" votes="1" />
+                <Precinct name="Due West" votes="3" />
+                <Precinct name="Hall's Store" votes="0" />
+                <Precinct name="Keowee" votes="2" />
+                <Precinct name="Lowndesville" votes="2" />
+                <Precinct name="Lebanon" votes="1" />
+                <Precinct name="Absentee" votes="4" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0104" text="President and Vice President" voteFor="1" isQuestion="false" precinctsReporting="14" precinctsReported="14">
+        <VoteType name="overVotes" votes="1">
+            <Precinct name="Abbeville No. 1" votes="0" />
+            <Precinct name="Abbeville No. 2" votes="0" />
+            <Precinct name="Abbeville No. 3" votes="0" />
+            <Precinct name="Abbeville No. 4" votes="0" />
+            <Precinct name="Antreville" votes="0" />
+            <Precinct name="Broadmouth" votes="0" />
+            <Precinct name="Calhoun Falls" votes="0" />
+            <Precinct name="Cold Springs" votes="0" />
+            <Precinct name="Donalds" votes="0" />
+            <Precinct name="Due West" votes="0" />
+            <Precinct name="Hall's Store" votes="0" />
+            <Precinct name="Keowee" votes="0" />
+            <Precinct name="Lowndesville" votes="0" />
+            <Precinct name="Lebanon" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="1" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="104">
+            <Precinct name="Abbeville No. 1" votes="13" />
+            <Precinct name="Abbeville No. 2" votes="9" />
+            <Precinct name="Abbeville No. 3" votes="4" />
+            <Precinct name="Abbeville No. 4" votes="1" />
+            <Precinct name="Antreville" votes="8" />
+            <Precinct name="Broadmouth" votes="3" />
+            <Precinct name="Calhoun Falls" votes="5" />
+            <Precinct name="Cold Springs" votes="5" />
+            <Precinct name="Donalds" votes="4" />
+            <Precinct name="Due West" votes="10" />
+            <Precinct name="Hall's Store" votes="7" />
+            <Precinct name="Keowee" votes="2" />
+            <Precinct name="Lowndesville" votes="9" />
+            <Precinct name="Lebanon" votes="1" />
+            <Precinct name="Absentee" votes="22" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="1" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Hillary Rodham Clinton / Timothy Michael Kaine" party="DEM" totalVotes="3741">
+            <VoteType name="Election Day" votes="3741">
+                <Precinct name="Abbeville No. 1" votes="245" />
+                <Precinct name="Abbeville No. 2" votes="373" />
+                <Precinct name="Abbeville No. 3" votes="214" />
+                <Precinct name="Abbeville No. 4" votes="131" />
+                <Precinct name="Antreville" votes="105" />
+                <Precinct name="Broadmouth" votes="62" />
+                <Precinct name="Calhoun Falls" votes="514" />
+                <Precinct name="Cold Springs" votes="88" />
+                <Precinct name="Donalds" votes="44" />
+                <Precinct name="Due West" votes="233" />
+                <Precinct name="Hall's Store" votes="136" />
+                <Precinct name="Keowee" votes="109" />
+                <Precinct name="Lowndesville" votes="81" />
+                <Precinct name="Lebanon" votes="107" />
+                <Precinct name="Absentee" votes="1270" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="15" />
+                <Precinct name="Failsafe Provisional" votes="14" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Darrell Castle / Scott Bradley" party="CON" totalVotes="38">
+            <VoteType name="Election Day" votes="38">
+                <Precinct name="Abbeville No. 1" votes="2" />
+                <Precinct name="Abbeville No. 2" votes="1" />
+                <Precinct name="Abbeville No. 3" votes="3" />
+                <Precinct name="Abbeville No. 4" votes="2" />
+                <Precinct name="Antreville" votes="1" />
+                <Precinct name="Broadmouth" votes="0" />
+                <Precinct name="Calhoun Falls" votes="3" />
+                <Precinct name="Cold Springs" votes="1" />
+                <Precinct name="Donalds" votes="2" />
+                <Precinct name="Due West" votes="7" />
+                <Precinct name="Hall's Store" votes="0" />
+                <Precinct name="Keowee" votes="1" />
+                <Precinct name="Lowndesville" votes="2" />
+                <Precinct name="Lebanon" votes="1" />
+                <Precinct name="Absentee" votes="12" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Evan McMullin / Nathan Johnson" party="IND" totalVotes="56">
+            <VoteType name="Election Day" votes="56">
+                <Precinct name="Abbeville No. 1" votes="4" />
+                <Precinct name="Abbeville No. 2" votes="2" />
+                <Precinct name="Abbeville No. 3" votes="3" />
+                <Precinct name="Abbeville No. 4" votes="2" />
+                <Precinct name="Antreville" votes="3" />
+                <Precinct name="Broadmouth" votes="3" />
+                <Precinct name="Calhoun Falls" votes="3" />
+                <Precinct name="Cold Springs" votes="1" />
+                <Precinct name="Donalds" votes="3" />
+                <Precinct name="Due West" votes="11" />
+                <Precinct name="Hall's Store" votes="4" />
+                <Precinct name="Keowee" votes="6" />
+                <Precinct name="Lowndesville" votes="1" />
+                <Precinct name="Lebanon" votes="2" />
+                <Precinct name="Absentee" votes="8" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Jill Stein / Ajamu Baraka" party="GRN" totalVotes="36">
+            <VoteType name="Election Day" votes="36">
+                <Precinct name="Abbeville No. 1" votes="1" />
+                <Precinct name="Abbeville No. 2" votes="0" />
+                <Precinct name="Abbeville No. 3" votes="2" />
+                <Precinct name="Abbeville No. 4" votes="1" />
+                <Precinct name="Antreville" votes="1" />
+                <Precinct name="Broadmouth" votes="1" />
+                <Precinct name="Calhoun Falls" votes="2" />
+                <Precinct name="Cold Springs" votes="3" />
+                <Precinct name="Donalds" votes="2" />
+                <Precinct name="Due West" votes="7" />
+                <Precinct name="Hall's Store" votes="1" />
+                <Precinct name="Keowee" votes="4" />
+                <Precinct name="Lowndesville" votes="2" />
+                <Precinct name="Lebanon" votes="2" />
+                <Precinct name="Absentee" votes="7" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Donald J Trump / Michael R Pence" party="REP" totalVotes="6763">
+            <VoteType name="Election Day" votes="6763">
+                <Precinct name="Abbeville No. 1" votes="610" />
+                <Precinct name="Abbeville No. 2" votes="303" />
+                <Precinct name="Abbeville No. 3" votes="284" />
+                <Precinct name="Abbeville No. 4" votes="279" />
+                <Precinct name="Antreville" votes="496" />
+                <Precinct name="Broadmouth" votes="215" />
+                <Precinct name="Calhoun Falls" votes="407" />
+                <Precinct name="Cold Springs" votes="396" />
+                <Precinct name="Donalds" votes="254" />
+                <Precinct name="Due West" votes="520" />
+                <Precinct name="Hall's Store" votes="255" />
+                <Precinct name="Keowee" votes="491" />
+                <Precinct name="Lowndesville" votes="483" />
+                <Precinct name="Lebanon" votes="309" />
+                <Precinct name="Absentee" votes="1439" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="12" />
+                <Precinct name="Failsafe Provisional" votes="9" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Peter Skewes / Michael Lacy" party="AMR" totalVotes="12">
+            <VoteType name="Election Day" votes="12">
+                <Precinct name="Abbeville No. 1" votes="2" />
+                <Precinct name="Abbeville No. 2" votes="1" />
+                <Precinct name="Abbeville No. 3" votes="2" />
+                <Precinct name="Abbeville No. 4" votes="0" />
+                <Precinct name="Antreville" votes="0" />
+                <Precinct name="Broadmouth" votes="0" />
+                <Precinct name="Calhoun Falls" votes="2" />
+                <Precinct name="Cold Springs" votes="0" />
+                <Precinct name="Donalds" votes="0" />
+                <Precinct name="Due West" votes="2" />
+                <Precinct name="Hall's Store" votes="0" />
+                <Precinct name="Keowee" votes="0" />
+                <Precinct name="Lowndesville" votes="0" />
+                <Precinct name="Lebanon" votes="1" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="Gary Johnson / Bill Weld" party="LIB" totalVotes="129">
+            <VoteType name="Election Day" votes="129">
+                <Precinct name="Abbeville No. 1" votes="21" />
+                <Precinct name="Abbeville No. 2" votes="7" />
+                <Precinct name="Abbeville No. 3" votes="5" />
+                <Precinct name="Abbeville No. 4" votes="5" />
+                <Precinct name="Antreville" votes="7" />
+                <Precinct name="Broadmouth" votes="3" />
+                <Precinct name="Calhoun Falls" votes="6" />
+                <Precinct name="Cold Springs" votes="6" />
+                <Precinct name="Donalds" votes="2" />
+                <Precinct name="Due West" votes="13" />
+                <Precinct name="Hall's Store" votes="2" />
+                <Precinct name="Keowee" votes="4" />
+                <Precinct name="Lowndesville" votes="8" />
+                <Precinct name="Lebanon" votes="10" />
+                <Precinct name="Absentee" votes="29" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0105" text="U.S. Senate" voteFor="1" isQuestion="false" precinctsReporting="14" precinctsReported="14">
+        <VoteType name="overVotes" votes="1">
+            <Precinct name="Abbeville No. 1" votes="0" />
+            <Precinct name="Abbeville No. 2" votes="0" />
+            <Precinct name="Abbeville No. 3" votes="0" />
+            <Precinct name="Abbeville No. 4" votes="0" />
+            <Precinct name="Antreville" votes="0" />
+            <Precinct name="Broadmouth" votes="0" />
+            <Precinct name="Calhoun Falls" votes="0" />
+            <Precinct name="Cold Springs" votes="0" />
+            <Precinct name="Donalds" votes="0" />
+            <Precinct name="Due West" votes="0" />
+            <Precinct name="Hall's Store" votes="0" />
+            <Precinct name="Keowee" votes="0" />
+            <Precinct name="Lowndesville" votes="0" />
+            <Precinct name="Lebanon" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="1" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="409">
+            <Precinct name="Abbeville No. 1" votes="29" />
+            <Precinct name="Abbeville No. 2" votes="30" />
+            <Precinct name="Abbeville No. 3" votes="15" />
+            <Precinct name="Abbeville No. 4" votes="13" />
+            <Precinct name="Antreville" votes="17" />
+            <Precinct name="Broadmouth" votes="13" />
+            <Precinct name="Calhoun Falls" votes="37" />
+            <Precinct name="Cold Springs" votes="14" />
+            <Precinct name="Donalds" votes="17" />
+            <Precinct name="Due West" votes="16" />
+            <Precinct name="Hall's Store" votes="22" />
+            <Precinct name="Keowee" votes="24" />
+            <Precinct name="Lowndesville" votes="28" />
+            <Precinct name="Lebanon" votes="18" />
+            <Precinct name="Absentee" votes="111" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="4" />
+            <Precinct name="Failsafe Provisional" votes="1" />
+        </VoteType>
+        <Choice key="001" text="Thomas Dixon" party="DEM" totalVotes="3285">
+            <VoteType name="Election Day" votes="3285">
+                <Precinct name="Abbeville No. 1" votes="204" />
+                <Precinct name="Abbeville No. 2" votes="325" />
+                <Precinct name="Abbeville No. 3" votes="179" />
+                <Precinct name="Abbeville No. 4" votes="115" />
+                <Precinct name="Antreville" votes="88" />
+                <Precinct name="Broadmouth" votes="52" />
+                <Precinct name="Calhoun Falls" votes="459" />
+                <Precinct name="Cold Springs" votes="77" />
+                <Precinct name="Donalds" votes="43" />
+                <Precinct name="Due West" votes="207" />
+                <Precinct name="Hall's Store" votes="109" />
+                <Precinct name="Keowee" votes="107" />
+                <Precinct name="Lowndesville" votes="79" />
+                <Precinct name="Lebanon" votes="97" />
+                <Precinct name="Absentee" votes="1121" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="12" />
+                <Precinct name="Failsafe Provisional" votes="11" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Thomas Dixon" party="WFM" totalVotes="226">
+            <VoteType name="Election Day" votes="226">
+                <Precinct name="Abbeville No. 1" votes="15" />
+                <Precinct name="Abbeville No. 2" votes="16" />
+                <Precinct name="Abbeville No. 3" votes="19" />
+                <Precinct name="Abbeville No. 4" votes="4" />
+                <Precinct name="Antreville" votes="12" />
+                <Precinct name="Broadmouth" votes="11" />
+                <Precinct name="Calhoun Falls" votes="35" />
+                <Precinct name="Cold Springs" votes="10" />
+                <Precinct name="Donalds" votes="8" />
+                <Precinct name="Due West" votes="18" />
+                <Precinct name="Hall's Store" votes="7" />
+                <Precinct name="Keowee" votes="18" />
+                <Precinct name="Lowndesville" votes="6" />
+                <Precinct name="Lebanon" votes="7" />
+                <Precinct name="Absentee" votes="38" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Bill Bledsoe" party="CON" totalVotes="79">
+            <VoteType name="Election Day" votes="79">
+                <Precinct name="Abbeville No. 1" votes="9" />
+                <Precinct name="Abbeville No. 2" votes="4" />
+                <Precinct name="Abbeville No. 3" votes="5" />
+                <Precinct name="Abbeville No. 4" votes="8" />
+                <Precinct name="Antreville" votes="4" />
+                <Precinct name="Broadmouth" votes="2" />
+                <Precinct name="Calhoun Falls" votes="3" />
+                <Precinct name="Cold Springs" votes="4" />
+                <Precinct name="Donalds" votes="3" />
+                <Precinct name="Due West" votes="2" />
+                <Precinct name="Hall's Store" votes="2" />
+                <Precinct name="Keowee" votes="7" />
+                <Precinct name="Lowndesville" votes="6" />
+                <Precinct name="Lebanon" votes="6" />
+                <Precinct name="Absentee" votes="14" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Thomas Dixon" party="GRN" totalVotes="59">
+            <VoteType name="Election Day" votes="59">
+                <Precinct name="Abbeville No. 1" votes="3" />
+                <Precinct name="Abbeville No. 2" votes="3" />
+                <Precinct name="Abbeville No. 3" votes="4" />
+                <Precinct name="Abbeville No. 4" votes="3" />
+                <Precinct name="Antreville" votes="4" />
+                <Precinct name="Broadmouth" votes="6" />
+                <Precinct name="Calhoun Falls" votes="2" />
+                <Precinct name="Cold Springs" votes="2" />
+                <Precinct name="Donalds" votes="1" />
+                <Precinct name="Due West" votes="6" />
+                <Precinct name="Hall's Store" votes="0" />
+                <Precinct name="Keowee" votes="7" />
+                <Precinct name="Lowndesville" votes="0" />
+                <Precinct name="Lebanon" votes="0" />
+                <Precinct name="Absentee" votes="18" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Tim Scott" party="REP" totalVotes="6669">
+            <VoteType name="Election Day" votes="6669">
+                <Precinct name="Abbeville No. 1" votes="630" />
+                <Precinct name="Abbeville No. 2" votes="312" />
+                <Precinct name="Abbeville No. 3" votes="286" />
+                <Precinct name="Abbeville No. 4" votes="266" />
+                <Precinct name="Antreville" votes="480" />
+                <Precinct name="Broadmouth" votes="200" />
+                <Precinct name="Calhoun Falls" votes="394" />
+                <Precinct name="Cold Springs" votes="388" />
+                <Precinct name="Donalds" votes="234" />
+                <Precinct name="Due West" votes="536" />
+                <Precinct name="Hall's Store" votes="260" />
+                <Precinct name="Keowee" votes="445" />
+                <Precinct name="Lowndesville" votes="459" />
+                <Precinct name="Lebanon" votes="293" />
+                <Precinct name="Absentee" votes="1463" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="11" />
+                <Precinct name="Failsafe Provisional" votes="11" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Rebel Michael Scarborough" party="AMR" totalVotes="58">
+            <VoteType name="Election Day" votes="58">
+                <Precinct name="Abbeville No. 1" votes="2" />
+                <Precinct name="Abbeville No. 2" votes="4" />
+                <Precinct name="Abbeville No. 3" votes="3" />
+                <Precinct name="Abbeville No. 4" votes="4" />
+                <Precinct name="Antreville" votes="8" />
+                <Precinct name="Broadmouth" votes="2" />
+                <Precinct name="Calhoun Falls" votes="7" />
+                <Precinct name="Cold Springs" votes="1" />
+                <Precinct name="Donalds" votes="3" />
+                <Precinct name="Due West" votes="4" />
+                <Precinct name="Hall's Store" votes="4" />
+                <Precinct name="Keowee" votes="5" />
+                <Precinct name="Lowndesville" votes="1" />
+                <Precinct name="Lebanon" votes="2" />
+                <Precinct name="Absentee" votes="8" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="Bill Bledsoe" party="LIB" totalVotes="88">
+            <VoteType name="Election Day" votes="88">
+                <Precinct name="Abbeville No. 1" votes="5" />
+                <Precinct name="Abbeville No. 2" votes="2" />
+                <Precinct name="Abbeville No. 3" votes="6" />
+                <Precinct name="Abbeville No. 4" votes="8" />
+                <Precinct name="Antreville" votes="8" />
+                <Precinct name="Broadmouth" votes="0" />
+                <Precinct name="Calhoun Falls" votes="5" />
+                <Precinct name="Cold Springs" votes="4" />
+                <Precinct name="Donalds" votes="2" />
+                <Precinct name="Due West" votes="14" />
+                <Precinct name="Hall's Store" votes="1" />
+                <Precinct name="Keowee" votes="3" />
+                <Precinct name="Lowndesville" votes="7" />
+                <Precinct name="Lebanon" votes="10" />
+                <Precinct name="Absentee" votes="13" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="008" text="Write-In" party="NON" totalVotes="6">
+            <VoteType name="Election Day" votes="6">
+                <Precinct name="Abbeville No. 1" votes="1" />
+                <Precinct name="Abbeville No. 2" votes="0" />
+                <Precinct name="Abbeville No. 3" votes="0" />
+                <Precinct name="Abbeville No. 4" votes="0" />
+                <Precinct name="Antreville" votes="0" />
+                <Precinct name="Broadmouth" votes="1" />
+                <Precinct name="Calhoun Falls" votes="0" />
+                <Precinct name="Cold Springs" votes="0" />
+                <Precinct name="Donalds" votes="0" />
+                <Precinct name="Due West" votes="0" />
+                <Precinct name="Hall's Store" votes="0" />
+                <Precinct name="Keowee" votes="1" />
+                <Precinct name="Lowndesville" votes="0" />
+                <Precinct name="Lebanon" votes="0" />
+                <Precinct name="Absentee" votes="3" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0106" text="U.S.  House of Representatives, District  3" voteFor="1" isQuestion="false" precinctsReporting="14" precinctsReported="14">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Abbeville No. 1" votes="0" />
+            <Precinct name="Abbeville No. 2" votes="0" />
+            <Precinct name="Abbeville No. 3" votes="0" />
+            <Precinct name="Abbeville No. 4" votes="0" />
+            <Precinct name="Antreville" votes="0" />
+            <Precinct name="Broadmouth" votes="0" />
+            <Precinct name="Calhoun Falls" votes="0" />
+            <Precinct name="Cold Springs" votes="0" />
+            <Precinct name="Donalds" votes="0" />
+            <Precinct name="Due West" votes="0" />
+            <Precinct name="Hall's Store" votes="0" />
+            <Precinct name="Keowee" votes="0" />
+            <Precinct name="Lowndesville" votes="0" />
+            <Precinct name="Lebanon" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="526">
+            <Precinct name="Abbeville No. 1" votes="35" />
+            <Precinct name="Abbeville No. 2" votes="42" />
+            <Precinct name="Abbeville No. 3" votes="24" />
+            <Precinct name="Abbeville No. 4" votes="13" />
+            <Precinct name="Antreville" votes="25" />
+            <Precinct name="Broadmouth" votes="17" />
+            <Precinct name="Calhoun Falls" votes="51" />
+            <Precinct name="Cold Springs" votes="15" />
+            <Precinct name="Donalds" votes="19" />
+            <Precinct name="Due West" votes="29" />
+            <Precinct name="Hall's Store" votes="18" />
+            <Precinct name="Keowee" votes="28" />
+            <Precinct name="Lowndesville" votes="39" />
+            <Precinct name="Lebanon" votes="23" />
+            <Precinct name="Absentee" votes="144" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="3" />
+            <Precinct name="Failsafe Provisional" votes="1" />
+        </VoteType>
+        <Choice key="001" text="Hosea Cleveland" party="DEM" totalVotes="3487">
+            <VoteType name="Election Day" votes="3487">
+                <Precinct name="Abbeville No. 1" votes="229" />
+                <Precinct name="Abbeville No. 2" votes="345" />
+                <Precinct name="Abbeville No. 3" votes="197" />
+                <Precinct name="Abbeville No. 4" votes="121" />
+                <Precinct name="Antreville" votes="101" />
+                <Precinct name="Broadmouth" votes="58" />
+                <Precinct name="Calhoun Falls" votes="495" />
+                <Precinct name="Cold Springs" votes="80" />
+                <Precinct name="Donalds" votes="43" />
+                <Precinct name="Due West" votes="226" />
+                <Precinct name="Hall's Store" votes="116" />
+                <Precinct name="Keowee" votes="113" />
+                <Precinct name="Lowndesville" votes="86" />
+                <Precinct name="Lebanon" votes="100" />
+                <Precinct name="Absentee" votes="1151" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="14" />
+                <Precinct name="Failsafe Provisional" votes="12" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Jeff Duncan" party="REP" totalVotes="6859">
+            <VoteType name="Election Day" votes="6859">
+                <Precinct name="Abbeville No. 1" votes="634" />
+                <Precinct name="Abbeville No. 2" votes="309" />
+                <Precinct name="Abbeville No. 3" votes="296" />
+                <Precinct name="Abbeville No. 4" votes="287" />
+                <Precinct name="Antreville" votes="495" />
+                <Precinct name="Broadmouth" votes="211" />
+                <Precinct name="Calhoun Falls" votes="396" />
+                <Precinct name="Cold Springs" votes="405" />
+                <Precinct name="Donalds" votes="249" />
+                <Precinct name="Due West" votes="548" />
+                <Precinct name="Hall's Store" votes="271" />
+                <Precinct name="Keowee" votes="475" />
+                <Precinct name="Lowndesville" votes="461" />
+                <Precinct name="Lebanon" votes="310" />
+                <Precinct name="Absentee" votes="1490" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="12" />
+                <Precinct name="Failsafe Provisional" votes="9" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="6">
+            <VoteType name="Election Day" votes="6">
+                <Precinct name="Abbeville No. 1" votes="0" />
+                <Precinct name="Abbeville No. 2" votes="0" />
+                <Precinct name="Abbeville No. 3" votes="0" />
+                <Precinct name="Abbeville No. 4" votes="0" />
+                <Precinct name="Antreville" votes="0" />
+                <Precinct name="Broadmouth" votes="1" />
+                <Precinct name="Calhoun Falls" votes="0" />
+                <Precinct name="Cold Springs" votes="0" />
+                <Precinct name="Donalds" votes="0" />
+                <Precinct name="Due West" votes="0" />
+                <Precinct name="Hall's Store" votes="0" />
+                <Precinct name="Keowee" votes="1" />
+                <Precinct name="Lowndesville" votes="0" />
+                <Precinct name="Lebanon" votes="0" />
+                <Precinct name="Absentee" votes="4" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0107" text="State  Senate, District  4" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Broadmouth" votes="0" />
+            <Precinct name="Donalds" votes="0" />
+            <Precinct name="Hall's Store" votes="0" />
+            <Precinct name="Keowee" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="227">
+            <Precinct name="Broadmouth" votes="56" />
+            <Precinct name="Donalds" votes="40" />
+            <Precinct name="Hall's Store" votes="108" />
+            <Precinct name="Keowee" votes="0" />
+            <Precinct name="Absentee" votes="21" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="2" />
+        </VoteType>
+        <Choice key="001" text="Michael W Gambrell" party="REP" totalVotes="896">
+            <VoteType name="Election Day" votes="896">
+                <Precinct name="Broadmouth" votes="230" />
+                <Precinct name="Donalds" votes="269" />
+                <Precinct name="Hall's Store" votes="296" />
+                <Precinct name="Keowee" votes="6" />
+                <Precinct name="Absentee" votes="89" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="6" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="6">
+            <VoteType name="Election Day" votes="6">
+                <Precinct name="Broadmouth" votes="1" />
+                <Precinct name="Donalds" votes="2" />
+                <Precinct name="Hall's Store" votes="1" />
+                <Precinct name="Keowee" votes="0" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0108" text="State  Senate, District  10" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Abbeville No. 1" votes="0" />
+            <Precinct name="Abbeville No. 2" votes="0" />
+            <Precinct name="Abbeville No. 3" votes="0" />
+            <Precinct name="Abbeville No. 4" votes="0" />
+            <Precinct name="Antreville" votes="0" />
+            <Precinct name="Calhoun Falls" votes="0" />
+            <Precinct name="Cold Springs" votes="0" />
+            <Precinct name="Due West" votes="0" />
+            <Precinct name="Keowee" votes="0" />
+            <Precinct name="Lowndesville" votes="0" />
+            <Precinct name="Lebanon" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="371">
+            <Precinct name="Abbeville No. 1" votes="29" />
+            <Precinct name="Abbeville No. 2" votes="26" />
+            <Precinct name="Abbeville No. 3" votes="19" />
+            <Precinct name="Abbeville No. 4" votes="8" />
+            <Precinct name="Antreville" votes="26" />
+            <Precinct name="Calhoun Falls" votes="29" />
+            <Precinct name="Cold Springs" votes="15" />
+            <Precinct name="Due West" votes="24" />
+            <Precinct name="Keowee" votes="29" />
+            <Precinct name="Lowndesville" votes="42" />
+            <Precinct name="Lebanon" votes="16" />
+            <Precinct name="Absentee" votes="105" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="3" />
+        </VoteType>
+        <Choice key="001" text="Floyd Nicholson" party="DEM" totalVotes="4282">
+            <VoteType name="Election Day" votes="4282">
+                <Precinct name="Abbeville No. 1" votes="377" />
+                <Precinct name="Abbeville No. 2" votes="416" />
+                <Precinct name="Abbeville No. 3" votes="250" />
+                <Precinct name="Abbeville No. 4" votes="166" />
+                <Precinct name="Antreville" votes="155" />
+                <Precinct name="Calhoun Falls" votes="562" />
+                <Precinct name="Cold Springs" votes="152" />
+                <Precinct name="Due West" votes="310" />
+                <Precinct name="Keowee" votes="156" />
+                <Precinct name="Lowndesville" votes="131" />
+                <Precinct name="Lebanon" votes="158" />
+                <Precinct name="Absentee" votes="1435" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="13" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="J Bryan Hope" party="REP" totalVotes="5071">
+            <VoteType name="Election Day" votes="5071">
+                <Precinct name="Abbeville No. 1" votes="492" />
+                <Precinct name="Abbeville No. 2" votes="254" />
+                <Precinct name="Abbeville No. 3" votes="248" />
+                <Precinct name="Abbeville No. 4" votes="247" />
+                <Precinct name="Antreville" votes="440" />
+                <Precinct name="Calhoun Falls" votes="351" />
+                <Precinct name="Cold Springs" votes="333" />
+                <Precinct name="Due West" votes="469" />
+                <Precinct name="Keowee" votes="425" />
+                <Precinct name="Lowndesville" votes="413" />
+                <Precinct name="Lebanon" votes="259" />
+                <Precinct name="Absentee" votes="1135" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="5" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="3">
+            <VoteType name="Election Day" votes="3">
+                <Precinct name="Abbeville No. 1" votes="0" />
+                <Precinct name="Abbeville No. 2" votes="0" />
+                <Precinct name="Abbeville No. 3" votes="0" />
+                <Precinct name="Abbeville No. 4" votes="0" />
+                <Precinct name="Antreville" votes="0" />
+                <Precinct name="Calhoun Falls" votes="0" />
+                <Precinct name="Cold Springs" votes="0" />
+                <Precinct name="Due West" votes="0" />
+                <Precinct name="Keowee" votes="1" />
+                <Precinct name="Lowndesville" votes="0" />
+                <Precinct name="Lebanon" votes="0" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0109" text="State  House of Representatives, District  7" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Broadmouth" votes="0" />
+            <Precinct name="Keowee" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="23">
+            <Precinct name="Broadmouth" votes="21" />
+            <Precinct name="Keowee" votes="1" />
+            <Precinct name="Absentee" votes="1" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Jay West" party="REP" totalVotes="17">
+            <VoteType name="Election Day" votes="17">
+                <Precinct name="Broadmouth" votes="12" />
+                <Precinct name="Keowee" votes="3" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="0">
+            <VoteType name="Election Day" votes="0">
+                <Precinct name="Broadmouth" votes="0" />
+                <Precinct name="Keowee" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0110" text="State  House of Representatives, District  11" voteFor="1" isQuestion="false" precinctsReporting="14" precinctsReported="14">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Abbeville No. 1" votes="0" />
+            <Precinct name="Abbeville No. 2" votes="0" />
+            <Precinct name="Abbeville No. 3" votes="0" />
+            <Precinct name="Abbeville No. 4" votes="0" />
+            <Precinct name="Antreville" votes="0" />
+            <Precinct name="Broadmouth" votes="0" />
+            <Precinct name="Calhoun Falls" votes="0" />
+            <Precinct name="Cold Springs" votes="0" />
+            <Precinct name="Donalds" votes="0" />
+            <Precinct name="Due West" votes="0" />
+            <Precinct name="Hall's Store" votes="0" />
+            <Precinct name="Keowee" votes="0" />
+            <Precinct name="Lowndesville" votes="0" />
+            <Precinct name="Lebanon" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="3056">
+            <Precinct name="Abbeville No. 1" votes="189" />
+            <Precinct name="Abbeville No. 2" votes="268" />
+            <Precinct name="Abbeville No. 3" votes="149" />
+            <Precinct name="Abbeville No. 4" votes="94" />
+            <Precinct name="Antreville" votes="102" />
+            <Precinct name="Broadmouth" votes="34" />
+            <Precinct name="Calhoun Falls" votes="438" />
+            <Precinct name="Cold Springs" votes="60" />
+            <Precinct name="Donalds" votes="42" />
+            <Precinct name="Due West" votes="194" />
+            <Precinct name="Hall's Store" votes="118" />
+            <Precinct name="Keowee" votes="108" />
+            <Precinct name="Lowndesville" votes="92" />
+            <Precinct name="Lebanon" votes="102" />
+            <Precinct name="Absentee" votes="1051" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="15" />
+        </VoteType>
+        <Choice key="001" text="Craig Gagnon" party="REP" totalVotes="7699">
+            <VoteType name="Election Day" votes="7699">
+                <Precinct name="Abbeville No. 1" votes="706" />
+                <Precinct name="Abbeville No. 2" votes="419" />
+                <Precinct name="Abbeville No. 3" votes="364" />
+                <Precinct name="Abbeville No. 4" votes="325" />
+                <Precinct name="Antreville" votes="518" />
+                <Precinct name="Broadmouth" votes="220" />
+                <Precinct name="Calhoun Falls" votes="500" />
+                <Precinct name="Cold Springs" votes="439" />
+                <Precinct name="Donalds" votes="269" />
+                <Precinct name="Due West" votes="603" />
+                <Precinct name="Hall's Store" votes="287" />
+                <Precinct name="Keowee" votes="503" />
+                <Precinct name="Lowndesville" votes="491" />
+                <Precinct name="Lebanon" votes="330" />
+                <Precinct name="Absentee" votes="1712" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="12" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="61">
+            <VoteType name="Election Day" votes="61">
+                <Precinct name="Abbeville No. 1" votes="3" />
+                <Precinct name="Abbeville No. 2" votes="9" />
+                <Precinct name="Abbeville No. 3" votes="4" />
+                <Precinct name="Abbeville No. 4" votes="2" />
+                <Precinct name="Antreville" votes="1" />
+                <Precinct name="Broadmouth" votes="0" />
+                <Precinct name="Calhoun Falls" votes="4" />
+                <Precinct name="Cold Springs" votes="1" />
+                <Precinct name="Donalds" votes="0" />
+                <Precinct name="Due West" votes="6" />
+                <Precinct name="Hall's Store" votes="0" />
+                <Precinct name="Keowee" votes="2" />
+                <Precinct name="Lowndesville" votes="3" />
+                <Precinct name="Lebanon" votes="1" />
+                <Precinct name="Absentee" votes="24" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0111" text=" Solicitor, Circuit  8" voteFor="1" isQuestion="false" precinctsReporting="14" precinctsReported="14">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Abbeville No. 1" votes="0" />
+            <Precinct name="Abbeville No. 2" votes="0" />
+            <Precinct name="Abbeville No. 3" votes="0" />
+            <Precinct name="Abbeville No. 4" votes="0" />
+            <Precinct name="Antreville" votes="0" />
+            <Precinct name="Broadmouth" votes="0" />
+            <Precinct name="Calhoun Falls" votes="0" />
+            <Precinct name="Cold Springs" votes="0" />
+            <Precinct name="Donalds" votes="0" />
+            <Precinct name="Due West" votes="0" />
+            <Precinct name="Hall's Store" votes="0" />
+            <Precinct name="Keowee" votes="0" />
+            <Precinct name="Lowndesville" votes="0" />
+            <Precinct name="Lebanon" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="3218">
+            <Precinct name="Abbeville No. 1" votes="205" />
+            <Precinct name="Abbeville No. 2" votes="264" />
+            <Precinct name="Abbeville No. 3" votes="161" />
+            <Precinct name="Abbeville No. 4" votes="108" />
+            <Precinct name="Antreville" votes="103" />
+            <Precinct name="Broadmouth" votes="60" />
+            <Precinct name="Calhoun Falls" votes="468" />
+            <Precinct name="Cold Springs" votes="72" />
+            <Precinct name="Donalds" votes="44" />
+            <Precinct name="Due West" votes="196" />
+            <Precinct name="Hall's Store" votes="111" />
+            <Precinct name="Keowee" votes="114" />
+            <Precinct name="Lowndesville" votes="99" />
+            <Precinct name="Lebanon" votes="106" />
+            <Precinct name="Absentee" votes="1084" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="15" />
+            <Precinct name="Failsafe Provisional" votes="8" />
+        </VoteType>
+        <Choice key="001" text="David Stumbo" party="REP" totalVotes="7621">
+            <VoteType name="Election Day" votes="7621">
+                <Precinct name="Abbeville No. 1" votes="692" />
+                <Precinct name="Abbeville No. 2" votes="427" />
+                <Precinct name="Abbeville No. 3" votes="355" />
+                <Precinct name="Abbeville No. 4" votes="312" />
+                <Precinct name="Antreville" votes="518" />
+                <Precinct name="Broadmouth" votes="227" />
+                <Precinct name="Calhoun Falls" votes="471" />
+                <Precinct name="Cold Springs" votes="428" />
+                <Precinct name="Donalds" votes="267" />
+                <Precinct name="Due West" votes="604" />
+                <Precinct name="Hall's Store" votes="294" />
+                <Precinct name="Keowee" votes="500" />
+                <Precinct name="Lowndesville" votes="487" />
+                <Precinct name="Lebanon" votes="327" />
+                <Precinct name="Absentee" votes="1682" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="13" />
+                <Precinct name="Failsafe Provisional" votes="16" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="41">
+            <VoteType name="Election Day" votes="41">
+                <Precinct name="Abbeville No. 1" votes="1" />
+                <Precinct name="Abbeville No. 2" votes="5" />
+                <Precinct name="Abbeville No. 3" votes="1" />
+                <Precinct name="Abbeville No. 4" votes="1" />
+                <Precinct name="Antreville" votes="0" />
+                <Precinct name="Broadmouth" votes="0" />
+                <Precinct name="Calhoun Falls" votes="3" />
+                <Precinct name="Cold Springs" votes="0" />
+                <Precinct name="Donalds" votes="0" />
+                <Precinct name="Due West" votes="3" />
+                <Precinct name="Hall's Store" votes="0" />
+                <Precinct name="Keowee" votes="3" />
+                <Precinct name="Lowndesville" votes="0" />
+                <Precinct name="Lebanon" votes="0" />
+                <Precinct name="Absentee" votes="23" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0112" text="Sheriff" voteFor="1" isQuestion="false" precinctsReporting="14" precinctsReported="14">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Abbeville No. 1" votes="0" />
+            <Precinct name="Abbeville No. 2" votes="0" />
+            <Precinct name="Abbeville No. 3" votes="0" />
+            <Precinct name="Abbeville No. 4" votes="0" />
+            <Precinct name="Antreville" votes="0" />
+            <Precinct name="Broadmouth" votes="0" />
+            <Precinct name="Calhoun Falls" votes="0" />
+            <Precinct name="Cold Springs" votes="0" />
+            <Precinct name="Donalds" votes="0" />
+            <Precinct name="Due West" votes="0" />
+            <Precinct name="Hall's Store" votes="0" />
+            <Precinct name="Keowee" votes="0" />
+            <Precinct name="Lowndesville" votes="0" />
+            <Precinct name="Lebanon" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="2423">
+            <Precinct name="Abbeville No. 1" votes="184" />
+            <Precinct name="Abbeville No. 2" votes="118" />
+            <Precinct name="Abbeville No. 3" votes="101" />
+            <Precinct name="Abbeville No. 4" votes="86" />
+            <Precinct name="Antreville" votes="185" />
+            <Precinct name="Broadmouth" votes="71" />
+            <Precinct name="Calhoun Falls" votes="188" />
+            <Precinct name="Cold Springs" votes="89" />
+            <Precinct name="Donalds" votes="87" />
+            <Precinct name="Due West" votes="152" />
+            <Precinct name="Hall's Store" votes="104" />
+            <Precinct name="Keowee" votes="179" />
+            <Precinct name="Lowndesville" votes="219" />
+            <Precinct name="Lebanon" votes="90" />
+            <Precinct name="Absentee" votes="558" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="8" />
+            <Precinct name="Failsafe Provisional" votes="4" />
+        </VoteType>
+        <Choice key="001" text="Ray Watson" party="DEM" totalVotes="8319">
+            <VoteType name="Election Day" votes="8319">
+                <Precinct name="Abbeville No. 1" votes="699" />
+                <Precinct name="Abbeville No. 2" votes="568" />
+                <Precinct name="Abbeville No. 3" votes="411" />
+                <Precinct name="Abbeville No. 4" votes="328" />
+                <Precinct name="Antreville" votes="432" />
+                <Precinct name="Broadmouth" votes="213" />
+                <Precinct name="Calhoun Falls" votes="728" />
+                <Precinct name="Cold Springs" votes="405" />
+                <Precinct name="Donalds" votes="219" />
+                <Precinct name="Due West" votes="639" />
+                <Precinct name="Hall's Store" votes="297" />
+                <Precinct name="Keowee" votes="429" />
+                <Precinct name="Lowndesville" votes="363" />
+                <Precinct name="Lebanon" votes="340" />
+                <Precinct name="Absentee" votes="2206" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="21" />
+                <Precinct name="Failsafe Provisional" votes="20" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="138">
+            <VoteType name="Election Day" votes="138">
+                <Precinct name="Abbeville No. 1" votes="15" />
+                <Precinct name="Abbeville No. 2" votes="10" />
+                <Precinct name="Abbeville No. 3" votes="5" />
+                <Precinct name="Abbeville No. 4" votes="7" />
+                <Precinct name="Antreville" votes="4" />
+                <Precinct name="Broadmouth" votes="3" />
+                <Precinct name="Calhoun Falls" votes="26" />
+                <Precinct name="Cold Springs" votes="6" />
+                <Precinct name="Donalds" votes="5" />
+                <Precinct name="Due West" votes="12" />
+                <Precinct name="Hall's Store" votes="4" />
+                <Precinct name="Keowee" votes="9" />
+                <Precinct name="Lowndesville" votes="4" />
+                <Precinct name="Lebanon" votes="3" />
+                <Precinct name="Absentee" votes="25" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0113" text="Clerk of Court" voteFor="1" isQuestion="false" precinctsReporting="14" precinctsReported="14">
+        <VoteType name="overVotes" votes="1">
+            <Precinct name="Abbeville No. 1" votes="0" />
+            <Precinct name="Abbeville No. 2" votes="0" />
+            <Precinct name="Abbeville No. 3" votes="0" />
+            <Precinct name="Abbeville No. 4" votes="0" />
+            <Precinct name="Antreville" votes="0" />
+            <Precinct name="Broadmouth" votes="0" />
+            <Precinct name="Calhoun Falls" votes="0" />
+            <Precinct name="Cold Springs" votes="0" />
+            <Precinct name="Donalds" votes="0" />
+            <Precinct name="Due West" votes="0" />
+            <Precinct name="Hall's Store" votes="0" />
+            <Precinct name="Keowee" votes="0" />
+            <Precinct name="Lowndesville" votes="0" />
+            <Precinct name="Lebanon" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="1" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="2997">
+            <Precinct name="Abbeville No. 1" votes="178" />
+            <Precinct name="Abbeville No. 2" votes="258" />
+            <Precinct name="Abbeville No. 3" votes="153" />
+            <Precinct name="Abbeville No. 4" votes="94" />
+            <Precinct name="Antreville" votes="94" />
+            <Precinct name="Broadmouth" votes="58" />
+            <Precinct name="Calhoun Falls" votes="411" />
+            <Precinct name="Cold Springs" votes="66" />
+            <Precinct name="Donalds" votes="41" />
+            <Precinct name="Due West" votes="185" />
+            <Precinct name="Hall's Store" votes="109" />
+            <Precinct name="Keowee" votes="106" />
+            <Precinct name="Lowndesville" votes="84" />
+            <Precinct name="Lebanon" votes="103" />
+            <Precinct name="Absentee" votes="1034" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="15" />
+            <Precinct name="Failsafe Provisional" votes="8" />
+        </VoteType>
+        <Choice key="001" text="Emily Yeargin McMahan" party="REP" totalVotes="7822">
+            <VoteType name="Election Day" votes="7822">
+                <Precinct name="Abbeville No. 1" votes="719" />
+                <Precinct name="Abbeville No. 2" votes="430" />
+                <Precinct name="Abbeville No. 3" votes="363" />
+                <Precinct name="Abbeville No. 4" votes="324" />
+                <Precinct name="Antreville" votes="526" />
+                <Precinct name="Broadmouth" votes="228" />
+                <Precinct name="Calhoun Falls" votes="529" />
+                <Precinct name="Cold Springs" votes="433" />
+                <Precinct name="Donalds" votes="268" />
+                <Precinct name="Due West" votes="615" />
+                <Precinct name="Hall's Store" votes="295" />
+                <Precinct name="Keowee" votes="510" />
+                <Precinct name="Lowndesville" votes="501" />
+                <Precinct name="Lebanon" votes="327" />
+                <Precinct name="Absentee" votes="1725" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="13" />
+                <Precinct name="Failsafe Provisional" votes="15" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="60">
+            <VoteType name="Election Day" votes="60">
+                <Precinct name="Abbeville No. 1" votes="1" />
+                <Precinct name="Abbeville No. 2" votes="8" />
+                <Precinct name="Abbeville No. 3" votes="1" />
+                <Precinct name="Abbeville No. 4" votes="3" />
+                <Precinct name="Antreville" votes="1" />
+                <Precinct name="Broadmouth" votes="1" />
+                <Precinct name="Calhoun Falls" votes="2" />
+                <Precinct name="Cold Springs" votes="1" />
+                <Precinct name="Donalds" votes="2" />
+                <Precinct name="Due West" votes="3" />
+                <Precinct name="Hall's Store" votes="1" />
+                <Precinct name="Keowee" votes="1" />
+                <Precinct name="Lowndesville" votes="1" />
+                <Precinct name="Lebanon" votes="3" />
+                <Precinct name="Absentee" votes="30" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0114" text="Coroner" voteFor="1" isQuestion="false" precinctsReporting="14" precinctsReported="14">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Abbeville No. 1" votes="0" />
+            <Precinct name="Abbeville No. 2" votes="0" />
+            <Precinct name="Abbeville No. 3" votes="0" />
+            <Precinct name="Abbeville No. 4" votes="0" />
+            <Precinct name="Antreville" votes="0" />
+            <Precinct name="Broadmouth" votes="0" />
+            <Precinct name="Calhoun Falls" votes="0" />
+            <Precinct name="Cold Springs" votes="0" />
+            <Precinct name="Donalds" votes="0" />
+            <Precinct name="Due West" votes="0" />
+            <Precinct name="Hall's Store" votes="0" />
+            <Precinct name="Keowee" votes="0" />
+            <Precinct name="Lowndesville" votes="0" />
+            <Precinct name="Lebanon" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="2118">
+            <Precinct name="Abbeville No. 1" votes="165" />
+            <Precinct name="Abbeville No. 2" votes="106" />
+            <Precinct name="Abbeville No. 3" votes="86" />
+            <Precinct name="Abbeville No. 4" votes="74" />
+            <Precinct name="Antreville" votes="161" />
+            <Precinct name="Broadmouth" votes="54" />
+            <Precinct name="Calhoun Falls" votes="159" />
+            <Precinct name="Cold Springs" votes="82" />
+            <Precinct name="Donalds" votes="64" />
+            <Precinct name="Due West" votes="139" />
+            <Precinct name="Hall's Store" votes="73" />
+            <Precinct name="Keowee" votes="155" />
+            <Precinct name="Lowndesville" votes="188" />
+            <Precinct name="Lebanon" votes="82" />
+            <Precinct name="Absentee" votes="520" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="6" />
+            <Precinct name="Failsafe Provisional" votes="4" />
+        </VoteType>
+        <Choice key="001" text="Ronnie Ashley" party="DEM" totalVotes="8702">
+            <VoteType name="Election Day" votes="8702">
+                <Precinct name="Abbeville No. 1" votes="727" />
+                <Precinct name="Abbeville No. 2" votes="587" />
+                <Precinct name="Abbeville No. 3" votes="427" />
+                <Precinct name="Abbeville No. 4" votes="347" />
+                <Precinct name="Antreville" votes="459" />
+                <Precinct name="Broadmouth" votes="233" />
+                <Precinct name="Calhoun Falls" votes="769" />
+                <Precinct name="Cold Springs" votes="415" />
+                <Precinct name="Donalds" votes="246" />
+                <Precinct name="Due West" votes="660" />
+                <Precinct name="Hall's Store" votes="331" />
+                <Precinct name="Keowee" votes="456" />
+                <Precinct name="Lowndesville" votes="394" />
+                <Precinct name="Lebanon" votes="350" />
+                <Precinct name="Absentee" votes="2257" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="23" />
+                <Precinct name="Failsafe Provisional" votes="20" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="60">
+            <VoteType name="Election Day" votes="60">
+                <Precinct name="Abbeville No. 1" votes="6" />
+                <Precinct name="Abbeville No. 2" votes="3" />
+                <Precinct name="Abbeville No. 3" votes="4" />
+                <Precinct name="Abbeville No. 4" votes="0" />
+                <Precinct name="Antreville" votes="1" />
+                <Precinct name="Broadmouth" votes="0" />
+                <Precinct name="Calhoun Falls" votes="14" />
+                <Precinct name="Cold Springs" votes="3" />
+                <Precinct name="Donalds" votes="1" />
+                <Precinct name="Due West" votes="4" />
+                <Precinct name="Hall's Store" votes="1" />
+                <Precinct name="Keowee" votes="6" />
+                <Precinct name="Lowndesville" votes="4" />
+                <Precinct name="Lebanon" votes="1" />
+                <Precinct name="Absentee" votes="12" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0115" text="County Council District 3" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Abbeville No. 1" votes="0" />
+            <Precinct name="Abbeville No. 2" votes="0" />
+            <Precinct name="Cold Springs" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="250">
+            <Precinct name="Abbeville No. 1" votes="79" />
+            <Precinct name="Abbeville No. 2" votes="49" />
+            <Precinct name="Cold Springs" votes="0" />
+            <Precinct name="Absentee" votes="122" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Charles H Goodwin" party="DEM" totalVotes="1297">
+            <VoteType name="Election Day" votes="1297">
+                <Precinct name="Abbeville No. 1" votes="261" />
+                <Precinct name="Abbeville No. 2" votes="434" />
+                <Precinct name="Cold Springs" votes="21" />
+                <Precinct name="Absentee" votes="572" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="9" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="26">
+            <VoteType name="Election Day" votes="26">
+                <Precinct name="Abbeville No. 1" votes="13" />
+                <Precinct name="Abbeville No. 2" votes="4" />
+                <Precinct name="Cold Springs" votes="1" />
+                <Precinct name="Absentee" votes="8" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0116" text="County Council District 4" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Abbeville No. 1" votes="0" />
+            <Precinct name="Abbeville No. 2" votes="0" />
+            <Precinct name="Abbeville No. 3" votes="0" />
+            <Precinct name="Abbeville No. 4" votes="0" />
+            <Precinct name="Lebanon" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="50">
+            <Precinct name="Abbeville No. 1" votes="10" />
+            <Precinct name="Abbeville No. 2" votes="2" />
+            <Precinct name="Abbeville No. 3" votes="11" />
+            <Precinct name="Abbeville No. 4" votes="3" />
+            <Precinct name="Lebanon" votes="0" />
+            <Precinct name="Absentee" votes="23" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="1" />
+        </VoteType>
+        <Choice key="001" text="Billy Norris" party="DEM" totalVotes="723">
+            <VoteType name="Election Day" votes="723">
+                <Precinct name="Abbeville No. 1" votes="126" />
+                <Precinct name="Abbeville No. 2" votes="15" />
+                <Precinct name="Abbeville No. 3" votes="174" />
+                <Precinct name="Abbeville No. 4" votes="110" />
+                <Precinct name="Lebanon" votes="13" />
+                <Precinct name="Absentee" votes="284" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Harold Prince" party="REP" totalVotes="882">
+            <VoteType name="Election Day" votes="882">
+                <Precinct name="Abbeville No. 1" votes="234" />
+                <Precinct name="Abbeville No. 2" votes="25" />
+                <Precinct name="Abbeville No. 3" votes="173" />
+                <Precinct name="Abbeville No. 4" votes="114" />
+                <Precinct name="Lebanon" votes="7" />
+                <Precinct name="Absentee" votes="329" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="3">
+            <VoteType name="Election Day" votes="3">
+                <Precinct name="Abbeville No. 1" votes="0" />
+                <Precinct name="Abbeville No. 2" votes="0" />
+                <Precinct name="Abbeville No. 3" votes="1" />
+                <Precinct name="Abbeville No. 4" votes="0" />
+                <Precinct name="Lebanon" votes="0" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0117" text="County Council District 5" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Abbeville No. 1" votes="0" />
+            <Precinct name="Abbeville No. 2" votes="0" />
+            <Precinct name="Abbeville No. 3" votes="0" />
+            <Precinct name="Cold Springs" votes="0" />
+            <Precinct name="Due West" votes="0" />
+            <Precinct name="Keowee" votes="0" />
+            <Precinct name="Lebanon" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="77">
+            <Precinct name="Abbeville No. 1" votes="15" />
+            <Precinct name="Abbeville No. 2" votes="9" />
+            <Precinct name="Abbeville No. 3" votes="1" />
+            <Precinct name="Cold Springs" votes="9" />
+            <Precinct name="Due West" votes="10" />
+            <Precinct name="Keowee" votes="0" />
+            <Precinct name="Lebanon" votes="8" />
+            <Precinct name="Absentee" votes="23" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="2" />
+        </VoteType>
+        <Choice key="001" text="James P McCord" party="DEM" totalVotes="854">
+            <VoteType name="Election Day" votes="854">
+                <Precinct name="Abbeville No. 1" votes="66" />
+                <Precinct name="Abbeville No. 2" votes="54" />
+                <Precinct name="Abbeville No. 3" votes="20" />
+                <Precinct name="Cold Springs" votes="233" />
+                <Precinct name="Due West" votes="133" />
+                <Precinct name="Keowee" votes="7" />
+                <Precinct name="Lebanon" votes="80" />
+                <Precinct name="Absentee" votes="260" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Kristi Smith Grigsby" party="REP" totalVotes="862">
+            <VoteType name="Election Day" votes="862">
+                <Precinct name="Abbeville No. 1" votes="94" />
+                <Precinct name="Abbeville No. 2" votes="104" />
+                <Precinct name="Abbeville No. 3" votes="6" />
+                <Precinct name="Cold Springs" votes="228" />
+                <Precinct name="Due West" votes="102" />
+                <Precinct name="Keowee" votes="7" />
+                <Precinct name="Lebanon" votes="68" />
+                <Precinct name="Absentee" votes="252" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="1">
+            <VoteType name="Election Day" votes="1">
+                <Precinct name="Abbeville No. 1" votes="0" />
+                <Precinct name="Abbeville No. 2" votes="0" />
+                <Precinct name="Abbeville No. 3" votes="0" />
+                <Precinct name="Cold Springs" votes="0" />
+                <Precinct name="Due West" votes="1" />
+                <Precinct name="Keowee" votes="0" />
+                <Precinct name="Lebanon" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0118" text="County Council District 6" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Abbeville No. 4" votes="0" />
+            <Precinct name="Antreville" votes="0" />
+            <Precinct name="Calhoun Falls" votes="0" />
+            <Precinct name="Lowndesville" votes="0" />
+            <Precinct name="Lebanon" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="57">
+            <Precinct name="Abbeville No. 4" votes="1" />
+            <Precinct name="Antreville" votes="16" />
+            <Precinct name="Calhoun Falls" votes="2" />
+            <Precinct name="Lowndesville" votes="31" />
+            <Precinct name="Lebanon" votes="0" />
+            <Precinct name="Absentee" votes="7" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Joseph E Cade" party="DEM" totalVotes="437">
+            <VoteType name="Election Day" votes="437">
+                <Precinct name="Abbeville No. 4" votes="4" />
+                <Precinct name="Antreville" votes="52" />
+                <Precinct name="Calhoun Falls" votes="217" />
+                <Precinct name="Lowndesville" votes="102" />
+                <Precinct name="Lebanon" votes="0" />
+                <Precinct name="Absentee" votes="61" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Rick Campbell" party="REP" totalVotes="1031">
+            <VoteType name="Election Day" votes="1031">
+                <Precinct name="Abbeville No. 4" votes="55" />
+                <Precinct name="Antreville" votes="298" />
+                <Precinct name="Calhoun Falls" votes="100" />
+                <Precinct name="Lowndesville" votes="419" />
+                <Precinct name="Lebanon" votes="3" />
+                <Precinct name="Absentee" votes="156" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="3">
+            <VoteType name="Election Day" votes="3">
+                <Precinct name="Abbeville No. 4" votes="0" />
+                <Precinct name="Antreville" votes="0" />
+                <Precinct name="Calhoun Falls" votes="0" />
+                <Precinct name="Lowndesville" votes="2" />
+                <Precinct name="Lebanon" votes="0" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0119" text="School Board District 2" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Abbeville No. 1" votes="0" />
+            <Precinct name="Abbeville No. 2" votes="0" />
+            <Precinct name="Cold Springs" votes="0" />
+            <Precinct name="Due West" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="491">
+            <Precinct name="Abbeville No. 1" votes="112" />
+            <Precinct name="Abbeville No. 2" votes="38" />
+            <Precinct name="Cold Springs" votes="27" />
+            <Precinct name="Due West" votes="132" />
+            <Precinct name="Absentee" votes="180" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="2" />
+        </VoteType>
+        <Choice key="001" text="Brandon M Adger" party="NON" totalVotes="533">
+            <VoteType name="Election Day" votes="533">
+                <Precinct name="Abbeville No. 1" votes="128" />
+                <Precinct name="Abbeville No. 2" votes="17" />
+                <Precinct name="Cold Springs" votes="43" />
+                <Precinct name="Due West" votes="197" />
+                <Precinct name="Absentee" votes="148" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Joe Lewis Boochie Bryson" party="NON" totalVotes="349">
+            <VoteType name="Election Day" votes="349">
+                <Precinct name="Abbeville No. 1" votes="59" />
+                <Precinct name="Abbeville No. 2" votes="59" />
+                <Precinct name="Cold Springs" votes="15" />
+                <Precinct name="Due West" votes="89" />
+                <Precinct name="Absentee" votes="125" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="7">
+            <VoteType name="Election Day" votes="7">
+                <Precinct name="Abbeville No. 1" votes="1" />
+                <Precinct name="Abbeville No. 2" votes="0" />
+                <Precinct name="Cold Springs" votes="0" />
+                <Precinct name="Due West" votes="1" />
+                <Precinct name="Absentee" votes="5" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0120" text="School Board District 4" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Antreville" votes="0" />
+            <Precinct name="Calhoun Falls" votes="0" />
+            <Precinct name="Lowndesville" votes="0" />
+            <Precinct name="Lebanon" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="479">
+            <Precinct name="Antreville" votes="0" />
+            <Precinct name="Calhoun Falls" votes="206" />
+            <Precinct name="Lowndesville" votes="148" />
+            <Precinct name="Lebanon" votes="39" />
+            <Precinct name="Absentee" votes="85" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="1" />
+        </VoteType>
+        <Choice key="001" text="Buster Taylor" party="NON" totalVotes="615">
+            <VoteType name="Election Day" votes="615">
+                <Precinct name="Antreville" votes="1" />
+                <Precinct name="Calhoun Falls" votes="310" />
+                <Precinct name="Lowndesville" votes="173" />
+                <Precinct name="Lebanon" votes="49" />
+                <Precinct name="Absentee" votes="82" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="3">
+            <VoteType name="Election Day" votes="3">
+                <Precinct name="Antreville" votes="0" />
+                <Precinct name="Calhoun Falls" votes="3" />
+                <Precinct name="Lowndesville" votes="0" />
+                <Precinct name="Lebanon" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0121" text="School Board District 5" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Abbeville No. 2" votes="0" />
+            <Precinct name="Abbeville No. 3" votes="0" />
+            <Precinct name="Abbeville No. 4" votes="0" />
+            <Precinct name="Lowndesville" votes="0" />
+            <Precinct name="Lebanon" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="449">
+            <Precinct name="Abbeville No. 2" votes="37" />
+            <Precinct name="Abbeville No. 3" votes="96" />
+            <Precinct name="Abbeville No. 4" votes="23" />
+            <Precinct name="Lowndesville" votes="14" />
+            <Precinct name="Lebanon" votes="90" />
+            <Precinct name="Absentee" votes="186" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="3" />
+        </VoteType>
+        <Choice key="001" text="David Brooks" party="NON" totalVotes="688">
+            <VoteType name="Election Day" votes="688">
+                <Precinct name="Abbeville No. 2" votes="73" />
+                <Precinct name="Abbeville No. 3" votes="170" />
+                <Precinct name="Abbeville No. 4" votes="63" />
+                <Precinct name="Lowndesville" votes="14" />
+                <Precinct name="Lebanon" votes="153" />
+                <Precinct name="Absentee" votes="214" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="23">
+            <VoteType name="Election Day" votes="23">
+                <Precinct name="Abbeville No. 2" votes="3" />
+                <Precinct name="Abbeville No. 3" votes="9" />
+                <Precinct name="Abbeville No. 4" votes="1" />
+                <Precinct name="Lowndesville" votes="1" />
+                <Precinct name="Lebanon" votes="2" />
+                <Precinct name="Absentee" votes="7" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0122" text="School Board District 8" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Broadmouth" votes="0" />
+            <Precinct name="Donalds" votes="0" />
+            <Precinct name="Due West" votes="0" />
+            <Precinct name="Hall's Store" votes="0" />
+            <Precinct name="Keowee" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="410">
+            <Precinct name="Broadmouth" votes="75" />
+            <Precinct name="Donalds" votes="80" />
+            <Precinct name="Due West" votes="1" />
+            <Precinct name="Hall's Store" votes="163" />
+            <Precinct name="Keowee" votes="63" />
+            <Precinct name="Absentee" votes="26" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="2" />
+        </VoteType>
+        <Choice key="001" text="Keith Dunn" party="NON" totalVotes="850">
+            <VoteType name="Election Day" votes="850">
+                <Precinct name="Broadmouth" votes="188" />
+                <Precinct name="Donalds" votes="229" />
+                <Precinct name="Due West" votes="0" />
+                <Precinct name="Hall's Store" votes="241" />
+                <Precinct name="Keowee" votes="124" />
+                <Precinct name="Absentee" votes="65" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="13">
+            <VoteType name="Election Day" votes="13">
+                <Precinct name="Broadmouth" votes="0" />
+                <Precinct name="Donalds" votes="2" />
+                <Precinct name="Due West" votes="0" />
+                <Precinct name="Hall's Store" votes="1" />
+                <Precinct name="Keowee" votes="4" />
+                <Precinct name="Absentee" votes="6" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0123" text="Soil and Water District Commission" voteFor="1" isQuestion="false" precinctsReporting="14" precinctsReported="14">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Abbeville No. 1" votes="0" />
+            <Precinct name="Abbeville No. 2" votes="0" />
+            <Precinct name="Abbeville No. 3" votes="0" />
+            <Precinct name="Abbeville No. 4" votes="0" />
+            <Precinct name="Antreville" votes="0" />
+            <Precinct name="Broadmouth" votes="0" />
+            <Precinct name="Calhoun Falls" votes="0" />
+            <Precinct name="Cold Springs" votes="0" />
+            <Precinct name="Donalds" votes="0" />
+            <Precinct name="Due West" votes="0" />
+            <Precinct name="Hall's Store" votes="0" />
+            <Precinct name="Keowee" votes="0" />
+            <Precinct name="Lowndesville" votes="0" />
+            <Precinct name="Lebanon" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="4330">
+            <Precinct name="Abbeville No. 1" votes="285" />
+            <Precinct name="Abbeville No. 2" votes="295" />
+            <Precinct name="Abbeville No. 3" votes="189" />
+            <Precinct name="Abbeville No. 4" votes="145" />
+            <Precinct name="Antreville" votes="246" />
+            <Precinct name="Broadmouth" votes="89" />
+            <Precinct name="Calhoun Falls" votes="509" />
+            <Precinct name="Cold Springs" votes="129" />
+            <Precinct name="Donalds" votes="85" />
+            <Precinct name="Due West" votes="267" />
+            <Precinct name="Hall's Store" votes="163" />
+            <Precinct name="Keowee" votes="226" />
+            <Precinct name="Lowndesville" votes="236" />
+            <Precinct name="Lebanon" votes="151" />
+            <Precinct name="Absentee" votes="1287" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="17" />
+            <Precinct name="Failsafe Provisional" votes="11" />
+        </VoteType>
+        <Choice key="001" text="Susie K New" party="NON" totalVotes="6524">
+            <VoteType name="Election Day" votes="6524">
+                <Precinct name="Abbeville No. 1" votes="612" />
+                <Precinct name="Abbeville No. 2" votes="400" />
+                <Precinct name="Abbeville No. 3" votes="326" />
+                <Precinct name="Abbeville No. 4" votes="276" />
+                <Precinct name="Antreville" votes="373" />
+                <Precinct name="Broadmouth" votes="198" />
+                <Precinct name="Calhoun Falls" votes="430" />
+                <Precinct name="Cold Springs" votes="370" />
+                <Precinct name="Donalds" votes="225" />
+                <Precinct name="Due West" votes="535" />
+                <Precinct name="Hall's Store" votes="242" />
+                <Precinct name="Keowee" votes="387" />
+                <Precinct name="Lowndesville" votes="350" />
+                <Precinct name="Lebanon" votes="281" />
+                <Precinct name="Absentee" votes="1494" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="12" />
+                <Precinct name="Failsafe Provisional" votes="12" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="26">
+            <VoteType name="Election Day" votes="26">
+                <Precinct name="Abbeville No. 1" votes="1" />
+                <Precinct name="Abbeville No. 2" votes="1" />
+                <Precinct name="Abbeville No. 3" votes="2" />
+                <Precinct name="Abbeville No. 4" votes="0" />
+                <Precinct name="Antreville" votes="2" />
+                <Precinct name="Broadmouth" votes="0" />
+                <Precinct name="Calhoun Falls" votes="3" />
+                <Precinct name="Cold Springs" votes="1" />
+                <Precinct name="Donalds" votes="1" />
+                <Precinct name="Due West" votes="1" />
+                <Precinct name="Hall's Store" votes="0" />
+                <Precinct name="Keowee" votes="4" />
+                <Precinct name="Lowndesville" votes="0" />
+                <Precinct name="Lebanon" votes="1" />
+                <Precinct name="Absentee" votes="8" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0124" text="Mayor" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Abbeville No. 1" votes="0" />
+            <Precinct name="Abbeville No. 2" votes="0" />
+            <Precinct name="Abbeville No. 3" votes="0" />
+            <Precinct name="Abbeville No. 4" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="148">
+            <Precinct name="Abbeville No. 1" votes="37" />
+            <Precinct name="Abbeville No. 2" votes="26" />
+            <Precinct name="Abbeville No. 3" votes="20" />
+            <Precinct name="Abbeville No. 4" votes="6" />
+            <Precinct name="Absentee" votes="59" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Brenda Phillips Anderson" party="NON" totalVotes="544">
+            <VoteType name="Election Day" votes="544">
+                <Precinct name="Abbeville No. 1" votes="61" />
+                <Precinct name="Abbeville No. 2" votes="128" />
+                <Precinct name="Abbeville No. 3" votes="86" />
+                <Precinct name="Abbeville No. 4" votes="23" />
+                <Precinct name="Absentee" votes="239" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="5" />
+                <Precinct name="Failsafe Provisional" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="George Jack Trey Edwards III" party="NON" totalVotes="203">
+            <VoteType name="Election Day" votes="203">
+                <Precinct name="Abbeville No. 1" votes="40" />
+                <Precinct name="Abbeville No. 2" votes="36" />
+                <Precinct name="Abbeville No. 3" votes="42" />
+                <Precinct name="Abbeville No. 4" votes="17" />
+                <Precinct name="Absentee" votes="67" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Santana Delano Freeman" party="NON" totalVotes="423">
+            <VoteType name="Election Day" votes="423">
+                <Precinct name="Abbeville No. 1" votes="87" />
+                <Precinct name="Abbeville No. 2" votes="81" />
+                <Precinct name="Abbeville No. 3" votes="66" />
+                <Precinct name="Abbeville No. 4" votes="28" />
+                <Precinct name="Absentee" votes="158" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="3" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Harold McNeill" party="NON" totalVotes="234">
+            <VoteType name="Election Day" votes="234">
+                <Precinct name="Abbeville No. 1" votes="68" />
+                <Precinct name="Abbeville No. 2" votes="26" />
+                <Precinct name="Abbeville No. 3" votes="41" />
+                <Precinct name="Abbeville No. 4" votes="7" />
+                <Precinct name="Absentee" votes="92" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Spencer G Sorrow" party="NON" totalVotes="402">
+            <VoteType name="Election Day" votes="402">
+                <Precinct name="Abbeville No. 1" votes="99" />
+                <Precinct name="Abbeville No. 2" votes="32" />
+                <Precinct name="Abbeville No. 3" votes="65" />
+                <Precinct name="Abbeville No. 4" votes="13" />
+                <Precinct name="Absentee" votes="191" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="2" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Gus Wilson" party="NON" totalVotes="165">
+            <VoteType name="Election Day" votes="165">
+                <Precinct name="Abbeville No. 1" votes="12" />
+                <Precinct name="Abbeville No. 2" votes="39" />
+                <Precinct name="Abbeville No. 3" votes="25" />
+                <Precinct name="Abbeville No. 4" votes="8" />
+                <Precinct name="Absentee" votes="81" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="Write-In" party="NON" totalVotes="4">
+            <VoteType name="Election Day" votes="4">
+                <Precinct name="Abbeville No. 1" votes="0" />
+                <Precinct name="Abbeville No. 2" votes="1" />
+                <Precinct name="Abbeville No. 3" votes="0" />
+                <Precinct name="Abbeville No. 4" votes="0" />
+                <Precinct name="Absentee" votes="3" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0125" text="City Council District 2" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Abbeville No. 2" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="67">
+            <Precinct name="Abbeville No. 2" votes="33" />
+            <Precinct name="Absentee" votes="34" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Faye Thomas" party="NON" totalVotes="170">
+            <VoteType name="Election Day" votes="170">
+                <Precinct name="Abbeville No. 2" votes="91" />
+                <Precinct name="Absentee" votes="76" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="0">
+            <VoteType name="Election Day" votes="0">
+                <Precinct name="Abbeville No. 2" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0126" text="City Council District 5" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Abbeville No. 3" votes="0" />
+            <Precinct name="Abbeville No. 4" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="28">
+            <Precinct name="Abbeville No. 3" votes="11" />
+            <Precinct name="Abbeville No. 4" votes="6" />
+            <Precinct name="Absentee" votes="11" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="James J J Jackson" party="NON" totalVotes="159">
+            <VoteType name="Election Day" votes="159">
+                <Precinct name="Abbeville No. 3" votes="51" />
+                <Precinct name="Abbeville No. 4" votes="42" />
+                <Precinct name="Absentee" votes="64" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Felix Tony Lomax" party="NON" totalVotes="44">
+            <VoteType name="Election Day" votes="44">
+                <Precinct name="Abbeville No. 3" votes="14" />
+                <Precinct name="Abbeville No. 4" votes="17" />
+                <Precinct name="Absentee" votes="13" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="0">
+            <VoteType name="Election Day" votes="0">
+                <Precinct name="Abbeville No. 3" votes="0" />
+                <Precinct name="Abbeville No. 4" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0127" text="City Council District 7" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Abbeville No. 1" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="95">
+            <Precinct name="Abbeville No. 1" votes="57" />
+            <Precinct name="Absentee" votes="38" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Joshua Bryan Baughman" party="NON" totalVotes="251">
+            <VoteType name="Election Day" votes="251">
+                <Precinct name="Abbeville No. 1" votes="156" />
+                <Precinct name="Absentee" votes="95" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="3">
+            <VoteType name="Election Day" votes="3">
+                <Precinct name="Abbeville No. 1" votes="2" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0128" text="City Council District 8" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Abbeville No. 1" votes="0" />
+            <Precinct name="Abbeville No. 3" votes="0" />
+            <Precinct name="Abbeville No. 4" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="91">
+            <Precinct name="Abbeville No. 1" votes="44" />
+            <Precinct name="Abbeville No. 3" votes="0" />
+            <Precinct name="Abbeville No. 4" votes="9" />
+            <Precinct name="Absentee" votes="38" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Jim Grant" party="NON" totalVotes="217">
+            <VoteType name="Election Day" votes="217">
+                <Precinct name="Abbeville No. 1" votes="90" />
+                <Precinct name="Abbeville No. 3" votes="4" />
+                <Precinct name="Abbeville No. 4" votes="28" />
+                <Precinct name="Absentee" votes="95" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="0">
+            <VoteType name="Election Day" votes="0">
+                <Precinct name="Abbeville No. 1" votes="0" />
+                <Precinct name="Abbeville No. 3" votes="0" />
+                <Precinct name="Abbeville No. 4" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0129" text="Sales and Use Tax Referendum" voteFor="1" isQuestion="true" precinctsReporting="14" precinctsReported="14">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Abbeville No. 1" votes="0" />
+            <Precinct name="Abbeville No. 2" votes="0" />
+            <Precinct name="Abbeville No. 3" votes="0" />
+            <Precinct name="Abbeville No. 4" votes="0" />
+            <Precinct name="Antreville" votes="0" />
+            <Precinct name="Broadmouth" votes="0" />
+            <Precinct name="Calhoun Falls" votes="0" />
+            <Precinct name="Cold Springs" votes="0" />
+            <Precinct name="Donalds" votes="0" />
+            <Precinct name="Due West" votes="0" />
+            <Precinct name="Hall's Store" votes="0" />
+            <Precinct name="Keowee" votes="0" />
+            <Precinct name="Lowndesville" votes="0" />
+            <Precinct name="Lebanon" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="588">
+            <Precinct name="Abbeville No. 1" votes="31" />
+            <Precinct name="Abbeville No. 2" votes="46" />
+            <Precinct name="Abbeville No. 3" votes="17" />
+            <Precinct name="Abbeville No. 4" votes="14" />
+            <Precinct name="Antreville" votes="51" />
+            <Precinct name="Broadmouth" votes="13" />
+            <Precinct name="Calhoun Falls" votes="61" />
+            <Precinct name="Cold Springs" votes="11" />
+            <Precinct name="Donalds" votes="18" />
+            <Precinct name="Due West" votes="39" />
+            <Precinct name="Hall's Store" votes="27" />
+            <Precinct name="Keowee" votes="41" />
+            <Precinct name="Lowndesville" votes="39" />
+            <Precinct name="Lebanon" votes="20" />
+            <Precinct name="Absentee" votes="147" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="7" />
+            <Precinct name="Failsafe Provisional" votes="6" />
+        </VoteType>
+        <Choice key="001" text="Yes" party="NON" totalVotes="4783">
+            <VoteType name="Election Day" votes="4783">
+                <Precinct name="Abbeville No. 1" votes="437" />
+                <Precinct name="Abbeville No. 2" votes="309" />
+                <Precinct name="Abbeville No. 3" votes="220" />
+                <Precinct name="Abbeville No. 4" votes="172" />
+                <Precinct name="Antreville" votes="284" />
+                <Precinct name="Broadmouth" votes="121" />
+                <Precinct name="Calhoun Falls" votes="454" />
+                <Precinct name="Cold Springs" votes="202" />
+                <Precinct name="Donalds" votes="139" />
+                <Precinct name="Due West" votes="399" />
+                <Precinct name="Hall's Store" votes="217" />
+                <Precinct name="Keowee" votes="270" />
+                <Precinct name="Lowndesville" votes="223" />
+                <Precinct name="Lebanon" votes="167" />
+                <Precinct name="Absentee" votes="1146" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="10" />
+                <Precinct name="Failsafe Provisional" votes="12" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="No" party="NON" totalVotes="5509">
+            <VoteType name="Election Day" votes="5509">
+                <Precinct name="Abbeville No. 1" votes="430" />
+                <Precinct name="Abbeville No. 2" votes="341" />
+                <Precinct name="Abbeville No. 3" votes="280" />
+                <Precinct name="Abbeville No. 4" votes="235" />
+                <Precinct name="Antreville" votes="286" />
+                <Precinct name="Broadmouth" votes="153" />
+                <Precinct name="Calhoun Falls" votes="427" />
+                <Precinct name="Cold Springs" votes="287" />
+                <Precinct name="Donalds" votes="154" />
+                <Precinct name="Due West" votes="365" />
+                <Precinct name="Hall's Store" votes="161" />
+                <Precinct name="Keowee" votes="306" />
+                <Precinct name="Lowndesville" votes="324" />
+                <Precinct name="Lebanon" votes="246" />
+                <Precinct name="Absentee" votes="1496" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="12" />
+                <Precinct name="Failsafe Provisional" votes="6" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

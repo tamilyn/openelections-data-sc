@@ -1,0 +1,2453 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>11/16/2016 3:36:13 PM EST</Timestamp>
+    <ElectionName>2016 Statewide General Election</ElectionName>
+    <ElectionDate>11/8/2016</ElectionDate>
+    <Region>Saluda</Region>
+    <VoterTurnout totalVoters="11817" ballotsCast="8664" voterTurnout="73.32">
+        <Precincts>
+            <Precinct name="CENTENNIAL" totalVoters="481" ballotsCast="305" voterTurnout="63.41" percentReporting="4" />
+            <Precinct name="CLYDE" totalVoters="241" ballotsCast="176" voterTurnout="73.03" percentReporting="4" />
+            <Precinct name="DELMAR" totalVoters="402" ballotsCast="259" voterTurnout="64.43" percentReporting="4" />
+            <Precinct name="FRUIT HILL" totalVoters="718" ballotsCast="423" voterTurnout="58.91" percentReporting="4" />
+            <Precinct name="HIGGINS-ZOAR" totalVoters="665" ballotsCast="367" voterTurnout="55.19" percentReporting="4" />
+            <Precinct name="HOLLY" totalVoters="925" ballotsCast="602" voterTurnout="65.08" percentReporting="4" />
+            <Precinct name="HOLLYWOOD" totalVoters="1209" ballotsCast="792" voterTurnout="65.51" percentReporting="4" />
+            <Precinct name="HOLSTONS" totalVoters="889" ballotsCast="573" voterTurnout="64.45" percentReporting="4" />
+            <Precinct name="MAYSON" totalVoters="392" ballotsCast="267" voterTurnout="68.11" percentReporting="4" />
+            <Precinct name="MT. WILLING" totalVoters="236" ballotsCast="151" voterTurnout="63.98" percentReporting="4" />
+            <Precinct name="PLEASANT CROSS" totalVoters="208" ballotsCast="135" voterTurnout="64.90" percentReporting="4" />
+            <Precinct name="PLEASANT GROVE" totalVoters="667" ballotsCast="455" voterTurnout="68.22" percentReporting="4" />
+            <Precinct name="RICHLAND" totalVoters="570" ballotsCast="394" voterTurnout="69.12" percentReporting="4" />
+            <Precinct name="RIDGE SPRING - MONETTA" totalVoters="832" ballotsCast="496" voterTurnout="59.62" percentReporting="4" />
+            <Precinct name="SALUDA NO. 1" totalVoters="1246" ballotsCast="686" voterTurnout="55.06" percentReporting="4" />
+            <Precinct name="SALUDA NO. 2" totalVoters="1138" ballotsCast="625" voterTurnout="54.92" percentReporting="4" />
+            <Precinct name="SARDIS" totalVoters="506" ballotsCast="371" voterTurnout="73.32" percentReporting="4" />
+            <Precinct name="WARD" totalVoters="438" ballotsCast="267" voterTurnout="60.96" percentReporting="4" />
+            <Precinct name="Absentee" totalVoters="0" ballotsCast="1268" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Emergency" totalVoters="0" ballotsCast="5" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Failsafe" totalVoters="0" ballotsCast="47" voterTurnout="0.00" percentReporting="32" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="0103" text="STRAIGHT PARTY" voteFor="1" isQuestion="false" precinctsReporting="18" precinctsReported="18">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="CENTENNIAL" votes="0" />
+            <Precinct name="CLYDE" votes="0" />
+            <Precinct name="DELMAR" votes="0" />
+            <Precinct name="FRUIT HILL" votes="0" />
+            <Precinct name="HIGGINS-ZOAR" votes="0" />
+            <Precinct name="HOLLY" votes="0" />
+            <Precinct name="HOLLYWOOD" votes="0" />
+            <Precinct name="HOLSTONS" votes="0" />
+            <Precinct name="MAYSON" votes="0" />
+            <Precinct name="MT. WILLING" votes="0" />
+            <Precinct name="PLEASANT CROSS" votes="0" />
+            <Precinct name="PLEASANT GROVE" votes="0" />
+            <Precinct name="RICHLAND" votes="0" />
+            <Precinct name="RIDGE SPRING - MONETTA" votes="0" />
+            <Precinct name="SALUDA NO. 1" votes="0" />
+            <Precinct name="SALUDA NO. 2" votes="0" />
+            <Precinct name="SARDIS" votes="0" />
+            <Precinct name="WARD" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="4958">
+            <Precinct name="CENTENNIAL" votes="203" />
+            <Precinct name="CLYDE" votes="130" />
+            <Precinct name="DELMAR" votes="162" />
+            <Precinct name="FRUIT HILL" votes="169" />
+            <Precinct name="HIGGINS-ZOAR" votes="217" />
+            <Precinct name="HOLLY" votes="357" />
+            <Precinct name="HOLLYWOOD" votes="570" />
+            <Precinct name="HOLSTONS" votes="290" />
+            <Precinct name="MAYSON" votes="156" />
+            <Precinct name="MT. WILLING" votes="100" />
+            <Precinct name="PLEASANT CROSS" votes="57" />
+            <Precinct name="PLEASANT GROVE" votes="321" />
+            <Precinct name="RICHLAND" votes="246" />
+            <Precinct name="RIDGE SPRING - MONETTA" votes="212" />
+            <Precinct name="SALUDA NO. 1" votes="292" />
+            <Precinct name="SALUDA NO. 2" votes="376" />
+            <Precinct name="SARDIS" votes="294" />
+            <Precinct name="WARD" votes="109" />
+            <Precinct name="Absentee" votes="678" />
+            <Precinct name="Emergency" votes="2" />
+            <Precinct name="Failsafe" votes="17" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Democratic" party="DEM" totalVotes="1931">
+            <VoteType name="Election Day" votes="1931">
+                <Precinct name="CENTENNIAL" votes="40" />
+                <Precinct name="CLYDE" votes="7" />
+                <Precinct name="DELMAR" votes="10" />
+                <Precinct name="FRUIT HILL" votes="210" />
+                <Precinct name="HIGGINS-ZOAR" votes="115" />
+                <Precinct name="HOLLY" votes="23" />
+                <Precinct name="HOLLYWOOD" votes="39" />
+                <Precinct name="HOLSTONS" votes="141" />
+                <Precinct name="MAYSON" votes="41" />
+                <Precinct name="MT. WILLING" votes="16" />
+                <Precinct name="PLEASANT CROSS" votes="54" />
+                <Precinct name="PLEASANT GROVE" votes="21" />
+                <Precinct name="RICHLAND" votes="44" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="203" />
+                <Precinct name="SALUDA NO. 1" votes="344" />
+                <Precinct name="SALUDA NO. 2" votes="152" />
+                <Precinct name="SARDIS" votes="5" />
+                <Precinct name="WARD" votes="93" />
+                <Precinct name="Absentee" votes="353" />
+                <Precinct name="Emergency" votes="3" />
+                <Precinct name="Failsafe" votes="17" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Working Families" party="WFM" totalVotes="52">
+            <VoteType name="Election Day" votes="52">
+                <Precinct name="CENTENNIAL" votes="0" />
+                <Precinct name="CLYDE" votes="0" />
+                <Precinct name="DELMAR" votes="1" />
+                <Precinct name="FRUIT HILL" votes="3" />
+                <Precinct name="HIGGINS-ZOAR" votes="1" />
+                <Precinct name="HOLLY" votes="3" />
+                <Precinct name="HOLLYWOOD" votes="7" />
+                <Precinct name="HOLSTONS" votes="5" />
+                <Precinct name="MAYSON" votes="5" />
+                <Precinct name="MT. WILLING" votes="0" />
+                <Precinct name="PLEASANT CROSS" votes="0" />
+                <Precinct name="PLEASANT GROVE" votes="0" />
+                <Precinct name="RICHLAND" votes="3" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="3" />
+                <Precinct name="SALUDA NO. 1" votes="4" />
+                <Precinct name="SALUDA NO. 2" votes="3" />
+                <Precinct name="SARDIS" votes="3" />
+                <Precinct name="WARD" votes="3" />
+                <Precinct name="Absentee" votes="6" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Constitution" party="CON" totalVotes="7">
+            <VoteType name="Election Day" votes="7">
+                <Precinct name="CENTENNIAL" votes="0" />
+                <Precinct name="CLYDE" votes="0" />
+                <Precinct name="DELMAR" votes="0" />
+                <Precinct name="FRUIT HILL" votes="0" />
+                <Precinct name="HIGGINS-ZOAR" votes="1" />
+                <Precinct name="HOLLY" votes="0" />
+                <Precinct name="HOLLYWOOD" votes="2" />
+                <Precinct name="HOLSTONS" votes="0" />
+                <Precinct name="MAYSON" votes="0" />
+                <Precinct name="MT. WILLING" votes="0" />
+                <Precinct name="PLEASANT CROSS" votes="0" />
+                <Precinct name="PLEASANT GROVE" votes="0" />
+                <Precinct name="RICHLAND" votes="0" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="1" />
+                <Precinct name="SALUDA NO. 1" votes="2" />
+                <Precinct name="SALUDA NO. 2" votes="0" />
+                <Precinct name="SARDIS" votes="1" />
+                <Precinct name="WARD" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Independence" party="IND" totalVotes="53">
+            <VoteType name="Election Day" votes="53">
+                <Precinct name="CENTENNIAL" votes="3" />
+                <Precinct name="CLYDE" votes="3" />
+                <Precinct name="DELMAR" votes="3" />
+                <Precinct name="FRUIT HILL" votes="4" />
+                <Precinct name="HIGGINS-ZOAR" votes="3" />
+                <Precinct name="HOLLY" votes="3" />
+                <Precinct name="HOLLYWOOD" votes="6" />
+                <Precinct name="HOLSTONS" votes="4" />
+                <Precinct name="MAYSON" votes="0" />
+                <Precinct name="MT. WILLING" votes="1" />
+                <Precinct name="PLEASANT CROSS" votes="0" />
+                <Precinct name="PLEASANT GROVE" votes="0" />
+                <Precinct name="RICHLAND" votes="2" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="3" />
+                <Precinct name="SALUDA NO. 1" votes="3" />
+                <Precinct name="SALUDA NO. 2" votes="5" />
+                <Precinct name="SARDIS" votes="4" />
+                <Precinct name="WARD" votes="2" />
+                <Precinct name="Absentee" votes="4" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Green" party="GRN" totalVotes="13">
+            <VoteType name="Election Day" votes="13">
+                <Precinct name="CENTENNIAL" votes="1" />
+                <Precinct name="CLYDE" votes="1" />
+                <Precinct name="DELMAR" votes="2" />
+                <Precinct name="FRUIT HILL" votes="1" />
+                <Precinct name="HIGGINS-ZOAR" votes="0" />
+                <Precinct name="HOLLY" votes="0" />
+                <Precinct name="HOLLYWOOD" votes="0" />
+                <Precinct name="HOLSTONS" votes="1" />
+                <Precinct name="MAYSON" votes="1" />
+                <Precinct name="MT. WILLING" votes="0" />
+                <Precinct name="PLEASANT CROSS" votes="0" />
+                <Precinct name="PLEASANT GROVE" votes="0" />
+                <Precinct name="RICHLAND" votes="0" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="2" />
+                <Precinct name="SALUDA NO. 1" votes="0" />
+                <Precinct name="SALUDA NO. 2" votes="0" />
+                <Precinct name="SARDIS" votes="2" />
+                <Precinct name="WARD" votes="1" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Republican" party="REP" totalVotes="1605">
+            <VoteType name="Election Day" votes="1605">
+                <Precinct name="CENTENNIAL" votes="56" />
+                <Precinct name="CLYDE" votes="34" />
+                <Precinct name="DELMAR" votes="79" />
+                <Precinct name="FRUIT HILL" votes="34" />
+                <Precinct name="HIGGINS-ZOAR" votes="28" />
+                <Precinct name="HOLLY" votes="211" />
+                <Precinct name="HOLLYWOOD" votes="166" />
+                <Precinct name="HOLSTONS" votes="128" />
+                <Precinct name="MAYSON" votes="63" />
+                <Precinct name="MT. WILLING" votes="33" />
+                <Precinct name="PLEASANT CROSS" votes="24" />
+                <Precinct name="PLEASANT GROVE" votes="112" />
+                <Precinct name="RICHLAND" votes="97" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="70" />
+                <Precinct name="SALUDA NO. 1" votes="37" />
+                <Precinct name="SALUDA NO. 2" votes="81" />
+                <Precinct name="SARDIS" votes="60" />
+                <Precinct name="WARD" votes="57" />
+                <Precinct name="Absentee" votes="225" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="10" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="American" party="AMR" totalVotes="32">
+            <VoteType name="Election Day" votes="32">
+                <Precinct name="CENTENNIAL" votes="0" />
+                <Precinct name="CLYDE" votes="1" />
+                <Precinct name="DELMAR" votes="1" />
+                <Precinct name="FRUIT HILL" votes="1" />
+                <Precinct name="HIGGINS-ZOAR" votes="2" />
+                <Precinct name="HOLLY" votes="4" />
+                <Precinct name="HOLLYWOOD" votes="2" />
+                <Precinct name="HOLSTONS" votes="1" />
+                <Precinct name="MAYSON" votes="1" />
+                <Precinct name="MT. WILLING" votes="1" />
+                <Precinct name="PLEASANT CROSS" votes="0" />
+                <Precinct name="PLEASANT GROVE" votes="1" />
+                <Precinct name="RICHLAND" votes="1" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="2" />
+                <Precinct name="SALUDA NO. 1" votes="2" />
+                <Precinct name="SALUDA NO. 2" votes="7" />
+                <Precinct name="SARDIS" votes="2" />
+                <Precinct name="WARD" votes="1" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="008" text="Libertarian" party="LIB" totalVotes="13">
+            <VoteType name="Election Day" votes="13">
+                <Precinct name="CENTENNIAL" votes="2" />
+                <Precinct name="CLYDE" votes="0" />
+                <Precinct name="DELMAR" votes="1" />
+                <Precinct name="FRUIT HILL" votes="1" />
+                <Precinct name="HIGGINS-ZOAR" votes="0" />
+                <Precinct name="HOLLY" votes="1" />
+                <Precinct name="HOLLYWOOD" votes="0" />
+                <Precinct name="HOLSTONS" votes="3" />
+                <Precinct name="MAYSON" votes="0" />
+                <Precinct name="MT. WILLING" votes="0" />
+                <Precinct name="PLEASANT CROSS" votes="0" />
+                <Precinct name="PLEASANT GROVE" votes="0" />
+                <Precinct name="RICHLAND" votes="1" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="0" />
+                <Precinct name="SALUDA NO. 1" votes="2" />
+                <Precinct name="SALUDA NO. 2" votes="1" />
+                <Precinct name="SARDIS" votes="0" />
+                <Precinct name="WARD" votes="1" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0104" text="President and Vice President" voteFor="1" isQuestion="false" precinctsReporting="18" precinctsReported="18">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="CENTENNIAL" votes="0" />
+            <Precinct name="CLYDE" votes="0" />
+            <Precinct name="DELMAR" votes="0" />
+            <Precinct name="FRUIT HILL" votes="0" />
+            <Precinct name="HIGGINS-ZOAR" votes="0" />
+            <Precinct name="HOLLY" votes="0" />
+            <Precinct name="HOLLYWOOD" votes="0" />
+            <Precinct name="HOLSTONS" votes="0" />
+            <Precinct name="MAYSON" votes="0" />
+            <Precinct name="MT. WILLING" votes="0" />
+            <Precinct name="PLEASANT CROSS" votes="0" />
+            <Precinct name="PLEASANT GROVE" votes="0" />
+            <Precinct name="RICHLAND" votes="0" />
+            <Precinct name="RIDGE SPRING - MONETTA" votes="0" />
+            <Precinct name="SALUDA NO. 1" votes="0" />
+            <Precinct name="SALUDA NO. 2" votes="0" />
+            <Precinct name="SARDIS" votes="0" />
+            <Precinct name="WARD" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="100">
+            <Precinct name="CENTENNIAL" votes="5" />
+            <Precinct name="CLYDE" votes="2" />
+            <Precinct name="DELMAR" votes="3" />
+            <Precinct name="FRUIT HILL" votes="1" />
+            <Precinct name="HIGGINS-ZOAR" votes="2" />
+            <Precinct name="HOLLY" votes="5" />
+            <Precinct name="HOLLYWOOD" votes="14" />
+            <Precinct name="HOLSTONS" votes="1" />
+            <Precinct name="MAYSON" votes="1" />
+            <Precinct name="MT. WILLING" votes="1" />
+            <Precinct name="PLEASANT CROSS" votes="2" />
+            <Precinct name="PLEASANT GROVE" votes="4" />
+            <Precinct name="RICHLAND" votes="1" />
+            <Precinct name="RIDGE SPRING - MONETTA" votes="9" />
+            <Precinct name="SALUDA NO. 1" votes="9" />
+            <Precinct name="SALUDA NO. 2" votes="7" />
+            <Precinct name="SARDIS" votes="4" />
+            <Precinct name="WARD" votes="7" />
+            <Precinct name="Absentee" votes="21" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Hillary Rodham Clinton / Timothy Michael Kaine" party="DEM" totalVotes="2813">
+            <VoteType name="Election Day" votes="2813">
+                <Precinct name="CENTENNIAL" votes="57" />
+                <Precinct name="CLYDE" votes="18" />
+                <Precinct name="DELMAR" votes="31" />
+                <Precinct name="FRUIT HILL" votes="259" />
+                <Precinct name="HIGGINS-ZOAR" votes="172" />
+                <Precinct name="HOLLY" votes="67" />
+                <Precinct name="HOLLYWOOD" votes="87" />
+                <Precinct name="HOLSTONS" votes="209" />
+                <Precinct name="MAYSON" votes="63" />
+                <Precinct name="MT. WILLING" votes="32" />
+                <Precinct name="PLEASANT CROSS" votes="61" />
+                <Precinct name="PLEASANT GROVE" votes="57" />
+                <Precinct name="RICHLAND" votes="74" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="256" />
+                <Precinct name="SALUDA NO. 1" votes="444" />
+                <Precinct name="SALUDA NO. 2" votes="243" />
+                <Precinct name="SARDIS" votes="32" />
+                <Precinct name="WARD" votes="126" />
+                <Precinct name="Absentee" votes="502" />
+                <Precinct name="Emergency" votes="4" />
+                <Precinct name="Failsafe" votes="19" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Darrell Castle / Scott Bradley" party="CON" totalVotes="18">
+            <VoteType name="Election Day" votes="18">
+                <Precinct name="CENTENNIAL" votes="2" />
+                <Precinct name="CLYDE" votes="1" />
+                <Precinct name="DELMAR" votes="2" />
+                <Precinct name="FRUIT HILL" votes="1" />
+                <Precinct name="HIGGINS-ZOAR" votes="1" />
+                <Precinct name="HOLLY" votes="0" />
+                <Precinct name="HOLLYWOOD" votes="3" />
+                <Precinct name="HOLSTONS" votes="1" />
+                <Precinct name="MAYSON" votes="0" />
+                <Precinct name="MT. WILLING" votes="0" />
+                <Precinct name="PLEASANT CROSS" votes="0" />
+                <Precinct name="PLEASANT GROVE" votes="1" />
+                <Precinct name="RICHLAND" votes="0" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="2" />
+                <Precinct name="SALUDA NO. 1" votes="0" />
+                <Precinct name="SALUDA NO. 2" votes="1" />
+                <Precinct name="SARDIS" votes="0" />
+                <Precinct name="WARD" votes="0" />
+                <Precinct name="Absentee" votes="3" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Evan McMullin / Nathan Johnson" party="IND" totalVotes="48">
+            <VoteType name="Election Day" votes="48">
+                <Precinct name="CENTENNIAL" votes="1" />
+                <Precinct name="CLYDE" votes="5" />
+                <Precinct name="DELMAR" votes="1" />
+                <Precinct name="FRUIT HILL" votes="1" />
+                <Precinct name="HIGGINS-ZOAR" votes="0" />
+                <Precinct name="HOLLY" votes="4" />
+                <Precinct name="HOLLYWOOD" votes="6" />
+                <Precinct name="HOLSTONS" votes="0" />
+                <Precinct name="MAYSON" votes="0" />
+                <Precinct name="MT. WILLING" votes="0" />
+                <Precinct name="PLEASANT CROSS" votes="0" />
+                <Precinct name="PLEASANT GROVE" votes="6" />
+                <Precinct name="RICHLAND" votes="1" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="2" />
+                <Precinct name="SALUDA NO. 1" votes="2" />
+                <Precinct name="SALUDA NO. 2" votes="3" />
+                <Precinct name="SARDIS" votes="4" />
+                <Precinct name="WARD" votes="3" />
+                <Precinct name="Absentee" votes="9" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Jill Stein / Ajamu Baraka" party="GRN" totalVotes="42">
+            <VoteType name="Election Day" votes="42">
+                <Precinct name="CENTENNIAL" votes="3" />
+                <Precinct name="CLYDE" votes="1" />
+                <Precinct name="DELMAR" votes="3" />
+                <Precinct name="FRUIT HILL" votes="2" />
+                <Precinct name="HIGGINS-ZOAR" votes="2" />
+                <Precinct name="HOLLY" votes="3" />
+                <Precinct name="HOLLYWOOD" votes="1" />
+                <Precinct name="HOLSTONS" votes="2" />
+                <Precinct name="MAYSON" votes="3" />
+                <Precinct name="MT. WILLING" votes="0" />
+                <Precinct name="PLEASANT CROSS" votes="0" />
+                <Precinct name="PLEASANT GROVE" votes="3" />
+                <Precinct name="RICHLAND" votes="1" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="3" />
+                <Precinct name="SALUDA NO. 1" votes="5" />
+                <Precinct name="SALUDA NO. 2" votes="3" />
+                <Precinct name="SARDIS" votes="3" />
+                <Precinct name="WARD" votes="0" />
+                <Precinct name="Absentee" votes="4" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Donald J Trump / Michael R Pence" party="REP" totalVotes="5526">
+            <VoteType name="Election Day" votes="5526">
+                <Precinct name="CENTENNIAL" votes="229" />
+                <Precinct name="CLYDE" votes="148" />
+                <Precinct name="DELMAR" votes="218" />
+                <Precinct name="FRUIT HILL" votes="155" />
+                <Precinct name="HIGGINS-ZOAR" votes="188" />
+                <Precinct name="HOLLY" votes="512" />
+                <Precinct name="HOLLYWOOD" votes="668" />
+                <Precinct name="HOLSTONS" votes="348" />
+                <Precinct name="MAYSON" votes="197" />
+                <Precinct name="MT. WILLING" votes="116" />
+                <Precinct name="PLEASANT CROSS" votes="72" />
+                <Precinct name="PLEASANT GROVE" votes="380" />
+                <Precinct name="RICHLAND" votes="311" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="219" />
+                <Precinct name="SALUDA NO. 1" votes="218" />
+                <Precinct name="SALUDA NO. 2" votes="355" />
+                <Precinct name="SARDIS" votes="327" />
+                <Precinct name="WARD" votes="130" />
+                <Precinct name="Absentee" votes="708" />
+                <Precinct name="Emergency" votes="1" />
+                <Precinct name="Failsafe" votes="26" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Peter Skewes / Michael Lacy" party="AMR" totalVotes="12">
+            <VoteType name="Election Day" votes="12">
+                <Precinct name="CENTENNIAL" votes="1" />
+                <Precinct name="CLYDE" votes="0" />
+                <Precinct name="DELMAR" votes="0" />
+                <Precinct name="FRUIT HILL" votes="0" />
+                <Precinct name="HIGGINS-ZOAR" votes="0" />
+                <Precinct name="HOLLY" votes="1" />
+                <Precinct name="HOLLYWOOD" votes="3" />
+                <Precinct name="HOLSTONS" votes="2" />
+                <Precinct name="MAYSON" votes="1" />
+                <Precinct name="MT. WILLING" votes="0" />
+                <Precinct name="PLEASANT CROSS" votes="0" />
+                <Precinct name="PLEASANT GROVE" votes="0" />
+                <Precinct name="RICHLAND" votes="1" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="0" />
+                <Precinct name="SALUDA NO. 1" votes="0" />
+                <Precinct name="SALUDA NO. 2" votes="1" />
+                <Precinct name="SARDIS" votes="0" />
+                <Precinct name="WARD" votes="1" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="Gary Johnson / Bill Weld" party="LIB" totalVotes="105">
+            <VoteType name="Election Day" votes="105">
+                <Precinct name="CENTENNIAL" votes="7" />
+                <Precinct name="CLYDE" votes="1" />
+                <Precinct name="DELMAR" votes="1" />
+                <Precinct name="FRUIT HILL" votes="4" />
+                <Precinct name="HIGGINS-ZOAR" votes="2" />
+                <Precinct name="HOLLY" votes="10" />
+                <Precinct name="HOLLYWOOD" votes="10" />
+                <Precinct name="HOLSTONS" votes="10" />
+                <Precinct name="MAYSON" votes="2" />
+                <Precinct name="MT. WILLING" votes="2" />
+                <Precinct name="PLEASANT CROSS" votes="0" />
+                <Precinct name="PLEASANT GROVE" votes="4" />
+                <Precinct name="RICHLAND" votes="5" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="5" />
+                <Precinct name="SALUDA NO. 1" votes="8" />
+                <Precinct name="SALUDA NO. 2" votes="12" />
+                <Precinct name="SARDIS" votes="1" />
+                <Precinct name="WARD" votes="0" />
+                <Precinct name="Absentee" votes="20" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0105" text="U.S. Senate" voteFor="1" isQuestion="false" precinctsReporting="18" precinctsReported="18">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="CENTENNIAL" votes="0" />
+            <Precinct name="CLYDE" votes="0" />
+            <Precinct name="DELMAR" votes="0" />
+            <Precinct name="FRUIT HILL" votes="0" />
+            <Precinct name="HIGGINS-ZOAR" votes="0" />
+            <Precinct name="HOLLY" votes="0" />
+            <Precinct name="HOLLYWOOD" votes="0" />
+            <Precinct name="HOLSTONS" votes="0" />
+            <Precinct name="MAYSON" votes="0" />
+            <Precinct name="MT. WILLING" votes="0" />
+            <Precinct name="PLEASANT CROSS" votes="0" />
+            <Precinct name="PLEASANT GROVE" votes="0" />
+            <Precinct name="RICHLAND" votes="0" />
+            <Precinct name="RIDGE SPRING - MONETTA" votes="0" />
+            <Precinct name="SALUDA NO. 1" votes="0" />
+            <Precinct name="SALUDA NO. 2" votes="0" />
+            <Precinct name="SARDIS" votes="0" />
+            <Precinct name="WARD" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="321">
+            <Precinct name="CENTENNIAL" votes="10" />
+            <Precinct name="CLYDE" votes="4" />
+            <Precinct name="DELMAR" votes="7" />
+            <Precinct name="FRUIT HILL" votes="11" />
+            <Precinct name="HIGGINS-ZOAR" votes="14" />
+            <Precinct name="HOLLY" votes="10" />
+            <Precinct name="HOLLYWOOD" votes="37" />
+            <Precinct name="HOLSTONS" votes="17" />
+            <Precinct name="MAYSON" votes="9" />
+            <Precinct name="MT. WILLING" votes="2" />
+            <Precinct name="PLEASANT CROSS" votes="2" />
+            <Precinct name="PLEASANT GROVE" votes="14" />
+            <Precinct name="RICHLAND" votes="18" />
+            <Precinct name="RIDGE SPRING - MONETTA" votes="21" />
+            <Precinct name="SALUDA NO. 1" votes="42" />
+            <Precinct name="SALUDA NO. 2" votes="19" />
+            <Precinct name="SARDIS" votes="17" />
+            <Precinct name="WARD" votes="10" />
+            <Precinct name="Absentee" votes="56" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Thomas Dixon" party="DEM" totalVotes="2460">
+            <VoteType name="Election Day" votes="2460">
+                <Precinct name="CENTENNIAL" votes="52" />
+                <Precinct name="CLYDE" votes="12" />
+                <Precinct name="DELMAR" votes="17" />
+                <Precinct name="FRUIT HILL" votes="250" />
+                <Precinct name="HIGGINS-ZOAR" votes="141" />
+                <Precinct name="HOLLY" votes="43" />
+                <Precinct name="HOLLYWOOD" votes="75" />
+                <Precinct name="HOLSTONS" votes="173" />
+                <Precinct name="MAYSON" votes="58" />
+                <Precinct name="MT. WILLING" votes="31" />
+                <Precinct name="PLEASANT CROSS" votes="60" />
+                <Precinct name="PLEASANT GROVE" votes="48" />
+                <Precinct name="RICHLAND" votes="58" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="234" />
+                <Precinct name="SALUDA NO. 1" votes="394" />
+                <Precinct name="SALUDA NO. 2" votes="204" />
+                <Precinct name="SARDIS" votes="25" />
+                <Precinct name="WARD" votes="111" />
+                <Precinct name="Absentee" votes="450" />
+                <Precinct name="Emergency" votes="3" />
+                <Precinct name="Failsafe" votes="21" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Thomas Dixon" party="WFM" totalVotes="183">
+            <VoteType name="Election Day" votes="183">
+                <Precinct name="CENTENNIAL" votes="13" />
+                <Precinct name="CLYDE" votes="7" />
+                <Precinct name="DELMAR" votes="6" />
+                <Precinct name="FRUIT HILL" votes="11" />
+                <Precinct name="HIGGINS-ZOAR" votes="9" />
+                <Precinct name="HOLLY" votes="9" />
+                <Precinct name="HOLLYWOOD" votes="12" />
+                <Precinct name="HOLSTONS" votes="17" />
+                <Precinct name="MAYSON" votes="8" />
+                <Precinct name="MT. WILLING" votes="5" />
+                <Precinct name="PLEASANT CROSS" votes="0" />
+                <Precinct name="PLEASANT GROVE" votes="9" />
+                <Precinct name="RICHLAND" votes="8" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="7" />
+                <Precinct name="SALUDA NO. 1" votes="17" />
+                <Precinct name="SALUDA NO. 2" votes="7" />
+                <Precinct name="SARDIS" votes="13" />
+                <Precinct name="WARD" votes="8" />
+                <Precinct name="Absentee" votes="15" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Bill Bledsoe" party="CON" totalVotes="70">
+            <VoteType name="Election Day" votes="70">
+                <Precinct name="CENTENNIAL" votes="0" />
+                <Precinct name="CLYDE" votes="0" />
+                <Precinct name="DELMAR" votes="5" />
+                <Precinct name="FRUIT HILL" votes="4" />
+                <Precinct name="HIGGINS-ZOAR" votes="2" />
+                <Precinct name="HOLLY" votes="3" />
+                <Precinct name="HOLLYWOOD" votes="5" />
+                <Precinct name="HOLSTONS" votes="7" />
+                <Precinct name="MAYSON" votes="4" />
+                <Precinct name="MT. WILLING" votes="2" />
+                <Precinct name="PLEASANT CROSS" votes="1" />
+                <Precinct name="PLEASANT GROVE" votes="4" />
+                <Precinct name="RICHLAND" votes="5" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="3" />
+                <Precinct name="SALUDA NO. 1" votes="9" />
+                <Precinct name="SALUDA NO. 2" votes="3" />
+                <Precinct name="SARDIS" votes="6" />
+                <Precinct name="WARD" votes="0" />
+                <Precinct name="Absentee" votes="4" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="3" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Thomas Dixon" party="GRN" totalVotes="48">
+            <VoteType name="Election Day" votes="48">
+                <Precinct name="CENTENNIAL" votes="2" />
+                <Precinct name="CLYDE" votes="2" />
+                <Precinct name="DELMAR" votes="2" />
+                <Precinct name="FRUIT HILL" votes="3" />
+                <Precinct name="HIGGINS-ZOAR" votes="0" />
+                <Precinct name="HOLLY" votes="3" />
+                <Precinct name="HOLLYWOOD" votes="6" />
+                <Precinct name="HOLSTONS" votes="3" />
+                <Precinct name="MAYSON" votes="1" />
+                <Precinct name="MT. WILLING" votes="0" />
+                <Precinct name="PLEASANT CROSS" votes="0" />
+                <Precinct name="PLEASANT GROVE" votes="4" />
+                <Precinct name="RICHLAND" votes="2" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="3" />
+                <Precinct name="SALUDA NO. 1" votes="5" />
+                <Precinct name="SALUDA NO. 2" votes="2" />
+                <Precinct name="SARDIS" votes="5" />
+                <Precinct name="WARD" votes="3" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Tim Scott" party="REP" totalVotes="5443">
+            <VoteType name="Election Day" votes="5443">
+                <Precinct name="CENTENNIAL" votes="222" />
+                <Precinct name="CLYDE" votes="149" />
+                <Precinct name="DELMAR" votes="216" />
+                <Precinct name="FRUIT HILL" votes="139" />
+                <Precinct name="HIGGINS-ZOAR" votes="194" />
+                <Precinct name="HOLLY" votes="527" />
+                <Precinct name="HOLLYWOOD" votes="641" />
+                <Precinct name="HOLSTONS" votes="347" />
+                <Precinct name="MAYSON" votes="184" />
+                <Precinct name="MT. WILLING" votes="108" />
+                <Precinct name="PLEASANT CROSS" votes="71" />
+                <Precinct name="PLEASANT GROVE" votes="366" />
+                <Precinct name="RICHLAND" votes="298" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="223" />
+                <Precinct name="SALUDA NO. 1" votes="210" />
+                <Precinct name="SALUDA NO. 2" votes="374" />
+                <Precinct name="SARDIS" votes="300" />
+                <Precinct name="WARD" votes="129" />
+                <Precinct name="Absentee" votes="724" />
+                <Precinct name="Emergency" votes="1" />
+                <Precinct name="Failsafe" votes="20" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Rebel Michael Scarborough" party="AMR" totalVotes="63">
+            <VoteType name="Election Day" votes="63">
+                <Precinct name="CENTENNIAL" votes="4" />
+                <Precinct name="CLYDE" votes="2" />
+                <Precinct name="DELMAR" votes="4" />
+                <Precinct name="FRUIT HILL" votes="0" />
+                <Precinct name="HIGGINS-ZOAR" votes="3" />
+                <Precinct name="HOLLY" votes="2" />
+                <Precinct name="HOLLYWOOD" votes="10" />
+                <Precinct name="HOLSTONS" votes="4" />
+                <Precinct name="MAYSON" votes="2" />
+                <Precinct name="MT. WILLING" votes="2" />
+                <Precinct name="PLEASANT CROSS" votes="0" />
+                <Precinct name="PLEASANT GROVE" votes="2" />
+                <Precinct name="RICHLAND" votes="1" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="2" />
+                <Precinct name="SALUDA NO. 1" votes="5" />
+                <Precinct name="SALUDA NO. 2" votes="7" />
+                <Precinct name="SARDIS" votes="3" />
+                <Precinct name="WARD" votes="1" />
+                <Precinct name="Absentee" votes="8" />
+                <Precinct name="Emergency" votes="1" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="Bill Bledsoe" party="LIB" totalVotes="72">
+            <VoteType name="Election Day" votes="72">
+                <Precinct name="CENTENNIAL" votes="2" />
+                <Precinct name="CLYDE" votes="0" />
+                <Precinct name="DELMAR" votes="2" />
+                <Precinct name="FRUIT HILL" votes="3" />
+                <Precinct name="HIGGINS-ZOAR" votes="3" />
+                <Precinct name="HOLLY" votes="4" />
+                <Precinct name="HOLLYWOOD" votes="6" />
+                <Precinct name="HOLSTONS" votes="5" />
+                <Precinct name="MAYSON" votes="1" />
+                <Precinct name="MT. WILLING" votes="1" />
+                <Precinct name="PLEASANT CROSS" votes="1" />
+                <Precinct name="PLEASANT GROVE" votes="8" />
+                <Precinct name="RICHLAND" votes="4" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="3" />
+                <Precinct name="SALUDA NO. 1" votes="4" />
+                <Precinct name="SALUDA NO. 2" votes="9" />
+                <Precinct name="SARDIS" votes="2" />
+                <Precinct name="WARD" votes="5" />
+                <Precinct name="Absentee" votes="9" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="008" text="Write-In" party="NON" totalVotes="4">
+            <VoteType name="Election Day" votes="4">
+                <Precinct name="CENTENNIAL" votes="0" />
+                <Precinct name="CLYDE" votes="0" />
+                <Precinct name="DELMAR" votes="0" />
+                <Precinct name="FRUIT HILL" votes="2" />
+                <Precinct name="HIGGINS-ZOAR" votes="1" />
+                <Precinct name="HOLLY" votes="1" />
+                <Precinct name="HOLLYWOOD" votes="0" />
+                <Precinct name="HOLSTONS" votes="0" />
+                <Precinct name="MAYSON" votes="0" />
+                <Precinct name="MT. WILLING" votes="0" />
+                <Precinct name="PLEASANT CROSS" votes="0" />
+                <Precinct name="PLEASANT GROVE" votes="0" />
+                <Precinct name="RICHLAND" votes="0" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="0" />
+                <Precinct name="SALUDA NO. 1" votes="0" />
+                <Precinct name="SALUDA NO. 2" votes="0" />
+                <Precinct name="SARDIS" votes="0" />
+                <Precinct name="WARD" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0106" text="U.S.  House of Representatives, District  3" voteFor="1" isQuestion="false" precinctsReporting="18" precinctsReported="18">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="CENTENNIAL" votes="0" />
+            <Precinct name="CLYDE" votes="0" />
+            <Precinct name="DELMAR" votes="0" />
+            <Precinct name="FRUIT HILL" votes="0" />
+            <Precinct name="HIGGINS-ZOAR" votes="0" />
+            <Precinct name="HOLLY" votes="0" />
+            <Precinct name="HOLLYWOOD" votes="0" />
+            <Precinct name="HOLSTONS" votes="0" />
+            <Precinct name="MAYSON" votes="0" />
+            <Precinct name="MT. WILLING" votes="0" />
+            <Precinct name="PLEASANT CROSS" votes="0" />
+            <Precinct name="PLEASANT GROVE" votes="0" />
+            <Precinct name="RICHLAND" votes="0" />
+            <Precinct name="RIDGE SPRING - MONETTA" votes="0" />
+            <Precinct name="SALUDA NO. 1" votes="0" />
+            <Precinct name="SALUDA NO. 2" votes="0" />
+            <Precinct name="SARDIS" votes="0" />
+            <Precinct name="WARD" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="450">
+            <Precinct name="CENTENNIAL" votes="16" />
+            <Precinct name="CLYDE" votes="5" />
+            <Precinct name="DELMAR" votes="15" />
+            <Precinct name="FRUIT HILL" votes="16" />
+            <Precinct name="HIGGINS-ZOAR" votes="17" />
+            <Precinct name="HOLLY" votes="24" />
+            <Precinct name="HOLLYWOOD" votes="40" />
+            <Precinct name="HOLSTONS" votes="30" />
+            <Precinct name="MAYSON" votes="15" />
+            <Precinct name="MT. WILLING" votes="8" />
+            <Precinct name="PLEASANT CROSS" votes="4" />
+            <Precinct name="PLEASANT GROVE" votes="16" />
+            <Precinct name="RICHLAND" votes="28" />
+            <Precinct name="RIDGE SPRING - MONETTA" votes="29" />
+            <Precinct name="SALUDA NO. 1" votes="51" />
+            <Precinct name="SALUDA NO. 2" votes="28" />
+            <Precinct name="SARDIS" votes="21" />
+            <Precinct name="WARD" votes="12" />
+            <Precinct name="Absentee" votes="74" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Hosea Cleveland" party="DEM" totalVotes="2567">
+            <VoteType name="Election Day" votes="2567">
+                <Precinct name="CENTENNIAL" votes="58" />
+                <Precinct name="CLYDE" votes="14" />
+                <Precinct name="DELMAR" votes="22" />
+                <Precinct name="FRUIT HILL" votes="253" />
+                <Precinct name="HIGGINS-ZOAR" votes="154" />
+                <Precinct name="HOLLY" votes="49" />
+                <Precinct name="HOLLYWOOD" votes="74" />
+                <Precinct name="HOLSTONS" votes="191" />
+                <Precinct name="MAYSON" votes="59" />
+                <Precinct name="MT. WILLING" votes="28" />
+                <Precinct name="PLEASANT CROSS" votes="61" />
+                <Precinct name="PLEASANT GROVE" votes="53" />
+                <Precinct name="RICHLAND" votes="59" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="241" />
+                <Precinct name="SALUDA NO. 1" votes="413" />
+                <Precinct name="SALUDA NO. 2" votes="204" />
+                <Precinct name="SARDIS" votes="31" />
+                <Precinct name="WARD" votes="117" />
+                <Precinct name="Absentee" votes="463" />
+                <Precinct name="Emergency" votes="4" />
+                <Precinct name="Failsafe" votes="19" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Jeff Duncan" party="REP" totalVotes="5643">
+            <VoteType name="Election Day" votes="5643">
+                <Precinct name="CENTENNIAL" votes="231" />
+                <Precinct name="CLYDE" votes="157" />
+                <Precinct name="DELMAR" votes="222" />
+                <Precinct name="FRUIT HILL" votes="153" />
+                <Precinct name="HIGGINS-ZOAR" votes="196" />
+                <Precinct name="HOLLY" votes="527" />
+                <Precinct name="HOLLYWOOD" votes="678" />
+                <Precinct name="HOLSTONS" votes="352" />
+                <Precinct name="MAYSON" votes="193" />
+                <Precinct name="MT. WILLING" votes="115" />
+                <Precinct name="PLEASANT CROSS" votes="70" />
+                <Precinct name="PLEASANT GROVE" votes="386" />
+                <Precinct name="RICHLAND" votes="307" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="226" />
+                <Precinct name="SALUDA NO. 1" votes="222" />
+                <Precinct name="SALUDA NO. 2" votes="393" />
+                <Precinct name="SARDIS" votes="319" />
+                <Precinct name="WARD" votes="138" />
+                <Precinct name="Absentee" votes="730" />
+                <Precinct name="Emergency" votes="1" />
+                <Precinct name="Failsafe" votes="27" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="4">
+            <VoteType name="Election Day" votes="4">
+                <Precinct name="CENTENNIAL" votes="0" />
+                <Precinct name="CLYDE" votes="0" />
+                <Precinct name="DELMAR" votes="0" />
+                <Precinct name="FRUIT HILL" votes="1" />
+                <Precinct name="HIGGINS-ZOAR" votes="0" />
+                <Precinct name="HOLLY" votes="2" />
+                <Precinct name="HOLLYWOOD" votes="0" />
+                <Precinct name="HOLSTONS" votes="0" />
+                <Precinct name="MAYSON" votes="0" />
+                <Precinct name="MT. WILLING" votes="0" />
+                <Precinct name="PLEASANT CROSS" votes="0" />
+                <Precinct name="PLEASANT GROVE" votes="0" />
+                <Precinct name="RICHLAND" votes="0" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="0" />
+                <Precinct name="SALUDA NO. 1" votes="0" />
+                <Precinct name="SALUDA NO. 2" votes="0" />
+                <Precinct name="SARDIS" votes="0" />
+                <Precinct name="WARD" votes="0" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0107" text="State  Senate, District  10" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="CENTENNIAL" votes="0" />
+            <Precinct name="FRUIT HILL" votes="0" />
+            <Precinct name="HIGGINS-ZOAR" votes="0" />
+            <Precinct name="HOLLYWOOD" votes="0" />
+            <Precinct name="MAYSON" votes="0" />
+            <Precinct name="SALUDA NO. 1" votes="0" />
+            <Precinct name="SALUDA NO. 2" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="192">
+            <Precinct name="CENTENNIAL" votes="15" />
+            <Precinct name="FRUIT HILL" votes="12" />
+            <Precinct name="HIGGINS-ZOAR" votes="19" />
+            <Precinct name="HOLLYWOOD" votes="37" />
+            <Precinct name="MAYSON" votes="7" />
+            <Precinct name="SALUDA NO. 1" votes="41" />
+            <Precinct name="SALUDA NO. 2" votes="21" />
+            <Precinct name="Absentee" votes="39" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Floyd Nicholson" party="DEM" totalVotes="1890">
+            <VoteType name="Election Day" votes="1890">
+                <Precinct name="CENTENNIAL" votes="82" />
+                <Precinct name="FRUIT HILL" votes="263" />
+                <Precinct name="HIGGINS-ZOAR" votes="181" />
+                <Precinct name="HOLLYWOOD" votes="154" />
+                <Precinct name="MAYSON" votes="89" />
+                <Precinct name="SALUDA NO. 1" votes="446" />
+                <Precinct name="SALUDA NO. 2" votes="272" />
+                <Precinct name="Absentee" votes="383" />
+                <Precinct name="Emergency" votes="3" />
+                <Precinct name="Failsafe" votes="17" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="J Bryan Hope" party="REP" totalVotes="2195">
+            <VoteType name="Election Day" votes="2195">
+                <Precinct name="CENTENNIAL" votes="208" />
+                <Precinct name="FRUIT HILL" votes="146" />
+                <Precinct name="HIGGINS-ZOAR" votes="167" />
+                <Precinct name="HOLLYWOOD" votes="601" />
+                <Precinct name="MAYSON" votes="171" />
+                <Precinct name="SALUDA NO. 1" votes="199" />
+                <Precinct name="SALUDA NO. 2" votes="332" />
+                <Precinct name="Absentee" votes="360" />
+                <Precinct name="Emergency" votes="1" />
+                <Precinct name="Failsafe" votes="10" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="2">
+            <VoteType name="Election Day" votes="2">
+                <Precinct name="CENTENNIAL" votes="0" />
+                <Precinct name="FRUIT HILL" votes="2" />
+                <Precinct name="HIGGINS-ZOAR" votes="0" />
+                <Precinct name="HOLLYWOOD" votes="0" />
+                <Precinct name="MAYSON" votes="0" />
+                <Precinct name="SALUDA NO. 1" votes="0" />
+                <Precinct name="SALUDA NO. 2" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0108" text="State  Senate, District  25" voteFor="1" isQuestion="false" precinctsReporting="10" precinctsReported="10">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="CLYDE" votes="0" />
+            <Precinct name="DELMAR" votes="0" />
+            <Precinct name="HOLLY" votes="0" />
+            <Precinct name="HOLSTONS" votes="0" />
+            <Precinct name="MT. WILLING" votes="0" />
+            <Precinct name="PLEASANT CROSS" votes="0" />
+            <Precinct name="PLEASANT GROVE" votes="0" />
+            <Precinct name="RICHLAND" votes="0" />
+            <Precinct name="SARDIS" votes="0" />
+            <Precinct name="WARD" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="696">
+            <Precinct name="CLYDE" votes="15" />
+            <Precinct name="DELMAR" votes="25" />
+            <Precinct name="HOLLY" votes="46" />
+            <Precinct name="HOLSTONS" votes="167" />
+            <Precinct name="MT. WILLING" votes="30" />
+            <Precinct name="PLEASANT CROSS" votes="61" />
+            <Precinct name="PLEASANT GROVE" votes="42" />
+            <Precinct name="RICHLAND" votes="66" />
+            <Precinct name="SARDIS" votes="37" />
+            <Precinct name="WARD" votes="93" />
+            <Precinct name="Absentee" votes="112" />
+            <Precinct name="Emergency" votes="1" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Shane Massey" party="REP" totalVotes="3110">
+            <VoteType name="Election Day" votes="3110">
+                <Precinct name="CLYDE" votes="161" />
+                <Precinct name="DELMAR" votes="233" />
+                <Precinct name="HOLLY" votes="555" />
+                <Precinct name="HOLSTONS" votes="405" />
+                <Precinct name="MT. WILLING" votes="121" />
+                <Precinct name="PLEASANT CROSS" votes="72" />
+                <Precinct name="PLEASANT GROVE" votes="412" />
+                <Precinct name="RICHLAND" votes="325" />
+                <Precinct name="SARDIS" votes="331" />
+                <Precinct name="WARD" votes="173" />
+                <Precinct name="Absentee" votes="307" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="15" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="16">
+            <VoteType name="Election Day" votes="16">
+                <Precinct name="CLYDE" votes="0" />
+                <Precinct name="DELMAR" votes="1" />
+                <Precinct name="HOLLY" votes="1" />
+                <Precinct name="HOLSTONS" votes="1" />
+                <Precinct name="MT. WILLING" votes="0" />
+                <Precinct name="PLEASANT CROSS" votes="2" />
+                <Precinct name="PLEASANT GROVE" votes="1" />
+                <Precinct name="RICHLAND" votes="3" />
+                <Precinct name="SARDIS" votes="3" />
+                <Precinct name="WARD" votes="1" />
+                <Precinct name="Absentee" votes="3" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0109" text="State  Senate, District  26" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="RIDGE SPRING - MONETTA" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="28">
+            <Precinct name="RIDGE SPRING - MONETTA" votes="24" />
+            <Precinct name="Absentee" votes="4" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Nikki Setzler" party="DEM" totalVotes="372">
+            <VoteType name="Election Day" votes="372">
+                <Precinct name="RIDGE SPRING - MONETTA" votes="333" />
+                <Precinct name="Absentee" votes="38" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Brad Lindsey" party="REP" totalVotes="162">
+            <VoteType name="Election Day" votes="162">
+                <Precinct name="RIDGE SPRING - MONETTA" votes="138" />
+                <Precinct name="Absentee" votes="22" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="1">
+            <VoteType name="Election Day" votes="1">
+                <Precinct name="RIDGE SPRING - MONETTA" votes="1" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0110" text="State  House of Representatives, District  39" voteFor="1" isQuestion="false" precinctsReporting="17" precinctsReported="17">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="CENTENNIAL" votes="0" />
+            <Precinct name="CLYDE" votes="0" />
+            <Precinct name="DELMAR" votes="0" />
+            <Precinct name="FRUIT HILL" votes="0" />
+            <Precinct name="HIGGINS-ZOAR" votes="0" />
+            <Precinct name="HOLLY" votes="0" />
+            <Precinct name="HOLLYWOOD" votes="0" />
+            <Precinct name="HOLSTONS" votes="0" />
+            <Precinct name="MAYSON" votes="0" />
+            <Precinct name="MT. WILLING" votes="0" />
+            <Precinct name="PLEASANT GROVE" votes="0" />
+            <Precinct name="RICHLAND" votes="0" />
+            <Precinct name="RIDGE SPRING - MONETTA" votes="0" />
+            <Precinct name="SALUDA NO. 1" votes="0" />
+            <Precinct name="SALUDA NO. 2" votes="0" />
+            <Precinct name="SARDIS" votes="0" />
+            <Precinct name="WARD" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="282">
+            <Precinct name="CENTENNIAL" votes="13" />
+            <Precinct name="CLYDE" votes="4" />
+            <Precinct name="DELMAR" votes="10" />
+            <Precinct name="FRUIT HILL" votes="3" />
+            <Precinct name="HIGGINS-ZOAR" votes="16" />
+            <Precinct name="HOLLY" votes="13" />
+            <Precinct name="HOLLYWOOD" votes="36" />
+            <Precinct name="HOLSTONS" votes="14" />
+            <Precinct name="MAYSON" votes="6" />
+            <Precinct name="MT. WILLING" votes="3" />
+            <Precinct name="PLEASANT GROVE" votes="18" />
+            <Precinct name="RICHLAND" votes="10" />
+            <Precinct name="RIDGE SPRING - MONETTA" votes="17" />
+            <Precinct name="SALUDA NO. 1" votes="41" />
+            <Precinct name="SALUDA NO. 2" votes="16" />
+            <Precinct name="SARDIS" votes="9" />
+            <Precinct name="WARD" votes="1" />
+            <Precinct name="Absentee" votes="51" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Tillman Gives" party="DEM" totalVotes="2007">
+            <VoteType name="Election Day" votes="2007">
+                <Precinct name="CENTENNIAL" votes="64" />
+                <Precinct name="CLYDE" votes="20" />
+                <Precinct name="DELMAR" votes="25" />
+                <Precinct name="FRUIT HILL" votes="22" />
+                <Precinct name="HIGGINS-ZOAR" votes="170" />
+                <Precinct name="HOLLY" votes="80" />
+                <Precinct name="HOLLYWOOD" votes="100" />
+                <Precinct name="HOLSTONS" votes="196" />
+                <Precinct name="MAYSON" votes="20" />
+                <Precinct name="MT. WILLING" votes="33" />
+                <Precinct name="PLEASANT GROVE" votes="66" />
+                <Precinct name="RICHLAND" votes="63" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="228" />
+                <Precinct name="SALUDA NO. 1" votes="405" />
+                <Precinct name="SALUDA NO. 2" votes="133" />
+                <Precinct name="SARDIS" votes="37" />
+                <Precinct name="WARD" votes="6" />
+                <Precinct name="Absentee" votes="320" />
+                <Precinct name="Emergency" votes="3" />
+                <Precinct name="Failsafe" votes="16" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Cal Forrest" party="REP" totalVotes="5073">
+            <VoteType name="Election Day" votes="5073">
+                <Precinct name="CENTENNIAL" votes="227" />
+                <Precinct name="CLYDE" votes="150" />
+                <Precinct name="DELMAR" votes="224" />
+                <Precinct name="FRUIT HILL" votes="83" />
+                <Precinct name="HIGGINS-ZOAR" votes="177" />
+                <Precinct name="HOLLY" votes="508" />
+                <Precinct name="HOLLYWOOD" votes="654" />
+                <Precinct name="HOLSTONS" votes="363" />
+                <Precinct name="MAYSON" votes="115" />
+                <Precinct name="MT. WILLING" votes="115" />
+                <Precinct name="PLEASANT GROVE" votes="369" />
+                <Precinct name="RICHLAND" votes="308" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="218" />
+                <Precinct name="SALUDA NO. 1" votes="186" />
+                <Precinct name="SALUDA NO. 2" votes="339" />
+                <Precinct name="SARDIS" votes="325" />
+                <Precinct name="WARD" votes="29" />
+                <Precinct name="Absentee" votes="661" />
+                <Precinct name="Emergency" votes="1" />
+                <Precinct name="Failsafe" votes="21" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="32">
+            <VoteType name="Election Day" votes="32">
+                <Precinct name="CENTENNIAL" votes="1" />
+                <Precinct name="CLYDE" votes="2" />
+                <Precinct name="DELMAR" votes="0" />
+                <Precinct name="FRUIT HILL" votes="0" />
+                <Precinct name="HIGGINS-ZOAR" votes="4" />
+                <Precinct name="HOLLY" votes="1" />
+                <Precinct name="HOLLYWOOD" votes="2" />
+                <Precinct name="HOLSTONS" votes="0" />
+                <Precinct name="MAYSON" votes="1" />
+                <Precinct name="MT. WILLING" votes="0" />
+                <Precinct name="PLEASANT GROVE" votes="2" />
+                <Precinct name="RICHLAND" votes="1" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="4" />
+                <Precinct name="SALUDA NO. 1" votes="1" />
+                <Precinct name="SALUDA NO. 2" votes="4" />
+                <Precinct name="SARDIS" votes="0" />
+                <Precinct name="WARD" votes="0" />
+                <Precinct name="Absentee" votes="9" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0111" text="State  House of Representatives, District  82" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="FRUIT HILL" votes="0" />
+            <Precinct name="MAYSON" votes="0" />
+            <Precinct name="PLEASANT CROSS" votes="0" />
+            <Precinct name="RICHLAND" votes="0" />
+            <Precinct name="RIDGE SPRING - MONETTA" votes="0" />
+            <Precinct name="SALUDA NO. 1" votes="0" />
+            <Precinct name="SALUDA NO. 2" votes="0" />
+            <Precinct name="WARD" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="272">
+            <Precinct name="FRUIT HILL" votes="42" />
+            <Precinct name="MAYSON" votes="37" />
+            <Precinct name="PLEASANT CROSS" votes="39" />
+            <Precinct name="RICHLAND" votes="2" />
+            <Precinct name="RIDGE SPRING - MONETTA" votes="10" />
+            <Precinct name="SALUDA NO. 1" votes="14" />
+            <Precinct name="SALUDA NO. 2" votes="18" />
+            <Precinct name="WARD" votes="65" />
+            <Precinct name="Absentee" votes="45" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="William Bill Clyburn" party="DEM" totalVotes="983">
+            <VoteType name="Election Day" votes="983">
+                <Precinct name="FRUIT HILL" votes="271" />
+                <Precinct name="MAYSON" votes="87" />
+                <Precinct name="PLEASANT CROSS" votes="93" />
+                <Precinct name="RICHLAND" votes="10" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="19" />
+                <Precinct name="SALUDA NO. 1" votes="38" />
+                <Precinct name="SALUDA NO. 2" votes="115" />
+                <Precinct name="WARD" votes="160" />
+                <Precinct name="Absentee" votes="180" />
+                <Precinct name="Emergency" votes="1" />
+                <Precinct name="Failsafe" votes="9" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="15">
+            <VoteType name="Election Day" votes="15">
+                <Precinct name="FRUIT HILL" votes="2" />
+                <Precinct name="MAYSON" votes="1" />
+                <Precinct name="PLEASANT CROSS" votes="3" />
+                <Precinct name="RICHLAND" votes="0" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="0" />
+                <Precinct name="SALUDA NO. 1" votes="1" />
+                <Precinct name="SALUDA NO. 2" votes="0" />
+                <Precinct name="WARD" votes="6" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0112" text=" Solicitor, Circuit  11" voteFor="1" isQuestion="false" precinctsReporting="18" precinctsReported="18">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="CENTENNIAL" votes="0" />
+            <Precinct name="CLYDE" votes="0" />
+            <Precinct name="DELMAR" votes="0" />
+            <Precinct name="FRUIT HILL" votes="0" />
+            <Precinct name="HIGGINS-ZOAR" votes="0" />
+            <Precinct name="HOLLY" votes="0" />
+            <Precinct name="HOLLYWOOD" votes="0" />
+            <Precinct name="HOLSTONS" votes="0" />
+            <Precinct name="MAYSON" votes="0" />
+            <Precinct name="MT. WILLING" votes="0" />
+            <Precinct name="PLEASANT CROSS" votes="0" />
+            <Precinct name="PLEASANT GROVE" votes="0" />
+            <Precinct name="RICHLAND" votes="0" />
+            <Precinct name="RIDGE SPRING - MONETTA" votes="0" />
+            <Precinct name="SALUDA NO. 1" votes="0" />
+            <Precinct name="SALUDA NO. 2" votes="0" />
+            <Precinct name="SARDIS" votes="0" />
+            <Precinct name="WARD" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="2539">
+            <Precinct name="CENTENNIAL" votes="58" />
+            <Precinct name="CLYDE" votes="17" />
+            <Precinct name="DELMAR" votes="23" />
+            <Precinct name="FRUIT HILL" votes="242" />
+            <Precinct name="HIGGINS-ZOAR" votes="136" />
+            <Precinct name="HOLLY" votes="54" />
+            <Precinct name="HOLLYWOOD" votes="93" />
+            <Precinct name="HOLSTONS" votes="181" />
+            <Precinct name="MAYSON" votes="68" />
+            <Precinct name="MT. WILLING" votes="30" />
+            <Precinct name="PLEASANT CROSS" votes="62" />
+            <Precinct name="PLEASANT GROVE" votes="51" />
+            <Precinct name="RICHLAND" votes="80" />
+            <Precinct name="RIDGE SPRING - MONETTA" votes="235" />
+            <Precinct name="SALUDA NO. 1" votes="374" />
+            <Precinct name="SALUDA NO. 2" votes="189" />
+            <Precinct name="SARDIS" votes="42" />
+            <Precinct name="WARD" votes="109" />
+            <Precinct name="Absentee" votes="476" />
+            <Precinct name="Emergency" votes="3" />
+            <Precinct name="Failsafe" votes="16" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Rick Hubbard" party="REP" totalVotes="6086">
+            <VoteType name="Election Day" votes="6086">
+                <Precinct name="CENTENNIAL" votes="247" />
+                <Precinct name="CLYDE" votes="159" />
+                <Precinct name="DELMAR" votes="236" />
+                <Precinct name="FRUIT HILL" votes="177" />
+                <Precinct name="HIGGINS-ZOAR" votes="226" />
+                <Precinct name="HOLLY" votes="548" />
+                <Precinct name="HOLLYWOOD" votes="699" />
+                <Precinct name="HOLSTONS" votes="390" />
+                <Precinct name="MAYSON" votes="197" />
+                <Precinct name="MT. WILLING" votes="121" />
+                <Precinct name="PLEASANT CROSS" votes="72" />
+                <Precinct name="PLEASANT GROVE" votes="404" />
+                <Precinct name="RICHLAND" votes="314" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="258" />
+                <Precinct name="SALUDA NO. 1" votes="302" />
+                <Precinct name="SALUDA NO. 2" votes="431" />
+                <Precinct name="SARDIS" votes="328" />
+                <Precinct name="WARD" votes="157" />
+                <Precinct name="Absentee" votes="787" />
+                <Precinct name="Emergency" votes="2" />
+                <Precinct name="Failsafe" votes="31" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="39">
+            <VoteType name="Election Day" votes="39">
+                <Precinct name="CENTENNIAL" votes="0" />
+                <Precinct name="CLYDE" votes="0" />
+                <Precinct name="DELMAR" votes="0" />
+                <Precinct name="FRUIT HILL" votes="4" />
+                <Precinct name="HIGGINS-ZOAR" votes="5" />
+                <Precinct name="HOLLY" votes="0" />
+                <Precinct name="HOLLYWOOD" votes="0" />
+                <Precinct name="HOLSTONS" votes="2" />
+                <Precinct name="MAYSON" votes="2" />
+                <Precinct name="MT. WILLING" votes="0" />
+                <Precinct name="PLEASANT CROSS" votes="1" />
+                <Precinct name="PLEASANT GROVE" votes="0" />
+                <Precinct name="RICHLAND" votes="0" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="3" />
+                <Precinct name="SALUDA NO. 1" votes="10" />
+                <Precinct name="SALUDA NO. 2" votes="5" />
+                <Precinct name="SARDIS" votes="1" />
+                <Precinct name="WARD" votes="1" />
+                <Precinct name="Absentee" votes="5" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0113" text="Sheriff" voteFor="1" isQuestion="false" precinctsReporting="18" precinctsReported="18">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="CENTENNIAL" votes="0" />
+            <Precinct name="CLYDE" votes="0" />
+            <Precinct name="DELMAR" votes="0" />
+            <Precinct name="FRUIT HILL" votes="0" />
+            <Precinct name="HIGGINS-ZOAR" votes="0" />
+            <Precinct name="HOLLY" votes="0" />
+            <Precinct name="HOLLYWOOD" votes="0" />
+            <Precinct name="HOLSTONS" votes="0" />
+            <Precinct name="MAYSON" votes="0" />
+            <Precinct name="MT. WILLING" votes="0" />
+            <Precinct name="PLEASANT CROSS" votes="0" />
+            <Precinct name="PLEASANT GROVE" votes="0" />
+            <Precinct name="RICHLAND" votes="0" />
+            <Precinct name="RIDGE SPRING - MONETTA" votes="0" />
+            <Precinct name="SALUDA NO. 1" votes="0" />
+            <Precinct name="SALUDA NO. 2" votes="0" />
+            <Precinct name="SARDIS" votes="0" />
+            <Precinct name="WARD" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="189">
+            <Precinct name="CENTENNIAL" votes="12" />
+            <Precinct name="CLYDE" votes="0" />
+            <Precinct name="DELMAR" votes="4" />
+            <Precinct name="FRUIT HILL" votes="3" />
+            <Precinct name="HIGGINS-ZOAR" votes="6" />
+            <Precinct name="HOLLY" votes="13" />
+            <Precinct name="HOLLYWOOD" votes="11" />
+            <Precinct name="HOLSTONS" votes="15" />
+            <Precinct name="MAYSON" votes="5" />
+            <Precinct name="MT. WILLING" votes="0" />
+            <Precinct name="PLEASANT CROSS" votes="1" />
+            <Precinct name="PLEASANT GROVE" votes="8" />
+            <Precinct name="RICHLAND" votes="9" />
+            <Precinct name="RIDGE SPRING - MONETTA" votes="18" />
+            <Precinct name="SALUDA NO. 1" votes="24" />
+            <Precinct name="SALUDA NO. 2" votes="9" />
+            <Precinct name="SARDIS" votes="2" />
+            <Precinct name="WARD" votes="9" />
+            <Precinct name="Absentee" votes="40" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="John C Perry" party="DEM" totalVotes="5152">
+            <VoteType name="Election Day" votes="5152">
+                <Precinct name="CENTENNIAL" votes="171" />
+                <Precinct name="CLYDE" votes="109" />
+                <Precinct name="DELMAR" votes="107" />
+                <Precinct name="FRUIT HILL" votes="332" />
+                <Precinct name="HIGGINS-ZOAR" votes="258" />
+                <Precinct name="HOLLY" votes="238" />
+                <Precinct name="HOLLYWOOD" votes="439" />
+                <Precinct name="HOLSTONS" votes="317" />
+                <Precinct name="MAYSON" votes="146" />
+                <Precinct name="MT. WILLING" votes="81" />
+                <Precinct name="PLEASANT CROSS" votes="86" />
+                <Precinct name="PLEASANT GROVE" votes="256" />
+                <Precinct name="RICHLAND" votes="205" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="299" />
+                <Precinct name="SALUDA NO. 1" votes="533" />
+                <Precinct name="SALUDA NO. 2" votes="385" />
+                <Precinct name="SARDIS" votes="254" />
+                <Precinct name="WARD" votes="141" />
+                <Precinct name="Absentee" votes="751" />
+                <Precinct name="Emergency" votes="5" />
+                <Precinct name="Failsafe" votes="39" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Robin Freeman" party="REP" totalVotes="3307">
+            <VoteType name="Election Day" votes="3307">
+                <Precinct name="CENTENNIAL" votes="121" />
+                <Precinct name="CLYDE" votes="66" />
+                <Precinct name="DELMAR" votes="147" />
+                <Precinct name="FRUIT HILL" votes="87" />
+                <Precinct name="HIGGINS-ZOAR" votes="103" />
+                <Precinct name="HOLLY" votes="350" />
+                <Precinct name="HOLLYWOOD" votes="340" />
+                <Precinct name="HOLSTONS" votes="238" />
+                <Precinct name="MAYSON" votes="116" />
+                <Precinct name="MT. WILLING" votes="70" />
+                <Precinct name="PLEASANT CROSS" votes="48" />
+                <Precinct name="PLEASANT GROVE" votes="191" />
+                <Precinct name="RICHLAND" votes="179" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="179" />
+                <Precinct name="SALUDA NO. 1" votes="128" />
+                <Precinct name="SALUDA NO. 2" votes="229" />
+                <Precinct name="SARDIS" votes="115" />
+                <Precinct name="WARD" votes="117" />
+                <Precinct name="Absentee" votes="475" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="8" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="16">
+            <VoteType name="Election Day" votes="16">
+                <Precinct name="CENTENNIAL" votes="1" />
+                <Precinct name="CLYDE" votes="1" />
+                <Precinct name="DELMAR" votes="1" />
+                <Precinct name="FRUIT HILL" votes="1" />
+                <Precinct name="HIGGINS-ZOAR" votes="0" />
+                <Precinct name="HOLLY" votes="1" />
+                <Precinct name="HOLLYWOOD" votes="2" />
+                <Precinct name="HOLSTONS" votes="3" />
+                <Precinct name="MAYSON" votes="0" />
+                <Precinct name="MT. WILLING" votes="0" />
+                <Precinct name="PLEASANT CROSS" votes="0" />
+                <Precinct name="PLEASANT GROVE" votes="0" />
+                <Precinct name="RICHLAND" votes="1" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="0" />
+                <Precinct name="SALUDA NO. 1" votes="1" />
+                <Precinct name="SALUDA NO. 2" votes="2" />
+                <Precinct name="SARDIS" votes="0" />
+                <Precinct name="WARD" votes="0" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0114" text="Probate Judge" voteFor="1" isQuestion="false" precinctsReporting="18" precinctsReported="18">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="CENTENNIAL" votes="0" />
+            <Precinct name="CLYDE" votes="0" />
+            <Precinct name="DELMAR" votes="0" />
+            <Precinct name="FRUIT HILL" votes="0" />
+            <Precinct name="HIGGINS-ZOAR" votes="0" />
+            <Precinct name="HOLLY" votes="0" />
+            <Precinct name="HOLLYWOOD" votes="0" />
+            <Precinct name="HOLSTONS" votes="0" />
+            <Precinct name="MAYSON" votes="0" />
+            <Precinct name="MT. WILLING" votes="0" />
+            <Precinct name="PLEASANT CROSS" votes="0" />
+            <Precinct name="PLEASANT GROVE" votes="0" />
+            <Precinct name="RICHLAND" votes="0" />
+            <Precinct name="RIDGE SPRING - MONETTA" votes="0" />
+            <Precinct name="SALUDA NO. 1" votes="0" />
+            <Precinct name="SALUDA NO. 2" votes="0" />
+            <Precinct name="SARDIS" votes="0" />
+            <Precinct name="WARD" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="2226">
+            <Precinct name="CENTENNIAL" votes="46" />
+            <Precinct name="CLYDE" votes="14" />
+            <Precinct name="DELMAR" votes="16" />
+            <Precinct name="FRUIT HILL" votes="217" />
+            <Precinct name="HIGGINS-ZOAR" votes="119" />
+            <Precinct name="HOLLY" votes="46" />
+            <Precinct name="HOLLYWOOD" votes="65" />
+            <Precinct name="HOLSTONS" votes="171" />
+            <Precinct name="MAYSON" votes="55" />
+            <Precinct name="MT. WILLING" votes="24" />
+            <Precinct name="PLEASANT CROSS" votes="62" />
+            <Precinct name="PLEASANT GROVE" votes="38" />
+            <Precinct name="RICHLAND" votes="66" />
+            <Precinct name="RIDGE SPRING - MONETTA" votes="213" />
+            <Precinct name="SALUDA NO. 1" votes="331" />
+            <Precinct name="SALUDA NO. 2" votes="167" />
+            <Precinct name="SARDIS" votes="30" />
+            <Precinct name="WARD" votes="95" />
+            <Precinct name="Absentee" votes="435" />
+            <Precinct name="Emergency" votes="2" />
+            <Precinct name="Failsafe" votes="14" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Brenda S Griffith" party="REP" totalVotes="6417">
+            <VoteType name="Election Day" votes="6417">
+                <Precinct name="CENTENNIAL" votes="259" />
+                <Precinct name="CLYDE" votes="162" />
+                <Precinct name="DELMAR" votes="243" />
+                <Precinct name="FRUIT HILL" votes="204" />
+                <Precinct name="HIGGINS-ZOAR" votes="245" />
+                <Precinct name="HOLLY" votes="556" />
+                <Precinct name="HOLLYWOOD" votes="726" />
+                <Precinct name="HOLSTONS" votes="401" />
+                <Precinct name="MAYSON" votes="211" />
+                <Precinct name="MT. WILLING" votes="127" />
+                <Precinct name="PLEASANT CROSS" votes="73" />
+                <Precinct name="PLEASANT GROVE" votes="417" />
+                <Precinct name="RICHLAND" votes="328" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="282" />
+                <Precinct name="SALUDA NO. 1" votes="351" />
+                <Precinct name="SALUDA NO. 2" votes="457" />
+                <Precinct name="SARDIS" votes="340" />
+                <Precinct name="WARD" votes="171" />
+                <Precinct name="Absentee" votes="828" />
+                <Precinct name="Emergency" votes="3" />
+                <Precinct name="Failsafe" votes="33" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="21">
+            <VoteType name="Election Day" votes="21">
+                <Precinct name="CENTENNIAL" votes="0" />
+                <Precinct name="CLYDE" votes="0" />
+                <Precinct name="DELMAR" votes="0" />
+                <Precinct name="FRUIT HILL" votes="2" />
+                <Precinct name="HIGGINS-ZOAR" votes="3" />
+                <Precinct name="HOLLY" votes="0" />
+                <Precinct name="HOLLYWOOD" votes="1" />
+                <Precinct name="HOLSTONS" votes="1" />
+                <Precinct name="MAYSON" votes="1" />
+                <Precinct name="MT. WILLING" votes="0" />
+                <Precinct name="PLEASANT CROSS" votes="0" />
+                <Precinct name="PLEASANT GROVE" votes="0" />
+                <Precinct name="RICHLAND" votes="0" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="1" />
+                <Precinct name="SALUDA NO. 1" votes="4" />
+                <Precinct name="SALUDA NO. 2" votes="1" />
+                <Precinct name="SARDIS" votes="1" />
+                <Precinct name="WARD" votes="1" />
+                <Precinct name="Absentee" votes="5" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0115" text="Clerk of Court" voteFor="1" isQuestion="false" precinctsReporting="18" precinctsReported="18">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="CENTENNIAL" votes="0" />
+            <Precinct name="CLYDE" votes="0" />
+            <Precinct name="DELMAR" votes="0" />
+            <Precinct name="FRUIT HILL" votes="0" />
+            <Precinct name="HIGGINS-ZOAR" votes="0" />
+            <Precinct name="HOLLY" votes="0" />
+            <Precinct name="HOLLYWOOD" votes="0" />
+            <Precinct name="HOLSTONS" votes="0" />
+            <Precinct name="MAYSON" votes="0" />
+            <Precinct name="MT. WILLING" votes="0" />
+            <Precinct name="PLEASANT CROSS" votes="0" />
+            <Precinct name="PLEASANT GROVE" votes="0" />
+            <Precinct name="RICHLAND" votes="0" />
+            <Precinct name="RIDGE SPRING - MONETTA" votes="0" />
+            <Precinct name="SALUDA NO. 1" votes="0" />
+            <Precinct name="SALUDA NO. 2" votes="0" />
+            <Precinct name="SARDIS" votes="0" />
+            <Precinct name="WARD" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="2286">
+            <Precinct name="CENTENNIAL" votes="49" />
+            <Precinct name="CLYDE" votes="14" />
+            <Precinct name="DELMAR" votes="16" />
+            <Precinct name="FRUIT HILL" votes="219" />
+            <Precinct name="HIGGINS-ZOAR" votes="123" />
+            <Precinct name="HOLLY" votes="48" />
+            <Precinct name="HOLLYWOOD" votes="69" />
+            <Precinct name="HOLSTONS" votes="177" />
+            <Precinct name="MAYSON" votes="56" />
+            <Precinct name="MT. WILLING" votes="23" />
+            <Precinct name="PLEASANT CROSS" votes="62" />
+            <Precinct name="PLEASANT GROVE" votes="41" />
+            <Precinct name="RICHLAND" votes="67" />
+            <Precinct name="RIDGE SPRING - MONETTA" votes="216" />
+            <Precinct name="SALUDA NO. 1" votes="338" />
+            <Precinct name="SALUDA NO. 2" votes="175" />
+            <Precinct name="SARDIS" votes="31" />
+            <Precinct name="WARD" votes="102" />
+            <Precinct name="Absentee" votes="442" />
+            <Precinct name="Emergency" votes="3" />
+            <Precinct name="Failsafe" votes="15" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Sheri Coleman" party="REP" totalVotes="6352">
+            <VoteType name="Election Day" votes="6352">
+                <Precinct name="CENTENNIAL" votes="256" />
+                <Precinct name="CLYDE" votes="162" />
+                <Precinct name="DELMAR" votes="243" />
+                <Precinct name="FRUIT HILL" votes="201" />
+                <Precinct name="HIGGINS-ZOAR" votes="243" />
+                <Precinct name="HOLLY" votes="553" />
+                <Precinct name="HOLLYWOOD" votes="723" />
+                <Precinct name="HOLSTONS" votes="395" />
+                <Precinct name="MAYSON" votes="210" />
+                <Precinct name="MT. WILLING" votes="127" />
+                <Precinct name="PLEASANT CROSS" votes="73" />
+                <Precinct name="PLEASANT GROVE" votes="414" />
+                <Precinct name="RICHLAND" votes="327" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="279" />
+                <Precinct name="SALUDA NO. 1" votes="341" />
+                <Precinct name="SALUDA NO. 2" votes="448" />
+                <Precinct name="SARDIS" votes="339" />
+                <Precinct name="WARD" votes="164" />
+                <Precinct name="Absentee" votes="820" />
+                <Precinct name="Emergency" votes="2" />
+                <Precinct name="Failsafe" votes="32" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="26">
+            <VoteType name="Election Day" votes="26">
+                <Precinct name="CENTENNIAL" votes="0" />
+                <Precinct name="CLYDE" votes="0" />
+                <Precinct name="DELMAR" votes="0" />
+                <Precinct name="FRUIT HILL" votes="3" />
+                <Precinct name="HIGGINS-ZOAR" votes="1" />
+                <Precinct name="HOLLY" votes="1" />
+                <Precinct name="HOLLYWOOD" votes="0" />
+                <Precinct name="HOLSTONS" votes="1" />
+                <Precinct name="MAYSON" votes="1" />
+                <Precinct name="MT. WILLING" votes="1" />
+                <Precinct name="PLEASANT CROSS" votes="0" />
+                <Precinct name="PLEASANT GROVE" votes="0" />
+                <Precinct name="RICHLAND" votes="0" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="1" />
+                <Precinct name="SALUDA NO. 1" votes="7" />
+                <Precinct name="SALUDA NO. 2" votes="2" />
+                <Precinct name="SARDIS" votes="1" />
+                <Precinct name="WARD" votes="1" />
+                <Precinct name="Absentee" votes="6" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0116" text="Coroner" voteFor="1" isQuestion="false" precinctsReporting="18" precinctsReported="18">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="CENTENNIAL" votes="0" />
+            <Precinct name="CLYDE" votes="0" />
+            <Precinct name="DELMAR" votes="0" />
+            <Precinct name="FRUIT HILL" votes="0" />
+            <Precinct name="HIGGINS-ZOAR" votes="0" />
+            <Precinct name="HOLLY" votes="0" />
+            <Precinct name="HOLLYWOOD" votes="0" />
+            <Precinct name="HOLSTONS" votes="0" />
+            <Precinct name="MAYSON" votes="0" />
+            <Precinct name="MT. WILLING" votes="0" />
+            <Precinct name="PLEASANT CROSS" votes="0" />
+            <Precinct name="PLEASANT GROVE" votes="0" />
+            <Precinct name="RICHLAND" votes="0" />
+            <Precinct name="RIDGE SPRING - MONETTA" votes="0" />
+            <Precinct name="SALUDA NO. 1" votes="0" />
+            <Precinct name="SALUDA NO. 2" votes="0" />
+            <Precinct name="SARDIS" votes="0" />
+            <Precinct name="WARD" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="215">
+            <Precinct name="CENTENNIAL" votes="12" />
+            <Precinct name="CLYDE" votes="1" />
+            <Precinct name="DELMAR" votes="6" />
+            <Precinct name="FRUIT HILL" votes="7" />
+            <Precinct name="HIGGINS-ZOAR" votes="11" />
+            <Precinct name="HOLLY" votes="15" />
+            <Precinct name="HOLLYWOOD" votes="13" />
+            <Precinct name="HOLSTONS" votes="15" />
+            <Precinct name="MAYSON" votes="3" />
+            <Precinct name="MT. WILLING" votes="2" />
+            <Precinct name="PLEASANT CROSS" votes="3" />
+            <Precinct name="PLEASANT GROVE" votes="10" />
+            <Precinct name="RICHLAND" votes="10" />
+            <Precinct name="RIDGE SPRING - MONETTA" votes="19" />
+            <Precinct name="SALUDA NO. 1" votes="26" />
+            <Precinct name="SALUDA NO. 2" votes="15" />
+            <Precinct name="SARDIS" votes="2" />
+            <Precinct name="WARD" votes="11" />
+            <Precinct name="Absentee" votes="33" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Keith Turner" party="DEM" totalVotes="4625">
+            <VoteType name="Election Day" votes="4625">
+                <Precinct name="CENTENNIAL" votes="141" />
+                <Precinct name="CLYDE" votes="45" />
+                <Precinct name="DELMAR" votes="75" />
+                <Precinct name="FRUIT HILL" votes="325" />
+                <Precinct name="HIGGINS-ZOAR" votes="253" />
+                <Precinct name="HOLLY" votes="180" />
+                <Precinct name="HOLLYWOOD" votes="399" />
+                <Precinct name="HOLSTONS" votes="269" />
+                <Precinct name="MAYSON" votes="142" />
+                <Precinct name="MT. WILLING" votes="60" />
+                <Precinct name="PLEASANT CROSS" votes="83" />
+                <Precinct name="PLEASANT GROVE" votes="182" />
+                <Precinct name="RICHLAND" votes="177" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="310" />
+                <Precinct name="SALUDA NO. 1" votes="509" />
+                <Precinct name="SALUDA NO. 2" votes="385" />
+                <Precinct name="SARDIS" votes="176" />
+                <Precinct name="WARD" votes="156" />
+                <Precinct name="Absentee" votes="719" />
+                <Precinct name="Emergency" votes="5" />
+                <Precinct name="Failsafe" votes="34" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Randall Maffett" party="REP" totalVotes="3822">
+            <VoteType name="Election Day" votes="3822">
+                <Precinct name="CENTENNIAL" votes="152" />
+                <Precinct name="CLYDE" votes="130" />
+                <Precinct name="DELMAR" votes="178" />
+                <Precinct name="FRUIT HILL" votes="91" />
+                <Precinct name="HIGGINS-ZOAR" votes="103" />
+                <Precinct name="HOLLY" votes="407" />
+                <Precinct name="HOLLYWOOD" votes="380" />
+                <Precinct name="HOLSTONS" votes="289" />
+                <Precinct name="MAYSON" votes="122" />
+                <Precinct name="MT. WILLING" votes="89" />
+                <Precinct name="PLEASANT CROSS" votes="49" />
+                <Precinct name="PLEASANT GROVE" votes="262" />
+                <Precinct name="RICHLAND" votes="207" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="167" />
+                <Precinct name="SALUDA NO. 1" votes="151" />
+                <Precinct name="SALUDA NO. 2" votes="225" />
+                <Precinct name="SARDIS" votes="193" />
+                <Precinct name="WARD" votes="100" />
+                <Precinct name="Absentee" votes="515" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="12" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="2">
+            <VoteType name="Election Day" votes="2">
+                <Precinct name="CENTENNIAL" votes="0" />
+                <Precinct name="CLYDE" votes="0" />
+                <Precinct name="DELMAR" votes="0" />
+                <Precinct name="FRUIT HILL" votes="0" />
+                <Precinct name="HIGGINS-ZOAR" votes="0" />
+                <Precinct name="HOLLY" votes="0" />
+                <Precinct name="HOLLYWOOD" votes="0" />
+                <Precinct name="HOLSTONS" votes="0" />
+                <Precinct name="MAYSON" votes="0" />
+                <Precinct name="MT. WILLING" votes="0" />
+                <Precinct name="PLEASANT CROSS" votes="0" />
+                <Precinct name="PLEASANT GROVE" votes="1" />
+                <Precinct name="RICHLAND" votes="0" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="0" />
+                <Precinct name="SALUDA NO. 1" votes="0" />
+                <Precinct name="SALUDA NO. 2" votes="0" />
+                <Precinct name="SARDIS" votes="0" />
+                <Precinct name="WARD" votes="0" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0117" text="County Council District 2" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="CENTENNIAL" votes="0" />
+            <Precinct name="FRUIT HILL" votes="0" />
+            <Precinct name="HIGGINS-ZOAR" votes="0" />
+            <Precinct name="MT. WILLING" votes="0" />
+            <Precinct name="SALUDA NO. 1" votes="0" />
+            <Precinct name="SALUDA NO. 2" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="59">
+            <Precinct name="CENTENNIAL" votes="2" />
+            <Precinct name="FRUIT HILL" votes="0" />
+            <Precinct name="HIGGINS-ZOAR" votes="3" />
+            <Precinct name="MT. WILLING" votes="0" />
+            <Precinct name="SALUDA NO. 1" votes="30" />
+            <Precinct name="SALUDA NO. 2" votes="12" />
+            <Precinct name="Absentee" votes="12" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="William Billie Pugh" party="DEM" totalVotes="795">
+            <VoteType name="Election Day" votes="795">
+                <Precinct name="CENTENNIAL" votes="18" />
+                <Precinct name="FRUIT HILL" votes="6" />
+                <Precinct name="HIGGINS-ZOAR" votes="74" />
+                <Precinct name="MT. WILLING" votes="2" />
+                <Precinct name="SALUDA NO. 1" votes="398" />
+                <Precinct name="SALUDA NO. 2" votes="115" />
+                <Precinct name="Absentee" votes="170" />
+                <Precinct name="Emergency" votes="3" />
+                <Precinct name="Failsafe" votes="9" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="DJ David Miller" party="REP" totalVotes="812">
+            <VoteType name="Election Day" votes="812">
+                <Precinct name="CENTENNIAL" votes="34" />
+                <Precinct name="FRUIT HILL" votes="23" />
+                <Precinct name="HIGGINS-ZOAR" votes="24" />
+                <Precinct name="MT. WILLING" votes="18" />
+                <Precinct name="SALUDA NO. 1" votes="183" />
+                <Precinct name="SALUDA NO. 2" votes="349" />
+                <Precinct name="Absentee" votes="181" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="0">
+            <VoteType name="Election Day" votes="0">
+                <Precinct name="CENTENNIAL" votes="0" />
+                <Precinct name="FRUIT HILL" votes="0" />
+                <Precinct name="HIGGINS-ZOAR" votes="0" />
+                <Precinct name="MT. WILLING" votes="0" />
+                <Precinct name="SALUDA NO. 1" votes="0" />
+                <Precinct name="SALUDA NO. 2" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0118" text="County Council District 4" voteFor="1" isQuestion="false" precinctsReporting="10" precinctsReported="10">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="CENTENNIAL" votes="0" />
+            <Precinct name="DELMAR" votes="0" />
+            <Precinct name="FRUIT HILL" votes="0" />
+            <Precinct name="HIGGINS-ZOAR" votes="0" />
+            <Precinct name="HOLLY" votes="0" />
+            <Precinct name="HOLLYWOOD" votes="0" />
+            <Precinct name="MAYSON" votes="0" />
+            <Precinct name="PLEASANT GROVE" votes="0" />
+            <Precinct name="SALUDA NO. 1" votes="0" />
+            <Precinct name="SARDIS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="333">
+            <Precinct name="CENTENNIAL" votes="40" />
+            <Precinct name="DELMAR" votes="3" />
+            <Precinct name="FRUIT HILL" votes="9" />
+            <Precinct name="HIGGINS-ZOAR" votes="71" />
+            <Precinct name="HOLLY" votes="3" />
+            <Precinct name="HOLLYWOOD" votes="77" />
+            <Precinct name="MAYSON" votes="15" />
+            <Precinct name="PLEASANT GROVE" votes="35" />
+            <Precinct name="SALUDA NO. 1" votes="0" />
+            <Precinct name="SARDIS" votes="9" />
+            <Precinct name="Absentee" votes="68" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="3" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Jones Butler" party="REP" totalVotes="2068">
+            <VoteType name="Election Day" votes="2068">
+                <Precinct name="CENTENNIAL" votes="210" />
+                <Precinct name="DELMAR" votes="37" />
+                <Precinct name="FRUIT HILL" votes="24" />
+                <Precinct name="HIGGINS-ZOAR" votes="195" />
+                <Precinct name="HOLLY" votes="3" />
+                <Precinct name="HOLLYWOOD" votes="712" />
+                <Precinct name="MAYSON" votes="163" />
+                <Precinct name="PLEASANT GROVE" votes="382" />
+                <Precinct name="SALUDA NO. 1" votes="3" />
+                <Precinct name="SARDIS" votes="83" />
+                <Precinct name="Absentee" votes="242" />
+                <Precinct name="Emergency" votes="1" />
+                <Precinct name="Failsafe" votes="13" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="7">
+            <VoteType name="Election Day" votes="7">
+                <Precinct name="CENTENNIAL" votes="1" />
+                <Precinct name="DELMAR" votes="0" />
+                <Precinct name="FRUIT HILL" votes="0" />
+                <Precinct name="HIGGINS-ZOAR" votes="0" />
+                <Precinct name="HOLLY" votes="0" />
+                <Precinct name="HOLLYWOOD" votes="3" />
+                <Precinct name="MAYSON" votes="0" />
+                <Precinct name="PLEASANT GROVE" votes="1" />
+                <Precinct name="SALUDA NO. 1" votes="0" />
+                <Precinct name="SARDIS" votes="1" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0119" text="Soil and Water District Commisson" voteFor="1" isQuestion="false" precinctsReporting="18" precinctsReported="18">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="CENTENNIAL" votes="0" />
+            <Precinct name="CLYDE" votes="0" />
+            <Precinct name="DELMAR" votes="0" />
+            <Precinct name="FRUIT HILL" votes="0" />
+            <Precinct name="HIGGINS-ZOAR" votes="0" />
+            <Precinct name="HOLLY" votes="0" />
+            <Precinct name="HOLLYWOOD" votes="0" />
+            <Precinct name="HOLSTONS" votes="0" />
+            <Precinct name="MAYSON" votes="0" />
+            <Precinct name="MT. WILLING" votes="0" />
+            <Precinct name="PLEASANT CROSS" votes="0" />
+            <Precinct name="PLEASANT GROVE" votes="0" />
+            <Precinct name="RICHLAND" votes="0" />
+            <Precinct name="RIDGE SPRING - MONETTA" votes="0" />
+            <Precinct name="SALUDA NO. 1" votes="0" />
+            <Precinct name="SALUDA NO. 2" votes="0" />
+            <Precinct name="SARDIS" votes="0" />
+            <Precinct name="WARD" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="3037">
+            <Precinct name="CENTENNIAL" votes="81" />
+            <Precinct name="CLYDE" votes="32" />
+            <Precinct name="DELMAR" votes="63" />
+            <Precinct name="FRUIT HILL" votes="221" />
+            <Precinct name="HIGGINS-ZOAR" votes="132" />
+            <Precinct name="HOLLY" votes="187" />
+            <Precinct name="HOLLYWOOD" votes="178" />
+            <Precinct name="HOLSTONS" votes="238" />
+            <Precinct name="MAYSON" votes="90" />
+            <Precinct name="MT. WILLING" votes="40" />
+            <Precinct name="PLEASANT CROSS" votes="79" />
+            <Precinct name="PLEASANT GROVE" votes="102" />
+            <Precinct name="RICHLAND" votes="114" />
+            <Precinct name="RIDGE SPRING - MONETTA" votes="239" />
+            <Precinct name="SALUDA NO. 1" votes="319" />
+            <Precinct name="SALUDA NO. 2" votes="194" />
+            <Precinct name="SARDIS" votes="57" />
+            <Precinct name="WARD" votes="120" />
+            <Precinct name="Absentee" votes="529" />
+            <Precinct name="Emergency" votes="2" />
+            <Precinct name="Failsafe" votes="20" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="P Kevin Yon" party="NON" totalVotes="5608">
+            <VoteType name="Election Day" votes="5608">
+                <Precinct name="CENTENNIAL" votes="224" />
+                <Precinct name="CLYDE" votes="144" />
+                <Precinct name="DELMAR" votes="196" />
+                <Precinct name="FRUIT HILL" votes="200" />
+                <Precinct name="HIGGINS-ZOAR" votes="235" />
+                <Precinct name="HOLLY" votes="414" />
+                <Precinct name="HOLLYWOOD" votes="612" />
+                <Precinct name="HOLSTONS" votes="335" />
+                <Precinct name="MAYSON" votes="177" />
+                <Precinct name="MT. WILLING" votes="111" />
+                <Precinct name="PLEASANT CROSS" votes="56" />
+                <Precinct name="PLEASANT GROVE" votes="353" />
+                <Precinct name="RICHLAND" votes="280" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="256" />
+                <Precinct name="SALUDA NO. 1" votes="365" />
+                <Precinct name="SALUDA NO. 2" votes="427" />
+                <Precinct name="SARDIS" votes="314" />
+                <Precinct name="WARD" votes="146" />
+                <Precinct name="Absentee" votes="733" />
+                <Precinct name="Emergency" votes="3" />
+                <Precinct name="Failsafe" votes="27" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="19">
+            <VoteType name="Election Day" votes="19">
+                <Precinct name="CENTENNIAL" votes="0" />
+                <Precinct name="CLYDE" votes="0" />
+                <Precinct name="DELMAR" votes="0" />
+                <Precinct name="FRUIT HILL" votes="2" />
+                <Precinct name="HIGGINS-ZOAR" votes="0" />
+                <Precinct name="HOLLY" votes="1" />
+                <Precinct name="HOLLYWOOD" votes="2" />
+                <Precinct name="HOLSTONS" votes="0" />
+                <Precinct name="MAYSON" votes="0" />
+                <Precinct name="MT. WILLING" votes="0" />
+                <Precinct name="PLEASANT CROSS" votes="0" />
+                <Precinct name="PLEASANT GROVE" votes="0" />
+                <Precinct name="RICHLAND" votes="0" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="1" />
+                <Precinct name="SALUDA NO. 1" votes="2" />
+                <Precinct name="SALUDA NO. 2" votes="4" />
+                <Precinct name="SARDIS" votes="0" />
+                <Precinct name="WARD" votes="1" />
+                <Precinct name="Absentee" votes="6" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0120" text="Aiken County School District Seat 1" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="PLEASANT CROSS" votes="0" />
+            <Precinct name="RICHLAND" votes="0" />
+            <Precinct name="RIDGE SPRING - MONETTA" votes="0" />
+            <Precinct name="WARD" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="473">
+            <Precinct name="PLEASANT CROSS" votes="7" />
+            <Precinct name="RICHLAND" votes="79" />
+            <Precinct name="RIDGE SPRING - MONETTA" votes="217" />
+            <Precinct name="WARD" votes="116" />
+            <Precinct name="Absentee" votes="53" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Ronnie West" party="NON" totalVotes="677">
+            <VoteType name="Election Day" votes="677">
+                <Precinct name="PLEASANT CROSS" votes="5" />
+                <Precinct name="RICHLAND" votes="170" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="279" />
+                <Precinct name="WARD" votes="151" />
+                <Precinct name="Absentee" votes="70" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="0">
+            <VoteType name="Election Day" votes="0">
+                <Precinct name="PLEASANT CROSS" votes="0" />
+                <Precinct name="RICHLAND" votes="0" />
+                <Precinct name="RIDGE SPRING - MONETTA" votes="0" />
+                <Precinct name="WARD" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0121" text="Lexington County School Board District 3" voteFor="4" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="DELMAR" votes="0" />
+            <Precinct name="HOLSTONS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1536">
+            <Precinct name="DELMAR" votes="364" />
+            <Precinct name="HOLSTONS" votes="1038" />
+            <Precinct name="Absentee" votes="131" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="3" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Craig A Caughman" party="NON" totalVotes="480">
+            <VoteType name="Election Day" votes="480">
+                <Precinct name="DELMAR" votes="131" />
+                <Precinct name="HOLSTONS" votes="307" />
+                <Precinct name="Absentee" votes="42" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Stacey B Derrick" party="NON" totalVotes="506">
+            <VoteType name="Election Day" votes="506">
+                <Precinct name="DELMAR" votes="138" />
+                <Precinct name="HOLSTONS" votes="322" />
+                <Precinct name="Absentee" votes="45" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Leon Drafts" party="NON" totalVotes="480">
+            <VoteType name="Election Day" votes="480">
+                <Precinct name="DELMAR" votes="106" />
+                <Precinct name="HOLSTONS" votes="325" />
+                <Precinct name="Absentee" votes="49" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Lancer Shull" party="NON" totalVotes="448">
+            <VoteType name="Election Day" votes="448">
+                <Precinct name="DELMAR" votes="111" />
+                <Precinct name="HOLSTONS" votes="292" />
+                <Precinct name="Absentee" votes="45" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Write-In" party="NON" totalVotes="10">
+            <VoteType name="Election Day" votes="10">
+                <Precinct name="DELMAR" votes="2" />
+                <Precinct name="HOLSTONS" votes="8" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0122" text="School Board District 1 Seat 1" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="FRUIT HILL" votes="0" />
+            <Precinct name="MAYSON" votes="0" />
+            <Precinct name="PLEASANT CROSS" votes="0" />
+            <Precinct name="SALUDA NO. 1" votes="0" />
+            <Precinct name="SALUDA NO. 2" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="374">
+            <Precinct name="FRUIT HILL" votes="143" />
+            <Precinct name="MAYSON" votes="34" />
+            <Precinct name="PLEASANT CROSS" votes="51" />
+            <Precinct name="SALUDA NO. 1" votes="10" />
+            <Precinct name="SALUDA NO. 2" votes="62" />
+            <Precinct name="Absentee" votes="70" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="4" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Sharon Williams Holloway" party="NON" totalVotes="587">
+            <VoteType name="Election Day" votes="587">
+                <Precinct name="FRUIT HILL" votes="277" />
+                <Precinct name="MAYSON" votes="41" />
+                <Precinct name="PLEASANT CROSS" votes="72" />
+                <Precinct name="SALUDA NO. 1" votes="13" />
+                <Precinct name="SALUDA NO. 2" votes="76" />
+                <Precinct name="Absentee" votes="102" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="6" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="8">
+            <VoteType name="Election Day" votes="8">
+                <Precinct name="FRUIT HILL" votes="3" />
+                <Precinct name="MAYSON" votes="0" />
+                <Precinct name="PLEASANT CROSS" votes="0" />
+                <Precinct name="SALUDA NO. 1" votes="2" />
+                <Precinct name="SALUDA NO. 2" votes="0" />
+                <Precinct name="Absentee" votes="3" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0123" text="School Board District 1 Seat 3" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="HIGGINS-ZOAR" votes="0" />
+            <Precinct name="HOLLYWOOD" votes="0" />
+            <Precinct name="MT. WILLING" votes="0" />
+            <Precinct name="RICHLAND" votes="0" />
+            <Precinct name="SALUDA NO. 1" votes="0" />
+            <Precinct name="SALUDA NO. 2" votes="0" />
+            <Precinct name="SARDIS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="326">
+            <Precinct name="HIGGINS-ZOAR" votes="43" />
+            <Precinct name="HOLLYWOOD" votes="16" />
+            <Precinct name="MT. WILLING" votes="45" />
+            <Precinct name="RICHLAND" votes="26" />
+            <Precinct name="SALUDA NO. 1" votes="75" />
+            <Precinct name="SALUDA NO. 2" votes="4" />
+            <Precinct name="SARDIS" votes="19" />
+            <Precinct name="Absentee" votes="95" />
+            <Precinct name="Emergency" votes="1" />
+            <Precinct name="Failsafe" votes="2" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="William Eberz" party="NON" totalVotes="618">
+            <VoteType name="Election Day" votes="618">
+                <Precinct name="HIGGINS-ZOAR" votes="30" />
+                <Precinct name="HOLLYWOOD" votes="47" />
+                <Precinct name="MT. WILLING" votes="104" />
+                <Precinct name="RICHLAND" votes="63" />
+                <Precinct name="SALUDA NO. 1" votes="157" />
+                <Precinct name="SALUDA NO. 2" votes="16" />
+                <Precinct name="SARDIS" votes="92" />
+                <Precinct name="Absentee" votes="104" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="5" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="10">
+            <VoteType name="Election Day" votes="10">
+                <Precinct name="HIGGINS-ZOAR" votes="0" />
+                <Precinct name="HOLLYWOOD" votes="1" />
+                <Precinct name="MT. WILLING" votes="2" />
+                <Precinct name="RICHLAND" votes="0" />
+                <Precinct name="SALUDA NO. 1" votes="4" />
+                <Precinct name="SALUDA NO. 2" votes="1" />
+                <Precinct name="SARDIS" votes="0" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0124" text="School Board District 1 Seat 5" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="SALUDA NO. 1" votes="0" />
+            <Precinct name="SALUDA NO. 2" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="197">
+            <Precinct name="SALUDA NO. 1" votes="132" />
+            <Precinct name="SALUDA NO. 2" votes="7" />
+            <Precinct name="Absentee" votes="58" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="James M Holloway Sr" party="NON" totalVotes="355">
+            <VoteType name="Election Day" votes="355">
+                <Precinct name="SALUDA NO. 1" votes="292" />
+                <Precinct name="SALUDA NO. 2" votes="11" />
+                <Precinct name="Absentee" votes="47" />
+                <Precinct name="Emergency" votes="3" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="2">
+            <VoteType name="Election Day" votes="2">
+                <Precinct name="SALUDA NO. 1" votes="1" />
+                <Precinct name="SALUDA NO. 2" votes="0" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0125" text="School Board District 1 Seat 7" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="CLYDE" votes="0" />
+            <Precinct name="DELMAR" votes="0" />
+            <Precinct name="HOLLY" votes="0" />
+            <Precinct name="RICHLAND" votes="0" />
+            <Precinct name="SARDIS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="296">
+            <Precinct name="CLYDE" votes="34" />
+            <Precinct name="DELMAR" votes="8" />
+            <Precinct name="HOLLY" votes="164" />
+            <Precinct name="RICHLAND" votes="16" />
+            <Precinct name="SARDIS" votes="30" />
+            <Precinct name="Absentee" votes="42" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="2" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Arlene S Puryear" party="NON" totalVotes="943">
+            <VoteType name="Election Day" votes="943">
+                <Precinct name="CLYDE" votes="142" />
+                <Precinct name="DELMAR" votes="38" />
+                <Precinct name="HOLLY" votes="437" />
+                <Precinct name="RICHLAND" votes="40" />
+                <Precinct name="SARDIS" votes="187" />
+                <Precinct name="Absentee" votes="93" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="6" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="4">
+            <VoteType name="Election Day" votes="4">
+                <Precinct name="CLYDE" votes="0" />
+                <Precinct name="DELMAR" votes="0" />
+                <Precinct name="HOLLY" votes="1" />
+                <Precinct name="RICHLAND" votes="0" />
+                <Precinct name="SARDIS" votes="2" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

@@ -1,0 +1,3110 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>11/16/2016 2:06:32 PM EST</Timestamp>
+    <ElectionName>2016 Statewide General Election</ElectionName>
+    <ElectionDate>11/8/2016</ElectionDate>
+    <Region>Chesterfield</Region>
+    <VoterTurnout totalVoters="26195" ballotsCast="16763" voterTurnout="63.99">
+        <Precincts>
+            <Precinct name="ANGELUS-CARARRH" totalVoters="619" ballotsCast="383" voterTurnout="61.87" percentReporting="4" />
+            <Precinct name="BAY SPRINGS" totalVoters="378" ballotsCast="217" voterTurnout="57.41" percentReporting="4" />
+            <Precinct name="BLACK CREEK" totalVoters="429" ballotsCast="202" voterTurnout="47.09" percentReporting="4" />
+            <Precinct name="BROCKS MILL" totalVoters="1744" ballotsCast="754" voterTurnout="43.23" percentReporting="4" />
+            <Precinct name="CASH" totalVoters="1115" ballotsCast="574" voterTurnout="51.48" percentReporting="4" />
+            <Precinct name="CENTER GROVE-WINZO" totalVoters="1069" ballotsCast="506" voterTurnout="47.33" percentReporting="4" />
+            <Precinct name="CHERAW NO. 1" totalVoters="1498" ballotsCast="711" voterTurnout="47.46" percentReporting="4" />
+            <Precinct name="CHERAW NO. 2" totalVoters="1052" ballotsCast="499" voterTurnout="47.43" percentReporting="4" />
+            <Precinct name="CHERAW NO. 3" totalVoters="1971" ballotsCast="835" voterTurnout="42.36" percentReporting="4" />
+            <Precinct name="CHERAW NO. 4" totalVoters="1477" ballotsCast="676" voterTurnout="45.77" percentReporting="4" />
+            <Precinct name="COURTHOUSE" totalVoters="1992" ballotsCast="902" voterTurnout="45.28" percentReporting="4" />
+            <Precinct name="DUDLEY-MANGUM" totalVoters="828" ballotsCast="491" voterTurnout="59.30" percentReporting="4" />
+            <Precinct name="GRANTS MILL" totalVoters="1203" ballotsCast="642" voterTurnout="53.37" percentReporting="4" />
+            <Precinct name="JEFFERSON" totalVoters="1692" ballotsCast="936" voterTurnout="55.32" percentReporting="4" />
+            <Precinct name="MCBEE" totalVoters="1605" ballotsCast="940" voterTurnout="58.57" percentReporting="4" />
+            <Precinct name="MIDDENDORF" totalVoters="755" ballotsCast="403" voterTurnout="53.38" percentReporting="4" />
+            <Precinct name="MT. GROGHAN" totalVoters="372" ballotsCast="210" voterTurnout="56.45" percentReporting="4" />
+            <Precinct name="OUSLEYDALE" totalVoters="708" ballotsCast="432" voterTurnout="61.02" percentReporting="4" />
+            <Precinct name="PAGELAND NO. 1" totalVoters="1881" ballotsCast="895" voterTurnout="47.58" percentReporting="4" />
+            <Precinct name="PAGELAND NO. 2" totalVoters="1607" ballotsCast="829" voterTurnout="51.59" percentReporting="4" />
+            <Precinct name="PATRICK" totalVoters="734" ballotsCast="361" voterTurnout="49.18" percentReporting="4" />
+            <Precinct name="PEE DEE" totalVoters="298" ballotsCast="167" voterTurnout="56.04" percentReporting="4" />
+            <Precinct name="RUBY" totalVoters="1014" ballotsCast="550" voterTurnout="54.24" percentReporting="4" />
+            <Precinct name="SHILOH" totalVoters="628" ballotsCast="358" voterTurnout="57.01" percentReporting="4" />
+            <Precinct name="SNOW HILL-VAUGHN" totalVoters="561" ballotsCast="285" voterTurnout="50.80" percentReporting="4" />
+            <Precinct name="Absentee" totalVoters="0" ballotsCast="3000" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Emergency" totalVoters="0" ballotsCast="0" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Failsafe" totalVoters="0" ballotsCast="0" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Provisional" totalVoters="0" ballotsCast="5" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Failsafe Provisional" totalVoters="0" ballotsCast="0" voterTurnout="0.00" percentReporting="32" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="0103" text="STRAIGHT PARTY" voteFor="1" isQuestion="false" precinctsReporting="25" precinctsReported="25">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ANGELUS-CARARRH" votes="0" />
+            <Precinct name="BAY SPRINGS" votes="0" />
+            <Precinct name="BLACK CREEK" votes="0" />
+            <Precinct name="BROCKS MILL" votes="0" />
+            <Precinct name="CASH" votes="0" />
+            <Precinct name="CENTER GROVE-WINZO" votes="0" />
+            <Precinct name="CHERAW NO. 1" votes="0" />
+            <Precinct name="CHERAW NO. 2" votes="0" />
+            <Precinct name="CHERAW NO. 3" votes="0" />
+            <Precinct name="CHERAW NO. 4" votes="0" />
+            <Precinct name="COURTHOUSE" votes="0" />
+            <Precinct name="DUDLEY-MANGUM" votes="0" />
+            <Precinct name="GRANTS MILL" votes="0" />
+            <Precinct name="JEFFERSON" votes="0" />
+            <Precinct name="MCBEE" votes="0" />
+            <Precinct name="MIDDENDORF" votes="0" />
+            <Precinct name="MT. GROGHAN" votes="0" />
+            <Precinct name="OUSLEYDALE" votes="0" />
+            <Precinct name="PAGELAND NO. 1" votes="0" />
+            <Precinct name="PAGELAND NO. 2" votes="0" />
+            <Precinct name="PATRICK" votes="0" />
+            <Precinct name="PEE DEE" votes="0" />
+            <Precinct name="RUBY" votes="0" />
+            <Precinct name="SHILOH" votes="0" />
+            <Precinct name="SNOW HILL-VAUGHN" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="7865">
+            <Precinct name="ANGELUS-CARARRH" votes="199" />
+            <Precinct name="BAY SPRINGS" votes="119" />
+            <Precinct name="BLACK CREEK" votes="96" />
+            <Precinct name="BROCKS MILL" votes="361" />
+            <Precinct name="CASH" votes="246" />
+            <Precinct name="CENTER GROVE-WINZO" votes="148" />
+            <Precinct name="CHERAW NO. 1" votes="367" />
+            <Precinct name="CHERAW NO. 2" votes="229" />
+            <Precinct name="CHERAW NO. 3" votes="285" />
+            <Precinct name="CHERAW NO. 4" votes="325" />
+            <Precinct name="COURTHOUSE" votes="563" />
+            <Precinct name="DUDLEY-MANGUM" votes="211" />
+            <Precinct name="GRANTS MILL" votes="334" />
+            <Precinct name="JEFFERSON" votes="366" />
+            <Precinct name="MCBEE" votes="423" />
+            <Precinct name="MIDDENDORF" votes="198" />
+            <Precinct name="MT. GROGHAN" votes="128" />
+            <Precinct name="OUSLEYDALE" votes="246" />
+            <Precinct name="PAGELAND NO. 1" votes="320" />
+            <Precinct name="PAGELAND NO. 2" votes="295" />
+            <Precinct name="PATRICK" votes="159" />
+            <Precinct name="PEE DEE" votes="92" />
+            <Precinct name="RUBY" votes="313" />
+            <Precinct name="SHILOH" votes="212" />
+            <Precinct name="SNOW HILL-VAUGHN" votes="186" />
+            <Precinct name="Absentee" votes="1442" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="2" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Democratic" party="DEM" totalVotes="4787">
+            <VoteType name="Election Day" votes="4787">
+                <Precinct name="ANGELUS-CARARRH" votes="78" />
+                <Precinct name="BAY SPRINGS" votes="22" />
+                <Precinct name="BLACK CREEK" votes="47" />
+                <Precinct name="BROCKS MILL" votes="294" />
+                <Precinct name="CASH" votes="222" />
+                <Precinct name="CENTER GROVE-WINZO" votes="218" />
+                <Precinct name="CHERAW NO. 1" votes="163" />
+                <Precinct name="CHERAW NO. 2" votes="156" />
+                <Precinct name="CHERAW NO. 3" votes="459" />
+                <Precinct name="CHERAW NO. 4" votes="237" />
+                <Precinct name="COURTHOUSE" votes="156" />
+                <Precinct name="DUDLEY-MANGUM" votes="83" />
+                <Precinct name="GRANTS MILL" votes="132" />
+                <Precinct name="JEFFERSON" votes="285" />
+                <Precinct name="MCBEE" votes="242" />
+                <Precinct name="MIDDENDORF" votes="27" />
+                <Precinct name="MT. GROGHAN" votes="29" />
+                <Precinct name="OUSLEYDALE" votes="26" />
+                <Precinct name="PAGELAND NO. 1" votes="318" />
+                <Precinct name="PAGELAND NO. 2" votes="259" />
+                <Precinct name="PATRICK" votes="87" />
+                <Precinct name="PEE DEE" votes="17" />
+                <Precinct name="RUBY" votes="126" />
+                <Precinct name="SHILOH" votes="62" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="28" />
+                <Precinct name="Absentee" votes="1014" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Working Families" party="WFM" totalVotes="137">
+            <VoteType name="Election Day" votes="137">
+                <Precinct name="ANGELUS-CARARRH" votes="1" />
+                <Precinct name="BAY SPRINGS" votes="2" />
+                <Precinct name="BLACK CREEK" votes="3" />
+                <Precinct name="BROCKS MILL" votes="2" />
+                <Precinct name="CASH" votes="1" />
+                <Precinct name="CENTER GROVE-WINZO" votes="4" />
+                <Precinct name="CHERAW NO. 1" votes="5" />
+                <Precinct name="CHERAW NO. 2" votes="11" />
+                <Precinct name="CHERAW NO. 3" votes="8" />
+                <Precinct name="CHERAW NO. 4" votes="4" />
+                <Precinct name="COURTHOUSE" votes="9" />
+                <Precinct name="DUDLEY-MANGUM" votes="2" />
+                <Precinct name="GRANTS MILL" votes="15" />
+                <Precinct name="JEFFERSON" votes="6" />
+                <Precinct name="MCBEE" votes="7" />
+                <Precinct name="MIDDENDORF" votes="2" />
+                <Precinct name="MT. GROGHAN" votes="2" />
+                <Precinct name="OUSLEYDALE" votes="6" />
+                <Precinct name="PAGELAND NO. 1" votes="9" />
+                <Precinct name="PAGELAND NO. 2" votes="10" />
+                <Precinct name="PATRICK" votes="7" />
+                <Precinct name="PEE DEE" votes="2" />
+                <Precinct name="RUBY" votes="4" />
+                <Precinct name="SHILOH" votes="6" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="2" />
+                <Precinct name="Absentee" votes="7" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Constitution" party="CON" totalVotes="12">
+            <VoteType name="Election Day" votes="12">
+                <Precinct name="ANGELUS-CARARRH" votes="0" />
+                <Precinct name="BAY SPRINGS" votes="0" />
+                <Precinct name="BLACK CREEK" votes="0" />
+                <Precinct name="BROCKS MILL" votes="1" />
+                <Precinct name="CASH" votes="0" />
+                <Precinct name="CENTER GROVE-WINZO" votes="0" />
+                <Precinct name="CHERAW NO. 1" votes="0" />
+                <Precinct name="CHERAW NO. 2" votes="1" />
+                <Precinct name="CHERAW NO. 3" votes="0" />
+                <Precinct name="CHERAW NO. 4" votes="0" />
+                <Precinct name="COURTHOUSE" votes="0" />
+                <Precinct name="DUDLEY-MANGUM" votes="0" />
+                <Precinct name="GRANTS MILL" votes="0" />
+                <Precinct name="JEFFERSON" votes="2" />
+                <Precinct name="MCBEE" votes="2" />
+                <Precinct name="MIDDENDORF" votes="0" />
+                <Precinct name="MT. GROGHAN" votes="0" />
+                <Precinct name="OUSLEYDALE" votes="0" />
+                <Precinct name="PAGELAND NO. 1" votes="1" />
+                <Precinct name="PAGELAND NO. 2" votes="0" />
+                <Precinct name="PATRICK" votes="1" />
+                <Precinct name="PEE DEE" votes="0" />
+                <Precinct name="RUBY" votes="1" />
+                <Precinct name="SHILOH" votes="0" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="0" />
+                <Precinct name="Absentee" votes="3" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Independence" party="IND" totalVotes="103">
+            <VoteType name="Election Day" votes="103">
+                <Precinct name="ANGELUS-CARARRH" votes="4" />
+                <Precinct name="BAY SPRINGS" votes="1" />
+                <Precinct name="BLACK CREEK" votes="3" />
+                <Precinct name="BROCKS MILL" votes="2" />
+                <Precinct name="CASH" votes="1" />
+                <Precinct name="CENTER GROVE-WINZO" votes="1" />
+                <Precinct name="CHERAW NO. 1" votes="10" />
+                <Precinct name="CHERAW NO. 2" votes="1" />
+                <Precinct name="CHERAW NO. 3" votes="5" />
+                <Precinct name="CHERAW NO. 4" votes="5" />
+                <Precinct name="COURTHOUSE" votes="7" />
+                <Precinct name="DUDLEY-MANGUM" votes="3" />
+                <Precinct name="GRANTS MILL" votes="5" />
+                <Precinct name="JEFFERSON" votes="4" />
+                <Precinct name="MCBEE" votes="8" />
+                <Precinct name="MIDDENDORF" votes="2" />
+                <Precinct name="MT. GROGHAN" votes="1" />
+                <Precinct name="OUSLEYDALE" votes="4" />
+                <Precinct name="PAGELAND NO. 1" votes="1" />
+                <Precinct name="PAGELAND NO. 2" votes="7" />
+                <Precinct name="PATRICK" votes="4" />
+                <Precinct name="PEE DEE" votes="0" />
+                <Precinct name="RUBY" votes="3" />
+                <Precinct name="SHILOH" votes="4" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="2" />
+                <Precinct name="Absentee" votes="15" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Green" party="GRN" totalVotes="21">
+            <VoteType name="Election Day" votes="21">
+                <Precinct name="ANGELUS-CARARRH" votes="2" />
+                <Precinct name="BAY SPRINGS" votes="1" />
+                <Precinct name="BLACK CREEK" votes="0" />
+                <Precinct name="BROCKS MILL" votes="0" />
+                <Precinct name="CASH" votes="0" />
+                <Precinct name="CENTER GROVE-WINZO" votes="0" />
+                <Precinct name="CHERAW NO. 1" votes="0" />
+                <Precinct name="CHERAW NO. 2" votes="1" />
+                <Precinct name="CHERAW NO. 3" votes="0" />
+                <Precinct name="CHERAW NO. 4" votes="1" />
+                <Precinct name="COURTHOUSE" votes="0" />
+                <Precinct name="DUDLEY-MANGUM" votes="1" />
+                <Precinct name="GRANTS MILL" votes="0" />
+                <Precinct name="JEFFERSON" votes="4" />
+                <Precinct name="MCBEE" votes="2" />
+                <Precinct name="MIDDENDORF" votes="1" />
+                <Precinct name="MT. GROGHAN" votes="0" />
+                <Precinct name="OUSLEYDALE" votes="0" />
+                <Precinct name="PAGELAND NO. 1" votes="2" />
+                <Precinct name="PAGELAND NO. 2" votes="0" />
+                <Precinct name="PATRICK" votes="2" />
+                <Precinct name="PEE DEE" votes="0" />
+                <Precinct name="RUBY" votes="2" />
+                <Precinct name="SHILOH" votes="0" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="0" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Republican" party="REP" totalVotes="3745">
+            <VoteType name="Election Day" votes="3745">
+                <Precinct name="ANGELUS-CARARRH" votes="99" />
+                <Precinct name="BAY SPRINGS" votes="70" />
+                <Precinct name="BLACK CREEK" votes="53" />
+                <Precinct name="BROCKS MILL" votes="93" />
+                <Precinct name="CASH" votes="104" />
+                <Precinct name="CENTER GROVE-WINZO" votes="131" />
+                <Precinct name="CHERAW NO. 1" votes="161" />
+                <Precinct name="CHERAW NO. 2" votes="97" />
+                <Precinct name="CHERAW NO. 3" votes="74" />
+                <Precinct name="CHERAW NO. 4" votes="98" />
+                <Precinct name="COURTHOUSE" votes="164" />
+                <Precinct name="DUDLEY-MANGUM" votes="189" />
+                <Precinct name="GRANTS MILL" votes="151" />
+                <Precinct name="JEFFERSON" votes="264" />
+                <Precinct name="MCBEE" votes="246" />
+                <Precinct name="MIDDENDORF" votes="173" />
+                <Precinct name="MT. GROGHAN" votes="50" />
+                <Precinct name="OUSLEYDALE" votes="145" />
+                <Precinct name="PAGELAND NO. 1" votes="240" />
+                <Precinct name="PAGELAND NO. 2" votes="245" />
+                <Precinct name="PATRICK" votes="99" />
+                <Precinct name="PEE DEE" votes="56" />
+                <Precinct name="RUBY" votes="97" />
+                <Precinct name="SHILOH" votes="74" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="66" />
+                <Precinct name="Absentee" votes="503" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="3" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="American" party="AMR" totalVotes="64">
+            <VoteType name="Election Day" votes="64">
+                <Precinct name="ANGELUS-CARARRH" votes="0" />
+                <Precinct name="BAY SPRINGS" votes="2" />
+                <Precinct name="BLACK CREEK" votes="0" />
+                <Precinct name="BROCKS MILL" votes="1" />
+                <Precinct name="CASH" votes="0" />
+                <Precinct name="CENTER GROVE-WINZO" votes="4" />
+                <Precinct name="CHERAW NO. 1" votes="4" />
+                <Precinct name="CHERAW NO. 2" votes="1" />
+                <Precinct name="CHERAW NO. 3" votes="4" />
+                <Precinct name="CHERAW NO. 4" votes="3" />
+                <Precinct name="COURTHOUSE" votes="2" />
+                <Precinct name="DUDLEY-MANGUM" votes="1" />
+                <Precinct name="GRANTS MILL" votes="3" />
+                <Precinct name="JEFFERSON" votes="2" />
+                <Precinct name="MCBEE" votes="6" />
+                <Precinct name="MIDDENDORF" votes="0" />
+                <Precinct name="MT. GROGHAN" votes="0" />
+                <Precinct name="OUSLEYDALE" votes="4" />
+                <Precinct name="PAGELAND NO. 1" votes="2" />
+                <Precinct name="PAGELAND NO. 2" votes="10" />
+                <Precinct name="PATRICK" votes="2" />
+                <Precinct name="PEE DEE" votes="0" />
+                <Precinct name="RUBY" votes="4" />
+                <Precinct name="SHILOH" votes="0" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="0" />
+                <Precinct name="Absentee" votes="9" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="008" text="Libertarian" party="LIB" totalVotes="29">
+            <VoteType name="Election Day" votes="29">
+                <Precinct name="ANGELUS-CARARRH" votes="0" />
+                <Precinct name="BAY SPRINGS" votes="0" />
+                <Precinct name="BLACK CREEK" votes="0" />
+                <Precinct name="BROCKS MILL" votes="0" />
+                <Precinct name="CASH" votes="0" />
+                <Precinct name="CENTER GROVE-WINZO" votes="0" />
+                <Precinct name="CHERAW NO. 1" votes="1" />
+                <Precinct name="CHERAW NO. 2" votes="2" />
+                <Precinct name="CHERAW NO. 3" votes="0" />
+                <Precinct name="CHERAW NO. 4" votes="3" />
+                <Precinct name="COURTHOUSE" votes="1" />
+                <Precinct name="DUDLEY-MANGUM" votes="1" />
+                <Precinct name="GRANTS MILL" votes="2" />
+                <Precinct name="JEFFERSON" votes="3" />
+                <Precinct name="MCBEE" votes="4" />
+                <Precinct name="MIDDENDORF" votes="0" />
+                <Precinct name="MT. GROGHAN" votes="0" />
+                <Precinct name="OUSLEYDALE" votes="1" />
+                <Precinct name="PAGELAND NO. 1" votes="2" />
+                <Precinct name="PAGELAND NO. 2" votes="3" />
+                <Precinct name="PATRICK" votes="0" />
+                <Precinct name="PEE DEE" votes="0" />
+                <Precinct name="RUBY" votes="0" />
+                <Precinct name="SHILOH" votes="0" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="1" />
+                <Precinct name="Absentee" votes="5" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0104" text="President and Vice President" voteFor="1" isQuestion="false" precinctsReporting="25" precinctsReported="25">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ANGELUS-CARARRH" votes="0" />
+            <Precinct name="BAY SPRINGS" votes="0" />
+            <Precinct name="BLACK CREEK" votes="0" />
+            <Precinct name="BROCKS MILL" votes="0" />
+            <Precinct name="CASH" votes="0" />
+            <Precinct name="CENTER GROVE-WINZO" votes="0" />
+            <Precinct name="CHERAW NO. 1" votes="0" />
+            <Precinct name="CHERAW NO. 2" votes="0" />
+            <Precinct name="CHERAW NO. 3" votes="0" />
+            <Precinct name="CHERAW NO. 4" votes="0" />
+            <Precinct name="COURTHOUSE" votes="0" />
+            <Precinct name="DUDLEY-MANGUM" votes="0" />
+            <Precinct name="GRANTS MILL" votes="0" />
+            <Precinct name="JEFFERSON" votes="0" />
+            <Precinct name="MCBEE" votes="0" />
+            <Precinct name="MIDDENDORF" votes="0" />
+            <Precinct name="MT. GROGHAN" votes="0" />
+            <Precinct name="OUSLEYDALE" votes="0" />
+            <Precinct name="PAGELAND NO. 1" votes="0" />
+            <Precinct name="PAGELAND NO. 2" votes="0" />
+            <Precinct name="PATRICK" votes="0" />
+            <Precinct name="PEE DEE" votes="0" />
+            <Precinct name="RUBY" votes="0" />
+            <Precinct name="SHILOH" votes="0" />
+            <Precinct name="SNOW HILL-VAUGHN" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="182">
+            <Precinct name="ANGELUS-CARARRH" votes="3" />
+            <Precinct name="BAY SPRINGS" votes="2" />
+            <Precinct name="BLACK CREEK" votes="2" />
+            <Precinct name="BROCKS MILL" votes="3" />
+            <Precinct name="CASH" votes="4" />
+            <Precinct name="CENTER GROVE-WINZO" votes="5" />
+            <Precinct name="CHERAW NO. 1" votes="11" />
+            <Precinct name="CHERAW NO. 2" votes="6" />
+            <Precinct name="CHERAW NO. 3" votes="8" />
+            <Precinct name="CHERAW NO. 4" votes="9" />
+            <Precinct name="COURTHOUSE" votes="8" />
+            <Precinct name="DUDLEY-MANGUM" votes="4" />
+            <Precinct name="GRANTS MILL" votes="9" />
+            <Precinct name="JEFFERSON" votes="17" />
+            <Precinct name="MCBEE" votes="11" />
+            <Precinct name="MIDDENDORF" votes="2" />
+            <Precinct name="MT. GROGHAN" votes="0" />
+            <Precinct name="OUSLEYDALE" votes="1" />
+            <Precinct name="PAGELAND NO. 1" votes="10" />
+            <Precinct name="PAGELAND NO. 2" votes="11" />
+            <Precinct name="PATRICK" votes="6" />
+            <Precinct name="PEE DEE" votes="1" />
+            <Precinct name="RUBY" votes="7" />
+            <Precinct name="SHILOH" votes="5" />
+            <Precinct name="SNOW HILL-VAUGHN" votes="3" />
+            <Precinct name="Absentee" votes="34" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Hillary Rodham Clinton / Timothy Michael Kaine" party="DEM" totalVotes="6858">
+            <VoteType name="Election Day" votes="6858">
+                <Precinct name="ANGELUS-CARARRH" votes="128" />
+                <Precinct name="BAY SPRINGS" votes="31" />
+                <Precinct name="BLACK CREEK" votes="71" />
+                <Precinct name="BROCKS MILL" votes="430" />
+                <Precinct name="CASH" votes="302" />
+                <Precinct name="CENTER GROVE-WINZO" votes="279" />
+                <Precinct name="CHERAW NO. 1" votes="267" />
+                <Precinct name="CHERAW NO. 2" votes="240" />
+                <Precinct name="CHERAW NO. 3" votes="597" />
+                <Precinct name="CHERAW NO. 4" votes="352" />
+                <Precinct name="COURTHOUSE" votes="279" />
+                <Precinct name="DUDLEY-MANGUM" votes="107" />
+                <Precinct name="GRANTS MILL" votes="204" />
+                <Precinct name="JEFFERSON" votes="364" />
+                <Precinct name="MCBEE" votes="330" />
+                <Precinct name="MIDDENDORF" votes="52" />
+                <Precinct name="MT. GROGHAN" votes="53" />
+                <Precinct name="OUSLEYDALE" votes="56" />
+                <Precinct name="PAGELAND NO. 1" votes="390" />
+                <Precinct name="PAGELAND NO. 2" votes="335" />
+                <Precinct name="PATRICK" votes="131" />
+                <Precinct name="PEE DEE" votes="29" />
+                <Precinct name="RUBY" votes="205" />
+                <Precinct name="SHILOH" votes="112" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="55" />
+                <Precinct name="Absentee" votes="1459" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Darrell Castle / Scott Bradley" party="CON" totalVotes="60">
+            <VoteType name="Election Day" votes="60">
+                <Precinct name="ANGELUS-CARARRH" votes="4" />
+                <Precinct name="BAY SPRINGS" votes="3" />
+                <Precinct name="BLACK CREEK" votes="1" />
+                <Precinct name="BROCKS MILL" votes="2" />
+                <Precinct name="CASH" votes="2" />
+                <Precinct name="CENTER GROVE-WINZO" votes="1" />
+                <Precinct name="CHERAW NO. 1" votes="3" />
+                <Precinct name="CHERAW NO. 2" votes="3" />
+                <Precinct name="CHERAW NO. 3" votes="3" />
+                <Precinct name="CHERAW NO. 4" votes="2" />
+                <Precinct name="COURTHOUSE" votes="0" />
+                <Precinct name="DUDLEY-MANGUM" votes="0" />
+                <Precinct name="GRANTS MILL" votes="3" />
+                <Precinct name="JEFFERSON" votes="7" />
+                <Precinct name="MCBEE" votes="0" />
+                <Precinct name="MIDDENDORF" votes="0" />
+                <Precinct name="MT. GROGHAN" votes="2" />
+                <Precinct name="OUSLEYDALE" votes="4" />
+                <Precinct name="PAGELAND NO. 1" votes="6" />
+                <Precinct name="PAGELAND NO. 2" votes="2" />
+                <Precinct name="PATRICK" votes="1" />
+                <Precinct name="PEE DEE" votes="0" />
+                <Precinct name="RUBY" votes="1" />
+                <Precinct name="SHILOH" votes="0" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="4" />
+                <Precinct name="Absentee" votes="6" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Evan McMullin / Nathan Johnson" party="IND" totalVotes="95">
+            <VoteType name="Election Day" votes="95">
+                <Precinct name="ANGELUS-CARARRH" votes="1" />
+                <Precinct name="BAY SPRINGS" votes="3" />
+                <Precinct name="BLACK CREEK" votes="0" />
+                <Precinct name="BROCKS MILL" votes="3" />
+                <Precinct name="CASH" votes="2" />
+                <Precinct name="CENTER GROVE-WINZO" votes="0" />
+                <Precinct name="CHERAW NO. 1" votes="1" />
+                <Precinct name="CHERAW NO. 2" votes="3" />
+                <Precinct name="CHERAW NO. 3" votes="6" />
+                <Precinct name="CHERAW NO. 4" votes="4" />
+                <Precinct name="COURTHOUSE" votes="3" />
+                <Precinct name="DUDLEY-MANGUM" votes="3" />
+                <Precinct name="GRANTS MILL" votes="8" />
+                <Precinct name="JEFFERSON" votes="1" />
+                <Precinct name="MCBEE" votes="7" />
+                <Precinct name="MIDDENDORF" votes="3" />
+                <Precinct name="MT. GROGHAN" votes="1" />
+                <Precinct name="OUSLEYDALE" votes="5" />
+                <Precinct name="PAGELAND NO. 1" votes="2" />
+                <Precinct name="PAGELAND NO. 2" votes="3" />
+                <Precinct name="PATRICK" votes="2" />
+                <Precinct name="PEE DEE" votes="0" />
+                <Precinct name="RUBY" votes="3" />
+                <Precinct name="SHILOH" votes="4" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="3" />
+                <Precinct name="Absentee" votes="23" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Jill Stein / Ajamu Baraka" party="GRN" totalVotes="47">
+            <VoteType name="Election Day" votes="47">
+                <Precinct name="ANGELUS-CARARRH" votes="2" />
+                <Precinct name="BAY SPRINGS" votes="1" />
+                <Precinct name="BLACK CREEK" votes="0" />
+                <Precinct name="BROCKS MILL" votes="1" />
+                <Precinct name="CASH" votes="0" />
+                <Precinct name="CENTER GROVE-WINZO" votes="0" />
+                <Precinct name="CHERAW NO. 1" votes="4" />
+                <Precinct name="CHERAW NO. 2" votes="1" />
+                <Precinct name="CHERAW NO. 3" votes="1" />
+                <Precinct name="CHERAW NO. 4" votes="4" />
+                <Precinct name="COURTHOUSE" votes="1" />
+                <Precinct name="DUDLEY-MANGUM" votes="1" />
+                <Precinct name="GRANTS MILL" votes="1" />
+                <Precinct name="JEFFERSON" votes="2" />
+                <Precinct name="MCBEE" votes="9" />
+                <Precinct name="MIDDENDORF" votes="3" />
+                <Precinct name="MT. GROGHAN" votes="1" />
+                <Precinct name="OUSLEYDALE" votes="1" />
+                <Precinct name="PAGELAND NO. 1" votes="2" />
+                <Precinct name="PAGELAND NO. 2" votes="1" />
+                <Precinct name="PATRICK" votes="2" />
+                <Precinct name="PEE DEE" votes="0" />
+                <Precinct name="RUBY" votes="1" />
+                <Precinct name="SHILOH" votes="0" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="1" />
+                <Precinct name="Absentee" votes="6" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Donald J Trump / Michael R Pence" party="REP" totalVotes="9312">
+            <VoteType name="Election Day" votes="9312">
+                <Precinct name="ANGELUS-CARARRH" votes="243" />
+                <Precinct name="BAY SPRINGS" votes="175" />
+                <Precinct name="BLACK CREEK" votes="126" />
+                <Precinct name="BROCKS MILL" votes="306" />
+                <Precinct name="CASH" votes="256" />
+                <Precinct name="CENTER GROVE-WINZO" votes="219" />
+                <Precinct name="CHERAW NO. 1" votes="411" />
+                <Precinct name="CHERAW NO. 2" votes="240" />
+                <Precinct name="CHERAW NO. 3" votes="213" />
+                <Precinct name="CHERAW NO. 4" votes="291" />
+                <Precinct name="COURTHOUSE" votes="603" />
+                <Precinct name="DUDLEY-MANGUM" votes="369" />
+                <Precinct name="GRANTS MILL" votes="415" />
+                <Precinct name="JEFFERSON" votes="532" />
+                <Precinct name="MCBEE" votes="574" />
+                <Precinct name="MIDDENDORF" votes="334" />
+                <Precinct name="MT. GROGHAN" votes="151" />
+                <Precinct name="OUSLEYDALE" votes="360" />
+                <Precinct name="PAGELAND NO. 1" votes="478" />
+                <Precinct name="PAGELAND NO. 2" votes="465" />
+                <Precinct name="PATRICK" votes="208" />
+                <Precinct name="PEE DEE" votes="136" />
+                <Precinct name="RUBY" votes="328" />
+                <Precinct name="SHILOH" votes="234" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="209" />
+                <Precinct name="Absentee" votes="1433" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="3" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Peter Skewes / Michael Lacy" party="AMR" totalVotes="24">
+            <VoteType name="Election Day" votes="24">
+                <Precinct name="ANGELUS-CARARRH" votes="0" />
+                <Precinct name="BAY SPRINGS" votes="1" />
+                <Precinct name="BLACK CREEK" votes="0" />
+                <Precinct name="BROCKS MILL" votes="2" />
+                <Precinct name="CASH" votes="1" />
+                <Precinct name="CENTER GROVE-WINZO" votes="2" />
+                <Precinct name="CHERAW NO. 1" votes="2" />
+                <Precinct name="CHERAW NO. 2" votes="0" />
+                <Precinct name="CHERAW NO. 3" votes="2" />
+                <Precinct name="CHERAW NO. 4" votes="1" />
+                <Precinct name="COURTHOUSE" votes="1" />
+                <Precinct name="DUDLEY-MANGUM" votes="0" />
+                <Precinct name="GRANTS MILL" votes="0" />
+                <Precinct name="JEFFERSON" votes="0" />
+                <Precinct name="MCBEE" votes="0" />
+                <Precinct name="MIDDENDORF" votes="0" />
+                <Precinct name="MT. GROGHAN" votes="0" />
+                <Precinct name="OUSLEYDALE" votes="0" />
+                <Precinct name="PAGELAND NO. 1" votes="0" />
+                <Precinct name="PAGELAND NO. 2" votes="2" />
+                <Precinct name="PATRICK" votes="2" />
+                <Precinct name="PEE DEE" votes="0" />
+                <Precinct name="RUBY" votes="0" />
+                <Precinct name="SHILOH" votes="0" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="2" />
+                <Precinct name="Absentee" votes="6" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="Gary Johnson / Bill Weld" party="LIB" totalVotes="185">
+            <VoteType name="Election Day" votes="185">
+                <Precinct name="ANGELUS-CARARRH" votes="2" />
+                <Precinct name="BAY SPRINGS" votes="1" />
+                <Precinct name="BLACK CREEK" votes="2" />
+                <Precinct name="BROCKS MILL" votes="7" />
+                <Precinct name="CASH" votes="7" />
+                <Precinct name="CENTER GROVE-WINZO" votes="0" />
+                <Precinct name="CHERAW NO. 1" votes="12" />
+                <Precinct name="CHERAW NO. 2" votes="6" />
+                <Precinct name="CHERAW NO. 3" votes="5" />
+                <Precinct name="CHERAW NO. 4" votes="13" />
+                <Precinct name="COURTHOUSE" votes="7" />
+                <Precinct name="DUDLEY-MANGUM" votes="7" />
+                <Precinct name="GRANTS MILL" votes="2" />
+                <Precinct name="JEFFERSON" votes="13" />
+                <Precinct name="MCBEE" votes="9" />
+                <Precinct name="MIDDENDORF" votes="9" />
+                <Precinct name="MT. GROGHAN" votes="2" />
+                <Precinct name="OUSLEYDALE" votes="5" />
+                <Precinct name="PAGELAND NO. 1" votes="7" />
+                <Precinct name="PAGELAND NO. 2" votes="10" />
+                <Precinct name="PATRICK" votes="9" />
+                <Precinct name="PEE DEE" votes="1" />
+                <Precinct name="RUBY" votes="5" />
+                <Precinct name="SHILOH" votes="3" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="8" />
+                <Precinct name="Absentee" votes="33" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0105" text="U.S. Senate" voteFor="1" isQuestion="false" precinctsReporting="25" precinctsReported="25">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ANGELUS-CARARRH" votes="0" />
+            <Precinct name="BAY SPRINGS" votes="0" />
+            <Precinct name="BLACK CREEK" votes="0" />
+            <Precinct name="BROCKS MILL" votes="0" />
+            <Precinct name="CASH" votes="0" />
+            <Precinct name="CENTER GROVE-WINZO" votes="0" />
+            <Precinct name="CHERAW NO. 1" votes="0" />
+            <Precinct name="CHERAW NO. 2" votes="0" />
+            <Precinct name="CHERAW NO. 3" votes="0" />
+            <Precinct name="CHERAW NO. 4" votes="0" />
+            <Precinct name="COURTHOUSE" votes="0" />
+            <Precinct name="DUDLEY-MANGUM" votes="0" />
+            <Precinct name="GRANTS MILL" votes="0" />
+            <Precinct name="JEFFERSON" votes="0" />
+            <Precinct name="MCBEE" votes="0" />
+            <Precinct name="MIDDENDORF" votes="0" />
+            <Precinct name="MT. GROGHAN" votes="0" />
+            <Precinct name="OUSLEYDALE" votes="0" />
+            <Precinct name="PAGELAND NO. 1" votes="0" />
+            <Precinct name="PAGELAND NO. 2" votes="0" />
+            <Precinct name="PATRICK" votes="0" />
+            <Precinct name="PEE DEE" votes="0" />
+            <Precinct name="RUBY" votes="0" />
+            <Precinct name="SHILOH" votes="0" />
+            <Precinct name="SNOW HILL-VAUGHN" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="747">
+            <Precinct name="ANGELUS-CARARRH" votes="12" />
+            <Precinct name="BAY SPRINGS" votes="15" />
+            <Precinct name="BLACK CREEK" votes="11" />
+            <Precinct name="BROCKS MILL" votes="38" />
+            <Precinct name="CASH" votes="9" />
+            <Precinct name="CENTER GROVE-WINZO" votes="21" />
+            <Precinct name="CHERAW NO. 1" votes="33" />
+            <Precinct name="CHERAW NO. 2" votes="27" />
+            <Precinct name="CHERAW NO. 3" votes="37" />
+            <Precinct name="CHERAW NO. 4" votes="17" />
+            <Precinct name="COURTHOUSE" votes="31" />
+            <Precinct name="DUDLEY-MANGUM" votes="32" />
+            <Precinct name="GRANTS MILL" votes="29" />
+            <Precinct name="JEFFERSON" votes="37" />
+            <Precinct name="MCBEE" votes="37" />
+            <Precinct name="MIDDENDORF" votes="8" />
+            <Precinct name="MT. GROGHAN" votes="5" />
+            <Precinct name="OUSLEYDALE" votes="14" />
+            <Precinct name="PAGELAND NO. 1" votes="39" />
+            <Precinct name="PAGELAND NO. 2" votes="49" />
+            <Precinct name="PATRICK" votes="23" />
+            <Precinct name="PEE DEE" votes="5" />
+            <Precinct name="RUBY" votes="44" />
+            <Precinct name="SHILOH" votes="10" />
+            <Precinct name="SNOW HILL-VAUGHN" votes="16" />
+            <Precinct name="Absentee" votes="148" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Thomas Dixon" party="DEM" totalVotes="6204">
+            <VoteType name="Election Day" votes="6204">
+                <Precinct name="ANGELUS-CARARRH" votes="119" />
+                <Precinct name="BAY SPRINGS" votes="29" />
+                <Precinct name="BLACK CREEK" votes="64" />
+                <Precinct name="BROCKS MILL" votes="395" />
+                <Precinct name="CASH" votes="291" />
+                <Precinct name="CENTER GROVE-WINZO" votes="264" />
+                <Precinct name="CHERAW NO. 1" votes="220" />
+                <Precinct name="CHERAW NO. 2" votes="203" />
+                <Precinct name="CHERAW NO. 3" votes="538" />
+                <Precinct name="CHERAW NO. 4" votes="322" />
+                <Precinct name="COURTHOUSE" votes="241" />
+                <Precinct name="DUDLEY-MANGUM" votes="101" />
+                <Precinct name="GRANTS MILL" votes="172" />
+                <Precinct name="JEFFERSON" votes="351" />
+                <Precinct name="MCBEE" votes="304" />
+                <Precinct name="MIDDENDORF" votes="49" />
+                <Precinct name="MT. GROGHAN" votes="46" />
+                <Precinct name="OUSLEYDALE" votes="55" />
+                <Precinct name="PAGELAND NO. 1" votes="363" />
+                <Precinct name="PAGELAND NO. 2" votes="290" />
+                <Precinct name="PATRICK" votes="105" />
+                <Precinct name="PEE DEE" votes="29" />
+                <Precinct name="RUBY" votes="179" />
+                <Precinct name="SHILOH" votes="104" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="51" />
+                <Precinct name="Absentee" votes="1318" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Thomas Dixon" party="WFM" totalVotes="487">
+            <VoteType name="Election Day" votes="487">
+                <Precinct name="ANGELUS-CARARRH" votes="12" />
+                <Precinct name="BAY SPRINGS" votes="7" />
+                <Precinct name="BLACK CREEK" votes="13" />
+                <Precinct name="BROCKS MILL" votes="22" />
+                <Precinct name="CASH" votes="11" />
+                <Precinct name="CENTER GROVE-WINZO" votes="10" />
+                <Precinct name="CHERAW NO. 1" votes="19" />
+                <Precinct name="CHERAW NO. 2" votes="17" />
+                <Precinct name="CHERAW NO. 3" votes="21" />
+                <Precinct name="CHERAW NO. 4" votes="25" />
+                <Precinct name="COURTHOUSE" votes="26" />
+                <Precinct name="DUDLEY-MANGUM" votes="27" />
+                <Precinct name="GRANTS MILL" votes="35" />
+                <Precinct name="JEFFERSON" votes="20" />
+                <Precinct name="MCBEE" votes="15" />
+                <Precinct name="MIDDENDORF" votes="12" />
+                <Precinct name="MT. GROGHAN" votes="12" />
+                <Precinct name="OUSLEYDALE" votes="19" />
+                <Precinct name="PAGELAND NO. 1" votes="24" />
+                <Precinct name="PAGELAND NO. 2" votes="26" />
+                <Precinct name="PATRICK" votes="18" />
+                <Precinct name="PEE DEE" votes="5" />
+                <Precinct name="RUBY" votes="21" />
+                <Precinct name="SHILOH" votes="15" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="9" />
+                <Precinct name="Absentee" votes="46" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Bill Bledsoe" party="CON" totalVotes="105">
+            <VoteType name="Election Day" votes="105">
+                <Precinct name="ANGELUS-CARARRH" votes="1" />
+                <Precinct name="BAY SPRINGS" votes="2" />
+                <Precinct name="BLACK CREEK" votes="2" />
+                <Precinct name="BROCKS MILL" votes="3" />
+                <Precinct name="CASH" votes="2" />
+                <Precinct name="CENTER GROVE-WINZO" votes="4" />
+                <Precinct name="CHERAW NO. 1" votes="5" />
+                <Precinct name="CHERAW NO. 2" votes="3" />
+                <Precinct name="CHERAW NO. 3" votes="2" />
+                <Precinct name="CHERAW NO. 4" votes="3" />
+                <Precinct name="COURTHOUSE" votes="2" />
+                <Precinct name="DUDLEY-MANGUM" votes="3" />
+                <Precinct name="GRANTS MILL" votes="9" />
+                <Precinct name="JEFFERSON" votes="7" />
+                <Precinct name="MCBEE" votes="12" />
+                <Precinct name="MIDDENDORF" votes="10" />
+                <Precinct name="MT. GROGHAN" votes="1" />
+                <Precinct name="OUSLEYDALE" votes="8" />
+                <Precinct name="PAGELAND NO. 1" votes="4" />
+                <Precinct name="PAGELAND NO. 2" votes="1" />
+                <Precinct name="PATRICK" votes="2" />
+                <Precinct name="PEE DEE" votes="0" />
+                <Precinct name="RUBY" votes="5" />
+                <Precinct name="SHILOH" votes="0" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="2" />
+                <Precinct name="Absentee" votes="12" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Thomas Dixon" party="GRN" totalVotes="92">
+            <VoteType name="Election Day" votes="92">
+                <Precinct name="ANGELUS-CARARRH" votes="4" />
+                <Precinct name="BAY SPRINGS" votes="2" />
+                <Precinct name="BLACK CREEK" votes="0" />
+                <Precinct name="BROCKS MILL" votes="3" />
+                <Precinct name="CASH" votes="2" />
+                <Precinct name="CENTER GROVE-WINZO" votes="2" />
+                <Precinct name="CHERAW NO. 1" votes="5" />
+                <Precinct name="CHERAW NO. 2" votes="4" />
+                <Precinct name="CHERAW NO. 3" votes="4" />
+                <Precinct name="CHERAW NO. 4" votes="5" />
+                <Precinct name="COURTHOUSE" votes="4" />
+                <Precinct name="DUDLEY-MANGUM" votes="2" />
+                <Precinct name="GRANTS MILL" votes="3" />
+                <Precinct name="JEFFERSON" votes="8" />
+                <Precinct name="MCBEE" votes="5" />
+                <Precinct name="MIDDENDORF" votes="2" />
+                <Precinct name="MT. GROGHAN" votes="0" />
+                <Precinct name="OUSLEYDALE" votes="3" />
+                <Precinct name="PAGELAND NO. 1" votes="2" />
+                <Precinct name="PAGELAND NO. 2" votes="3" />
+                <Precinct name="PATRICK" votes="8" />
+                <Precinct name="PEE DEE" votes="0" />
+                <Precinct name="RUBY" votes="5" />
+                <Precinct name="SHILOH" votes="2" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="1" />
+                <Precinct name="Absentee" votes="13" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Tim Scott" party="REP" totalVotes="8895">
+            <VoteType name="Election Day" votes="8895">
+                <Precinct name="ANGELUS-CARARRH" votes="232" />
+                <Precinct name="BAY SPRINGS" votes="157" />
+                <Precinct name="BLACK CREEK" votes="108" />
+                <Precinct name="BROCKS MILL" votes="286" />
+                <Precinct name="CASH" votes="255" />
+                <Precinct name="CENTER GROVE-WINZO" votes="197" />
+                <Precinct name="CHERAW NO. 1" votes="418" />
+                <Precinct name="CHERAW NO. 2" votes="240" />
+                <Precinct name="CHERAW NO. 3" votes="224" />
+                <Precinct name="CHERAW NO. 4" votes="293" />
+                <Precinct name="COURTHOUSE" votes="585" />
+                <Precinct name="DUDLEY-MANGUM" votes="319" />
+                <Precinct name="GRANTS MILL" votes="378" />
+                <Precinct name="JEFFERSON" votes="502" />
+                <Precinct name="MCBEE" votes="551" />
+                <Precinct name="MIDDENDORF" votes="315" />
+                <Precinct name="MT. GROGHAN" votes="145" />
+                <Precinct name="OUSLEYDALE" votes="323" />
+                <Precinct name="PAGELAND NO. 1" votes="456" />
+                <Precinct name="PAGELAND NO. 2" votes="443" />
+                <Precinct name="PATRICK" votes="196" />
+                <Precinct name="PEE DEE" votes="128" />
+                <Precinct name="RUBY" votes="286" />
+                <Precinct name="SHILOH" votes="222" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="198" />
+                <Precinct name="Absentee" votes="1435" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="3" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Rebel Michael Scarborough" party="AMR" totalVotes="96">
+            <VoteType name="Election Day" votes="96">
+                <Precinct name="ANGELUS-CARARRH" votes="3" />
+                <Precinct name="BAY SPRINGS" votes="3" />
+                <Precinct name="BLACK CREEK" votes="3" />
+                <Precinct name="BROCKS MILL" votes="1" />
+                <Precinct name="CASH" votes="1" />
+                <Precinct name="CENTER GROVE-WINZO" votes="4" />
+                <Precinct name="CHERAW NO. 1" votes="4" />
+                <Precinct name="CHERAW NO. 2" votes="3" />
+                <Precinct name="CHERAW NO. 3" votes="5" />
+                <Precinct name="CHERAW NO. 4" votes="3" />
+                <Precinct name="COURTHOUSE" votes="2" />
+                <Precinct name="DUDLEY-MANGUM" votes="5" />
+                <Precinct name="GRANTS MILL" votes="9" />
+                <Precinct name="JEFFERSON" votes="2" />
+                <Precinct name="MCBEE" votes="6" />
+                <Precinct name="MIDDENDORF" votes="2" />
+                <Precinct name="MT. GROGHAN" votes="1" />
+                <Precinct name="OUSLEYDALE" votes="4" />
+                <Precinct name="PAGELAND NO. 1" votes="3" />
+                <Precinct name="PAGELAND NO. 2" votes="7" />
+                <Precinct name="PATRICK" votes="3" />
+                <Precinct name="PEE DEE" votes="0" />
+                <Precinct name="RUBY" votes="5" />
+                <Precinct name="SHILOH" votes="3" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="4" />
+                <Precinct name="Absentee" votes="10" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="Bill Bledsoe" party="LIB" totalVotes="124">
+            <VoteType name="Election Day" votes="124">
+                <Precinct name="ANGELUS-CARARRH" votes="0" />
+                <Precinct name="BAY SPRINGS" votes="2" />
+                <Precinct name="BLACK CREEK" votes="1" />
+                <Precinct name="BROCKS MILL" votes="6" />
+                <Precinct name="CASH" votes="3" />
+                <Precinct name="CENTER GROVE-WINZO" votes="3" />
+                <Precinct name="CHERAW NO. 1" votes="6" />
+                <Precinct name="CHERAW NO. 2" votes="2" />
+                <Precinct name="CHERAW NO. 3" votes="3" />
+                <Precinct name="CHERAW NO. 4" votes="7" />
+                <Precinct name="COURTHOUSE" votes="9" />
+                <Precinct name="DUDLEY-MANGUM" votes="2" />
+                <Precinct name="GRANTS MILL" votes="6" />
+                <Precinct name="JEFFERSON" votes="8" />
+                <Precinct name="MCBEE" votes="9" />
+                <Precinct name="MIDDENDORF" votes="5" />
+                <Precinct name="MT. GROGHAN" votes="0" />
+                <Precinct name="OUSLEYDALE" votes="6" />
+                <Precinct name="PAGELAND NO. 1" votes="4" />
+                <Precinct name="PAGELAND NO. 2" votes="7" />
+                <Precinct name="PATRICK" votes="6" />
+                <Precinct name="PEE DEE" votes="0" />
+                <Precinct name="RUBY" votes="5" />
+                <Precinct name="SHILOH" votes="2" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="4" />
+                <Precinct name="Absentee" votes="17" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="008" text="Write-In" party="NON" totalVotes="13">
+            <VoteType name="Election Day" votes="13">
+                <Precinct name="ANGELUS-CARARRH" votes="0" />
+                <Precinct name="BAY SPRINGS" votes="0" />
+                <Precinct name="BLACK CREEK" votes="0" />
+                <Precinct name="BROCKS MILL" votes="0" />
+                <Precinct name="CASH" votes="0" />
+                <Precinct name="CENTER GROVE-WINZO" votes="1" />
+                <Precinct name="CHERAW NO. 1" votes="1" />
+                <Precinct name="CHERAW NO. 2" votes="0" />
+                <Precinct name="CHERAW NO. 3" votes="1" />
+                <Precinct name="CHERAW NO. 4" votes="1" />
+                <Precinct name="COURTHOUSE" votes="2" />
+                <Precinct name="DUDLEY-MANGUM" votes="0" />
+                <Precinct name="GRANTS MILL" votes="1" />
+                <Precinct name="JEFFERSON" votes="1" />
+                <Precinct name="MCBEE" votes="1" />
+                <Precinct name="MIDDENDORF" votes="0" />
+                <Precinct name="MT. GROGHAN" votes="0" />
+                <Precinct name="OUSLEYDALE" votes="0" />
+                <Precinct name="PAGELAND NO. 1" votes="0" />
+                <Precinct name="PAGELAND NO. 2" votes="3" />
+                <Precinct name="PATRICK" votes="0" />
+                <Precinct name="PEE DEE" votes="0" />
+                <Precinct name="RUBY" votes="0" />
+                <Precinct name="SHILOH" votes="0" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="0" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0106" text="U.S.  House of Representatives, District  7" voteFor="1" isQuestion="false" precinctsReporting="25" precinctsReported="25">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ANGELUS-CARARRH" votes="0" />
+            <Precinct name="BAY SPRINGS" votes="0" />
+            <Precinct name="BLACK CREEK" votes="0" />
+            <Precinct name="BROCKS MILL" votes="0" />
+            <Precinct name="CASH" votes="0" />
+            <Precinct name="CENTER GROVE-WINZO" votes="0" />
+            <Precinct name="CHERAW NO. 1" votes="0" />
+            <Precinct name="CHERAW NO. 2" votes="0" />
+            <Precinct name="CHERAW NO. 3" votes="0" />
+            <Precinct name="CHERAW NO. 4" votes="0" />
+            <Precinct name="COURTHOUSE" votes="0" />
+            <Precinct name="DUDLEY-MANGUM" votes="0" />
+            <Precinct name="GRANTS MILL" votes="0" />
+            <Precinct name="JEFFERSON" votes="0" />
+            <Precinct name="MCBEE" votes="0" />
+            <Precinct name="MIDDENDORF" votes="0" />
+            <Precinct name="MT. GROGHAN" votes="0" />
+            <Precinct name="OUSLEYDALE" votes="0" />
+            <Precinct name="PAGELAND NO. 1" votes="0" />
+            <Precinct name="PAGELAND NO. 2" votes="0" />
+            <Precinct name="PATRICK" votes="0" />
+            <Precinct name="PEE DEE" votes="0" />
+            <Precinct name="RUBY" votes="0" />
+            <Precinct name="SHILOH" votes="0" />
+            <Precinct name="SNOW HILL-VAUGHN" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="796">
+            <Precinct name="ANGELUS-CARARRH" votes="16" />
+            <Precinct name="BAY SPRINGS" votes="15" />
+            <Precinct name="BLACK CREEK" votes="11" />
+            <Precinct name="BROCKS MILL" votes="31" />
+            <Precinct name="CASH" votes="8" />
+            <Precinct name="CENTER GROVE-WINZO" votes="20" />
+            <Precinct name="CHERAW NO. 1" votes="35" />
+            <Precinct name="CHERAW NO. 2" votes="28" />
+            <Precinct name="CHERAW NO. 3" votes="47" />
+            <Precinct name="CHERAW NO. 4" votes="22" />
+            <Precinct name="COURTHOUSE" votes="38" />
+            <Precinct name="DUDLEY-MANGUM" votes="28" />
+            <Precinct name="GRANTS MILL" votes="32" />
+            <Precinct name="JEFFERSON" votes="40" />
+            <Precinct name="MCBEE" votes="44" />
+            <Precinct name="MIDDENDORF" votes="10" />
+            <Precinct name="MT. GROGHAN" votes="6" />
+            <Precinct name="OUSLEYDALE" votes="20" />
+            <Precinct name="PAGELAND NO. 1" votes="40" />
+            <Precinct name="PAGELAND NO. 2" votes="49" />
+            <Precinct name="PATRICK" votes="27" />
+            <Precinct name="PEE DEE" votes="5" />
+            <Precinct name="RUBY" votes="45" />
+            <Precinct name="SHILOH" votes="10" />
+            <Precinct name="SNOW HILL-VAUGHN" votes="18" />
+            <Precinct name="Absentee" votes="151" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Mal Hyman" party="DEM" totalVotes="6280">
+            <VoteType name="Election Day" votes="6280">
+                <Precinct name="ANGELUS-CARARRH" votes="115" />
+                <Precinct name="BAY SPRINGS" votes="31" />
+                <Precinct name="BLACK CREEK" votes="60" />
+                <Precinct name="BROCKS MILL" votes="398" />
+                <Precinct name="CASH" votes="291" />
+                <Precinct name="CENTER GROVE-WINZO" votes="263" />
+                <Precinct name="CHERAW NO. 1" votes="221" />
+                <Precinct name="CHERAW NO. 2" votes="204" />
+                <Precinct name="CHERAW NO. 3" votes="541" />
+                <Precinct name="CHERAW NO. 4" votes="319" />
+                <Precinct name="COURTHOUSE" votes="251" />
+                <Precinct name="DUDLEY-MANGUM" votes="99" />
+                <Precinct name="GRANTS MILL" votes="173" />
+                <Precinct name="JEFFERSON" votes="349" />
+                <Precinct name="MCBEE" votes="317" />
+                <Precinct name="MIDDENDORF" votes="66" />
+                <Precinct name="MT. GROGHAN" votes="47" />
+                <Precinct name="OUSLEYDALE" votes="68" />
+                <Precinct name="PAGELAND NO. 1" votes="354" />
+                <Precinct name="PAGELAND NO. 2" votes="298" />
+                <Precinct name="PATRICK" votes="109" />
+                <Precinct name="PEE DEE" votes="32" />
+                <Precinct name="RUBY" votes="181" />
+                <Precinct name="SHILOH" votes="99" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="52" />
+                <Precinct name="Absentee" votes="1341" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Mal Hyman" party="WFM" totalVotes="450">
+            <VoteType name="Election Day" votes="450">
+                <Precinct name="ANGELUS-CARARRH" votes="4" />
+                <Precinct name="BAY SPRINGS" votes="7" />
+                <Precinct name="BLACK CREEK" votes="12" />
+                <Precinct name="BROCKS MILL" votes="19" />
+                <Precinct name="CASH" votes="11" />
+                <Precinct name="CENTER GROVE-WINZO" votes="11" />
+                <Precinct name="CHERAW NO. 1" votes="8" />
+                <Precinct name="CHERAW NO. 2" votes="16" />
+                <Precinct name="CHERAW NO. 3" votes="24" />
+                <Precinct name="CHERAW NO. 4" votes="25" />
+                <Precinct name="COURTHOUSE" votes="19" />
+                <Precinct name="DUDLEY-MANGUM" votes="20" />
+                <Precinct name="GRANTS MILL" votes="28" />
+                <Precinct name="JEFFERSON" votes="19" />
+                <Precinct name="MCBEE" votes="28" />
+                <Precinct name="MIDDENDORF" votes="12" />
+                <Precinct name="MT. GROGHAN" votes="6" />
+                <Precinct name="OUSLEYDALE" votes="28" />
+                <Precinct name="PAGELAND NO. 1" votes="24" />
+                <Precinct name="PAGELAND NO. 2" votes="23" />
+                <Precinct name="PATRICK" votes="15" />
+                <Precinct name="PEE DEE" votes="3" />
+                <Precinct name="RUBY" votes="22" />
+                <Precinct name="SHILOH" votes="13" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="9" />
+                <Precinct name="Absentee" votes="44" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Mal Hyman" party="GRN" totalVotes="78">
+            <VoteType name="Election Day" votes="78">
+                <Precinct name="ANGELUS-CARARRH" votes="4" />
+                <Precinct name="BAY SPRINGS" votes="1" />
+                <Precinct name="BLACK CREEK" votes="1" />
+                <Precinct name="BROCKS MILL" votes="2" />
+                <Precinct name="CASH" votes="1" />
+                <Precinct name="CENTER GROVE-WINZO" votes="0" />
+                <Precinct name="CHERAW NO. 1" votes="7" />
+                <Precinct name="CHERAW NO. 2" votes="4" />
+                <Precinct name="CHERAW NO. 3" votes="2" />
+                <Precinct name="CHERAW NO. 4" votes="6" />
+                <Precinct name="COURTHOUSE" votes="4" />
+                <Precinct name="DUDLEY-MANGUM" votes="1" />
+                <Precinct name="GRANTS MILL" votes="0" />
+                <Precinct name="JEFFERSON" votes="6" />
+                <Precinct name="MCBEE" votes="4" />
+                <Precinct name="MIDDENDORF" votes="4" />
+                <Precinct name="MT. GROGHAN" votes="0" />
+                <Precinct name="OUSLEYDALE" votes="3" />
+                <Precinct name="PAGELAND NO. 1" votes="4" />
+                <Precinct name="PAGELAND NO. 2" votes="1" />
+                <Precinct name="PATRICK" votes="4" />
+                <Precinct name="PEE DEE" votes="1" />
+                <Precinct name="RUBY" votes="7" />
+                <Precinct name="SHILOH" votes="1" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="2" />
+                <Precinct name="Absentee" votes="8" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Tom Rice" party="REP" totalVotes="9143">
+            <VoteType name="Election Day" votes="9143">
+                <Precinct name="ANGELUS-CARARRH" votes="244" />
+                <Precinct name="BAY SPRINGS" votes="163" />
+                <Precinct name="BLACK CREEK" votes="118" />
+                <Precinct name="BROCKS MILL" votes="304" />
+                <Precinct name="CASH" votes="263" />
+                <Precinct name="CENTER GROVE-WINZO" votes="212" />
+                <Precinct name="CHERAW NO. 1" votes="438" />
+                <Precinct name="CHERAW NO. 2" votes="245" />
+                <Precinct name="CHERAW NO. 3" votes="221" />
+                <Precinct name="CHERAW NO. 4" votes="304" />
+                <Precinct name="COURTHOUSE" votes="588" />
+                <Precinct name="DUDLEY-MANGUM" votes="343" />
+                <Precinct name="GRANTS MILL" votes="407" />
+                <Precinct name="JEFFERSON" votes="519" />
+                <Precinct name="MCBEE" votes="547" />
+                <Precinct name="MIDDENDORF" votes="311" />
+                <Precinct name="MT. GROGHAN" votes="151" />
+                <Precinct name="OUSLEYDALE" votes="313" />
+                <Precinct name="PAGELAND NO. 1" votes="473" />
+                <Precinct name="PAGELAND NO. 2" votes="456" />
+                <Precinct name="PATRICK" votes="206" />
+                <Precinct name="PEE DEE" votes="125" />
+                <Precinct name="RUBY" votes="295" />
+                <Precinct name="SHILOH" votes="235" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="204" />
+                <Precinct name="Absentee" votes="1454" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="4" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Write-In" party="NON" totalVotes="16">
+            <VoteType name="Election Day" votes="16">
+                <Precinct name="ANGELUS-CARARRH" votes="0" />
+                <Precinct name="BAY SPRINGS" votes="0" />
+                <Precinct name="BLACK CREEK" votes="0" />
+                <Precinct name="BROCKS MILL" votes="0" />
+                <Precinct name="CASH" votes="0" />
+                <Precinct name="CENTER GROVE-WINZO" votes="0" />
+                <Precinct name="CHERAW NO. 1" votes="2" />
+                <Precinct name="CHERAW NO. 2" votes="2" />
+                <Precinct name="CHERAW NO. 3" votes="0" />
+                <Precinct name="CHERAW NO. 4" votes="0" />
+                <Precinct name="COURTHOUSE" votes="2" />
+                <Precinct name="DUDLEY-MANGUM" votes="0" />
+                <Precinct name="GRANTS MILL" votes="2" />
+                <Precinct name="JEFFERSON" votes="3" />
+                <Precinct name="MCBEE" votes="0" />
+                <Precinct name="MIDDENDORF" votes="0" />
+                <Precinct name="MT. GROGHAN" votes="0" />
+                <Precinct name="OUSLEYDALE" votes="0" />
+                <Precinct name="PAGELAND NO. 1" votes="0" />
+                <Precinct name="PAGELAND NO. 2" votes="2" />
+                <Precinct name="PATRICK" votes="0" />
+                <Precinct name="PEE DEE" votes="1" />
+                <Precinct name="RUBY" votes="0" />
+                <Precinct name="SHILOH" votes="0" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="0" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0107" text="State  Senate, District  27" voteFor="1" isQuestion="false" precinctsReporting="24" precinctsReported="24">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ANGELUS-CARARRH" votes="0" />
+            <Precinct name="BAY SPRINGS" votes="0" />
+            <Precinct name="BLACK CREEK" votes="0" />
+            <Precinct name="BROCKS MILL" votes="0" />
+            <Precinct name="CENTER GROVE-WINZO" votes="0" />
+            <Precinct name="CHERAW NO. 1" votes="0" />
+            <Precinct name="CHERAW NO. 2" votes="0" />
+            <Precinct name="CHERAW NO. 3" votes="0" />
+            <Precinct name="CHERAW NO. 4" votes="0" />
+            <Precinct name="COURTHOUSE" votes="0" />
+            <Precinct name="DUDLEY-MANGUM" votes="0" />
+            <Precinct name="GRANTS MILL" votes="0" />
+            <Precinct name="JEFFERSON" votes="0" />
+            <Precinct name="MCBEE" votes="0" />
+            <Precinct name="MIDDENDORF" votes="0" />
+            <Precinct name="MT. GROGHAN" votes="0" />
+            <Precinct name="OUSLEYDALE" votes="0" />
+            <Precinct name="PAGELAND NO. 1" votes="0" />
+            <Precinct name="PAGELAND NO. 2" votes="0" />
+            <Precinct name="PATRICK" votes="0" />
+            <Precinct name="PEE DEE" votes="0" />
+            <Precinct name="RUBY" votes="0" />
+            <Precinct name="SHILOH" votes="0" />
+            <Precinct name="SNOW HILL-VAUGHN" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="4794">
+            <Precinct name="ANGELUS-CARARRH" votes="141" />
+            <Precinct name="BAY SPRINGS" votes="91" />
+            <Precinct name="BLACK CREEK" votes="69" />
+            <Precinct name="BROCKS MILL" votes="139" />
+            <Precinct name="CENTER GROVE-WINZO" votes="140" />
+            <Precinct name="CHERAW NO. 1" votes="197" />
+            <Precinct name="CHERAW NO. 2" votes="139" />
+            <Precinct name="CHERAW NO. 3" votes="140" />
+            <Precinct name="CHERAW NO. 4" votes="130" />
+            <Precinct name="COURTHOUSE" votes="224" />
+            <Precinct name="DUDLEY-MANGUM" votes="233" />
+            <Precinct name="GRANTS MILL" votes="197" />
+            <Precinct name="JEFFERSON" votes="304" />
+            <Precinct name="MCBEE" votes="320" />
+            <Precinct name="MIDDENDORF" votes="205" />
+            <Precinct name="MT. GROGHAN" votes="58" />
+            <Precinct name="OUSLEYDALE" votes="195" />
+            <Precinct name="PAGELAND NO. 1" votes="289" />
+            <Precinct name="PAGELAND NO. 2" votes="304" />
+            <Precinct name="PATRICK" votes="118" />
+            <Precinct name="PEE DEE" votes="55" />
+            <Precinct name="RUBY" votes="159" />
+            <Precinct name="SHILOH" votes="79" />
+            <Precinct name="SNOW HILL-VAUGHN" votes="108" />
+            <Precinct name="Absentee" votes="757" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="3" />
+        </VoteType>
+        <Choice key="001" text="Vincent Sheheen" party="DEM" totalVotes="11091">
+            <VoteType name="Election Day" votes="11091">
+                <Precinct name="ANGELUS-CARARRH" votes="239" />
+                <Precinct name="BAY SPRINGS" votes="119" />
+                <Precinct name="BLACK CREEK" votes="133" />
+                <Precinct name="BROCKS MILL" votes="612" />
+                <Precinct name="CENTER GROVE-WINZO" votes="364" />
+                <Precinct name="CHERAW NO. 1" votes="500" />
+                <Precinct name="CHERAW NO. 2" votes="356" />
+                <Precinct name="CHERAW NO. 3" votes="689" />
+                <Precinct name="CHERAW NO. 4" votes="545" />
+                <Precinct name="COURTHOUSE" votes="667" />
+                <Precinct name="DUDLEY-MANGUM" votes="255" />
+                <Precinct name="GRANTS MILL" votes="436" />
+                <Precinct name="JEFFERSON" votes="623" />
+                <Precinct name="MCBEE" votes="615" />
+                <Precinct name="MIDDENDORF" votes="194" />
+                <Precinct name="MT. GROGHAN" votes="150" />
+                <Precinct name="OUSLEYDALE" votes="232" />
+                <Precinct name="PAGELAND NO. 1" votes="598" />
+                <Precinct name="PAGELAND NO. 2" votes="519" />
+                <Precinct name="PATRICK" votes="241" />
+                <Precinct name="PEE DEE" votes="111" />
+                <Precinct name="RUBY" votes="390" />
+                <Precinct name="SHILOH" votes="263" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="171" />
+                <Precinct name="Absentee" votes="2067" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="156">
+            <VoteType name="Election Day" votes="156">
+                <Precinct name="ANGELUS-CARARRH" votes="3" />
+                <Precinct name="BAY SPRINGS" votes="7" />
+                <Precinct name="BLACK CREEK" votes="0" />
+                <Precinct name="BROCKS MILL" votes="3" />
+                <Precinct name="CENTER GROVE-WINZO" votes="2" />
+                <Precinct name="CHERAW NO. 1" votes="14" />
+                <Precinct name="CHERAW NO. 2" votes="4" />
+                <Precinct name="CHERAW NO. 3" votes="6" />
+                <Precinct name="CHERAW NO. 4" votes="1" />
+                <Precinct name="COURTHOUSE" votes="11" />
+                <Precinct name="DUDLEY-MANGUM" votes="3" />
+                <Precinct name="GRANTS MILL" votes="9" />
+                <Precinct name="JEFFERSON" votes="9" />
+                <Precinct name="MCBEE" votes="5" />
+                <Precinct name="MIDDENDORF" votes="4" />
+                <Precinct name="MT. GROGHAN" votes="2" />
+                <Precinct name="OUSLEYDALE" votes="5" />
+                <Precinct name="PAGELAND NO. 1" votes="8" />
+                <Precinct name="PAGELAND NO. 2" votes="6" />
+                <Precinct name="PATRICK" votes="2" />
+                <Precinct name="PEE DEE" votes="1" />
+                <Precinct name="RUBY" votes="1" />
+                <Precinct name="SHILOH" votes="16" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="6" />
+                <Precinct name="Absentee" votes="28" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0108" text="State  Senate, District  29" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="CASH" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="149">
+            <Precinct name="CASH" votes="121" />
+            <Precinct name="Absentee" votes="28" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Gerald Malloy" party="DEM" totalVotes="562">
+            <VoteType name="Election Day" votes="562">
+                <Precinct name="CASH" votes="442" />
+                <Precinct name="Absentee" votes="120" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="11">
+            <VoteType name="Election Day" votes="11">
+                <Precinct name="CASH" votes="11" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0109" text="State  House of Representatives, District  53" voteFor="1" isQuestion="false" precinctsReporting="19" precinctsReported="19">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BAY SPRINGS" votes="0" />
+            <Precinct name="BLACK CREEK" votes="0" />
+            <Precinct name="BROCKS MILL" votes="0" />
+            <Precinct name="CENTER GROVE-WINZO" votes="0" />
+            <Precinct name="CHERAW NO. 1" votes="0" />
+            <Precinct name="CHERAW NO. 2" votes="0" />
+            <Precinct name="CHERAW NO. 3" votes="0" />
+            <Precinct name="CHERAW NO. 4" votes="0" />
+            <Precinct name="COURTHOUSE" votes="0" />
+            <Precinct name="DUDLEY-MANGUM" votes="0" />
+            <Precinct name="GRANTS MILL" votes="0" />
+            <Precinct name="MIDDENDORF" votes="0" />
+            <Precinct name="MT. GROGHAN" votes="0" />
+            <Precinct name="PAGELAND NO. 1" votes="0" />
+            <Precinct name="PAGELAND NO. 2" votes="0" />
+            <Precinct name="PATRICK" votes="0" />
+            <Precinct name="RUBY" votes="0" />
+            <Precinct name="SHILOH" votes="0" />
+            <Precinct name="SNOW HILL-VAUGHN" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="403">
+            <Precinct name="BAY SPRINGS" votes="11" />
+            <Precinct name="BLACK CREEK" votes="8" />
+            <Precinct name="BROCKS MILL" votes="7" />
+            <Precinct name="CENTER GROVE-WINZO" votes="11" />
+            <Precinct name="CHERAW NO. 1" votes="21" />
+            <Precinct name="CHERAW NO. 2" votes="21" />
+            <Precinct name="CHERAW NO. 3" votes="31" />
+            <Precinct name="CHERAW NO. 4" votes="12" />
+            <Precinct name="COURTHOUSE" votes="23" />
+            <Precinct name="DUDLEY-MANGUM" votes="17" />
+            <Precinct name="GRANTS MILL" votes="12" />
+            <Precinct name="MIDDENDORF" votes="3" />
+            <Precinct name="MT. GROGHAN" votes="4" />
+            <Precinct name="PAGELAND NO. 1" votes="33" />
+            <Precinct name="PAGELAND NO. 2" votes="46" />
+            <Precinct name="PATRICK" votes="23" />
+            <Precinct name="RUBY" votes="19" />
+            <Precinct name="SHILOH" votes="8" />
+            <Precinct name="SNOW HILL-VAUGHN" votes="7" />
+            <Precinct name="Absentee" votes="86" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Victor K Li" party="DEM" totalVotes="4546">
+            <VoteType name="Election Day" votes="4546">
+                <Precinct name="BAY SPRINGS" votes="32" />
+                <Precinct name="BLACK CREEK" votes="67" />
+                <Precinct name="BROCKS MILL" votes="317" />
+                <Precinct name="CENTER GROVE-WINZO" votes="271" />
+                <Precinct name="CHERAW NO. 1" votes="266" />
+                <Precinct name="CHERAW NO. 2" votes="222" />
+                <Precinct name="CHERAW NO. 3" votes="390" />
+                <Precinct name="CHERAW NO. 4" votes="281" />
+                <Precinct name="COURTHOUSE" votes="243" />
+                <Precinct name="DUDLEY-MANGUM" votes="113" />
+                <Precinct name="GRANTS MILL" votes="179" />
+                <Precinct name="MIDDENDORF" votes="22" />
+                <Precinct name="MT. GROGHAN" votes="49" />
+                <Precinct name="PAGELAND NO. 1" votes="368" />
+                <Precinct name="PAGELAND NO. 2" votes="299" />
+                <Precinct name="PATRICK" votes="124" />
+                <Precinct name="RUBY" votes="192" />
+                <Precinct name="SHILOH" votes="94" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="54" />
+                <Precinct name="Absentee" votes="962" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Richie Yow" party="REP" totalVotes="6762">
+            <VoteType name="Election Day" votes="6762">
+                <Precinct name="BAY SPRINGS" votes="173" />
+                <Precinct name="BLACK CREEK" votes="127" />
+                <Precinct name="BROCKS MILL" votes="145" />
+                <Precinct name="CENTER GROVE-WINZO" votes="223" />
+                <Precinct name="CHERAW NO. 1" votes="422" />
+                <Precinct name="CHERAW NO. 2" votes="256" />
+                <Precinct name="CHERAW NO. 3" votes="154" />
+                <Precinct name="CHERAW NO. 4" votes="274" />
+                <Precinct name="COURTHOUSE" votes="634" />
+                <Precinct name="DUDLEY-MANGUM" votes="361" />
+                <Precinct name="GRANTS MILL" votes="450" />
+                <Precinct name="MIDDENDORF" votes="82" />
+                <Precinct name="MT. GROGHAN" votes="157" />
+                <Precinct name="PAGELAND NO. 1" votes="494" />
+                <Precinct name="PAGELAND NO. 2" votes="483" />
+                <Precinct name="PATRICK" votes="214" />
+                <Precinct name="RUBY" votes="338" />
+                <Precinct name="SHILOH" votes="256" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="224" />
+                <Precinct name="Absentee" votes="1294" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="10">
+            <VoteType name="Election Day" votes="10">
+                <Precinct name="BAY SPRINGS" votes="1" />
+                <Precinct name="BLACK CREEK" votes="0" />
+                <Precinct name="BROCKS MILL" votes="1" />
+                <Precinct name="CENTER GROVE-WINZO" votes="1" />
+                <Precinct name="CHERAW NO. 1" votes="2" />
+                <Precinct name="CHERAW NO. 2" votes="0" />
+                <Precinct name="CHERAW NO. 3" votes="0" />
+                <Precinct name="CHERAW NO. 4" votes="0" />
+                <Precinct name="COURTHOUSE" votes="2" />
+                <Precinct name="DUDLEY-MANGUM" votes="0" />
+                <Precinct name="GRANTS MILL" votes="1" />
+                <Precinct name="MIDDENDORF" votes="0" />
+                <Precinct name="MT. GROGHAN" votes="0" />
+                <Precinct name="PAGELAND NO. 1" votes="0" />
+                <Precinct name="PAGELAND NO. 2" votes="1" />
+                <Precinct name="PATRICK" votes="0" />
+                <Precinct name="RUBY" votes="1" />
+                <Precinct name="SHILOH" votes="0" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0110" text="State  House of Representatives, District  54" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BROCKS MILL" votes="0" />
+            <Precinct name="CASH" votes="0" />
+            <Precinct name="CHERAW NO. 3" votes="0" />
+            <Precinct name="CHERAW NO. 4" votes="0" />
+            <Precinct name="MIDDENDORF" votes="0" />
+            <Precinct name="OUSLEYDALE" votes="0" />
+            <Precinct name="PEE DEE" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="106">
+            <Precinct name="BROCKS MILL" votes="16" />
+            <Precinct name="CASH" votes="11" />
+            <Precinct name="CHERAW NO. 3" votes="13" />
+            <Precinct name="CHERAW NO. 4" votes="3" />
+            <Precinct name="MIDDENDORF" votes="14" />
+            <Precinct name="OUSLEYDALE" votes="25" />
+            <Precinct name="PEE DEE" votes="5" />
+            <Precinct name="Absentee" votes="19" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Patricia Pat Moore Henegan" party="DEM" totalVotes="1135">
+            <VoteType name="Election Day" votes="1135">
+                <Precinct name="BROCKS MILL" votes="122" />
+                <Precinct name="CASH" votes="342" />
+                <Precinct name="CHERAW NO. 3" votes="182" />
+                <Precinct name="CHERAW NO. 4" votes="65" />
+                <Precinct name="MIDDENDORF" votes="41" />
+                <Precinct name="OUSLEYDALE" votes="71" />
+                <Precinct name="PEE DEE" votes="48" />
+                <Precinct name="Absentee" votes="264" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="J D Chaplin" party="REP" totalVotes="1317">
+            <VoteType name="Election Day" votes="1317">
+                <Precinct name="BROCKS MILL" votes="144" />
+                <Precinct name="CASH" votes="220" />
+                <Precinct name="CHERAW NO. 3" votes="65" />
+                <Precinct name="CHERAW NO. 4" votes="41" />
+                <Precinct name="MIDDENDORF" votes="241" />
+                <Precinct name="OUSLEYDALE" votes="336" />
+                <Precinct name="PEE DEE" votes="114" />
+                <Precinct name="Absentee" votes="153" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="3">
+            <VoteType name="Election Day" votes="3">
+                <Precinct name="BROCKS MILL" votes="2" />
+                <Precinct name="CASH" votes="1" />
+                <Precinct name="CHERAW NO. 3" votes="0" />
+                <Precinct name="CHERAW NO. 4" votes="0" />
+                <Precinct name="MIDDENDORF" votes="0" />
+                <Precinct name="OUSLEYDALE" votes="0" />
+                <Precinct name="PEE DEE" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0111" text="State  House of Representatives, District  65" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ANGELUS-CARARRH" votes="0" />
+            <Precinct name="JEFFERSON" votes="0" />
+            <Precinct name="MCBEE" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="845">
+            <Precinct name="ANGELUS-CARARRH" votes="118" />
+            <Precinct name="JEFFERSON" votes="330" />
+            <Precinct name="MCBEE" votes="301" />
+            <Precinct name="Absentee" votes="96" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Jay Lucas" party="REP" totalVotes="1624">
+            <VoteType name="Election Day" votes="1624">
+                <Precinct name="ANGELUS-CARARRH" votes="265" />
+                <Precinct name="JEFFERSON" votes="599" />
+                <Precinct name="MCBEE" votes="634" />
+                <Precinct name="Absentee" votes="126" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="12">
+            <VoteType name="Election Day" votes="12">
+                <Precinct name="ANGELUS-CARARRH" votes="0" />
+                <Precinct name="JEFFERSON" votes="7" />
+                <Precinct name="MCBEE" votes="5" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0112" text=" Solicitor, Circuit  4" voteFor="1" isQuestion="false" precinctsReporting="25" precinctsReported="25">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ANGELUS-CARARRH" votes="0" />
+            <Precinct name="BAY SPRINGS" votes="0" />
+            <Precinct name="BLACK CREEK" votes="0" />
+            <Precinct name="BROCKS MILL" votes="0" />
+            <Precinct name="CASH" votes="0" />
+            <Precinct name="CENTER GROVE-WINZO" votes="0" />
+            <Precinct name="CHERAW NO. 1" votes="0" />
+            <Precinct name="CHERAW NO. 2" votes="0" />
+            <Precinct name="CHERAW NO. 3" votes="0" />
+            <Precinct name="CHERAW NO. 4" votes="0" />
+            <Precinct name="COURTHOUSE" votes="0" />
+            <Precinct name="DUDLEY-MANGUM" votes="0" />
+            <Precinct name="GRANTS MILL" votes="0" />
+            <Precinct name="JEFFERSON" votes="0" />
+            <Precinct name="MCBEE" votes="0" />
+            <Precinct name="MIDDENDORF" votes="0" />
+            <Precinct name="MT. GROGHAN" votes="0" />
+            <Precinct name="OUSLEYDALE" votes="0" />
+            <Precinct name="PAGELAND NO. 1" votes="0" />
+            <Precinct name="PAGELAND NO. 2" votes="0" />
+            <Precinct name="PATRICK" votes="0" />
+            <Precinct name="PEE DEE" votes="0" />
+            <Precinct name="RUBY" votes="0" />
+            <Precinct name="SHILOH" votes="0" />
+            <Precinct name="SNOW HILL-VAUGHN" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="4902">
+            <Precinct name="ANGELUS-CARARRH" votes="142" />
+            <Precinct name="BAY SPRINGS" votes="93" />
+            <Precinct name="BLACK CREEK" votes="67" />
+            <Precinct name="BROCKS MILL" votes="141" />
+            <Precinct name="CASH" votes="113" />
+            <Precinct name="CENTER GROVE-WINZO" votes="137" />
+            <Precinct name="CHERAW NO. 1" votes="185" />
+            <Precinct name="CHERAW NO. 2" votes="133" />
+            <Precinct name="CHERAW NO. 3" votes="140" />
+            <Precinct name="CHERAW NO. 4" votes="117" />
+            <Precinct name="COURTHOUSE" votes="216" />
+            <Precinct name="DUDLEY-MANGUM" votes="238" />
+            <Precinct name="GRANTS MILL" votes="183" />
+            <Precinct name="JEFFERSON" votes="318" />
+            <Precinct name="MCBEE" votes="324" />
+            <Precinct name="MIDDENDORF" votes="198" />
+            <Precinct name="MT. GROGHAN" votes="63" />
+            <Precinct name="OUSLEYDALE" votes="193" />
+            <Precinct name="PAGELAND NO. 1" votes="292" />
+            <Precinct name="PAGELAND NO. 2" votes="293" />
+            <Precinct name="PATRICK" votes="126" />
+            <Precinct name="PEE DEE" votes="54" />
+            <Precinct name="RUBY" votes="161" />
+            <Precinct name="SHILOH" votes="88" />
+            <Precinct name="SNOW HILL-VAUGHN" votes="102" />
+            <Precinct name="Absentee" votes="782" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="3" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Will Rogers" party="DEM" totalVotes="11739">
+            <VoteType name="Election Day" votes="11739">
+                <Precinct name="ANGELUS-CARARRH" votes="240" />
+                <Precinct name="BAY SPRINGS" votes="119" />
+                <Precinct name="BLACK CREEK" votes="135" />
+                <Precinct name="BROCKS MILL" votes="608" />
+                <Precinct name="CASH" votes="455" />
+                <Precinct name="CENTER GROVE-WINZO" votes="368" />
+                <Precinct name="CHERAW NO. 1" votes="515" />
+                <Precinct name="CHERAW NO. 2" votes="366" />
+                <Precinct name="CHERAW NO. 3" votes="691" />
+                <Precinct name="CHERAW NO. 4" votes="556" />
+                <Precinct name="COURTHOUSE" votes="675" />
+                <Precinct name="DUDLEY-MANGUM" votes="250" />
+                <Precinct name="GRANTS MILL" votes="452" />
+                <Precinct name="JEFFERSON" votes="611" />
+                <Precinct name="MCBEE" votes="613" />
+                <Precinct name="MIDDENDORF" votes="203" />
+                <Precinct name="MT. GROGHAN" votes="147" />
+                <Precinct name="OUSLEYDALE" votes="237" />
+                <Precinct name="PAGELAND NO. 1" votes="599" />
+                <Precinct name="PAGELAND NO. 2" votes="533" />
+                <Precinct name="PATRICK" votes="234" />
+                <Precinct name="PEE DEE" votes="112" />
+                <Precinct name="RUBY" votes="388" />
+                <Precinct name="SHILOH" votes="259" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="180" />
+                <Precinct name="Absentee" votes="2191" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="2" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="122">
+            <VoteType name="Election Day" votes="122">
+                <Precinct name="ANGELUS-CARARRH" votes="1" />
+                <Precinct name="BAY SPRINGS" votes="5" />
+                <Precinct name="BLACK CREEK" votes="0" />
+                <Precinct name="BROCKS MILL" votes="5" />
+                <Precinct name="CASH" votes="6" />
+                <Precinct name="CENTER GROVE-WINZO" votes="1" />
+                <Precinct name="CHERAW NO. 1" votes="11" />
+                <Precinct name="CHERAW NO. 2" votes="0" />
+                <Precinct name="CHERAW NO. 3" votes="4" />
+                <Precinct name="CHERAW NO. 4" votes="3" />
+                <Precinct name="COURTHOUSE" votes="11" />
+                <Precinct name="DUDLEY-MANGUM" votes="3" />
+                <Precinct name="GRANTS MILL" votes="7" />
+                <Precinct name="JEFFERSON" votes="7" />
+                <Precinct name="MCBEE" votes="3" />
+                <Precinct name="MIDDENDORF" votes="2" />
+                <Precinct name="MT. GROGHAN" votes="0" />
+                <Precinct name="OUSLEYDALE" votes="2" />
+                <Precinct name="PAGELAND NO. 1" votes="4" />
+                <Precinct name="PAGELAND NO. 2" votes="3" />
+                <Precinct name="PATRICK" votes="1" />
+                <Precinct name="PEE DEE" votes="1" />
+                <Precinct name="RUBY" votes="1" />
+                <Precinct name="SHILOH" votes="11" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="3" />
+                <Precinct name="Absentee" votes="27" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0113" text="Clerk of Court" voteFor="1" isQuestion="false" precinctsReporting="25" precinctsReported="25">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ANGELUS-CARARRH" votes="0" />
+            <Precinct name="BAY SPRINGS" votes="0" />
+            <Precinct name="BLACK CREEK" votes="0" />
+            <Precinct name="BROCKS MILL" votes="0" />
+            <Precinct name="CASH" votes="0" />
+            <Precinct name="CENTER GROVE-WINZO" votes="0" />
+            <Precinct name="CHERAW NO. 1" votes="0" />
+            <Precinct name="CHERAW NO. 2" votes="0" />
+            <Precinct name="CHERAW NO. 3" votes="0" />
+            <Precinct name="CHERAW NO. 4" votes="0" />
+            <Precinct name="COURTHOUSE" votes="0" />
+            <Precinct name="DUDLEY-MANGUM" votes="0" />
+            <Precinct name="GRANTS MILL" votes="0" />
+            <Precinct name="JEFFERSON" votes="0" />
+            <Precinct name="MCBEE" votes="0" />
+            <Precinct name="MIDDENDORF" votes="0" />
+            <Precinct name="MT. GROGHAN" votes="0" />
+            <Precinct name="OUSLEYDALE" votes="0" />
+            <Precinct name="PAGELAND NO. 1" votes="0" />
+            <Precinct name="PAGELAND NO. 2" votes="0" />
+            <Precinct name="PATRICK" votes="0" />
+            <Precinct name="PEE DEE" votes="0" />
+            <Precinct name="RUBY" votes="0" />
+            <Precinct name="SHILOH" votes="0" />
+            <Precinct name="SNOW HILL-VAUGHN" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="4616">
+            <Precinct name="ANGELUS-CARARRH" votes="138" />
+            <Precinct name="BAY SPRINGS" votes="82" />
+            <Precinct name="BLACK CREEK" votes="62" />
+            <Precinct name="BROCKS MILL" votes="126" />
+            <Precinct name="CASH" votes="115" />
+            <Precinct name="CENTER GROVE-WINZO" votes="134" />
+            <Precinct name="CHERAW NO. 1" votes="188" />
+            <Precinct name="CHERAW NO. 2" votes="126" />
+            <Precinct name="CHERAW NO. 3" votes="137" />
+            <Precinct name="CHERAW NO. 4" votes="116" />
+            <Precinct name="COURTHOUSE" votes="180" />
+            <Precinct name="DUDLEY-MANGUM" votes="232" />
+            <Precinct name="GRANTS MILL" votes="159" />
+            <Precinct name="JEFFERSON" votes="304" />
+            <Precinct name="MCBEE" votes="313" />
+            <Precinct name="MIDDENDORF" votes="198" />
+            <Precinct name="MT. GROGHAN" votes="53" />
+            <Precinct name="OUSLEYDALE" votes="188" />
+            <Precinct name="PAGELAND NO. 1" votes="283" />
+            <Precinct name="PAGELAND NO. 2" votes="285" />
+            <Precinct name="PATRICK" votes="114" />
+            <Precinct name="PEE DEE" votes="53" />
+            <Precinct name="RUBY" votes="140" />
+            <Precinct name="SHILOH" votes="77" />
+            <Precinct name="SNOW HILL-VAUGHN" votes="90" />
+            <Precinct name="Absentee" votes="720" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="3" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Wanda C Miles" party="DEM" totalVotes="12048">
+            <VoteType name="Election Day" votes="12048">
+                <Precinct name="ANGELUS-CARARRH" votes="244" />
+                <Precinct name="BAY SPRINGS" votes="131" />
+                <Precinct name="BLACK CREEK" votes="139" />
+                <Precinct name="BROCKS MILL" votes="623" />
+                <Precinct name="CASH" votes="453" />
+                <Precinct name="CENTER GROVE-WINZO" votes="370" />
+                <Precinct name="CHERAW NO. 1" votes="515" />
+                <Precinct name="CHERAW NO. 2" votes="371" />
+                <Precinct name="CHERAW NO. 3" votes="694" />
+                <Precinct name="CHERAW NO. 4" votes="558" />
+                <Precinct name="COURTHOUSE" votes="713" />
+                <Precinct name="DUDLEY-MANGUM" votes="256" />
+                <Precinct name="GRANTS MILL" votes="475" />
+                <Precinct name="JEFFERSON" votes="627" />
+                <Precinct name="MCBEE" votes="626" />
+                <Precinct name="MIDDENDORF" votes="203" />
+                <Precinct name="MT. GROGHAN" votes="157" />
+                <Precinct name="OUSLEYDALE" votes="243" />
+                <Precinct name="PAGELAND NO. 1" votes="609" />
+                <Precinct name="PAGELAND NO. 2" votes="541" />
+                <Precinct name="PATRICK" votes="246" />
+                <Precinct name="PEE DEE" votes="113" />
+                <Precinct name="RUBY" votes="409" />
+                <Precinct name="SHILOH" votes="273" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="195" />
+                <Precinct name="Absentee" votes="2262" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="2" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="99">
+            <VoteType name="Election Day" votes="99">
+                <Precinct name="ANGELUS-CARARRH" votes="1" />
+                <Precinct name="BAY SPRINGS" votes="4" />
+                <Precinct name="BLACK CREEK" votes="1" />
+                <Precinct name="BROCKS MILL" votes="5" />
+                <Precinct name="CASH" votes="6" />
+                <Precinct name="CENTER GROVE-WINZO" votes="2" />
+                <Precinct name="CHERAW NO. 1" votes="8" />
+                <Precinct name="CHERAW NO. 2" votes="2" />
+                <Precinct name="CHERAW NO. 3" votes="4" />
+                <Precinct name="CHERAW NO. 4" votes="2" />
+                <Precinct name="COURTHOUSE" votes="9" />
+                <Precinct name="DUDLEY-MANGUM" votes="3" />
+                <Precinct name="GRANTS MILL" votes="8" />
+                <Precinct name="JEFFERSON" votes="5" />
+                <Precinct name="MCBEE" votes="1" />
+                <Precinct name="MIDDENDORF" votes="2" />
+                <Precinct name="MT. GROGHAN" votes="0" />
+                <Precinct name="OUSLEYDALE" votes="1" />
+                <Precinct name="PAGELAND NO. 1" votes="3" />
+                <Precinct name="PAGELAND NO. 2" votes="3" />
+                <Precinct name="PATRICK" votes="1" />
+                <Precinct name="PEE DEE" votes="1" />
+                <Precinct name="RUBY" votes="1" />
+                <Precinct name="SHILOH" votes="8" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="0" />
+                <Precinct name="Absentee" votes="18" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0114" text="Coroner" voteFor="1" isQuestion="false" precinctsReporting="25" precinctsReported="25">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ANGELUS-CARARRH" votes="0" />
+            <Precinct name="BAY SPRINGS" votes="0" />
+            <Precinct name="BLACK CREEK" votes="0" />
+            <Precinct name="BROCKS MILL" votes="0" />
+            <Precinct name="CASH" votes="0" />
+            <Precinct name="CENTER GROVE-WINZO" votes="0" />
+            <Precinct name="CHERAW NO. 1" votes="0" />
+            <Precinct name="CHERAW NO. 2" votes="0" />
+            <Precinct name="CHERAW NO. 3" votes="0" />
+            <Precinct name="CHERAW NO. 4" votes="0" />
+            <Precinct name="COURTHOUSE" votes="0" />
+            <Precinct name="DUDLEY-MANGUM" votes="0" />
+            <Precinct name="GRANTS MILL" votes="0" />
+            <Precinct name="JEFFERSON" votes="0" />
+            <Precinct name="MCBEE" votes="0" />
+            <Precinct name="MIDDENDORF" votes="0" />
+            <Precinct name="MT. GROGHAN" votes="0" />
+            <Precinct name="OUSLEYDALE" votes="0" />
+            <Precinct name="PAGELAND NO. 1" votes="0" />
+            <Precinct name="PAGELAND NO. 2" votes="0" />
+            <Precinct name="PATRICK" votes="0" />
+            <Precinct name="PEE DEE" votes="0" />
+            <Precinct name="RUBY" votes="0" />
+            <Precinct name="SHILOH" votes="0" />
+            <Precinct name="SNOW HILL-VAUGHN" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="3568">
+            <Precinct name="ANGELUS-CARARRH" votes="132" />
+            <Precinct name="BAY SPRINGS" votes="61" />
+            <Precinct name="BLACK CREEK" votes="52" />
+            <Precinct name="BROCKS MILL" votes="83" />
+            <Precinct name="CASH" votes="59" />
+            <Precinct name="CENTER GROVE-WINZO" votes="116" />
+            <Precinct name="CHERAW NO. 1" votes="98" />
+            <Precinct name="CHERAW NO. 2" votes="55" />
+            <Precinct name="CHERAW NO. 3" votes="82" />
+            <Precinct name="CHERAW NO. 4" votes="59" />
+            <Precinct name="COURTHOUSE" votes="150" />
+            <Precinct name="DUDLEY-MANGUM" votes="202" />
+            <Precinct name="GRANTS MILL" votes="107" />
+            <Precinct name="JEFFERSON" votes="290" />
+            <Precinct name="MCBEE" votes="292" />
+            <Precinct name="MIDDENDORF" votes="168" />
+            <Precinct name="MT. GROGHAN" votes="45" />
+            <Precinct name="OUSLEYDALE" votes="165" />
+            <Precinct name="PAGELAND NO. 1" votes="230" />
+            <Precinct name="PAGELAND NO. 2" votes="231" />
+            <Precinct name="PATRICK" votes="66" />
+            <Precinct name="PEE DEE" votes="34" />
+            <Precinct name="RUBY" votes="119" />
+            <Precinct name="SHILOH" votes="50" />
+            <Precinct name="SNOW HILL-VAUGHN" votes="76" />
+            <Precinct name="Absentee" votes="543" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="3" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Kip Kiser" party="DEM" totalVotes="13140">
+            <VoteType name="Election Day" votes="13140">
+                <Precinct name="ANGELUS-CARARRH" votes="250" />
+                <Precinct name="BAY SPRINGS" votes="153" />
+                <Precinct name="BLACK CREEK" votes="150" />
+                <Precinct name="BROCKS MILL" votes="668" />
+                <Precinct name="CASH" votes="512" />
+                <Precinct name="CENTER GROVE-WINZO" votes="390" />
+                <Precinct name="CHERAW NO. 1" votes="606" />
+                <Precinct name="CHERAW NO. 2" votes="441" />
+                <Precinct name="CHERAW NO. 3" votes="753" />
+                <Precinct name="CHERAW NO. 4" votes="617" />
+                <Precinct name="COURTHOUSE" votes="745" />
+                <Precinct name="DUDLEY-MANGUM" votes="289" />
+                <Precinct name="GRANTS MILL" votes="532" />
+                <Precinct name="JEFFERSON" votes="641" />
+                <Precinct name="MCBEE" votes="647" />
+                <Precinct name="MIDDENDORF" votes="235" />
+                <Precinct name="MT. GROGHAN" votes="165" />
+                <Precinct name="OUSLEYDALE" votes="266" />
+                <Precinct name="PAGELAND NO. 1" votes="664" />
+                <Precinct name="PAGELAND NO. 2" votes="597" />
+                <Precinct name="PATRICK" votes="295" />
+                <Precinct name="PEE DEE" votes="133" />
+                <Precinct name="RUBY" votes="431" />
+                <Precinct name="SHILOH" votes="303" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="209" />
+                <Precinct name="Absentee" votes="2446" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="2" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="55">
+            <VoteType name="Election Day" votes="55">
+                <Precinct name="ANGELUS-CARARRH" votes="1" />
+                <Precinct name="BAY SPRINGS" votes="3" />
+                <Precinct name="BLACK CREEK" votes="0" />
+                <Precinct name="BROCKS MILL" votes="3" />
+                <Precinct name="CASH" votes="3" />
+                <Precinct name="CENTER GROVE-WINZO" votes="0" />
+                <Precinct name="CHERAW NO. 1" votes="7" />
+                <Precinct name="CHERAW NO. 2" votes="3" />
+                <Precinct name="CHERAW NO. 3" votes="0" />
+                <Precinct name="CHERAW NO. 4" votes="0" />
+                <Precinct name="COURTHOUSE" votes="7" />
+                <Precinct name="DUDLEY-MANGUM" votes="0" />
+                <Precinct name="GRANTS MILL" votes="3" />
+                <Precinct name="JEFFERSON" votes="5" />
+                <Precinct name="MCBEE" votes="1" />
+                <Precinct name="MIDDENDORF" votes="0" />
+                <Precinct name="MT. GROGHAN" votes="0" />
+                <Precinct name="OUSLEYDALE" votes="1" />
+                <Precinct name="PAGELAND NO. 1" votes="1" />
+                <Precinct name="PAGELAND NO. 2" votes="1" />
+                <Precinct name="PATRICK" votes="0" />
+                <Precinct name="PEE DEE" votes="0" />
+                <Precinct name="RUBY" votes="0" />
+                <Precinct name="SHILOH" votes="5" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="0" />
+                <Precinct name="Absentee" votes="11" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0115" text="Auditor" voteFor="1" isQuestion="false" precinctsReporting="25" precinctsReported="25">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ANGELUS-CARARRH" votes="0" />
+            <Precinct name="BAY SPRINGS" votes="0" />
+            <Precinct name="BLACK CREEK" votes="0" />
+            <Precinct name="BROCKS MILL" votes="0" />
+            <Precinct name="CASH" votes="0" />
+            <Precinct name="CENTER GROVE-WINZO" votes="0" />
+            <Precinct name="CHERAW NO. 1" votes="0" />
+            <Precinct name="CHERAW NO. 2" votes="0" />
+            <Precinct name="CHERAW NO. 3" votes="0" />
+            <Precinct name="CHERAW NO. 4" votes="0" />
+            <Precinct name="COURTHOUSE" votes="0" />
+            <Precinct name="DUDLEY-MANGUM" votes="0" />
+            <Precinct name="GRANTS MILL" votes="0" />
+            <Precinct name="JEFFERSON" votes="0" />
+            <Precinct name="MCBEE" votes="0" />
+            <Precinct name="MIDDENDORF" votes="0" />
+            <Precinct name="MT. GROGHAN" votes="0" />
+            <Precinct name="OUSLEYDALE" votes="0" />
+            <Precinct name="PAGELAND NO. 1" votes="0" />
+            <Precinct name="PAGELAND NO. 2" votes="0" />
+            <Precinct name="PATRICK" votes="0" />
+            <Precinct name="PEE DEE" votes="0" />
+            <Precinct name="RUBY" votes="0" />
+            <Precinct name="SHILOH" votes="0" />
+            <Precinct name="SNOW HILL-VAUGHN" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="4000">
+            <Precinct name="ANGELUS-CARARRH" votes="126" />
+            <Precinct name="BAY SPRINGS" votes="68" />
+            <Precinct name="BLACK CREEK" votes="54" />
+            <Precinct name="BROCKS MILL" votes="105" />
+            <Precinct name="CASH" votes="94" />
+            <Precinct name="CENTER GROVE-WINZO" votes="125" />
+            <Precinct name="CHERAW NO. 1" votes="156" />
+            <Precinct name="CHERAW NO. 2" votes="92" />
+            <Precinct name="CHERAW NO. 3" votes="124" />
+            <Precinct name="CHERAW NO. 4" votes="104" />
+            <Precinct name="COURTHOUSE" votes="147" />
+            <Precinct name="DUDLEY-MANGUM" votes="208" />
+            <Precinct name="GRANTS MILL" votes="143" />
+            <Precinct name="JEFFERSON" votes="271" />
+            <Precinct name="MCBEE" votes="305" />
+            <Precinct name="MIDDENDORF" votes="180" />
+            <Precinct name="MT. GROGHAN" votes="47" />
+            <Precinct name="OUSLEYDALE" votes="182" />
+            <Precinct name="PAGELAND NO. 1" votes="242" />
+            <Precinct name="PAGELAND NO. 2" votes="241" />
+            <Precinct name="PATRICK" votes="85" />
+            <Precinct name="PEE DEE" votes="48" />
+            <Precinct name="RUBY" votes="120" />
+            <Precinct name="SHILOH" votes="54" />
+            <Precinct name="SNOW HILL-VAUGHN" votes="75" />
+            <Precinct name="Absentee" votes="601" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="3" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Jack Rivers" party="DEM" totalVotes="12715">
+            <VoteType name="Election Day" votes="12715">
+                <Precinct name="ANGELUS-CARARRH" votes="255" />
+                <Precinct name="BAY SPRINGS" votes="147" />
+                <Precinct name="BLACK CREEK" votes="148" />
+                <Precinct name="BROCKS MILL" votes="647" />
+                <Precinct name="CASH" votes="478" />
+                <Precinct name="CENTER GROVE-WINZO" votes="381" />
+                <Precinct name="CHERAW NO. 1" votes="552" />
+                <Precinct name="CHERAW NO. 2" votes="407" />
+                <Precinct name="CHERAW NO. 3" votes="711" />
+                <Precinct name="CHERAW NO. 4" votes="570" />
+                <Precinct name="COURTHOUSE" votes="750" />
+                <Precinct name="DUDLEY-MANGUM" votes="282" />
+                <Precinct name="GRANTS MILL" votes="496" />
+                <Precinct name="JEFFERSON" votes="659" />
+                <Precinct name="MCBEE" votes="634" />
+                <Precinct name="MIDDENDORF" votes="223" />
+                <Precinct name="MT. GROGHAN" votes="163" />
+                <Precinct name="OUSLEYDALE" votes="249" />
+                <Precinct name="PAGELAND NO. 1" votes="649" />
+                <Precinct name="PAGELAND NO. 2" votes="586" />
+                <Precinct name="PATRICK" votes="276" />
+                <Precinct name="PEE DEE" votes="118" />
+                <Precinct name="RUBY" votes="430" />
+                <Precinct name="SHILOH" votes="299" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="210" />
+                <Precinct name="Absentee" votes="2393" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="2" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="48">
+            <VoteType name="Election Day" votes="48">
+                <Precinct name="ANGELUS-CARARRH" votes="2" />
+                <Precinct name="BAY SPRINGS" votes="2" />
+                <Precinct name="BLACK CREEK" votes="0" />
+                <Precinct name="BROCKS MILL" votes="2" />
+                <Precinct name="CASH" votes="2" />
+                <Precinct name="CENTER GROVE-WINZO" votes="0" />
+                <Precinct name="CHERAW NO. 1" votes="3" />
+                <Precinct name="CHERAW NO. 2" votes="0" />
+                <Precinct name="CHERAW NO. 3" votes="0" />
+                <Precinct name="CHERAW NO. 4" votes="2" />
+                <Precinct name="COURTHOUSE" votes="5" />
+                <Precinct name="DUDLEY-MANGUM" votes="1" />
+                <Precinct name="GRANTS MILL" votes="3" />
+                <Precinct name="JEFFERSON" votes="6" />
+                <Precinct name="MCBEE" votes="1" />
+                <Precinct name="MIDDENDORF" votes="0" />
+                <Precinct name="MT. GROGHAN" votes="0" />
+                <Precinct name="OUSLEYDALE" votes="1" />
+                <Precinct name="PAGELAND NO. 1" votes="4" />
+                <Precinct name="PAGELAND NO. 2" votes="2" />
+                <Precinct name="PATRICK" votes="0" />
+                <Precinct name="PEE DEE" votes="1" />
+                <Precinct name="RUBY" votes="0" />
+                <Precinct name="SHILOH" votes="5" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="0" />
+                <Precinct name="Absentee" votes="6" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0116" text="County Treasurer" voteFor="1" isQuestion="false" precinctsReporting="25" precinctsReported="25">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ANGELUS-CARARRH" votes="0" />
+            <Precinct name="BAY SPRINGS" votes="0" />
+            <Precinct name="BLACK CREEK" votes="0" />
+            <Precinct name="BROCKS MILL" votes="0" />
+            <Precinct name="CASH" votes="0" />
+            <Precinct name="CENTER GROVE-WINZO" votes="0" />
+            <Precinct name="CHERAW NO. 1" votes="0" />
+            <Precinct name="CHERAW NO. 2" votes="0" />
+            <Precinct name="CHERAW NO. 3" votes="0" />
+            <Precinct name="CHERAW NO. 4" votes="0" />
+            <Precinct name="COURTHOUSE" votes="0" />
+            <Precinct name="DUDLEY-MANGUM" votes="0" />
+            <Precinct name="GRANTS MILL" votes="0" />
+            <Precinct name="JEFFERSON" votes="0" />
+            <Precinct name="MCBEE" votes="0" />
+            <Precinct name="MIDDENDORF" votes="0" />
+            <Precinct name="MT. GROGHAN" votes="0" />
+            <Precinct name="OUSLEYDALE" votes="0" />
+            <Precinct name="PAGELAND NO. 1" votes="0" />
+            <Precinct name="PAGELAND NO. 2" votes="0" />
+            <Precinct name="PATRICK" votes="0" />
+            <Precinct name="PEE DEE" votes="0" />
+            <Precinct name="RUBY" votes="0" />
+            <Precinct name="SHILOH" votes="0" />
+            <Precinct name="SNOW HILL-VAUGHN" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="4128">
+            <Precinct name="ANGELUS-CARARRH" votes="129" />
+            <Precinct name="BAY SPRINGS" votes="78" />
+            <Precinct name="BLACK CREEK" votes="57" />
+            <Precinct name="BROCKS MILL" votes="111" />
+            <Precinct name="CASH" votes="80" />
+            <Precinct name="CENTER GROVE-WINZO" votes="129" />
+            <Precinct name="CHERAW NO. 1" votes="124" />
+            <Precinct name="CHERAW NO. 2" votes="89" />
+            <Precinct name="CHERAW NO. 3" votes="101" />
+            <Precinct name="CHERAW NO. 4" votes="104" />
+            <Precinct name="COURTHOUSE" votes="188" />
+            <Precinct name="DUDLEY-MANGUM" votes="211" />
+            <Precinct name="GRANTS MILL" votes="141" />
+            <Precinct name="JEFFERSON" votes="278" />
+            <Precinct name="MCBEE" votes="315" />
+            <Precinct name="MIDDENDORF" votes="189" />
+            <Precinct name="MT. GROGHAN" votes="50" />
+            <Precinct name="OUSLEYDALE" votes="182" />
+            <Precinct name="PAGELAND NO. 1" votes="248" />
+            <Precinct name="PAGELAND NO. 2" votes="245" />
+            <Precinct name="PATRICK" votes="89" />
+            <Precinct name="PEE DEE" votes="46" />
+            <Precinct name="RUBY" votes="138" />
+            <Precinct name="SHILOH" votes="66" />
+            <Precinct name="SNOW HILL-VAUGHN" votes="91" />
+            <Precinct name="Absentee" votes="646" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="3" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Fred Harris" party="DEM" totalVotes="12560">
+            <VoteType name="Election Day" votes="12560">
+                <Precinct name="ANGELUS-CARARRH" votes="253" />
+                <Precinct name="BAY SPRINGS" votes="137" />
+                <Precinct name="BLACK CREEK" votes="145" />
+                <Precinct name="BROCKS MILL" votes="641" />
+                <Precinct name="CASH" votes="492" />
+                <Precinct name="CENTER GROVE-WINZO" votes="377" />
+                <Precinct name="CHERAW NO. 1" votes="580" />
+                <Precinct name="CHERAW NO. 2" votes="410" />
+                <Precinct name="CHERAW NO. 3" votes="732" />
+                <Precinct name="CHERAW NO. 4" votes="571" />
+                <Precinct name="COURTHOUSE" votes="705" />
+                <Precinct name="DUDLEY-MANGUM" votes="280" />
+                <Precinct name="GRANTS MILL" votes="496" />
+                <Precinct name="JEFFERSON" votes="651" />
+                <Precinct name="MCBEE" votes="624" />
+                <Precinct name="MIDDENDORF" votes="214" />
+                <Precinct name="MT. GROGHAN" votes="159" />
+                <Precinct name="OUSLEYDALE" votes="248" />
+                <Precinct name="PAGELAND NO. 1" votes="641" />
+                <Precinct name="PAGELAND NO. 2" votes="582" />
+                <Precinct name="PATRICK" votes="271" />
+                <Precinct name="PEE DEE" votes="119" />
+                <Precinct name="RUBY" votes="411" />
+                <Precinct name="SHILOH" votes="284" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="193" />
+                <Precinct name="Absentee" votes="2342" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="2" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="75">
+            <VoteType name="Election Day" votes="75">
+                <Precinct name="ANGELUS-CARARRH" votes="1" />
+                <Precinct name="BAY SPRINGS" votes="2" />
+                <Precinct name="BLACK CREEK" votes="0" />
+                <Precinct name="BROCKS MILL" votes="2" />
+                <Precinct name="CASH" votes="2" />
+                <Precinct name="CENTER GROVE-WINZO" votes="0" />
+                <Precinct name="CHERAW NO. 1" votes="7" />
+                <Precinct name="CHERAW NO. 2" votes="0" />
+                <Precinct name="CHERAW NO. 3" votes="2" />
+                <Precinct name="CHERAW NO. 4" votes="1" />
+                <Precinct name="COURTHOUSE" votes="9" />
+                <Precinct name="DUDLEY-MANGUM" votes="0" />
+                <Precinct name="GRANTS MILL" votes="5" />
+                <Precinct name="JEFFERSON" votes="7" />
+                <Precinct name="MCBEE" votes="1" />
+                <Precinct name="MIDDENDORF" votes="0" />
+                <Precinct name="MT. GROGHAN" votes="1" />
+                <Precinct name="OUSLEYDALE" votes="2" />
+                <Precinct name="PAGELAND NO. 1" votes="6" />
+                <Precinct name="PAGELAND NO. 2" votes="2" />
+                <Precinct name="PATRICK" votes="1" />
+                <Precinct name="PEE DEE" votes="2" />
+                <Precinct name="RUBY" votes="1" />
+                <Precinct name="SHILOH" votes="8" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="1" />
+                <Precinct name="Absentee" votes="12" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0117" text="County Council District 1" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="DUDLEY-MANGUM" votes="0" />
+            <Precinct name="JEFFERSON" votes="0" />
+            <Precinct name="PAGELAND NO. 1" votes="0" />
+            <Precinct name="PAGELAND NO. 2" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="531">
+            <Precinct name="DUDLEY-MANGUM" votes="190" />
+            <Precinct name="JEFFERSON" votes="5" />
+            <Precinct name="PAGELAND NO. 1" votes="189" />
+            <Precinct name="PAGELAND NO. 2" votes="88" />
+            <Precinct name="Absentee" votes="59" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Eddie Rivers" party="DEM" totalVotes="1115">
+            <VoteType name="Election Day" votes="1115">
+                <Precinct name="DUDLEY-MANGUM" votes="301" />
+                <Precinct name="JEFFERSON" votes="9" />
+                <Precinct name="PAGELAND NO. 1" votes="475" />
+                <Precinct name="PAGELAND NO. 2" votes="214" />
+                <Precinct name="Absentee" votes="116" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="4">
+            <VoteType name="Election Day" votes="4">
+                <Precinct name="DUDLEY-MANGUM" votes="0" />
+                <Precinct name="JEFFERSON" votes="0" />
+                <Precinct name="PAGELAND NO. 1" votes="2" />
+                <Precinct name="PAGELAND NO. 2" votes="0" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0118" text="County Council District 5" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ANGELUS-CARARRH" votes="0" />
+            <Precinct name="MCBEE" votes="0" />
+            <Precinct name="MIDDENDORF" votes="0" />
+            <Precinct name="OUSLEYDALE" votes="0" />
+            <Precinct name="PEE DEE" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="56">
+            <Precinct name="ANGELUS-CARARRH" votes="1" />
+            <Precinct name="MCBEE" votes="29" />
+            <Precinct name="MIDDENDORF" votes="10" />
+            <Precinct name="OUSLEYDALE" votes="6" />
+            <Precinct name="PEE DEE" votes="2" />
+            <Precinct name="Absentee" votes="8" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Ben Teal" party="DEM" totalVotes="1075">
+            <VoteType name="Election Day" votes="1075">
+                <Precinct name="ANGELUS-CARARRH" votes="5" />
+                <Precinct name="MCBEE" votes="524" />
+                <Precinct name="MIDDENDORF" votes="108" />
+                <Precinct name="OUSLEYDALE" votes="264" />
+                <Precinct name="PEE DEE" votes="79" />
+                <Precinct name="Absentee" votes="95" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Johnny McKenzie" party="REP" totalVotes="877">
+            <VoteType name="Election Day" votes="877">
+                <Precinct name="ANGELUS-CARARRH" votes="11" />
+                <Precinct name="MCBEE" votes="387" />
+                <Precinct name="MIDDENDORF" votes="201" />
+                <Precinct name="OUSLEYDALE" votes="152" />
+                <Precinct name="PEE DEE" votes="62" />
+                <Precinct name="Absentee" votes="64" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="3">
+            <VoteType name="Election Day" votes="3">
+                <Precinct name="ANGELUS-CARARRH" votes="0" />
+                <Precinct name="MCBEE" votes="0" />
+                <Precinct name="MIDDENDORF" votes="1" />
+                <Precinct name="OUSLEYDALE" votes="1" />
+                <Precinct name="PEE DEE" votes="0" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0119" text="County Council District 6" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="CASH" votes="0" />
+            <Precinct name="CHERAW NO. 3" votes="0" />
+            <Precinct name="CHERAW NO. 4" votes="0" />
+            <Precinct name="COURTHOUSE" votes="0" />
+            <Precinct name="GRANTS MILL" votes="0" />
+            <Precinct name="PATRICK" votes="0" />
+            <Precinct name="SHILOH" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="355">
+            <Precinct name="CASH" votes="73" />
+            <Precinct name="CHERAW NO. 3" votes="35" />
+            <Precinct name="CHERAW NO. 4" votes="9" />
+            <Precinct name="COURTHOUSE" votes="26" />
+            <Precinct name="GRANTS MILL" votes="100" />
+            <Precinct name="PATRICK" votes="14" />
+            <Precinct name="SHILOH" votes="0" />
+            <Precinct name="Absentee" votes="98" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Hattie Burns" party="DEM" totalVotes="1478">
+            <VoteType name="Election Day" votes="1478">
+                <Precinct name="CASH" votes="359" />
+                <Precinct name="CHERAW NO. 3" votes="261" />
+                <Precinct name="CHERAW NO. 4" votes="45" />
+                <Precinct name="COURTHOUSE" votes="98" />
+                <Precinct name="GRANTS MILL" votes="285" />
+                <Precinct name="PATRICK" votes="33" />
+                <Precinct name="SHILOH" votes="0" />
+                <Precinct name="Absentee" votes="396" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="17">
+            <VoteType name="Election Day" votes="17">
+                <Precinct name="CASH" votes="5" />
+                <Precinct name="CHERAW NO. 3" votes="1" />
+                <Precinct name="CHERAW NO. 4" votes="0" />
+                <Precinct name="COURTHOUSE" votes="0" />
+                <Precinct name="GRANTS MILL" votes="5" />
+                <Precinct name="PATRICK" votes="0" />
+                <Precinct name="SHILOH" votes="0" />
+                <Precinct name="Absentee" votes="6" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0120" text="County Council District 7" voteFor="1" isQuestion="false" precinctsReporting="9" precinctsReported="9">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BROCKS MILL" votes="0" />
+            <Precinct name="CASH" votes="0" />
+            <Precinct name="CHERAW NO. 4" votes="0" />
+            <Precinct name="COURTHOUSE" votes="0" />
+            <Precinct name="GRANTS MILL" votes="0" />
+            <Precinct name="MT. GROGHAN" votes="0" />
+            <Precinct name="RUBY" votes="0" />
+            <Precinct name="SHILOH" votes="0" />
+            <Precinct name="SNOW HILL-VAUGHN" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="56">
+            <Precinct name="BROCKS MILL" votes="3" />
+            <Precinct name="CASH" votes="0" />
+            <Precinct name="CHERAW NO. 4" votes="11" />
+            <Precinct name="COURTHOUSE" votes="11" />
+            <Precinct name="GRANTS MILL" votes="3" />
+            <Precinct name="MT. GROGHAN" votes="2" />
+            <Precinct name="RUBY" votes="8" />
+            <Precinct name="SHILOH" votes="0" />
+            <Precinct name="SNOW HILL-VAUGHN" votes="1" />
+            <Precinct name="Absentee" votes="17" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Ralph Watson" party="DEM" totalVotes="1077">
+            <VoteType name="Election Day" votes="1077">
+                <Precinct name="BROCKS MILL" votes="195" />
+                <Precinct name="CASH" votes="6" />
+                <Precinct name="CHERAW NO. 4" votes="206" />
+                <Precinct name="COURTHOUSE" votes="218" />
+                <Precinct name="GRANTS MILL" votes="58" />
+                <Precinct name="MT. GROGHAN" votes="49" />
+                <Precinct name="RUBY" votes="31" />
+                <Precinct name="SHILOH" votes="1" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="9" />
+                <Precinct name="Absentee" votes="304" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Steve Chewning" party="REP" totalVotes="1055">
+            <VoteType name="Election Day" votes="1055">
+                <Precinct name="BROCKS MILL" votes="39" />
+                <Precinct name="CASH" votes="43" />
+                <Precinct name="CHERAW NO. 4" votes="214" />
+                <Precinct name="COURTHOUSE" votes="176" />
+                <Precinct name="GRANTS MILL" votes="182" />
+                <Precinct name="MT. GROGHAN" votes="46" />
+                <Precinct name="RUBY" votes="61" />
+                <Precinct name="SHILOH" votes="5" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="12" />
+                <Precinct name="Absentee" votes="277" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="3">
+            <VoteType name="Election Day" votes="3">
+                <Precinct name="BROCKS MILL" votes="0" />
+                <Precinct name="CASH" votes="0" />
+                <Precinct name="CHERAW NO. 4" votes="1" />
+                <Precinct name="COURTHOUSE" votes="1" />
+                <Precinct name="GRANTS MILL" votes="0" />
+                <Precinct name="MT. GROGHAN" votes="0" />
+                <Precinct name="RUBY" votes="0" />
+                <Precinct name="SHILOH" votes="0" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="0" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0121" text="County Council District 9" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BROCKS MILL" votes="0" />
+            <Precinct name="CASH" votes="0" />
+            <Precinct name="CHERAW NO. 1" votes="0" />
+            <Precinct name="CHERAW NO. 2" votes="0" />
+            <Precinct name="CHERAW NO. 3" votes="0" />
+            <Precinct name="CHERAW NO. 4" votes="0" />
+            <Precinct name="PEE DEE" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="209">
+            <Precinct name="BROCKS MILL" votes="22" />
+            <Precinct name="CASH" votes="15" />
+            <Precinct name="CHERAW NO. 1" votes="15" />
+            <Precinct name="CHERAW NO. 2" votes="51" />
+            <Precinct name="CHERAW NO. 3" votes="40" />
+            <Precinct name="CHERAW NO. 4" votes="20" />
+            <Precinct name="PEE DEE" votes="2" />
+            <Precinct name="Absentee" votes="41" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="3" />
+        </VoteType>
+        <Choice key="001" text="Rhett Butler" party="DEM" totalVotes="1505">
+            <VoteType name="Election Day" votes="1505">
+                <Precinct name="BROCKS MILL" votes="170" />
+                <Precinct name="CASH" votes="73" />
+                <Precinct name="CHERAW NO. 1" votes="130" />
+                <Precinct name="CHERAW NO. 2" votes="300" />
+                <Precinct name="CHERAW NO. 3" votes="349" />
+                <Precinct name="CHERAW NO. 4" votes="170" />
+                <Precinct name="PEE DEE" votes="17" />
+                <Precinct name="Absentee" votes="296" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="12">
+            <VoteType name="Election Day" votes="12">
+                <Precinct name="BROCKS MILL" votes="0" />
+                <Precinct name="CASH" votes="0" />
+                <Precinct name="CHERAW NO. 1" votes="3" />
+                <Precinct name="CHERAW NO. 2" votes="1" />
+                <Precinct name="CHERAW NO. 3" votes="2" />
+                <Precinct name="CHERAW NO. 4" votes="0" />
+                <Precinct name="PEE DEE" votes="0" />
+                <Precinct name="Absentee" votes="6" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0122" text="Soil and Water District Commission" voteFor="1" isQuestion="false" precinctsReporting="25" precinctsReported="25">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ANGELUS-CARARRH" votes="0" />
+            <Precinct name="BAY SPRINGS" votes="0" />
+            <Precinct name="BLACK CREEK" votes="0" />
+            <Precinct name="BROCKS MILL" votes="0" />
+            <Precinct name="CASH" votes="0" />
+            <Precinct name="CENTER GROVE-WINZO" votes="0" />
+            <Precinct name="CHERAW NO. 1" votes="0" />
+            <Precinct name="CHERAW NO. 2" votes="0" />
+            <Precinct name="CHERAW NO. 3" votes="0" />
+            <Precinct name="CHERAW NO. 4" votes="0" />
+            <Precinct name="COURTHOUSE" votes="0" />
+            <Precinct name="DUDLEY-MANGUM" votes="0" />
+            <Precinct name="GRANTS MILL" votes="0" />
+            <Precinct name="JEFFERSON" votes="0" />
+            <Precinct name="MCBEE" votes="0" />
+            <Precinct name="MIDDENDORF" votes="0" />
+            <Precinct name="MT. GROGHAN" votes="0" />
+            <Precinct name="OUSLEYDALE" votes="0" />
+            <Precinct name="PAGELAND NO. 1" votes="0" />
+            <Precinct name="PAGELAND NO. 2" votes="0" />
+            <Precinct name="PATRICK" votes="0" />
+            <Precinct name="PEE DEE" votes="0" />
+            <Precinct name="RUBY" votes="0" />
+            <Precinct name="SHILOH" votes="0" />
+            <Precinct name="SNOW HILL-VAUGHN" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="15150">
+            <Precinct name="ANGELUS-CARARRH" votes="289" />
+            <Precinct name="BAY SPRINGS" votes="202" />
+            <Precinct name="BLACK CREEK" votes="186" />
+            <Precinct name="BROCKS MILL" votes="714" />
+            <Precinct name="CASH" votes="524" />
+            <Precinct name="CENTER GROVE-WINZO" votes="448" />
+            <Precinct name="CHERAW NO. 1" votes="649" />
+            <Precinct name="CHERAW NO. 2" votes="462" />
+            <Precinct name="CHERAW NO. 3" votes="798" />
+            <Precinct name="CHERAW NO. 4" votes="621" />
+            <Precinct name="COURTHOUSE" votes="805" />
+            <Precinct name="DUDLEY-MANGUM" votes="432" />
+            <Precinct name="GRANTS MILL" votes="591" />
+            <Precinct name="JEFFERSON" votes="773" />
+            <Precinct name="MCBEE" votes="880" />
+            <Precinct name="MIDDENDORF" votes="382" />
+            <Precinct name="MT. GROGHAN" votes="156" />
+            <Precinct name="OUSLEYDALE" votes="406" />
+            <Precinct name="PAGELAND NO. 1" votes="762" />
+            <Precinct name="PAGELAND NO. 2" votes="720" />
+            <Precinct name="PATRICK" votes="342" />
+            <Precinct name="PEE DEE" votes="153" />
+            <Precinct name="RUBY" votes="483" />
+            <Precinct name="SHILOH" votes="312" />
+            <Precinct name="SNOW HILL-VAUGHN" votes="267" />
+            <Precinct name="Absentee" votes="2788" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="5" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Write-In" party="NON" totalVotes="1613">
+            <VoteType name="Election Day" votes="1613">
+                <Precinct name="ANGELUS-CARARRH" votes="94" />
+                <Precinct name="BAY SPRINGS" votes="15" />
+                <Precinct name="BLACK CREEK" votes="16" />
+                <Precinct name="BROCKS MILL" votes="40" />
+                <Precinct name="CASH" votes="50" />
+                <Precinct name="CENTER GROVE-WINZO" votes="58" />
+                <Precinct name="CHERAW NO. 1" votes="62" />
+                <Precinct name="CHERAW NO. 2" votes="37" />
+                <Precinct name="CHERAW NO. 3" votes="37" />
+                <Precinct name="CHERAW NO. 4" votes="55" />
+                <Precinct name="COURTHOUSE" votes="97" />
+                <Precinct name="DUDLEY-MANGUM" votes="59" />
+                <Precinct name="GRANTS MILL" votes="51" />
+                <Precinct name="JEFFERSON" votes="163" />
+                <Precinct name="MCBEE" votes="60" />
+                <Precinct name="MIDDENDORF" votes="21" />
+                <Precinct name="MT. GROGHAN" votes="54" />
+                <Precinct name="OUSLEYDALE" votes="26" />
+                <Precinct name="PAGELAND NO. 1" votes="133" />
+                <Precinct name="PAGELAND NO. 2" votes="109" />
+                <Precinct name="PATRICK" votes="19" />
+                <Precinct name="PEE DEE" votes="14" />
+                <Precinct name="RUBY" votes="67" />
+                <Precinct name="SHILOH" votes="46" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="18" />
+                <Precinct name="Absentee" votes="212" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0123" text="School Board District 4" voteFor="1" isQuestion="false" precinctsReporting="10" precinctsReported="10">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BAY SPRINGS" votes="0" />
+            <Precinct name="BLACK CREEK" votes="0" />
+            <Precinct name="COURTHOUSE" votes="0" />
+            <Precinct name="GRANTS MILL" votes="0" />
+            <Precinct name="MIDDENDORF" votes="0" />
+            <Precinct name="OUSLEYDALE" votes="0" />
+            <Precinct name="PATRICK" votes="0" />
+            <Precinct name="PEE DEE" votes="0" />
+            <Precinct name="RUBY" votes="0" />
+            <Precinct name="SHILOH" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="311">
+            <Precinct name="BAY SPRINGS" votes="39" />
+            <Precinct name="BLACK CREEK" votes="5" />
+            <Precinct name="COURTHOUSE" votes="36" />
+            <Precinct name="GRANTS MILL" votes="0" />
+            <Precinct name="MIDDENDORF" votes="28" />
+            <Precinct name="OUSLEYDALE" votes="1" />
+            <Precinct name="PATRICK" votes="53" />
+            <Precinct name="PEE DEE" votes="1" />
+            <Precinct name="RUBY" votes="39" />
+            <Precinct name="SHILOH" votes="52" />
+            <Precinct name="Absentee" votes="57" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Betty Sue Lisenby" party="NON" totalVotes="747">
+            <VoteType name="Election Day" votes="747">
+                <Precinct name="BAY SPRINGS" votes="88" />
+                <Precinct name="BLACK CREEK" votes="14" />
+                <Precinct name="COURTHOUSE" votes="124" />
+                <Precinct name="GRANTS MILL" votes="4" />
+                <Precinct name="MIDDENDORF" votes="35" />
+                <Precinct name="OUSLEYDALE" votes="1" />
+                <Precinct name="PATRICK" votes="61" />
+                <Precinct name="PEE DEE" votes="2" />
+                <Precinct name="RUBY" votes="126" />
+                <Precinct name="SHILOH" votes="143" />
+                <Precinct name="Absentee" votes="149" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Chad L Vick" party="NON" totalVotes="1065">
+            <VoteType name="Election Day" votes="1065">
+                <Precinct name="BAY SPRINGS" votes="89" />
+                <Precinct name="BLACK CREEK" votes="20" />
+                <Precinct name="COURTHOUSE" votes="209" />
+                <Precinct name="GRANTS MILL" votes="5" />
+                <Precinct name="MIDDENDORF" votes="20" />
+                <Precinct name="OUSLEYDALE" votes="7" />
+                <Precinct name="PATRICK" votes="199" />
+                <Precinct name="PEE DEE" votes="2" />
+                <Precinct name="RUBY" votes="207" />
+                <Precinct name="SHILOH" votes="154" />
+                <Precinct name="Absentee" votes="153" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="12">
+            <VoteType name="Election Day" votes="12">
+                <Precinct name="BAY SPRINGS" votes="1" />
+                <Precinct name="BLACK CREEK" votes="0" />
+                <Precinct name="COURTHOUSE" votes="3" />
+                <Precinct name="GRANTS MILL" votes="0" />
+                <Precinct name="MIDDENDORF" votes="0" />
+                <Precinct name="OUSLEYDALE" votes="0" />
+                <Precinct name="PATRICK" votes="1" />
+                <Precinct name="PEE DEE" votes="0" />
+                <Precinct name="RUBY" votes="2" />
+                <Precinct name="SHILOH" votes="3" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0124" text="School Board District 5" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ANGELUS-CARARRH" votes="0" />
+            <Precinct name="MCBEE" votes="0" />
+            <Precinct name="MIDDENDORF" votes="0" />
+            <Precinct name="OUSLEYDALE" votes="0" />
+            <Precinct name="PEE DEE" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="874">
+            <Precinct name="ANGELUS-CARARRH" votes="3" />
+            <Precinct name="MCBEE" votes="424" />
+            <Precinct name="MIDDENDORF" votes="136" />
+            <Precinct name="OUSLEYDALE" votes="173" />
+            <Precinct name="PEE DEE" votes="50" />
+            <Precinct name="Absentee" votes="88" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Jamie Wayne" party="NON" totalVotes="1126">
+            <VoteType name="Election Day" votes="1126">
+                <Precinct name="ANGELUS-CARARRH" votes="14" />
+                <Precinct name="MCBEE" votes="512" />
+                <Precinct name="MIDDENDORF" votes="183" />
+                <Precinct name="OUSLEYDALE" votes="244" />
+                <Precinct name="PEE DEE" votes="93" />
+                <Precinct name="Absentee" votes="80" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="11">
+            <VoteType name="Election Day" votes="11">
+                <Precinct name="ANGELUS-CARARRH" votes="0" />
+                <Precinct name="MCBEE" votes="4" />
+                <Precinct name="MIDDENDORF" votes="1" />
+                <Precinct name="OUSLEYDALE" votes="6" />
+                <Precinct name="PEE DEE" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0125" text="School Board District 6" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="CASH" votes="0" />
+            <Precinct name="CHERAW NO. 3" votes="0" />
+            <Precinct name="CHERAW NO. 4" votes="0" />
+            <Precinct name="COURTHOUSE" votes="0" />
+            <Precinct name="GRANTS MILL" votes="0" />
+            <Precinct name="PATRICK" votes="0" />
+            <Precinct name="SHILOH" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="608">
+            <Precinct name="CASH" votes="110" />
+            <Precinct name="CHERAW NO. 3" votes="112" />
+            <Precinct name="CHERAW NO. 4" votes="24" />
+            <Precinct name="COURTHOUSE" votes="58" />
+            <Precinct name="GRANTS MILL" votes="130" />
+            <Precinct name="PATRICK" votes="21" />
+            <Precinct name="SHILOH" votes="0" />
+            <Precinct name="Absentee" votes="153" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="James N Sweeney" party="NON" totalVotes="1196">
+            <VoteType name="Election Day" votes="1196">
+                <Precinct name="CASH" votes="323" />
+                <Precinct name="CHERAW NO. 3" votes="183" />
+                <Precinct name="CHERAW NO. 4" votes="30" />
+                <Precinct name="COURTHOUSE" votes="52" />
+                <Precinct name="GRANTS MILL" votes="248" />
+                <Precinct name="PATRICK" votes="24" />
+                <Precinct name="SHILOH" votes="0" />
+                <Precinct name="Absentee" votes="335" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="46">
+            <VoteType name="Election Day" votes="46">
+                <Precinct name="CASH" votes="4" />
+                <Precinct name="CHERAW NO. 3" votes="2" />
+                <Precinct name="CHERAW NO. 4" votes="0" />
+                <Precinct name="COURTHOUSE" votes="14" />
+                <Precinct name="GRANTS MILL" votes="12" />
+                <Precinct name="PATRICK" votes="2" />
+                <Precinct name="SHILOH" votes="0" />
+                <Precinct name="Absentee" votes="12" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0126" text="School Board District 7" voteFor="1" isQuestion="false" precinctsReporting="9" precinctsReported="9">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BROCKS MILL" votes="0" />
+            <Precinct name="CASH" votes="0" />
+            <Precinct name="CHERAW NO. 4" votes="0" />
+            <Precinct name="COURTHOUSE" votes="0" />
+            <Precinct name="GRANTS MILL" votes="0" />
+            <Precinct name="MT. GROGHAN" votes="0" />
+            <Precinct name="RUBY" votes="0" />
+            <Precinct name="SHILOH" votes="0" />
+            <Precinct name="SNOW HILL-VAUGHN" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="474">
+            <Precinct name="BROCKS MILL" votes="92" />
+            <Precinct name="CASH" votes="10" />
+            <Precinct name="CHERAW NO. 4" votes="67" />
+            <Precinct name="COURTHOUSE" votes="80" />
+            <Precinct name="GRANTS MILL" votes="22" />
+            <Precinct name="MT. GROGHAN" votes="25" />
+            <Precinct name="RUBY" votes="34" />
+            <Precinct name="SHILOH" votes="0" />
+            <Precinct name="SNOW HILL-VAUGHN" votes="4" />
+            <Precinct name="Absentee" votes="140" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Robert Teal" party="NON" totalVotes="1097">
+            <VoteType name="Election Day" votes="1097">
+                <Precinct name="BROCKS MILL" votes="103" />
+                <Precinct name="CASH" votes="23" />
+                <Precinct name="CHERAW NO. 4" votes="267" />
+                <Precinct name="COURTHOUSE" votes="188" />
+                <Precinct name="GRANTS MILL" votes="161" />
+                <Precinct name="MT. GROGHAN" votes="30" />
+                <Precinct name="RUBY" votes="35" />
+                <Precinct name="SHILOH" votes="3" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="9" />
+                <Precinct name="Absentee" votes="278" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="William B Watson" party="NON" totalVotes="603">
+            <VoteType name="Election Day" votes="603">
+                <Precinct name="BROCKS MILL" votes="42" />
+                <Precinct name="CASH" votes="15" />
+                <Precinct name="CHERAW NO. 4" votes="97" />
+                <Precinct name="COURTHOUSE" votes="132" />
+                <Precinct name="GRANTS MILL" votes="59" />
+                <Precinct name="MT. GROGHAN" votes="40" />
+                <Precinct name="RUBY" votes="31" />
+                <Precinct name="SHILOH" votes="3" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="9" />
+                <Precinct name="Absentee" votes="175" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="17">
+            <VoteType name="Election Day" votes="17">
+                <Precinct name="BROCKS MILL" votes="0" />
+                <Precinct name="CASH" votes="1" />
+                <Precinct name="CHERAW NO. 4" votes="1" />
+                <Precinct name="COURTHOUSE" votes="6" />
+                <Precinct name="GRANTS MILL" votes="1" />
+                <Precinct name="MT. GROGHAN" votes="2" />
+                <Precinct name="RUBY" votes="0" />
+                <Precinct name="SHILOH" votes="0" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="0" />
+                <Precinct name="Absentee" votes="6" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0127" text="School Board District 8" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BROCKS MILL" votes="0" />
+            <Precinct name="CHERAW NO. 1" votes="0" />
+            <Precinct name="CHERAW NO. 2" votes="0" />
+            <Precinct name="CHERAW NO. 3" votes="0" />
+            <Precinct name="MT. GROGHAN" votes="0" />
+            <Precinct name="RUBY" votes="0" />
+            <Precinct name="SNOW HILL-VAUGHN" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="802">
+            <Precinct name="BROCKS MILL" votes="148" />
+            <Precinct name="CHERAW NO. 1" votes="193" />
+            <Precinct name="CHERAW NO. 2" votes="50" />
+            <Precinct name="CHERAW NO. 3" votes="57" />
+            <Precinct name="MT. GROGHAN" votes="31" />
+            <Precinct name="RUBY" votes="12" />
+            <Precinct name="SNOW HILL-VAUGHN" votes="121" />
+            <Precinct name="Absentee" votes="190" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Eric G Dusa" party="NON" totalVotes="1185">
+            <VoteType name="Election Day" votes="1185">
+                <Precinct name="BROCKS MILL" votes="169" />
+                <Precinct name="CHERAW NO. 1" votes="361" />
+                <Precinct name="CHERAW NO. 2" votes="96" />
+                <Precinct name="CHERAW NO. 3" votes="87" />
+                <Precinct name="MT. GROGHAN" votes="61" />
+                <Precinct name="RUBY" votes="18" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="137" />
+                <Precinct name="Absentee" votes="255" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="38">
+            <VoteType name="Election Day" votes="38">
+                <Precinct name="BROCKS MILL" votes="8" />
+                <Precinct name="CHERAW NO. 1" votes="9" />
+                <Precinct name="CHERAW NO. 2" votes="1" />
+                <Precinct name="CHERAW NO. 3" votes="3" />
+                <Precinct name="MT. GROGHAN" votes="0" />
+                <Precinct name="RUBY" votes="4" />
+                <Precinct name="SNOW HILL-VAUGHN" votes="5" />
+                <Precinct name="Absentee" votes="8" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0128" text="Hill's Creek Watershed" voteFor="3" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="DUDLEY-MANGUM" votes="0" />
+            <Precinct name="PAGELAND NO. 1" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1225">
+            <Precinct name="DUDLEY-MANGUM" votes="662" />
+            <Precinct name="PAGELAND NO. 1" votes="469" />
+            <Precinct name="Absentee" votes="94" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Write-In" party="NON" totalVotes="23">
+            <VoteType name="Election Day" votes="23">
+                <Precinct name="DUDLEY-MANGUM" votes="13" />
+                <Precinct name="PAGELAND NO. 1" votes="8" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

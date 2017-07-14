@@ -1,0 +1,2383 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>11/16/2016 2:50:51 PM EST</Timestamp>
+    <ElectionName>2016 Statewide General Election</ElectionName>
+    <ElectionDate>11/8/2016</ElectionDate>
+    <Region>Hampton</Region>
+    <VoterTurnout totalVoters="12991" ballotsCast="8885" voterTurnout="68.39">
+        <Precincts>
+            <Precinct name="Brunson" totalVoters="716" ballotsCast="353" voterTurnout="49.30" percentReporting="4" />
+            <Precinct name="Hampton Courthouse No.1" totalVoters="1115" ballotsCast="474" voterTurnout="42.51" percentReporting="4" />
+            <Precinct name="Hampton Courthouse No.2" totalVoters="1401" ballotsCast="662" voterTurnout="47.25" percentReporting="4" />
+            <Precinct name="Varnville" totalVoters="2059" ballotsCast="910" voterTurnout="44.20" percentReporting="4" />
+            <Precinct name="Early Branch" totalVoters="463" ballotsCast="185" voterTurnout="39.96" percentReporting="4" />
+            <Precinct name="Garnett" totalVoters="160" ballotsCast="92" voterTurnout="57.50" percentReporting="4" />
+            <Precinct name="Estill" totalVoters="2512" ballotsCast="964" voterTurnout="38.38" percentReporting="4" />
+            <Precinct name="Bonnett" totalVoters="736" ballotsCast="468" voterTurnout="63.59" percentReporting="4" />
+            <Precinct name="Furman" totalVoters="394" ballotsCast="223" voterTurnout="56.60" percentReporting="4" />
+            <Precinct name="Scotia" totalVoters="404" ballotsCast="202" voterTurnout="50.00" percentReporting="4" />
+            <Precinct name="Yemassee" totalVoters="1249" ballotsCast="567" voterTurnout="45.40" percentReporting="4" />
+            <Precinct name="Horse Gall" totalVoters="80" ballotsCast="63" voterTurnout="78.75" percentReporting="4" />
+            <Precinct name="Rivers Mill" totalVoters="65" ballotsCast="44" voterTurnout="67.69" percentReporting="4" />
+            <Precinct name="Hopewell" totalVoters="318" ballotsCast="176" voterTurnout="55.35" percentReporting="4" />
+            <Precinct name="Crocket-Miley" totalVoters="556" ballotsCast="274" voterTurnout="49.28" percentReporting="4" />
+            <Precinct name="Cummings" totalVoters="809" ballotsCast="427" voterTurnout="52.78" percentReporting="4" />
+            <Precinct name="Black Creek" totalVoters="244" ballotsCast="137" voterTurnout="56.15" percentReporting="4" />
+            <Precinct name="Gifford" totalVoters="345" ballotsCast="204" voterTurnout="59.13" percentReporting="4" />
+            <Precinct name="Absentee" totalVoters="0" ballotsCast="2430" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Failsafe" totalVoters="0" ballotsCast="18" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Provisional" totalVoters="0" ballotsCast="9" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Failsafe Provisional" totalVoters="0" ballotsCast="3" voterTurnout="0.00" percentReporting="32" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="0103" text="STRAIGHT PARTY" voteFor="1" isQuestion="false" precinctsReporting="18" precinctsReported="18">
+        <VoteType name="overVotes" votes="1">
+            <Precinct name="Brunson" votes="0" />
+            <Precinct name="Hampton Courthouse No.1" votes="0" />
+            <Precinct name="Hampton Courthouse No.2" votes="0" />
+            <Precinct name="Varnville" votes="0" />
+            <Precinct name="Early Branch" votes="0" />
+            <Precinct name="Garnett" votes="0" />
+            <Precinct name="Estill" votes="0" />
+            <Precinct name="Bonnett" votes="0" />
+            <Precinct name="Furman" votes="0" />
+            <Precinct name="Scotia" votes="0" />
+            <Precinct name="Yemassee" votes="0" />
+            <Precinct name="Horse Gall" votes="0" />
+            <Precinct name="Rivers Mill" votes="0" />
+            <Precinct name="Hopewell" votes="0" />
+            <Precinct name="Crocket-Miley" votes="0" />
+            <Precinct name="Cummings" votes="0" />
+            <Precinct name="Black Creek" votes="0" />
+            <Precinct name="Gifford" votes="0" />
+            <Precinct name="Absentee" votes="1" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="4180">
+            <Precinct name="Brunson" votes="201" />
+            <Precinct name="Hampton Courthouse No.1" votes="236" />
+            <Precinct name="Hampton Courthouse No.2" votes="398" />
+            <Precinct name="Varnville" votes="441" />
+            <Precinct name="Early Branch" votes="84" />
+            <Precinct name="Garnett" votes="17" />
+            <Precinct name="Estill" votes="349" />
+            <Precinct name="Bonnett" votes="260" />
+            <Precinct name="Furman" votes="75" />
+            <Precinct name="Scotia" votes="52" />
+            <Precinct name="Yemassee" votes="222" />
+            <Precinct name="Horse Gall" votes="53" />
+            <Precinct name="Rivers Mill" votes="24" />
+            <Precinct name="Hopewell" votes="121" />
+            <Precinct name="Crocket-Miley" votes="138" />
+            <Precinct name="Cummings" votes="192" />
+            <Precinct name="Black Creek" votes="88" />
+            <Precinct name="Gifford" votes="18" />
+            <Precinct name="Absentee" votes="1201" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="4" />
+            <Precinct name="Provisional" votes="6" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Democratic" party="DEM" totalVotes="3543">
+            <VoteType name="Election Day" votes="3543">
+                <Precinct name="Brunson" votes="93" />
+                <Precinct name="Hampton Courthouse No.1" votes="141" />
+                <Precinct name="Hampton Courthouse No.2" votes="172" />
+                <Precinct name="Varnville" votes="355" />
+                <Precinct name="Early Branch" votes="66" />
+                <Precinct name="Garnett" votes="70" />
+                <Precinct name="Estill" votes="524" />
+                <Precinct name="Bonnett" votes="80" />
+                <Precinct name="Furman" votes="124" />
+                <Precinct name="Scotia" votes="138" />
+                <Precinct name="Yemassee" votes="243" />
+                <Precinct name="Horse Gall" votes="1" />
+                <Precinct name="Rivers Mill" votes="16" />
+                <Precinct name="Hopewell" votes="13" />
+                <Precinct name="Crocket-Miley" votes="75" />
+                <Precinct name="Cummings" votes="155" />
+                <Precinct name="Black Creek" votes="21" />
+                <Precinct name="Gifford" votes="172" />
+                <Precinct name="Absentee" votes="1071" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="8" />
+                <Precinct name="Provisional" votes="3" />
+                <Precinct name="Failsafe Provisional" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Working Families" party="WFM" totalVotes="74">
+            <VoteType name="Election Day" votes="74">
+                <Precinct name="Brunson" votes="5" />
+                <Precinct name="Hampton Courthouse No.1" votes="6" />
+                <Precinct name="Hampton Courthouse No.2" votes="3" />
+                <Precinct name="Varnville" votes="5" />
+                <Precinct name="Early Branch" votes="1" />
+                <Precinct name="Garnett" votes="0" />
+                <Precinct name="Estill" votes="12" />
+                <Precinct name="Bonnett" votes="10" />
+                <Precinct name="Furman" votes="0" />
+                <Precinct name="Scotia" votes="3" />
+                <Precinct name="Yemassee" votes="4" />
+                <Precinct name="Horse Gall" votes="0" />
+                <Precinct name="Rivers Mill" votes="1" />
+                <Precinct name="Hopewell" votes="1" />
+                <Precinct name="Crocket-Miley" votes="6" />
+                <Precinct name="Cummings" votes="5" />
+                <Precinct name="Black Creek" votes="1" />
+                <Precinct name="Gifford" votes="0" />
+                <Precinct name="Absentee" votes="10" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Constitution" party="CON" totalVotes="7">
+            <VoteType name="Election Day" votes="7">
+                <Precinct name="Brunson" votes="0" />
+                <Precinct name="Hampton Courthouse No.1" votes="1" />
+                <Precinct name="Hampton Courthouse No.2" votes="1" />
+                <Precinct name="Varnville" votes="1" />
+                <Precinct name="Early Branch" votes="0" />
+                <Precinct name="Garnett" votes="0" />
+                <Precinct name="Estill" votes="1" />
+                <Precinct name="Bonnett" votes="0" />
+                <Precinct name="Furman" votes="0" />
+                <Precinct name="Scotia" votes="0" />
+                <Precinct name="Yemassee" votes="0" />
+                <Precinct name="Horse Gall" votes="0" />
+                <Precinct name="Rivers Mill" votes="0" />
+                <Precinct name="Hopewell" votes="0" />
+                <Precinct name="Crocket-Miley" votes="2" />
+                <Precinct name="Cummings" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="Gifford" votes="0" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Independence" party="IND" totalVotes="57">
+            <VoteType name="Election Day" votes="57">
+                <Precinct name="Brunson" votes="5" />
+                <Precinct name="Hampton Courthouse No.1" votes="2" />
+                <Precinct name="Hampton Courthouse No.2" votes="3" />
+                <Precinct name="Varnville" votes="2" />
+                <Precinct name="Early Branch" votes="2" />
+                <Precinct name="Garnett" votes="0" />
+                <Precinct name="Estill" votes="5" />
+                <Precinct name="Bonnett" votes="9" />
+                <Precinct name="Furman" votes="1" />
+                <Precinct name="Scotia" votes="3" />
+                <Precinct name="Yemassee" votes="5" />
+                <Precinct name="Horse Gall" votes="0" />
+                <Precinct name="Rivers Mill" votes="1" />
+                <Precinct name="Hopewell" votes="3" />
+                <Precinct name="Crocket-Miley" votes="4" />
+                <Precinct name="Cummings" votes="4" />
+                <Precinct name="Black Creek" votes="2" />
+                <Precinct name="Gifford" votes="0" />
+                <Precinct name="Absentee" votes="6" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Green" party="GRN" totalVotes="17">
+            <VoteType name="Election Day" votes="17">
+                <Precinct name="Brunson" votes="0" />
+                <Precinct name="Hampton Courthouse No.1" votes="1" />
+                <Precinct name="Hampton Courthouse No.2" votes="1" />
+                <Precinct name="Varnville" votes="1" />
+                <Precinct name="Early Branch" votes="2" />
+                <Precinct name="Garnett" votes="0" />
+                <Precinct name="Estill" votes="1" />
+                <Precinct name="Bonnett" votes="0" />
+                <Precinct name="Furman" votes="1" />
+                <Precinct name="Scotia" votes="0" />
+                <Precinct name="Yemassee" votes="6" />
+                <Precinct name="Horse Gall" votes="0" />
+                <Precinct name="Rivers Mill" votes="0" />
+                <Precinct name="Hopewell" votes="2" />
+                <Precinct name="Crocket-Miley" votes="1" />
+                <Precinct name="Cummings" votes="0" />
+                <Precinct name="Black Creek" votes="1" />
+                <Precinct name="Gifford" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Republican" party="REP" totalVotes="963">
+            <VoteType name="Election Day" votes="963">
+                <Precinct name="Brunson" votes="48" />
+                <Precinct name="Hampton Courthouse No.1" votes="80" />
+                <Precinct name="Hampton Courthouse No.2" votes="81" />
+                <Precinct name="Varnville" votes="101" />
+                <Precinct name="Early Branch" votes="30" />
+                <Precinct name="Garnett" votes="5" />
+                <Precinct name="Estill" votes="63" />
+                <Precinct name="Bonnett" votes="106" />
+                <Precinct name="Furman" votes="22" />
+                <Precinct name="Scotia" votes="3" />
+                <Precinct name="Yemassee" votes="83" />
+                <Precinct name="Horse Gall" votes="8" />
+                <Precinct name="Rivers Mill" votes="2" />
+                <Precinct name="Hopewell" votes="36" />
+                <Precinct name="Crocket-Miley" votes="46" />
+                <Precinct name="Cummings" votes="71" />
+                <Precinct name="Black Creek" votes="24" />
+                <Precinct name="Gifford" votes="13" />
+                <Precinct name="Absentee" votes="135" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="6" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="American" party="AMR" totalVotes="28">
+            <VoteType name="Election Day" votes="28">
+                <Precinct name="Brunson" votes="1" />
+                <Precinct name="Hampton Courthouse No.1" votes="6" />
+                <Precinct name="Hampton Courthouse No.2" votes="0" />
+                <Precinct name="Varnville" votes="2" />
+                <Precinct name="Early Branch" votes="0" />
+                <Precinct name="Garnett" votes="0" />
+                <Precinct name="Estill" votes="6" />
+                <Precinct name="Bonnett" votes="2" />
+                <Precinct name="Furman" votes="0" />
+                <Precinct name="Scotia" votes="1" />
+                <Precinct name="Yemassee" votes="4" />
+                <Precinct name="Horse Gall" votes="1" />
+                <Precinct name="Rivers Mill" votes="0" />
+                <Precinct name="Hopewell" votes="0" />
+                <Precinct name="Crocket-Miley" votes="1" />
+                <Precinct name="Cummings" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="Gifford" votes="1" />
+                <Precinct name="Absentee" votes="3" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="008" text="Libertarian" party="LIB" totalVotes="15">
+            <VoteType name="Election Day" votes="15">
+                <Precinct name="Brunson" votes="0" />
+                <Precinct name="Hampton Courthouse No.1" votes="1" />
+                <Precinct name="Hampton Courthouse No.2" votes="3" />
+                <Precinct name="Varnville" votes="2" />
+                <Precinct name="Early Branch" votes="0" />
+                <Precinct name="Garnett" votes="0" />
+                <Precinct name="Estill" votes="3" />
+                <Precinct name="Bonnett" votes="1" />
+                <Precinct name="Furman" votes="0" />
+                <Precinct name="Scotia" votes="2" />
+                <Precinct name="Yemassee" votes="0" />
+                <Precinct name="Horse Gall" votes="0" />
+                <Precinct name="Rivers Mill" votes="0" />
+                <Precinct name="Hopewell" votes="0" />
+                <Precinct name="Crocket-Miley" votes="1" />
+                <Precinct name="Cummings" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="Gifford" votes="0" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0104" text="President and Vice President" voteFor="1" isQuestion="false" precinctsReporting="18" precinctsReported="18">
+        <VoteType name="overVotes" votes="1">
+            <Precinct name="Brunson" votes="0" />
+            <Precinct name="Hampton Courthouse No.1" votes="0" />
+            <Precinct name="Hampton Courthouse No.2" votes="0" />
+            <Precinct name="Varnville" votes="0" />
+            <Precinct name="Early Branch" votes="0" />
+            <Precinct name="Garnett" votes="0" />
+            <Precinct name="Estill" votes="0" />
+            <Precinct name="Bonnett" votes="0" />
+            <Precinct name="Furman" votes="0" />
+            <Precinct name="Scotia" votes="0" />
+            <Precinct name="Yemassee" votes="0" />
+            <Precinct name="Horse Gall" votes="0" />
+            <Precinct name="Rivers Mill" votes="0" />
+            <Precinct name="Hopewell" votes="0" />
+            <Precinct name="Crocket-Miley" votes="0" />
+            <Precinct name="Cummings" votes="0" />
+            <Precinct name="Black Creek" votes="0" />
+            <Precinct name="Gifford" votes="0" />
+            <Precinct name="Absentee" votes="1" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="78">
+            <Precinct name="Brunson" votes="4" />
+            <Precinct name="Hampton Courthouse No.1" votes="6" />
+            <Precinct name="Hampton Courthouse No.2" votes="4" />
+            <Precinct name="Varnville" votes="9" />
+            <Precinct name="Early Branch" votes="1" />
+            <Precinct name="Garnett" votes="1" />
+            <Precinct name="Estill" votes="9" />
+            <Precinct name="Bonnett" votes="1" />
+            <Precinct name="Furman" votes="2" />
+            <Precinct name="Scotia" votes="2" />
+            <Precinct name="Yemassee" votes="6" />
+            <Precinct name="Horse Gall" votes="0" />
+            <Precinct name="Rivers Mill" votes="0" />
+            <Precinct name="Hopewell" votes="3" />
+            <Precinct name="Crocket-Miley" votes="5" />
+            <Precinct name="Cummings" votes="1" />
+            <Precinct name="Black Creek" votes="2" />
+            <Precinct name="Gifford" votes="1" />
+            <Precinct name="Absentee" votes="21" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Hillary Rodham Clinton / Timothy Michael Kaine" party="DEM" totalVotes="5170">
+            <VoteType name="Election Day" votes="5170">
+                <Precinct name="Brunson" votes="133" />
+                <Precinct name="Hampton Courthouse No.1" votes="209" />
+                <Precinct name="Hampton Courthouse No.2" votes="287" />
+                <Precinct name="Varnville" votes="526" />
+                <Precinct name="Early Branch" votes="90" />
+                <Precinct name="Garnett" votes="79" />
+                <Precinct name="Estill" votes="718" />
+                <Precinct name="Bonnett" votes="125" />
+                <Precinct name="Furman" votes="141" />
+                <Precinct name="Scotia" votes="175" />
+                <Precinct name="Yemassee" votes="338" />
+                <Precinct name="Horse Gall" votes="2" />
+                <Precinct name="Rivers Mill" votes="23" />
+                <Precinct name="Hopewell" votes="28" />
+                <Precinct name="Crocket-Miley" votes="98" />
+                <Precinct name="Cummings" votes="214" />
+                <Precinct name="Black Creek" votes="32" />
+                <Precinct name="Gifford" votes="186" />
+                <Precinct name="Absentee" votes="1748" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="11" />
+                <Precinct name="Provisional" votes="4" />
+                <Precinct name="Failsafe Provisional" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Darrell Castle / Scott Bradley" party="CON" totalVotes="14">
+            <VoteType name="Election Day" votes="14">
+                <Precinct name="Brunson" votes="1" />
+                <Precinct name="Hampton Courthouse No.1" votes="1" />
+                <Precinct name="Hampton Courthouse No.2" votes="1" />
+                <Precinct name="Varnville" votes="2" />
+                <Precinct name="Early Branch" votes="0" />
+                <Precinct name="Garnett" votes="0" />
+                <Precinct name="Estill" votes="2" />
+                <Precinct name="Bonnett" votes="1" />
+                <Precinct name="Furman" votes="0" />
+                <Precinct name="Scotia" votes="0" />
+                <Precinct name="Yemassee" votes="1" />
+                <Precinct name="Horse Gall" votes="0" />
+                <Precinct name="Rivers Mill" votes="0" />
+                <Precinct name="Hopewell" votes="0" />
+                <Precinct name="Crocket-Miley" votes="0" />
+                <Precinct name="Cummings" votes="2" />
+                <Precinct name="Black Creek" votes="1" />
+                <Precinct name="Gifford" votes="0" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Evan McMullin / Nathan Johnson" party="IND" totalVotes="32">
+            <VoteType name="Election Day" votes="32">
+                <Precinct name="Brunson" votes="3" />
+                <Precinct name="Hampton Courthouse No.1" votes="3" />
+                <Precinct name="Hampton Courthouse No.2" votes="3" />
+                <Precinct name="Varnville" votes="3" />
+                <Precinct name="Early Branch" votes="0" />
+                <Precinct name="Garnett" votes="0" />
+                <Precinct name="Estill" votes="6" />
+                <Precinct name="Bonnett" votes="3" />
+                <Precinct name="Furman" votes="0" />
+                <Precinct name="Scotia" votes="1" />
+                <Precinct name="Yemassee" votes="3" />
+                <Precinct name="Horse Gall" votes="0" />
+                <Precinct name="Rivers Mill" votes="2" />
+                <Precinct name="Hopewell" votes="0" />
+                <Precinct name="Crocket-Miley" votes="1" />
+                <Precinct name="Cummings" votes="3" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="Gifford" votes="0" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Jill Stein / Ajamu Baraka" party="GRN" totalVotes="19">
+            <VoteType name="Election Day" votes="19">
+                <Precinct name="Brunson" votes="2" />
+                <Precinct name="Hampton Courthouse No.1" votes="4" />
+                <Precinct name="Hampton Courthouse No.2" votes="0" />
+                <Precinct name="Varnville" votes="3" />
+                <Precinct name="Early Branch" votes="0" />
+                <Precinct name="Garnett" votes="0" />
+                <Precinct name="Estill" votes="6" />
+                <Precinct name="Bonnett" votes="0" />
+                <Precinct name="Furman" votes="0" />
+                <Precinct name="Scotia" votes="0" />
+                <Precinct name="Yemassee" votes="3" />
+                <Precinct name="Horse Gall" votes="0" />
+                <Precinct name="Rivers Mill" votes="0" />
+                <Precinct name="Hopewell" votes="1" />
+                <Precinct name="Crocket-Miley" votes="0" />
+                <Precinct name="Cummings" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="Gifford" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Donald J Trump / Michael R Pence" party="REP" totalVotes="3488">
+            <VoteType name="Election Day" votes="3488">
+                <Precinct name="Brunson" votes="206" />
+                <Precinct name="Hampton Courthouse No.1" votes="247" />
+                <Precinct name="Hampton Courthouse No.2" votes="358" />
+                <Precinct name="Varnville" votes="356" />
+                <Precinct name="Early Branch" votes="94" />
+                <Precinct name="Garnett" votes="12" />
+                <Precinct name="Estill" votes="212" />
+                <Precinct name="Bonnett" votes="335" />
+                <Precinct name="Furman" votes="76" />
+                <Precinct name="Scotia" votes="22" />
+                <Precinct name="Yemassee" votes="208" />
+                <Precinct name="Horse Gall" votes="59" />
+                <Precinct name="Rivers Mill" votes="18" />
+                <Precinct name="Hopewell" votes="142" />
+                <Precinct name="Crocket-Miley" votes="168" />
+                <Precinct name="Cummings" votes="206" />
+                <Precinct name="Black Creek" votes="101" />
+                <Precinct name="Gifford" votes="16" />
+                <Precinct name="Absentee" votes="640" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="7" />
+                <Precinct name="Provisional" votes="5" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Peter Skewes / Michael Lacy" party="AMR" totalVotes="14">
+            <VoteType name="Election Day" votes="14">
+                <Precinct name="Brunson" votes="0" />
+                <Precinct name="Hampton Courthouse No.1" votes="0" />
+                <Precinct name="Hampton Courthouse No.2" votes="0" />
+                <Precinct name="Varnville" votes="2" />
+                <Precinct name="Early Branch" votes="0" />
+                <Precinct name="Garnett" votes="0" />
+                <Precinct name="Estill" votes="3" />
+                <Precinct name="Bonnett" votes="2" />
+                <Precinct name="Furman" votes="1" />
+                <Precinct name="Scotia" votes="0" />
+                <Precinct name="Yemassee" votes="3" />
+                <Precinct name="Horse Gall" votes="0" />
+                <Precinct name="Rivers Mill" votes="0" />
+                <Precinct name="Hopewell" votes="0" />
+                <Precinct name="Crocket-Miley" votes="0" />
+                <Precinct name="Cummings" votes="0" />
+                <Precinct name="Black Creek" votes="1" />
+                <Precinct name="Gifford" votes="1" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="Gary Johnson / Bill Weld" party="LIB" totalVotes="69">
+            <VoteType name="Election Day" votes="69">
+                <Precinct name="Brunson" votes="4" />
+                <Precinct name="Hampton Courthouse No.1" votes="4" />
+                <Precinct name="Hampton Courthouse No.2" votes="9" />
+                <Precinct name="Varnville" votes="9" />
+                <Precinct name="Early Branch" votes="0" />
+                <Precinct name="Garnett" votes="0" />
+                <Precinct name="Estill" votes="8" />
+                <Precinct name="Bonnett" votes="1" />
+                <Precinct name="Furman" votes="3" />
+                <Precinct name="Scotia" votes="2" />
+                <Precinct name="Yemassee" votes="5" />
+                <Precinct name="Horse Gall" votes="2" />
+                <Precinct name="Rivers Mill" votes="1" />
+                <Precinct name="Hopewell" votes="2" />
+                <Precinct name="Crocket-Miley" votes="2" />
+                <Precinct name="Cummings" votes="1" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="Gifford" votes="0" />
+                <Precinct name="Absentee" votes="16" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0105" text="U.S. Senate" voteFor="1" isQuestion="false" precinctsReporting="18" precinctsReported="18">
+        <VoteType name="overVotes" votes="3">
+            <Precinct name="Brunson" votes="0" />
+            <Precinct name="Hampton Courthouse No.1" votes="0" />
+            <Precinct name="Hampton Courthouse No.2" votes="0" />
+            <Precinct name="Varnville" votes="0" />
+            <Precinct name="Early Branch" votes="0" />
+            <Precinct name="Garnett" votes="0" />
+            <Precinct name="Estill" votes="0" />
+            <Precinct name="Bonnett" votes="0" />
+            <Precinct name="Furman" votes="0" />
+            <Precinct name="Scotia" votes="0" />
+            <Precinct name="Yemassee" votes="0" />
+            <Precinct name="Horse Gall" votes="0" />
+            <Precinct name="Rivers Mill" votes="0" />
+            <Precinct name="Hopewell" votes="0" />
+            <Precinct name="Crocket-Miley" votes="0" />
+            <Precinct name="Cummings" votes="0" />
+            <Precinct name="Black Creek" votes="0" />
+            <Precinct name="Gifford" votes="0" />
+            <Precinct name="Absentee" votes="2" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="1" />
+        </VoteType>
+        <VoteType name="underVotes" votes="583">
+            <Precinct name="Brunson" votes="17" />
+            <Precinct name="Hampton Courthouse No.1" votes="27" />
+            <Precinct name="Hampton Courthouse No.2" votes="40" />
+            <Precinct name="Varnville" votes="66" />
+            <Precinct name="Early Branch" votes="7" />
+            <Precinct name="Garnett" votes="3" />
+            <Precinct name="Estill" votes="53" />
+            <Precinct name="Bonnett" votes="37" />
+            <Precinct name="Furman" votes="5" />
+            <Precinct name="Scotia" votes="12" />
+            <Precinct name="Yemassee" votes="28" />
+            <Precinct name="Horse Gall" votes="3" />
+            <Precinct name="Rivers Mill" votes="3" />
+            <Precinct name="Hopewell" votes="16" />
+            <Precinct name="Crocket-Miley" votes="14" />
+            <Precinct name="Cummings" votes="21" />
+            <Precinct name="Black Creek" votes="10" />
+            <Precinct name="Gifford" votes="2" />
+            <Precinct name="Absentee" votes="219" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Thomas Dixon" party="DEM" totalVotes="4518">
+            <VoteType name="Election Day" votes="4518">
+                <Precinct name="Brunson" votes="117" />
+                <Precinct name="Hampton Courthouse No.1" votes="194" />
+                <Precinct name="Hampton Courthouse No.2" votes="236" />
+                <Precinct name="Varnville" votes="454" />
+                <Precinct name="Early Branch" votes="81" />
+                <Precinct name="Garnett" votes="76" />
+                <Precinct name="Estill" votes="640" />
+                <Precinct name="Bonnett" votes="107" />
+                <Precinct name="Furman" votes="134" />
+                <Precinct name="Scotia" votes="158" />
+                <Precinct name="Yemassee" votes="303" />
+                <Precinct name="Horse Gall" votes="2" />
+                <Precinct name="Rivers Mill" votes="19" />
+                <Precinct name="Hopewell" votes="21" />
+                <Precinct name="Crocket-Miley" votes="88" />
+                <Precinct name="Cummings" votes="186" />
+                <Precinct name="Black Creek" votes="28" />
+                <Precinct name="Gifford" votes="182" />
+                <Precinct name="Absentee" votes="1477" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="10" />
+                <Precinct name="Provisional" votes="4" />
+                <Precinct name="Failsafe Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Thomas Dixon" party="WFM" totalVotes="256">
+            <VoteType name="Election Day" votes="256">
+                <Precinct name="Brunson" votes="17" />
+                <Precinct name="Hampton Courthouse No.1" votes="15" />
+                <Precinct name="Hampton Courthouse No.2" votes="14" />
+                <Precinct name="Varnville" votes="27" />
+                <Precinct name="Early Branch" votes="6" />
+                <Precinct name="Garnett" votes="2" />
+                <Precinct name="Estill" votes="31" />
+                <Precinct name="Bonnett" votes="24" />
+                <Precinct name="Furman" votes="7" />
+                <Precinct name="Scotia" votes="4" />
+                <Precinct name="Yemassee" votes="18" />
+                <Precinct name="Horse Gall" votes="3" />
+                <Precinct name="Rivers Mill" votes="4" />
+                <Precinct name="Hopewell" votes="8" />
+                <Precinct name="Crocket-Miley" votes="11" />
+                <Precinct name="Cummings" votes="10" />
+                <Precinct name="Black Creek" votes="5" />
+                <Precinct name="Gifford" votes="0" />
+                <Precinct name="Absentee" votes="49" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Bill Bledsoe" party="CON" totalVotes="60">
+            <VoteType name="Election Day" votes="60">
+                <Precinct name="Brunson" votes="5" />
+                <Precinct name="Hampton Courthouse No.1" votes="7" />
+                <Precinct name="Hampton Courthouse No.2" votes="3" />
+                <Precinct name="Varnville" votes="5" />
+                <Precinct name="Early Branch" votes="0" />
+                <Precinct name="Garnett" votes="0" />
+                <Precinct name="Estill" votes="4" />
+                <Precinct name="Bonnett" votes="5" />
+                <Precinct name="Furman" votes="0" />
+                <Precinct name="Scotia" votes="1" />
+                <Precinct name="Yemassee" votes="5" />
+                <Precinct name="Horse Gall" votes="0" />
+                <Precinct name="Rivers Mill" votes="0" />
+                <Precinct name="Hopewell" votes="1" />
+                <Precinct name="Crocket-Miley" votes="6" />
+                <Precinct name="Cummings" votes="3" />
+                <Precinct name="Black Creek" votes="3" />
+                <Precinct name="Gifford" votes="0" />
+                <Precinct name="Absentee" votes="12" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Thomas Dixon" party="GRN" totalVotes="57">
+            <VoteType name="Election Day" votes="57">
+                <Precinct name="Brunson" votes="4" />
+                <Precinct name="Hampton Courthouse No.1" votes="7" />
+                <Precinct name="Hampton Courthouse No.2" votes="2" />
+                <Precinct name="Varnville" votes="4" />
+                <Precinct name="Early Branch" votes="2" />
+                <Precinct name="Garnett" votes="0" />
+                <Precinct name="Estill" votes="7" />
+                <Precinct name="Bonnett" votes="5" />
+                <Precinct name="Furman" votes="1" />
+                <Precinct name="Scotia" votes="1" />
+                <Precinct name="Yemassee" votes="10" />
+                <Precinct name="Horse Gall" votes="0" />
+                <Precinct name="Rivers Mill" votes="0" />
+                <Precinct name="Hopewell" votes="4" />
+                <Precinct name="Crocket-Miley" votes="1" />
+                <Precinct name="Cummings" votes="1" />
+                <Precinct name="Black Creek" votes="3" />
+                <Precinct name="Gifford" votes="1" />
+                <Precinct name="Absentee" votes="4" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Tim Scott" party="REP" totalVotes="3265">
+            <VoteType name="Election Day" votes="3265">
+                <Precinct name="Brunson" votes="178" />
+                <Precinct name="Hampton Courthouse No.1" votes="210" />
+                <Precinct name="Hampton Courthouse No.2" votes="350" />
+                <Precinct name="Varnville" votes="344" />
+                <Precinct name="Early Branch" votes="87" />
+                <Precinct name="Garnett" votes="10" />
+                <Precinct name="Estill" votes="213" />
+                <Precinct name="Bonnett" votes="277" />
+                <Precinct name="Furman" votes="75" />
+                <Precinct name="Scotia" votes="23" />
+                <Precinct name="Yemassee" votes="194" />
+                <Precinct name="Horse Gall" votes="54" />
+                <Precinct name="Rivers Mill" votes="17" />
+                <Precinct name="Hopewell" votes="123" />
+                <Precinct name="Crocket-Miley" votes="149" />
+                <Precinct name="Cummings" votes="201" />
+                <Precinct name="Black Creek" votes="87" />
+                <Precinct name="Gifford" votes="19" />
+                <Precinct name="Absentee" votes="643" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="7" />
+                <Precinct name="Provisional" votes="4" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Rebel Michael Scarborough" party="AMR" totalVotes="65">
+            <VoteType name="Election Day" votes="65">
+                <Precinct name="Brunson" votes="5" />
+                <Precinct name="Hampton Courthouse No.1" votes="10" />
+                <Precinct name="Hampton Courthouse No.2" votes="6" />
+                <Precinct name="Varnville" votes="7" />
+                <Precinct name="Early Branch" votes="1" />
+                <Precinct name="Garnett" votes="0" />
+                <Precinct name="Estill" votes="7" />
+                <Precinct name="Bonnett" votes="7" />
+                <Precinct name="Furman" votes="0" />
+                <Precinct name="Scotia" votes="1" />
+                <Precinct name="Yemassee" votes="5" />
+                <Precinct name="Horse Gall" votes="0" />
+                <Precinct name="Rivers Mill" votes="0" />
+                <Precinct name="Hopewell" votes="1" />
+                <Precinct name="Crocket-Miley" votes="3" />
+                <Precinct name="Cummings" votes="1" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="Gifford" votes="0" />
+                <Precinct name="Absentee" votes="10" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="Bill Bledsoe" party="LIB" totalVotes="74">
+            <VoteType name="Election Day" votes="74">
+                <Precinct name="Brunson" votes="8" />
+                <Precinct name="Hampton Courthouse No.1" votes="4" />
+                <Precinct name="Hampton Courthouse No.2" votes="11" />
+                <Precinct name="Varnville" votes="3" />
+                <Precinct name="Early Branch" votes="1" />
+                <Precinct name="Garnett" votes="1" />
+                <Precinct name="Estill" votes="9" />
+                <Precinct name="Bonnett" votes="6" />
+                <Precinct name="Furman" votes="1" />
+                <Precinct name="Scotia" votes="2" />
+                <Precinct name="Yemassee" votes="4" />
+                <Precinct name="Horse Gall" votes="1" />
+                <Precinct name="Rivers Mill" votes="1" />
+                <Precinct name="Hopewell" votes="2" />
+                <Precinct name="Crocket-Miley" votes="2" />
+                <Precinct name="Cummings" votes="4" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="Gifford" votes="0" />
+                <Precinct name="Absentee" votes="13" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="008" text="Write-In" party="NON" totalVotes="4">
+            <VoteType name="Election Day" votes="4">
+                <Precinct name="Brunson" votes="2" />
+                <Precinct name="Hampton Courthouse No.1" votes="0" />
+                <Precinct name="Hampton Courthouse No.2" votes="0" />
+                <Precinct name="Varnville" votes="0" />
+                <Precinct name="Early Branch" votes="0" />
+                <Precinct name="Garnett" votes="0" />
+                <Precinct name="Estill" votes="0" />
+                <Precinct name="Bonnett" votes="0" />
+                <Precinct name="Furman" votes="0" />
+                <Precinct name="Scotia" votes="0" />
+                <Precinct name="Yemassee" votes="0" />
+                <Precinct name="Horse Gall" votes="0" />
+                <Precinct name="Rivers Mill" votes="0" />
+                <Precinct name="Hopewell" votes="0" />
+                <Precinct name="Crocket-Miley" votes="0" />
+                <Precinct name="Cummings" votes="0" />
+                <Precinct name="Black Creek" votes="1" />
+                <Precinct name="Gifford" votes="0" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0106" text="U.S.  House of Representatives, District  6" voteFor="1" isQuestion="false" precinctsReporting="18" precinctsReported="18">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Brunson" votes="0" />
+            <Precinct name="Hampton Courthouse No.1" votes="0" />
+            <Precinct name="Hampton Courthouse No.2" votes="0" />
+            <Precinct name="Varnville" votes="0" />
+            <Precinct name="Early Branch" votes="0" />
+            <Precinct name="Garnett" votes="0" />
+            <Precinct name="Estill" votes="0" />
+            <Precinct name="Bonnett" votes="0" />
+            <Precinct name="Furman" votes="0" />
+            <Precinct name="Scotia" votes="0" />
+            <Precinct name="Yemassee" votes="0" />
+            <Precinct name="Horse Gall" votes="0" />
+            <Precinct name="Rivers Mill" votes="0" />
+            <Precinct name="Hopewell" votes="0" />
+            <Precinct name="Crocket-Miley" votes="0" />
+            <Precinct name="Cummings" votes="0" />
+            <Precinct name="Black Creek" votes="0" />
+            <Precinct name="Gifford" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="577">
+            <Precinct name="Brunson" votes="27" />
+            <Precinct name="Hampton Courthouse No.1" votes="33" />
+            <Precinct name="Hampton Courthouse No.2" votes="52" />
+            <Precinct name="Varnville" votes="59" />
+            <Precinct name="Early Branch" votes="6" />
+            <Precinct name="Garnett" votes="3" />
+            <Precinct name="Estill" votes="64" />
+            <Precinct name="Bonnett" votes="49" />
+            <Precinct name="Furman" votes="5" />
+            <Precinct name="Scotia" votes="10" />
+            <Precinct name="Yemassee" votes="33" />
+            <Precinct name="Horse Gall" votes="4" />
+            <Precinct name="Rivers Mill" votes="4" />
+            <Precinct name="Hopewell" votes="22" />
+            <Precinct name="Crocket-Miley" votes="20" />
+            <Precinct name="Cummings" votes="21" />
+            <Precinct name="Black Creek" votes="9" />
+            <Precinct name="Gifford" votes="3" />
+            <Precinct name="Absentee" votes="153" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="James E Jim Clyburn" party="DEM" totalVotes="5453">
+            <VoteType name="Election Day" votes="5453">
+                <Precinct name="Brunson" votes="160" />
+                <Precinct name="Hampton Courthouse No.1" votes="233" />
+                <Precinct name="Hampton Courthouse No.2" votes="320" />
+                <Precinct name="Varnville" votes="555" />
+                <Precinct name="Early Branch" votes="100" />
+                <Precinct name="Garnett" votes="81" />
+                <Precinct name="Estill" votes="704" />
+                <Precinct name="Bonnett" votes="152" />
+                <Precinct name="Furman" votes="154" />
+                <Precinct name="Scotia" votes="175" />
+                <Precinct name="Yemassee" votes="348" />
+                <Precinct name="Horse Gall" votes="11" />
+                <Precinct name="Rivers Mill" votes="25" />
+                <Precinct name="Hopewell" votes="40" />
+                <Precinct name="Crocket-Miley" votes="121" />
+                <Precinct name="Cummings" votes="244" />
+                <Precinct name="Black Creek" votes="53" />
+                <Precinct name="Gifford" votes="185" />
+                <Precinct name="Absentee" votes="1773" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="10" />
+                <Precinct name="Provisional" votes="6" />
+                <Precinct name="Failsafe Provisional" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Prince Charles Mallory" party="GRN" totalVotes="71">
+            <VoteType name="Election Day" votes="71">
+                <Precinct name="Brunson" votes="4" />
+                <Precinct name="Hampton Courthouse No.1" votes="8" />
+                <Precinct name="Hampton Courthouse No.2" votes="4" />
+                <Precinct name="Varnville" votes="7" />
+                <Precinct name="Early Branch" votes="3" />
+                <Precinct name="Garnett" votes="0" />
+                <Precinct name="Estill" votes="13" />
+                <Precinct name="Bonnett" votes="2" />
+                <Precinct name="Furman" votes="2" />
+                <Precinct name="Scotia" votes="2" />
+                <Precinct name="Yemassee" votes="9" />
+                <Precinct name="Horse Gall" votes="0" />
+                <Precinct name="Rivers Mill" votes="1" />
+                <Precinct name="Hopewell" votes="4" />
+                <Precinct name="Crocket-Miley" votes="0" />
+                <Precinct name="Cummings" votes="0" />
+                <Precinct name="Black Creek" votes="2" />
+                <Precinct name="Gifford" votes="1" />
+                <Precinct name="Absentee" votes="9" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Laura Sterling" party="REP" totalVotes="2708">
+            <VoteType name="Election Day" votes="2708">
+                <Precinct name="Brunson" votes="158" />
+                <Precinct name="Hampton Courthouse No.1" votes="193" />
+                <Precinct name="Hampton Courthouse No.2" votes="275" />
+                <Precinct name="Varnville" votes="281" />
+                <Precinct name="Early Branch" votes="75" />
+                <Precinct name="Garnett" votes="7" />
+                <Precinct name="Estill" votes="172" />
+                <Precinct name="Bonnett" votes="261" />
+                <Precinct name="Furman" votes="62" />
+                <Precinct name="Scotia" votes="13" />
+                <Precinct name="Yemassee" votes="168" />
+                <Precinct name="Horse Gall" votes="48" />
+                <Precinct name="Rivers Mill" votes="14" />
+                <Precinct name="Hopewell" votes="110" />
+                <Precinct name="Crocket-Miley" votes="131" />
+                <Precinct name="Cummings" votes="160" />
+                <Precinct name="Black Creek" votes="72" />
+                <Precinct name="Gifford" votes="15" />
+                <Precinct name="Absentee" votes="482" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="8" />
+                <Precinct name="Provisional" votes="3" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Rich Piotrowski" party="LIB" totalVotes="75">
+            <VoteType name="Election Day" votes="75">
+                <Precinct name="Brunson" votes="4" />
+                <Precinct name="Hampton Courthouse No.1" votes="7" />
+                <Precinct name="Hampton Courthouse No.2" votes="10" />
+                <Precinct name="Varnville" votes="8" />
+                <Precinct name="Early Branch" votes="1" />
+                <Precinct name="Garnett" votes="1" />
+                <Precinct name="Estill" votes="11" />
+                <Precinct name="Bonnett" votes="4" />
+                <Precinct name="Furman" votes="0" />
+                <Precinct name="Scotia" votes="2" />
+                <Precinct name="Yemassee" votes="9" />
+                <Precinct name="Horse Gall" votes="0" />
+                <Precinct name="Rivers Mill" votes="0" />
+                <Precinct name="Hopewell" votes="0" />
+                <Precinct name="Crocket-Miley" votes="2" />
+                <Precinct name="Cummings" votes="2" />
+                <Precinct name="Black Creek" votes="1" />
+                <Precinct name="Gifford" votes="0" />
+                <Precinct name="Absentee" votes="13" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Write-In" party="NON" totalVotes="1">
+            <VoteType name="Election Day" votes="1">
+                <Precinct name="Brunson" votes="0" />
+                <Precinct name="Hampton Courthouse No.1" votes="0" />
+                <Precinct name="Hampton Courthouse No.2" votes="1" />
+                <Precinct name="Varnville" votes="0" />
+                <Precinct name="Early Branch" votes="0" />
+                <Precinct name="Garnett" votes="0" />
+                <Precinct name="Estill" votes="0" />
+                <Precinct name="Bonnett" votes="0" />
+                <Precinct name="Furman" votes="0" />
+                <Precinct name="Scotia" votes="0" />
+                <Precinct name="Yemassee" votes="0" />
+                <Precinct name="Horse Gall" votes="0" />
+                <Precinct name="Rivers Mill" votes="0" />
+                <Precinct name="Hopewell" votes="0" />
+                <Precinct name="Crocket-Miley" votes="0" />
+                <Precinct name="Cummings" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="Gifford" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0107" text="State  Senate, District  40" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Brunson" votes="0" />
+            <Precinct name="Hampton Courthouse No.1" votes="0" />
+            <Precinct name="Hampton Courthouse No.2" votes="0" />
+            <Precinct name="Varnville" votes="0" />
+            <Precinct name="Rivers Mill" votes="0" />
+            <Precinct name="Crocket-Miley" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="603">
+            <Precinct name="Brunson" votes="87" />
+            <Precinct name="Hampton Courthouse No.1" votes="99" />
+            <Precinct name="Hampton Courthouse No.2" votes="157" />
+            <Precinct name="Varnville" votes="32" />
+            <Precinct name="Rivers Mill" votes="11" />
+            <Precinct name="Crocket-Miley" votes="60" />
+            <Precinct name="Absentee" votes="154" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="2" />
+            <Precinct name="Provisional" votes="1" />
+        </VoteType>
+        <Choice key="001" text="Brad Hutto" party="DEM" totalVotes="2172">
+            <VoteType name="Election Day" votes="2172">
+                <Precinct name="Brunson" votes="265" />
+                <Precinct name="Hampton Courthouse No.1" votes="373" />
+                <Precinct name="Hampton Courthouse No.2" votes="503" />
+                <Precinct name="Varnville" votes="157" />
+                <Precinct name="Rivers Mill" votes="33" />
+                <Precinct name="Crocket-Miley" votes="213" />
+                <Precinct name="Absentee" votes="618" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="6" />
+                <Precinct name="Provisional" votes="4" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="10">
+            <VoteType name="Election Day" votes="10">
+                <Precinct name="Brunson" votes="1" />
+                <Precinct name="Hampton Courthouse No.1" votes="2" />
+                <Precinct name="Hampton Courthouse No.2" votes="2" />
+                <Precinct name="Varnville" votes="2" />
+                <Precinct name="Rivers Mill" votes="0" />
+                <Precinct name="Crocket-Miley" votes="1" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0108" text="State  Senate, District  45" voteFor="1" isQuestion="false" precinctsReporting="14" precinctsReported="14">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Hampton Courthouse No.1" votes="0" />
+            <Precinct name="Varnville" votes="0" />
+            <Precinct name="Early Branch" votes="0" />
+            <Precinct name="Garnett" votes="0" />
+            <Precinct name="Estill" votes="0" />
+            <Precinct name="Bonnett" votes="0" />
+            <Precinct name="Furman" votes="0" />
+            <Precinct name="Scotia" votes="0" />
+            <Precinct name="Yemassee" votes="0" />
+            <Precinct name="Horse Gall" votes="0" />
+            <Precinct name="Hopewell" votes="0" />
+            <Precinct name="Cummings" votes="0" />
+            <Precinct name="Black Creek" votes="0" />
+            <Precinct name="Gifford" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1309">
+            <Precinct name="Hampton Courthouse No.1" votes="0" />
+            <Precinct name="Varnville" votes="172" />
+            <Precinct name="Early Branch" votes="54" />
+            <Precinct name="Garnett" votes="12" />
+            <Precinct name="Estill" votes="184" />
+            <Precinct name="Bonnett" votes="176" />
+            <Precinct name="Furman" votes="34" />
+            <Precinct name="Scotia" votes="20" />
+            <Precinct name="Yemassee" votes="142" />
+            <Precinct name="Horse Gall" votes="25" />
+            <Precinct name="Hopewell" votes="70" />
+            <Precinct name="Cummings" votes="124" />
+            <Precinct name="Black Creek" votes="45" />
+            <Precinct name="Gifford" votes="13" />
+            <Precinct name="Absentee" votes="235" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="2" />
+            <Precinct name="Provisional" votes="1" />
+        </VoteType>
+        <Choice key="001" text="Margie Bright Matthews" party="DEM" totalVotes="4773">
+            <VoteType name="Election Day" votes="4773">
+                <Precinct name="Hampton Courthouse No.1" votes="0" />
+                <Precinct name="Varnville" votes="545" />
+                <Precinct name="Early Branch" votes="131" />
+                <Precinct name="Garnett" votes="80" />
+                <Precinct name="Estill" votes="780" />
+                <Precinct name="Bonnett" votes="291" />
+                <Precinct name="Furman" votes="189" />
+                <Precinct name="Scotia" votes="182" />
+                <Precinct name="Yemassee" votes="420" />
+                <Precinct name="Horse Gall" votes="38" />
+                <Precinct name="Hopewell" votes="106" />
+                <Precinct name="Cummings" votes="301" />
+                <Precinct name="Black Creek" votes="90" />
+                <Precinct name="Gifford" votes="191" />
+                <Precinct name="Absentee" votes="1418" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="8" />
+                <Precinct name="Provisional" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="15">
+            <VoteType name="Election Day" votes="15">
+                <Precinct name="Hampton Courthouse No.1" votes="0" />
+                <Precinct name="Varnville" votes="2" />
+                <Precinct name="Early Branch" votes="0" />
+                <Precinct name="Garnett" votes="0" />
+                <Precinct name="Estill" votes="0" />
+                <Precinct name="Bonnett" votes="1" />
+                <Precinct name="Furman" votes="0" />
+                <Precinct name="Scotia" votes="0" />
+                <Precinct name="Yemassee" votes="5" />
+                <Precinct name="Horse Gall" votes="0" />
+                <Precinct name="Hopewell" votes="0" />
+                <Precinct name="Cummings" votes="2" />
+                <Precinct name="Black Creek" votes="2" />
+                <Precinct name="Gifford" votes="0" />
+                <Precinct name="Absentee" votes="3" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0109" text="State  House of Representatives, District  122" voteFor="1" isQuestion="false" precinctsReporting="18" precinctsReported="18">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Brunson" votes="0" />
+            <Precinct name="Hampton Courthouse No.1" votes="0" />
+            <Precinct name="Hampton Courthouse No.2" votes="0" />
+            <Precinct name="Varnville" votes="0" />
+            <Precinct name="Early Branch" votes="0" />
+            <Precinct name="Garnett" votes="0" />
+            <Precinct name="Estill" votes="0" />
+            <Precinct name="Bonnett" votes="0" />
+            <Precinct name="Furman" votes="0" />
+            <Precinct name="Scotia" votes="0" />
+            <Precinct name="Yemassee" votes="0" />
+            <Precinct name="Horse Gall" votes="0" />
+            <Precinct name="Rivers Mill" votes="0" />
+            <Precinct name="Hopewell" votes="0" />
+            <Precinct name="Crocket-Miley" votes="0" />
+            <Precinct name="Cummings" votes="0" />
+            <Precinct name="Black Creek" votes="0" />
+            <Precinct name="Gifford" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1331">
+            <Precinct name="Brunson" votes="43" />
+            <Precinct name="Hampton Courthouse No.1" votes="76" />
+            <Precinct name="Hampton Courthouse No.2" votes="102" />
+            <Precinct name="Varnville" votes="144" />
+            <Precinct name="Early Branch" votes="36" />
+            <Precinct name="Garnett" votes="10" />
+            <Precinct name="Estill" votes="124" />
+            <Precinct name="Bonnett" votes="100" />
+            <Precinct name="Furman" votes="18" />
+            <Precinct name="Scotia" votes="16" />
+            <Precinct name="Yemassee" votes="116" />
+            <Precinct name="Horse Gall" votes="13" />
+            <Precinct name="Rivers Mill" votes="7" />
+            <Precinct name="Hopewell" votes="43" />
+            <Precinct name="Crocket-Miley" votes="39" />
+            <Precinct name="Cummings" votes="88" />
+            <Precinct name="Black Creek" votes="22" />
+            <Precinct name="Gifford" votes="16" />
+            <Precinct name="Absentee" votes="311" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="5" />
+            <Precinct name="Provisional" votes="2" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Bill Bowers" party="DEM" totalVotes="7518">
+            <VoteType name="Election Day" votes="7518">
+                <Precinct name="Brunson" votes="308" />
+                <Precinct name="Hampton Courthouse No.1" votes="396" />
+                <Precinct name="Hampton Courthouse No.2" votes="553" />
+                <Precinct name="Varnville" votes="764" />
+                <Precinct name="Early Branch" votes="149" />
+                <Precinct name="Garnett" votes="82" />
+                <Precinct name="Estill" votes="838" />
+                <Precinct name="Bonnett" votes="367" />
+                <Precinct name="Furman" votes="205" />
+                <Precinct name="Scotia" votes="186" />
+                <Precinct name="Yemassee" votes="445" />
+                <Precinct name="Horse Gall" votes="50" />
+                <Precinct name="Rivers Mill" votes="37" />
+                <Precinct name="Hopewell" votes="133" />
+                <Precinct name="Crocket-Miley" votes="235" />
+                <Precinct name="Cummings" votes="338" />
+                <Precinct name="Black Creek" votes="115" />
+                <Precinct name="Gifford" votes="188" />
+                <Precinct name="Absentee" votes="2106" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="13" />
+                <Precinct name="Provisional" votes="7" />
+                <Precinct name="Failsafe Provisional" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="36">
+            <VoteType name="Election Day" votes="36">
+                <Precinct name="Brunson" votes="2" />
+                <Precinct name="Hampton Courthouse No.1" votes="2" />
+                <Precinct name="Hampton Courthouse No.2" votes="7" />
+                <Precinct name="Varnville" votes="2" />
+                <Precinct name="Early Branch" votes="0" />
+                <Precinct name="Garnett" votes="0" />
+                <Precinct name="Estill" votes="2" />
+                <Precinct name="Bonnett" votes="1" />
+                <Precinct name="Furman" votes="0" />
+                <Precinct name="Scotia" votes="0" />
+                <Precinct name="Yemassee" votes="6" />
+                <Precinct name="Horse Gall" votes="0" />
+                <Precinct name="Rivers Mill" votes="0" />
+                <Precinct name="Hopewell" votes="0" />
+                <Precinct name="Crocket-Miley" votes="0" />
+                <Precinct name="Cummings" votes="1" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="Gifford" votes="0" />
+                <Precinct name="Absentee" votes="13" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0110" text=" Solicitor, Circuit  14" voteFor="1" isQuestion="false" precinctsReporting="18" precinctsReported="18">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Brunson" votes="0" />
+            <Precinct name="Hampton Courthouse No.1" votes="0" />
+            <Precinct name="Hampton Courthouse No.2" votes="0" />
+            <Precinct name="Varnville" votes="0" />
+            <Precinct name="Early Branch" votes="0" />
+            <Precinct name="Garnett" votes="0" />
+            <Precinct name="Estill" votes="0" />
+            <Precinct name="Bonnett" votes="0" />
+            <Precinct name="Furman" votes="0" />
+            <Precinct name="Scotia" votes="0" />
+            <Precinct name="Yemassee" votes="0" />
+            <Precinct name="Horse Gall" votes="0" />
+            <Precinct name="Rivers Mill" votes="0" />
+            <Precinct name="Hopewell" votes="0" />
+            <Precinct name="Crocket-Miley" votes="0" />
+            <Precinct name="Cummings" votes="0" />
+            <Precinct name="Black Creek" votes="0" />
+            <Precinct name="Gifford" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="4526">
+            <Precinct name="Brunson" votes="116" />
+            <Precinct name="Hampton Courthouse No.1" votes="186" />
+            <Precinct name="Hampton Courthouse No.2" votes="223" />
+            <Precinct name="Varnville" votes="434" />
+            <Precinct name="Early Branch" votes="80" />
+            <Precinct name="Garnett" votes="73" />
+            <Precinct name="Estill" votes="601" />
+            <Precinct name="Bonnett" votes="155" />
+            <Precinct name="Furman" votes="135" />
+            <Precinct name="Scotia" votes="153" />
+            <Precinct name="Yemassee" votes="307" />
+            <Precinct name="Horse Gall" votes="9" />
+            <Precinct name="Rivers Mill" votes="23" />
+            <Precinct name="Hopewell" votes="43" />
+            <Precinct name="Crocket-Miley" votes="84" />
+            <Precinct name="Cummings" votes="203" />
+            <Precinct name="Black Creek" votes="31" />
+            <Precinct name="Gifford" votes="176" />
+            <Precinct name="Absentee" votes="1482" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="9" />
+            <Precinct name="Provisional" votes="1" />
+            <Precinct name="Failsafe Provisional" votes="2" />
+        </VoteType>
+        <Choice key="001" text="Duffie Stone" party="REP" totalVotes="4323">
+            <VoteType name="Election Day" votes="4323">
+                <Precinct name="Brunson" votes="236" />
+                <Precinct name="Hampton Courthouse No.1" votes="287" />
+                <Precinct name="Hampton Courthouse No.2" votes="435" />
+                <Precinct name="Varnville" votes="471" />
+                <Precinct name="Early Branch" votes="104" />
+                <Precinct name="Garnett" votes="19" />
+                <Precinct name="Estill" votes="358" />
+                <Precinct name="Bonnett" votes="313" />
+                <Precinct name="Furman" votes="88" />
+                <Precinct name="Scotia" votes="48" />
+                <Precinct name="Yemassee" votes="253" />
+                <Precinct name="Horse Gall" votes="54" />
+                <Precinct name="Rivers Mill" votes="21" />
+                <Precinct name="Hopewell" votes="132" />
+                <Precinct name="Crocket-Miley" votes="190" />
+                <Precinct name="Cummings" votes="224" />
+                <Precinct name="Black Creek" votes="106" />
+                <Precinct name="Gifford" votes="28" />
+                <Precinct name="Absentee" votes="938" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="9" />
+                <Precinct name="Provisional" votes="8" />
+                <Precinct name="Failsafe Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="36">
+            <VoteType name="Election Day" votes="36">
+                <Precinct name="Brunson" votes="1" />
+                <Precinct name="Hampton Courthouse No.1" votes="1" />
+                <Precinct name="Hampton Courthouse No.2" votes="4" />
+                <Precinct name="Varnville" votes="5" />
+                <Precinct name="Early Branch" votes="1" />
+                <Precinct name="Garnett" votes="0" />
+                <Precinct name="Estill" votes="5" />
+                <Precinct name="Bonnett" votes="0" />
+                <Precinct name="Furman" votes="0" />
+                <Precinct name="Scotia" votes="1" />
+                <Precinct name="Yemassee" votes="7" />
+                <Precinct name="Horse Gall" votes="0" />
+                <Precinct name="Rivers Mill" votes="0" />
+                <Precinct name="Hopewell" votes="1" />
+                <Precinct name="Crocket-Miley" votes="0" />
+                <Precinct name="Cummings" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="Gifford" votes="0" />
+                <Precinct name="Absentee" votes="10" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0111" text="Clerk of Court" voteFor="1" isQuestion="false" precinctsReporting="18" precinctsReported="18">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Brunson" votes="0" />
+            <Precinct name="Hampton Courthouse No.1" votes="0" />
+            <Precinct name="Hampton Courthouse No.2" votes="0" />
+            <Precinct name="Varnville" votes="0" />
+            <Precinct name="Early Branch" votes="0" />
+            <Precinct name="Garnett" votes="0" />
+            <Precinct name="Estill" votes="0" />
+            <Precinct name="Bonnett" votes="0" />
+            <Precinct name="Furman" votes="0" />
+            <Precinct name="Scotia" votes="0" />
+            <Precinct name="Yemassee" votes="0" />
+            <Precinct name="Horse Gall" votes="0" />
+            <Precinct name="Rivers Mill" votes="0" />
+            <Precinct name="Hopewell" votes="0" />
+            <Precinct name="Crocket-Miley" votes="0" />
+            <Precinct name="Cummings" votes="0" />
+            <Precinct name="Black Creek" votes="0" />
+            <Precinct name="Gifford" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1415">
+            <Precinct name="Brunson" votes="56" />
+            <Precinct name="Hampton Courthouse No.1" votes="81" />
+            <Precinct name="Hampton Courthouse No.2" votes="110" />
+            <Precinct name="Varnville" votes="153" />
+            <Precinct name="Early Branch" votes="42" />
+            <Precinct name="Garnett" votes="7" />
+            <Precinct name="Estill" votes="122" />
+            <Precinct name="Bonnett" votes="93" />
+            <Precinct name="Furman" votes="16" />
+            <Precinct name="Scotia" votes="13" />
+            <Precinct name="Yemassee" votes="122" />
+            <Precinct name="Horse Gall" votes="11" />
+            <Precinct name="Rivers Mill" votes="8" />
+            <Precinct name="Hopewell" votes="44" />
+            <Precinct name="Crocket-Miley" votes="44" />
+            <Precinct name="Cummings" votes="90" />
+            <Precinct name="Black Creek" votes="23" />
+            <Precinct name="Gifford" votes="11" />
+            <Precinct name="Absentee" votes="363" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="4" />
+            <Precinct name="Provisional" votes="2" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Mylinda D Nettles" party="DEM" totalVotes="7461">
+            <VoteType name="Election Day" votes="7461">
+                <Precinct name="Brunson" votes="297" />
+                <Precinct name="Hampton Courthouse No.1" votes="392" />
+                <Precinct name="Hampton Courthouse No.2" votes="551" />
+                <Precinct name="Varnville" votes="756" />
+                <Precinct name="Early Branch" votes="143" />
+                <Precinct name="Garnett" votes="85" />
+                <Precinct name="Estill" votes="842" />
+                <Precinct name="Bonnett" votes="375" />
+                <Precinct name="Furman" votes="207" />
+                <Precinct name="Scotia" votes="189" />
+                <Precinct name="Yemassee" votes="443" />
+                <Precinct name="Horse Gall" votes="52" />
+                <Precinct name="Rivers Mill" votes="36" />
+                <Precinct name="Hopewell" votes="132" />
+                <Precinct name="Crocket-Miley" votes="230" />
+                <Precinct name="Cummings" votes="335" />
+                <Precinct name="Black Creek" votes="114" />
+                <Precinct name="Gifford" votes="193" />
+                <Precinct name="Absentee" votes="2065" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="14" />
+                <Precinct name="Provisional" votes="7" />
+                <Precinct name="Failsafe Provisional" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="9">
+            <VoteType name="Election Day" votes="9">
+                <Precinct name="Brunson" votes="0" />
+                <Precinct name="Hampton Courthouse No.1" votes="1" />
+                <Precinct name="Hampton Courthouse No.2" votes="1" />
+                <Precinct name="Varnville" votes="1" />
+                <Precinct name="Early Branch" votes="0" />
+                <Precinct name="Garnett" votes="0" />
+                <Precinct name="Estill" votes="0" />
+                <Precinct name="Bonnett" votes="0" />
+                <Precinct name="Furman" votes="0" />
+                <Precinct name="Scotia" votes="0" />
+                <Precinct name="Yemassee" votes="2" />
+                <Precinct name="Horse Gall" votes="0" />
+                <Precinct name="Rivers Mill" votes="0" />
+                <Precinct name="Hopewell" votes="0" />
+                <Precinct name="Crocket-Miley" votes="0" />
+                <Precinct name="Cummings" votes="2" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="Gifford" votes="0" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0112" text="Auditor" voteFor="1" isQuestion="false" precinctsReporting="18" precinctsReported="18">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Brunson" votes="0" />
+            <Precinct name="Hampton Courthouse No.1" votes="0" />
+            <Precinct name="Hampton Courthouse No.2" votes="0" />
+            <Precinct name="Varnville" votes="0" />
+            <Precinct name="Early Branch" votes="0" />
+            <Precinct name="Garnett" votes="0" />
+            <Precinct name="Estill" votes="0" />
+            <Precinct name="Bonnett" votes="0" />
+            <Precinct name="Furman" votes="0" />
+            <Precinct name="Scotia" votes="0" />
+            <Precinct name="Yemassee" votes="0" />
+            <Precinct name="Horse Gall" votes="0" />
+            <Precinct name="Rivers Mill" votes="0" />
+            <Precinct name="Hopewell" votes="0" />
+            <Precinct name="Crocket-Miley" votes="0" />
+            <Precinct name="Cummings" votes="0" />
+            <Precinct name="Black Creek" votes="0" />
+            <Precinct name="Gifford" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1520">
+            <Precinct name="Brunson" votes="62" />
+            <Precinct name="Hampton Courthouse No.1" votes="96" />
+            <Precinct name="Hampton Courthouse No.2" votes="137" />
+            <Precinct name="Varnville" votes="159" />
+            <Precinct name="Early Branch" votes="44" />
+            <Precinct name="Garnett" votes="11" />
+            <Precinct name="Estill" votes="147" />
+            <Precinct name="Bonnett" votes="126" />
+            <Precinct name="Furman" votes="26" />
+            <Precinct name="Scotia" votes="17" />
+            <Precinct name="Yemassee" votes="134" />
+            <Precinct name="Horse Gall" votes="16" />
+            <Precinct name="Rivers Mill" votes="9" />
+            <Precinct name="Hopewell" votes="61" />
+            <Precinct name="Crocket-Miley" votes="54" />
+            <Precinct name="Cummings" votes="100" />
+            <Precinct name="Black Creek" votes="29" />
+            <Precinct name="Gifford" votes="12" />
+            <Precinct name="Absentee" votes="273" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="4" />
+            <Precinct name="Provisional" votes="2" />
+            <Precinct name="Failsafe Provisional" votes="1" />
+        </VoteType>
+        <Choice key="001" text="Teresa Hill Williams" party="DEM" totalVotes="7355">
+            <VoteType name="Election Day" votes="7355">
+                <Precinct name="Brunson" votes="290" />
+                <Precinct name="Hampton Courthouse No.1" votes="377" />
+                <Precinct name="Hampton Courthouse No.2" votes="524" />
+                <Precinct name="Varnville" votes="750" />
+                <Precinct name="Early Branch" votes="141" />
+                <Precinct name="Garnett" votes="81" />
+                <Precinct name="Estill" votes="817" />
+                <Precinct name="Bonnett" votes="342" />
+                <Precinct name="Furman" votes="196" />
+                <Precinct name="Scotia" votes="185" />
+                <Precinct name="Yemassee" votes="432" />
+                <Precinct name="Horse Gall" votes="47" />
+                <Precinct name="Rivers Mill" votes="35" />
+                <Precinct name="Hopewell" votes="115" />
+                <Precinct name="Crocket-Miley" votes="219" />
+                <Precinct name="Cummings" votes="326" />
+                <Precinct name="Black Creek" votes="108" />
+                <Precinct name="Gifford" votes="192" />
+                <Precinct name="Absentee" votes="2155" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="14" />
+                <Precinct name="Provisional" votes="7" />
+                <Precinct name="Failsafe Provisional" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="10">
+            <VoteType name="Election Day" votes="10">
+                <Precinct name="Brunson" votes="1" />
+                <Precinct name="Hampton Courthouse No.1" votes="1" />
+                <Precinct name="Hampton Courthouse No.2" votes="1" />
+                <Precinct name="Varnville" votes="1" />
+                <Precinct name="Early Branch" votes="0" />
+                <Precinct name="Garnett" votes="0" />
+                <Precinct name="Estill" votes="0" />
+                <Precinct name="Bonnett" votes="0" />
+                <Precinct name="Furman" votes="1" />
+                <Precinct name="Scotia" votes="0" />
+                <Precinct name="Yemassee" votes="1" />
+                <Precinct name="Horse Gall" votes="0" />
+                <Precinct name="Rivers Mill" votes="0" />
+                <Precinct name="Hopewell" votes="0" />
+                <Precinct name="Crocket-Miley" votes="1" />
+                <Precinct name="Cummings" votes="1" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="Gifford" votes="0" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0113" text="County Treasurer" voteFor="1" isQuestion="false" precinctsReporting="18" precinctsReported="18">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Brunson" votes="0" />
+            <Precinct name="Hampton Courthouse No.1" votes="0" />
+            <Precinct name="Hampton Courthouse No.2" votes="0" />
+            <Precinct name="Varnville" votes="0" />
+            <Precinct name="Early Branch" votes="0" />
+            <Precinct name="Garnett" votes="0" />
+            <Precinct name="Estill" votes="0" />
+            <Precinct name="Bonnett" votes="0" />
+            <Precinct name="Furman" votes="0" />
+            <Precinct name="Scotia" votes="0" />
+            <Precinct name="Yemassee" votes="0" />
+            <Precinct name="Horse Gall" votes="0" />
+            <Precinct name="Rivers Mill" votes="0" />
+            <Precinct name="Hopewell" votes="0" />
+            <Precinct name="Crocket-Miley" votes="0" />
+            <Precinct name="Cummings" votes="0" />
+            <Precinct name="Black Creek" votes="0" />
+            <Precinct name="Gifford" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1440">
+            <Precinct name="Brunson" votes="71" />
+            <Precinct name="Hampton Courthouse No.1" votes="90" />
+            <Precinct name="Hampton Courthouse No.2" votes="122" />
+            <Precinct name="Varnville" votes="164" />
+            <Precinct name="Early Branch" votes="41" />
+            <Precinct name="Garnett" votes="7" />
+            <Precinct name="Estill" votes="133" />
+            <Precinct name="Bonnett" votes="115" />
+            <Precinct name="Furman" votes="24" />
+            <Precinct name="Scotia" votes="14" />
+            <Precinct name="Yemassee" votes="126" />
+            <Precinct name="Horse Gall" votes="14" />
+            <Precinct name="Rivers Mill" votes="9" />
+            <Precinct name="Hopewell" votes="54" />
+            <Precinct name="Crocket-Miley" votes="54" />
+            <Precinct name="Cummings" votes="91" />
+            <Precinct name="Black Creek" votes="29" />
+            <Precinct name="Gifford" votes="8" />
+            <Precinct name="Absentee" votes="267" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="5" />
+            <Precinct name="Provisional" votes="2" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Jennifer Ginn Youmans" party="DEM" totalVotes="7417">
+            <VoteType name="Election Day" votes="7417">
+                <Precinct name="Brunson" votes="282" />
+                <Precinct name="Hampton Courthouse No.1" votes="382" />
+                <Precinct name="Hampton Courthouse No.2" votes="538" />
+                <Precinct name="Varnville" votes="742" />
+                <Precinct name="Early Branch" votes="144" />
+                <Precinct name="Garnett" votes="85" />
+                <Precinct name="Estill" votes="829" />
+                <Precinct name="Bonnett" votes="353" />
+                <Precinct name="Furman" votes="199" />
+                <Precinct name="Scotia" votes="188" />
+                <Precinct name="Yemassee" votes="440" />
+                <Precinct name="Horse Gall" votes="49" />
+                <Precinct name="Rivers Mill" votes="35" />
+                <Precinct name="Hopewell" votes="122" />
+                <Precinct name="Crocket-Miley" votes="220" />
+                <Precinct name="Cummings" votes="335" />
+                <Precinct name="Black Creek" votes="108" />
+                <Precinct name="Gifford" votes="196" />
+                <Precinct name="Absentee" votes="2147" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="13" />
+                <Precinct name="Provisional" votes="7" />
+                <Precinct name="Failsafe Provisional" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="28">
+            <VoteType name="Election Day" votes="28">
+                <Precinct name="Brunson" votes="0" />
+                <Precinct name="Hampton Courthouse No.1" votes="2" />
+                <Precinct name="Hampton Courthouse No.2" votes="2" />
+                <Precinct name="Varnville" votes="4" />
+                <Precinct name="Early Branch" votes="0" />
+                <Precinct name="Garnett" votes="0" />
+                <Precinct name="Estill" votes="2" />
+                <Precinct name="Bonnett" votes="0" />
+                <Precinct name="Furman" votes="0" />
+                <Precinct name="Scotia" votes="0" />
+                <Precinct name="Yemassee" votes="1" />
+                <Precinct name="Horse Gall" votes="0" />
+                <Precinct name="Rivers Mill" votes="0" />
+                <Precinct name="Hopewell" votes="0" />
+                <Precinct name="Crocket-Miley" votes="0" />
+                <Precinct name="Cummings" votes="1" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="Gifford" votes="0" />
+                <Precinct name="Absentee" votes="16" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0114" text="County Council At Large" voteFor="2" isQuestion="false" precinctsReporting="18" precinctsReported="18">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Brunson" votes="0" />
+            <Precinct name="Hampton Courthouse No.1" votes="0" />
+            <Precinct name="Hampton Courthouse No.2" votes="0" />
+            <Precinct name="Varnville" votes="0" />
+            <Precinct name="Early Branch" votes="0" />
+            <Precinct name="Garnett" votes="0" />
+            <Precinct name="Estill" votes="0" />
+            <Precinct name="Bonnett" votes="0" />
+            <Precinct name="Furman" votes="0" />
+            <Precinct name="Scotia" votes="0" />
+            <Precinct name="Yemassee" votes="0" />
+            <Precinct name="Horse Gall" votes="0" />
+            <Precinct name="Rivers Mill" votes="0" />
+            <Precinct name="Hopewell" votes="0" />
+            <Precinct name="Crocket-Miley" votes="0" />
+            <Precinct name="Cummings" votes="0" />
+            <Precinct name="Black Creek" votes="0" />
+            <Precinct name="Gifford" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="4065">
+            <Precinct name="Brunson" votes="180" />
+            <Precinct name="Hampton Courthouse No.1" votes="215" />
+            <Precinct name="Hampton Courthouse No.2" votes="340" />
+            <Precinct name="Varnville" votes="381" />
+            <Precinct name="Early Branch" votes="107" />
+            <Precinct name="Garnett" votes="21" />
+            <Precinct name="Estill" votes="385" />
+            <Precinct name="Bonnett" votes="262" />
+            <Precinct name="Furman" votes="79" />
+            <Precinct name="Scotia" votes="48" />
+            <Precinct name="Yemassee" votes="313" />
+            <Precinct name="Horse Gall" votes="34" />
+            <Precinct name="Rivers Mill" votes="25" />
+            <Precinct name="Hopewell" votes="113" />
+            <Precinct name="Crocket-Miley" votes="137" />
+            <Precinct name="Cummings" votes="224" />
+            <Precinct name="Black Creek" votes="68" />
+            <Precinct name="Gifford" votes="24" />
+            <Precinct name="Absentee" votes="1091" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="11" />
+            <Precinct name="Provisional" votes="5" />
+            <Precinct name="Failsafe Provisional" votes="2" />
+        </VoteType>
+        <Choice key="001" text="Kenny Bozard" party="PET" totalVotes="2412">
+            <VoteType name="Election Day" votes="2412">
+                <Precinct name="Brunson" votes="188" />
+                <Precinct name="Hampton Courthouse No.1" votes="186" />
+                <Precinct name="Hampton Courthouse No.2" votes="287" />
+                <Precinct name="Varnville" votes="276" />
+                <Precinct name="Early Branch" votes="50" />
+                <Precinct name="Garnett" votes="6" />
+                <Precinct name="Estill" votes="137" />
+                <Precinct name="Bonnett" votes="202" />
+                <Precinct name="Furman" votes="44" />
+                <Precinct name="Scotia" votes="15" />
+                <Precinct name="Yemassee" votes="79" />
+                <Precinct name="Horse Gall" votes="39" />
+                <Precinct name="Rivers Mill" votes="12" />
+                <Precinct name="Hopewell" votes="114" />
+                <Precinct name="Crocket-Miley" votes="118" />
+                <Precinct name="Cummings" votes="106" />
+                <Precinct name="Black Creek" votes="67" />
+                <Precinct name="Gifford" votes="12" />
+                <Precinct name="Absentee" votes="465" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="5" />
+                <Precinct name="Provisional" votes="4" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Roy Hollingsworth" party="DEM" totalVotes="5864">
+            <VoteType name="Election Day" votes="5864">
+                <Precinct name="Brunson" votes="171" />
+                <Precinct name="Hampton Courthouse No.1" votes="286" />
+                <Precinct name="Hampton Courthouse No.2" votes="386" />
+                <Precinct name="Varnville" votes="633" />
+                <Precinct name="Early Branch" votes="119" />
+                <Precinct name="Garnett" votes="77" />
+                <Precinct name="Estill" votes="725" />
+                <Precinct name="Bonnett" votes="219" />
+                <Precinct name="Furman" votes="167" />
+                <Precinct name="Scotia" votes="173" />
+                <Precinct name="Yemassee" votes="387" />
+                <Precinct name="Horse Gall" votes="26" />
+                <Precinct name="Rivers Mill" votes="30" />
+                <Precinct name="Hopewell" votes="58" />
+                <Precinct name="Crocket-Miley" votes="157" />
+                <Precinct name="Cummings" votes="271" />
+                <Precinct name="Black Creek" votes="76" />
+                <Precinct name="Gifford" votes="182" />
+                <Precinct name="Absentee" votes="1704" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="9" />
+                <Precinct name="Provisional" votes="6" />
+                <Precinct name="Failsafe Provisional" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Ronald Breeze Winn" party="DEM" totalVotes="5392">
+            <VoteType name="Election Day" votes="5392">
+                <Precinct name="Brunson" votes="165" />
+                <Precinct name="Hampton Courthouse No.1" votes="258" />
+                <Precinct name="Hampton Courthouse No.2" votes="308" />
+                <Precinct name="Varnville" votes="529" />
+                <Precinct name="Early Branch" votes="93" />
+                <Precinct name="Garnett" votes="80" />
+                <Precinct name="Estill" votes="679" />
+                <Precinct name="Bonnett" votes="253" />
+                <Precinct name="Furman" votes="156" />
+                <Precinct name="Scotia" votes="168" />
+                <Precinct name="Yemassee" votes="352" />
+                <Precinct name="Horse Gall" votes="27" />
+                <Precinct name="Rivers Mill" votes="21" />
+                <Precinct name="Hopewell" votes="67" />
+                <Precinct name="Crocket-Miley" votes="135" />
+                <Precinct name="Cummings" votes="253" />
+                <Precinct name="Black Creek" votes="63" />
+                <Precinct name="Gifford" votes="190" />
+                <Precinct name="Absentee" votes="1580" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="10" />
+                <Precinct name="Provisional" votes="3" />
+                <Precinct name="Failsafe Provisional" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Write-In" party="NON" totalVotes="37">
+            <VoteType name="Election Day" votes="37">
+                <Precinct name="Brunson" votes="2" />
+                <Precinct name="Hampton Courthouse No.1" votes="3" />
+                <Precinct name="Hampton Courthouse No.2" votes="3" />
+                <Precinct name="Varnville" votes="1" />
+                <Precinct name="Early Branch" votes="1" />
+                <Precinct name="Garnett" votes="0" />
+                <Precinct name="Estill" votes="2" />
+                <Precinct name="Bonnett" votes="0" />
+                <Precinct name="Furman" votes="0" />
+                <Precinct name="Scotia" votes="0" />
+                <Precinct name="Yemassee" votes="3" />
+                <Precinct name="Horse Gall" votes="0" />
+                <Precinct name="Rivers Mill" votes="0" />
+                <Precinct name="Hopewell" votes="0" />
+                <Precinct name="Crocket-Miley" votes="1" />
+                <Precinct name="Cummings" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="Gifford" votes="0" />
+                <Precinct name="Absentee" votes="20" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0115" text="Soil and Water District Commission" voteFor="1" isQuestion="false" precinctsReporting="18" precinctsReported="18">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Brunson" votes="0" />
+            <Precinct name="Hampton Courthouse No.1" votes="0" />
+            <Precinct name="Hampton Courthouse No.2" votes="0" />
+            <Precinct name="Varnville" votes="0" />
+            <Precinct name="Early Branch" votes="0" />
+            <Precinct name="Garnett" votes="0" />
+            <Precinct name="Estill" votes="0" />
+            <Precinct name="Bonnett" votes="0" />
+            <Precinct name="Furman" votes="0" />
+            <Precinct name="Scotia" votes="0" />
+            <Precinct name="Yemassee" votes="0" />
+            <Precinct name="Horse Gall" votes="0" />
+            <Precinct name="Rivers Mill" votes="0" />
+            <Precinct name="Hopewell" votes="0" />
+            <Precinct name="Crocket-Miley" votes="0" />
+            <Precinct name="Cummings" votes="0" />
+            <Precinct name="Black Creek" votes="0" />
+            <Precinct name="Gifford" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="4253">
+            <Precinct name="Brunson" votes="117" />
+            <Precinct name="Hampton Courthouse No.1" votes="188" />
+            <Precinct name="Hampton Courthouse No.2" votes="230" />
+            <Precinct name="Varnville" votes="437" />
+            <Precinct name="Early Branch" votes="82" />
+            <Precinct name="Garnett" votes="67" />
+            <Precinct name="Estill" votes="525" />
+            <Precinct name="Bonnett" votes="136" />
+            <Precinct name="Furman" votes="125" />
+            <Precinct name="Scotia" votes="133" />
+            <Precinct name="Yemassee" votes="341" />
+            <Precinct name="Horse Gall" votes="14" />
+            <Precinct name="Rivers Mill" votes="17" />
+            <Precinct name="Hopewell" votes="49" />
+            <Precinct name="Crocket-Miley" votes="99" />
+            <Precinct name="Cummings" votes="223" />
+            <Precinct name="Black Creek" votes="35" />
+            <Precinct name="Gifford" votes="170" />
+            <Precinct name="Absentee" votes="1247" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="11" />
+            <Precinct name="Provisional" votes="4" />
+            <Precinct name="Failsafe Provisional" votes="3" />
+        </VoteType>
+        <Choice key="001" text="Doug Jarrell" party="NON" totalVotes="4626">
+            <VoteType name="Election Day" votes="4626">
+                <Precinct name="Brunson" votes="236" />
+                <Precinct name="Hampton Courthouse No.1" votes="284" />
+                <Precinct name="Hampton Courthouse No.2" votes="432" />
+                <Precinct name="Varnville" votes="473" />
+                <Precinct name="Early Branch" votes="103" />
+                <Precinct name="Garnett" votes="25" />
+                <Precinct name="Estill" votes="437" />
+                <Precinct name="Bonnett" votes="331" />
+                <Precinct name="Furman" votes="98" />
+                <Precinct name="Scotia" votes="69" />
+                <Precinct name="Yemassee" votes="226" />
+                <Precinct name="Horse Gall" votes="49" />
+                <Precinct name="Rivers Mill" votes="27" />
+                <Precinct name="Hopewell" votes="127" />
+                <Precinct name="Crocket-Miley" votes="175" />
+                <Precinct name="Cummings" votes="204" />
+                <Precinct name="Black Creek" votes="102" />
+                <Precinct name="Gifford" votes="34" />
+                <Precinct name="Absentee" votes="1182" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="7" />
+                <Precinct name="Provisional" votes="5" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="6">
+            <VoteType name="Election Day" votes="6">
+                <Precinct name="Brunson" votes="0" />
+                <Precinct name="Hampton Courthouse No.1" votes="2" />
+                <Precinct name="Hampton Courthouse No.2" votes="0" />
+                <Precinct name="Varnville" votes="0" />
+                <Precinct name="Early Branch" votes="0" />
+                <Precinct name="Garnett" votes="0" />
+                <Precinct name="Estill" votes="2" />
+                <Precinct name="Bonnett" votes="1" />
+                <Precinct name="Furman" votes="0" />
+                <Precinct name="Scotia" votes="0" />
+                <Precinct name="Yemassee" votes="0" />
+                <Precinct name="Horse Gall" votes="0" />
+                <Precinct name="Rivers Mill" votes="0" />
+                <Precinct name="Hopewell" votes="0" />
+                <Precinct name="Crocket-Miley" votes="0" />
+                <Precinct name="Cummings" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="Gifford" votes="0" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0116" text="School Board District 1" voteFor="3" isQuestion="false" precinctsReporting="14" precinctsReported="14">
+        <VoteType name="overVotes" votes="6">
+            <Precinct name="Brunson" votes="0" />
+            <Precinct name="Hampton Courthouse No.1" votes="0" />
+            <Precinct name="Hampton Courthouse No.2" votes="0" />
+            <Precinct name="Varnville" votes="0" />
+            <Precinct name="Early Branch" votes="0" />
+            <Precinct name="Bonnett" votes="0" />
+            <Precinct name="Yemassee" votes="0" />
+            <Precinct name="Horse Gall" votes="0" />
+            <Precinct name="Rivers Mill" votes="0" />
+            <Precinct name="Hopewell" votes="0" />
+            <Precinct name="Crocket-Miley" votes="0" />
+            <Precinct name="Cummings" votes="0" />
+            <Precinct name="Black Creek" votes="0" />
+            <Precinct name="Gifford" votes="0" />
+            <Precinct name="Absentee" votes="6" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="4556">
+            <Precinct name="Brunson" votes="272" />
+            <Precinct name="Hampton Courthouse No.1" votes="379" />
+            <Precinct name="Hampton Courthouse No.2" votes="438" />
+            <Precinct name="Varnville" votes="633" />
+            <Precinct name="Early Branch" votes="178" />
+            <Precinct name="Bonnett" votes="140" />
+            <Precinct name="Yemassee" votes="652" />
+            <Precinct name="Horse Gall" votes="22" />
+            <Precinct name="Rivers Mill" votes="41" />
+            <Precinct name="Hopewell" votes="78" />
+            <Precinct name="Crocket-Miley" votes="237" />
+            <Precinct name="Cummings" votes="357" />
+            <Precinct name="Black Creek" votes="70" />
+            <Precinct name="Gifford" votes="29" />
+            <Precinct name="Absentee" votes="996" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="29" />
+            <Precinct name="Provisional" votes="5" />
+        </VoteType>
+        <Choice key="001" text="Nicci Gooding Bennett" party="NON" totalVotes="1866">
+            <VoteType name="Election Day" votes="1866">
+                <Precinct name="Brunson" votes="151" />
+                <Precinct name="Hampton Courthouse No.1" votes="161" />
+                <Precinct name="Hampton Courthouse No.2" votes="313" />
+                <Precinct name="Varnville" votes="271" />
+                <Precinct name="Early Branch" votes="51" />
+                <Precinct name="Bonnett" votes="76" />
+                <Precinct name="Yemassee" votes="71" />
+                <Precinct name="Horse Gall" votes="28" />
+                <Precinct name="Rivers Mill" votes="13" />
+                <Precinct name="Hopewell" votes="54" />
+                <Precinct name="Crocket-Miley" votes="95" />
+                <Precinct name="Cummings" votes="123" />
+                <Precinct name="Black Creek" votes="60" />
+                <Precinct name="Gifford" votes="3" />
+                <Precinct name="Absentee" votes="393" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Robert J Brown" party="NON" totalVotes="1233">
+            <VoteType name="Election Day" votes="1233">
+                <Precinct name="Brunson" votes="80" />
+                <Precinct name="Hampton Courthouse No.1" votes="107" />
+                <Precinct name="Hampton Courthouse No.2" votes="156" />
+                <Precinct name="Varnville" votes="171" />
+                <Precinct name="Early Branch" votes="27" />
+                <Precinct name="Bonnett" votes="46" />
+                <Precinct name="Yemassee" votes="58" />
+                <Precinct name="Horse Gall" votes="18" />
+                <Precinct name="Rivers Mill" votes="8" />
+                <Precinct name="Hopewell" votes="34" />
+                <Precinct name="Crocket-Miley" votes="71" />
+                <Precinct name="Cummings" votes="61" />
+                <Precinct name="Black Creek" votes="29" />
+                <Precinct name="Gifford" votes="2" />
+                <Precinct name="Absentee" votes="362" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Theresa Butts" party="NON" totalVotes="1169">
+            <VoteType name="Election Day" votes="1169">
+                <Precinct name="Brunson" votes="50" />
+                <Precinct name="Hampton Courthouse No.1" votes="101" />
+                <Precinct name="Hampton Courthouse No.2" votes="137" />
+                <Precinct name="Varnville" votes="228" />
+                <Precinct name="Early Branch" votes="32" />
+                <Precinct name="Bonnett" votes="34" />
+                <Precinct name="Yemassee" votes="69" />
+                <Precinct name="Horse Gall" votes="15" />
+                <Precinct name="Rivers Mill" votes="10" />
+                <Precinct name="Hopewell" votes="11" />
+                <Precinct name="Crocket-Miley" votes="41" />
+                <Precinct name="Cummings" votes="51" />
+                <Precinct name="Black Creek" votes="31" />
+                <Precinct name="Gifford" votes="4" />
+                <Precinct name="Absentee" votes="352" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="3" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Allanah A Dobson" party="NON" totalVotes="630">
+            <VoteType name="Election Day" votes="630">
+                <Precinct name="Brunson" votes="30" />
+                <Precinct name="Hampton Courthouse No.1" votes="49" />
+                <Precinct name="Hampton Courthouse No.2" votes="51" />
+                <Precinct name="Varnville" votes="112" />
+                <Precinct name="Early Branch" votes="16" />
+                <Precinct name="Bonnett" votes="6" />
+                <Precinct name="Yemassee" votes="59" />
+                <Precinct name="Horse Gall" votes="4" />
+                <Precinct name="Rivers Mill" votes="3" />
+                <Precinct name="Hopewell" votes="3" />
+                <Precinct name="Crocket-Miley" votes="14" />
+                <Precinct name="Cummings" votes="55" />
+                <Precinct name="Black Creek" votes="8" />
+                <Precinct name="Gifford" votes="1" />
+                <Precinct name="Absentee" votes="219" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Kari H Foy" party="NON" totalVotes="1858">
+            <VoteType name="Election Day" votes="1858">
+                <Precinct name="Brunson" votes="123" />
+                <Precinct name="Hampton Courthouse No.1" votes="147" />
+                <Precinct name="Hampton Courthouse No.2" votes="289" />
+                <Precinct name="Varnville" votes="261" />
+                <Precinct name="Early Branch" votes="39" />
+                <Precinct name="Bonnett" votes="98" />
+                <Precinct name="Yemassee" votes="94" />
+                <Precinct name="Horse Gall" votes="31" />
+                <Precinct name="Rivers Mill" votes="14" />
+                <Precinct name="Hopewell" votes="56" />
+                <Precinct name="Crocket-Miley" votes="117" />
+                <Precinct name="Cummings" votes="100" />
+                <Precinct name="Black Creek" votes="65" />
+                <Precinct name="Gifford" votes="3" />
+                <Precinct name="Absentee" votes="414" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="3" />
+                <Precinct name="Provisional" votes="4" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Kenneth Greene" party="NON" totalVotes="822">
+            <VoteType name="Election Day" votes="822">
+                <Precinct name="Brunson" votes="13" />
+                <Precinct name="Hampton Courthouse No.1" votes="46" />
+                <Precinct name="Hampton Courthouse No.2" votes="51" />
+                <Precinct name="Varnville" votes="137" />
+                <Precinct name="Early Branch" votes="17" />
+                <Precinct name="Bonnett" votes="11" />
+                <Precinct name="Yemassee" votes="57" />
+                <Precinct name="Horse Gall" votes="1" />
+                <Precinct name="Rivers Mill" votes="1" />
+                <Precinct name="Hopewell" votes="2" />
+                <Precinct name="Crocket-Miley" votes="9" />
+                <Precinct name="Cummings" votes="90" />
+                <Precinct name="Black Creek" votes="6" />
+                <Precinct name="Gifford" votes="2" />
+                <Precinct name="Absentee" votes="377" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="Eugene Jenkins Jr" party="NON" totalVotes="1686">
+            <VoteType name="Election Day" votes="1686">
+                <Precinct name="Brunson" votes="88" />
+                <Precinct name="Hampton Courthouse No.1" votes="101" />
+                <Precinct name="Hampton Courthouse No.2" votes="118" />
+                <Precinct name="Varnville" votes="302" />
+                <Precinct name="Early Branch" votes="50" />
+                <Precinct name="Bonnett" votes="22" />
+                <Precinct name="Yemassee" votes="193" />
+                <Precinct name="Horse Gall" votes="5" />
+                <Precinct name="Rivers Mill" votes="13" />
+                <Precinct name="Hopewell" votes="2" />
+                <Precinct name="Crocket-Miley" votes="43" />
+                <Precinct name="Cummings" votes="91" />
+                <Precinct name="Black Creek" votes="9" />
+                <Precinct name="Gifford" votes="5" />
+                <Precinct name="Absentee" votes="644" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="008" text="Libby Murdaugh" party="NON" totalVotes="1973">
+            <VoteType name="Election Day" votes="1973">
+                <Precinct name="Brunson" votes="131" />
+                <Precinct name="Hampton Courthouse No.1" votes="128" />
+                <Precinct name="Hampton Courthouse No.2" votes="194" />
+                <Precinct name="Varnville" votes="277" />
+                <Precinct name="Early Branch" votes="61" />
+                <Precinct name="Bonnett" votes="62" />
+                <Precinct name="Yemassee" votes="234" />
+                <Precinct name="Horse Gall" votes="27" />
+                <Precinct name="Rivers Mill" votes="22" />
+                <Precinct name="Hopewell" votes="32" />
+                <Precinct name="Crocket-Miley" votes="100" />
+                <Precinct name="Cummings" votes="159" />
+                <Precinct name="Black Creek" votes="31" />
+                <Precinct name="Gifford" votes="2" />
+                <Precinct name="Absentee" votes="509" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="009" text="Doug Noll" party="NON" totalVotes="1240">
+            <VoteType name="Election Day" votes="1240">
+                <Precinct name="Brunson" votes="83" />
+                <Precinct name="Hampton Courthouse No.1" votes="133" />
+                <Precinct name="Hampton Courthouse No.2" votes="156" />
+                <Precinct name="Varnville" votes="172" />
+                <Precinct name="Early Branch" votes="23" />
+                <Precinct name="Bonnett" votes="63" />
+                <Precinct name="Yemassee" votes="83" />
+                <Precinct name="Horse Gall" votes="21" />
+                <Precinct name="Rivers Mill" votes="5" />
+                <Precinct name="Hopewell" votes="41" />
+                <Precinct name="Crocket-Miley" votes="60" />
+                <Precinct name="Cummings" votes="81" />
+                <Precinct name="Black Creek" votes="40" />
+                <Precinct name="Gifford" votes="0" />
+                <Precinct name="Absentee" votes="275" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="3" />
+                <Precinct name="Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="010" text="Willie Sherman O'Banner" party="NON" totalVotes="662">
+            <VoteType name="Election Day" votes="662">
+                <Precinct name="Brunson" votes="19" />
+                <Precinct name="Hampton Courthouse No.1" votes="36" />
+                <Precinct name="Hampton Courthouse No.2" votes="38" />
+                <Precinct name="Varnville" votes="111" />
+                <Precinct name="Early Branch" votes="18" />
+                <Precinct name="Bonnett" votes="4" />
+                <Precinct name="Yemassee" votes="74" />
+                <Precinct name="Horse Gall" votes="0" />
+                <Precinct name="Rivers Mill" votes="1" />
+                <Precinct name="Hopewell" votes="4" />
+                <Precinct name="Crocket-Miley" votes="12" />
+                <Precinct name="Cummings" votes="74" />
+                <Precinct name="Black Creek" votes="7" />
+                <Precinct name="Gifford" votes="0" />
+                <Precinct name="Absentee" votes="261" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="011" text="Caleb Jefferson Willis" party="NON" totalVotes="495">
+            <VoteType name="Election Day" votes="495">
+                <Precinct name="Brunson" votes="18" />
+                <Precinct name="Hampton Courthouse No.1" votes="33" />
+                <Precinct name="Hampton Courthouse No.2" votes="45" />
+                <Precinct name="Varnville" votes="54" />
+                <Precinct name="Early Branch" votes="43" />
+                <Precinct name="Bonnett" votes="17" />
+                <Precinct name="Yemassee" votes="55" />
+                <Precinct name="Horse Gall" votes="17" />
+                <Precinct name="Rivers Mill" votes="1" />
+                <Precinct name="Hopewell" votes="13" />
+                <Precinct name="Crocket-Miley" votes="22" />
+                <Precinct name="Cummings" votes="39" />
+                <Precinct name="Black Creek" votes="16" />
+                <Precinct name="Gifford" votes="0" />
+                <Precinct name="Absentee" votes="122" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="012" text="Write-In" party="NON" totalVotes="11">
+            <VoteType name="Election Day" votes="11">
+                <Precinct name="Brunson" votes="1" />
+                <Precinct name="Hampton Courthouse No.1" votes="1" />
+                <Precinct name="Hampton Courthouse No.2" votes="0" />
+                <Precinct name="Varnville" votes="1" />
+                <Precinct name="Early Branch" votes="0" />
+                <Precinct name="Bonnett" votes="0" />
+                <Precinct name="Yemassee" votes="2" />
+                <Precinct name="Horse Gall" votes="0" />
+                <Precinct name="Rivers Mill" votes="0" />
+                <Precinct name="Hopewell" votes="0" />
+                <Precinct name="Crocket-Miley" votes="1" />
+                <Precinct name="Cummings" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="Gifford" votes="0" />
+                <Precinct name="Absentee" votes="5" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0117" text="School Board District 2" voteFor="3" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="overVotes" votes="27">
+            <Precinct name="Garnett" votes="0" />
+            <Precinct name="Estill" votes="0" />
+            <Precinct name="Bonnett" votes="0" />
+            <Precinct name="Furman" votes="0" />
+            <Precinct name="Scotia" votes="0" />
+            <Precinct name="Hopewell" votes="0" />
+            <Precinct name="Black Creek" votes="0" />
+            <Precinct name="Gifford" votes="0" />
+            <Precinct name="Absentee" votes="27" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="2393">
+            <Precinct name="Garnett" votes="50" />
+            <Precinct name="Estill" votes="891" />
+            <Precinct name="Bonnett" votes="315" />
+            <Precinct name="Furman" votes="171" />
+            <Precinct name="Scotia" votes="121" />
+            <Precinct name="Hopewell" votes="114" />
+            <Precinct name="Black Creek" votes="16" />
+            <Precinct name="Gifford" votes="68" />
+            <Precinct name="Absentee" votes="643" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="2" />
+            <Precinct name="Provisional" votes="2" />
+        </VoteType>
+        <Choice key="001" text="Mary Ann Atkins" party="NON" totalVotes="1248">
+            <VoteType name="Election Day" votes="1248">
+                <Precinct name="Garnett" votes="47" />
+                <Precinct name="Estill" votes="424" />
+                <Precinct name="Bonnett" votes="101" />
+                <Precinct name="Furman" votes="130" />
+                <Precinct name="Scotia" votes="84" />
+                <Precinct name="Hopewell" votes="16" />
+                <Precinct name="Black Creek" votes="5" />
+                <Precinct name="Gifford" votes="112" />
+                <Precinct name="Absentee" votes="326" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Earl Choice" party="NON" totalVotes="1233">
+            <VoteType name="Election Day" votes="1233">
+                <Precinct name="Garnett" votes="57" />
+                <Precinct name="Estill" votes="425" />
+                <Precinct name="Bonnett" votes="87" />
+                <Precinct name="Furman" votes="97" />
+                <Precinct name="Scotia" votes="108" />
+                <Precinct name="Hopewell" votes="11" />
+                <Precinct name="Black Creek" votes="3" />
+                <Precinct name="Gifford" votes="98" />
+                <Precinct name="Absentee" votes="342" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Bruce Davis" party="NON" totalVotes="1202">
+            <VoteType name="Election Day" votes="1202">
+                <Precinct name="Garnett" votes="33" />
+                <Precinct name="Estill" votes="381" />
+                <Precinct name="Bonnett" votes="116" />
+                <Precinct name="Furman" votes="104" />
+                <Precinct name="Scotia" votes="104" />
+                <Precinct name="Hopewell" votes="10" />
+                <Precinct name="Black Creek" votes="7" />
+                <Precinct name="Gifford" votes="111" />
+                <Precinct name="Absentee" votes="333" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Christopher Housey" party="NON" totalVotes="500">
+            <VoteType name="Election Day" votes="500">
+                <Precinct name="Garnett" votes="27" />
+                <Precinct name="Estill" votes="163" />
+                <Precinct name="Bonnett" votes="74" />
+                <Precinct name="Furman" votes="34" />
+                <Precinct name="Scotia" votes="59" />
+                <Precinct name="Hopewell" votes="18" />
+                <Precinct name="Black Creek" votes="3" />
+                <Precinct name="Gifford" votes="34" />
+                <Precinct name="Absentee" votes="87" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Katherine Manigo" party="NON" totalVotes="484">
+            <VoteType name="Election Day" votes="484">
+                <Precinct name="Garnett" votes="11" />
+                <Precinct name="Estill" votes="173" />
+                <Precinct name="Bonnett" votes="38" />
+                <Precinct name="Furman" votes="39" />
+                <Precinct name="Scotia" votes="28" />
+                <Precinct name="Hopewell" votes="12" />
+                <Precinct name="Black Creek" votes="1" />
+                <Precinct name="Gifford" votes="33" />
+                <Precinct name="Absentee" votes="148" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Thomas Owens" party="NON" totalVotes="1345">
+            <VoteType name="Election Day" votes="1345">
+                <Precinct name="Garnett" votes="51" />
+                <Precinct name="Estill" votes="435" />
+                <Precinct name="Bonnett" votes="91" />
+                <Precinct name="Furman" votes="93" />
+                <Precinct name="Scotia" votes="102" />
+                <Precinct name="Hopewell" votes="16" />
+                <Precinct name="Black Creek" votes="4" />
+                <Precinct name="Gifford" votes="105" />
+                <Precinct name="Absentee" votes="447" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="Write-In" party="NON" totalVotes="7">
+            <VoteType name="Election Day" votes="7">
+                <Precinct name="Garnett" votes="0" />
+                <Precinct name="Estill" votes="0" />
+                <Precinct name="Bonnett" votes="3" />
+                <Precinct name="Furman" votes="1" />
+                <Precinct name="Scotia" votes="0" />
+                <Precinct name="Hopewell" votes="1" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="Gifford" votes="0" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

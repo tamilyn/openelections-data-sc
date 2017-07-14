@@ -1,0 +1,1931 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>11/16/2016 1:24:10 PM EST</Timestamp>
+    <ElectionName>2016 Statewide General Election</ElectionName>
+    <ElectionDate>11/8/2016</ElectionDate>
+    <Region>Barnwell</Region>
+    <VoterTurnout totalVoters="13797" ballotsCast="9568" voterTurnout="69.35">
+        <Precincts>
+            <Precinct name="BARNWELL 1" totalVoters="703" ballotsCast="299" voterTurnout="42.53" percentReporting="4" />
+            <Precinct name="BARNWELL 2" totalVoters="1485" ballotsCast="714" voterTurnout="48.08" percentReporting="4" />
+            <Precinct name="BARNWELL 3" totalVoters="1653" ballotsCast="808" voterTurnout="48.88" percentReporting="4" />
+            <Precinct name="BARNWELL 4" totalVoters="1408" ballotsCast="654" voterTurnout="46.45" percentReporting="4" />
+            <Precinct name="BLACKVILLE 1" totalVoters="980" ballotsCast="490" voterTurnout="50.00" percentReporting="4" />
+            <Precinct name="BLACKVILLE 2" totalVoters="593" ballotsCast="324" voterTurnout="54.64" percentReporting="4" />
+            <Precinct name="ELKO" totalVoters="566" ballotsCast="338" voterTurnout="59.72" percentReporting="4" />
+            <Precinct name="FRIENDSHIP" totalVoters="590" ballotsCast="380" voterTurnout="64.41" percentReporting="4" />
+            <Precinct name="KLINE" totalVoters="586" ballotsCast="330" voterTurnout="56.31" percentReporting="4" />
+            <Precinct name="HEALING SPRINGS" totalVoters="866" ballotsCast="453" voterTurnout="52.31" percentReporting="4" />
+            <Precinct name="HILDA" totalVoters="827" ballotsCast="504" voterTurnout="60.94" percentReporting="4" />
+            <Precinct name="SNELLING" totalVoters="1247" ballotsCast="661" voterTurnout="53.01" percentReporting="4" />
+            <Precinct name="WILLISTON 1" totalVoters="1420" ballotsCast="725" voterTurnout="51.06" percentReporting="4" />
+            <Precinct name="WILLISTON 2" totalVoters="605" ballotsCast="321" voterTurnout="53.06" percentReporting="4" />
+            <Precinct name="WILLISTON 3" totalVoters="843" ballotsCast="479" voterTurnout="56.82" percentReporting="4" />
+            <Precinct name="Absentee" totalVoters="0" ballotsCast="1991" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Failsafe" totalVoters="0" ballotsCast="89" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Failsafe Provisional" totalVoters="0" ballotsCast="8" voterTurnout="0.00" percentReporting="32" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="0103" text="STRAIGHT PARTY" voteFor="1" isQuestion="false" precinctsReporting="15" precinctsReported="15">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BARNWELL 1" votes="0" />
+            <Precinct name="BARNWELL 2" votes="0" />
+            <Precinct name="BARNWELL 3" votes="0" />
+            <Precinct name="BARNWELL 4" votes="0" />
+            <Precinct name="BLACKVILLE 1" votes="0" />
+            <Precinct name="BLACKVILLE 2" votes="0" />
+            <Precinct name="ELKO" votes="0" />
+            <Precinct name="FRIENDSHIP" votes="0" />
+            <Precinct name="KLINE" votes="0" />
+            <Precinct name="HEALING SPRINGS" votes="0" />
+            <Precinct name="HILDA" votes="0" />
+            <Precinct name="SNELLING" votes="0" />
+            <Precinct name="WILLISTON 1" votes="0" />
+            <Precinct name="WILLISTON 2" votes="0" />
+            <Precinct name="WILLISTON 3" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="3851">
+            <Precinct name="BARNWELL 1" votes="111" />
+            <Precinct name="BARNWELL 2" votes="324" />
+            <Precinct name="BARNWELL 3" votes="391" />
+            <Precinct name="BARNWELL 4" votes="296" />
+            <Precinct name="BLACKVILLE 1" votes="142" />
+            <Precinct name="BLACKVILLE 2" votes="110" />
+            <Precinct name="ELKO" votes="135" />
+            <Precinct name="FRIENDSHIP" votes="190" />
+            <Precinct name="KLINE" votes="166" />
+            <Precinct name="HEALING SPRINGS" votes="109" />
+            <Precinct name="HILDA" votes="243" />
+            <Precinct name="SNELLING" votes="292" />
+            <Precinct name="WILLISTON 1" votes="243" />
+            <Precinct name="WILLISTON 2" votes="142" />
+            <Precinct name="WILLISTON 3" votes="194" />
+            <Precinct name="Absentee" votes="731" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="29" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="3" />
+        </VoteType>
+        <Choice key="001" text="Democratic" party="DEM" totalVotes="3265">
+            <VoteType name="Election Day" votes="3265">
+                <Precinct name="BARNWELL 1" votes="113" />
+                <Precinct name="BARNWELL 2" votes="178" />
+                <Precinct name="BARNWELL 3" votes="210" />
+                <Precinct name="BARNWELL 4" votes="260" />
+                <Precinct name="BLACKVILLE 1" votes="272" />
+                <Precinct name="BLACKVILLE 2" votes="166" />
+                <Precinct name="ELKO" votes="107" />
+                <Precinct name="FRIENDSHIP" votes="14" />
+                <Precinct name="KLINE" votes="82" />
+                <Precinct name="HEALING SPRINGS" votes="290" />
+                <Precinct name="HILDA" votes="32" />
+                <Precinct name="SNELLING" votes="205" />
+                <Precinct name="WILLISTON 1" votes="356" />
+                <Precinct name="WILLISTON 2" votes="70" />
+                <Precinct name="WILLISTON 3" votes="122" />
+                <Precinct name="Absentee" votes="747" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="38" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Working Families" party="WFM" totalVotes="50">
+            <VoteType name="Election Day" votes="50">
+                <Precinct name="BARNWELL 1" votes="6" />
+                <Precinct name="BARNWELL 2" votes="4" />
+                <Precinct name="BARNWELL 3" votes="4" />
+                <Precinct name="BARNWELL 4" votes="4" />
+                <Precinct name="BLACKVILLE 1" votes="4" />
+                <Precinct name="BLACKVILLE 2" votes="3" />
+                <Precinct name="ELKO" votes="3" />
+                <Precinct name="FRIENDSHIP" votes="0" />
+                <Precinct name="KLINE" votes="1" />
+                <Precinct name="HEALING SPRINGS" votes="2" />
+                <Precinct name="HILDA" votes="2" />
+                <Precinct name="SNELLING" votes="5" />
+                <Precinct name="WILLISTON 1" votes="2" />
+                <Precinct name="WILLISTON 2" votes="1" />
+                <Precinct name="WILLISTON 3" votes="3" />
+                <Precinct name="Absentee" votes="4" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Constitution" party="CON" totalVotes="13">
+            <VoteType name="Election Day" votes="13">
+                <Precinct name="BARNWELL 1" votes="0" />
+                <Precinct name="BARNWELL 2" votes="1" />
+                <Precinct name="BARNWELL 3" votes="1" />
+                <Precinct name="BARNWELL 4" votes="1" />
+                <Precinct name="BLACKVILLE 1" votes="0" />
+                <Precinct name="BLACKVILLE 2" votes="1" />
+                <Precinct name="ELKO" votes="1" />
+                <Precinct name="FRIENDSHIP" votes="0" />
+                <Precinct name="KLINE" votes="0" />
+                <Precinct name="HEALING SPRINGS" votes="2" />
+                <Precinct name="HILDA" votes="0" />
+                <Precinct name="SNELLING" votes="0" />
+                <Precinct name="WILLISTON 1" votes="0" />
+                <Precinct name="WILLISTON 2" votes="1" />
+                <Precinct name="WILLISTON 3" votes="1" />
+                <Precinct name="Absentee" votes="4" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Independence" party="IND" totalVotes="44">
+            <VoteType name="Election Day" votes="44">
+                <Precinct name="BARNWELL 1" votes="2" />
+                <Precinct name="BARNWELL 2" votes="6" />
+                <Precinct name="BARNWELL 3" votes="6" />
+                <Precinct name="BARNWELL 4" votes="2" />
+                <Precinct name="BLACKVILLE 1" votes="2" />
+                <Precinct name="BLACKVILLE 2" votes="3" />
+                <Precinct name="ELKO" votes="0" />
+                <Precinct name="FRIENDSHIP" votes="5" />
+                <Precinct name="KLINE" votes="2" />
+                <Precinct name="HEALING SPRINGS" votes="2" />
+                <Precinct name="HILDA" votes="5" />
+                <Precinct name="SNELLING" votes="0" />
+                <Precinct name="WILLISTON 1" votes="1" />
+                <Precinct name="WILLISTON 2" votes="3" />
+                <Precinct name="WILLISTON 3" votes="2" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Green" party="GRN" totalVotes="19">
+            <VoteType name="Election Day" votes="19">
+                <Precinct name="BARNWELL 1" votes="0" />
+                <Precinct name="BARNWELL 2" votes="3" />
+                <Precinct name="BARNWELL 3" votes="4" />
+                <Precinct name="BARNWELL 4" votes="1" />
+                <Precinct name="BLACKVILLE 1" votes="2" />
+                <Precinct name="BLACKVILLE 2" votes="0" />
+                <Precinct name="ELKO" votes="1" />
+                <Precinct name="FRIENDSHIP" votes="0" />
+                <Precinct name="KLINE" votes="1" />
+                <Precinct name="HEALING SPRINGS" votes="0" />
+                <Precinct name="HILDA" votes="2" />
+                <Precinct name="SNELLING" votes="1" />
+                <Precinct name="WILLISTON 1" votes="1" />
+                <Precinct name="WILLISTON 2" votes="0" />
+                <Precinct name="WILLISTON 3" votes="1" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Republican" party="REP" totalVotes="2288">
+            <VoteType name="Election Day" votes="2288">
+                <Precinct name="BARNWELL 1" votes="64" />
+                <Precinct name="BARNWELL 2" votes="195" />
+                <Precinct name="BARNWELL 3" votes="184" />
+                <Precinct name="BARNWELL 4" votes="87" />
+                <Precinct name="BLACKVILLE 1" votes="65" />
+                <Precinct name="BLACKVILLE 2" votes="40" />
+                <Precinct name="ELKO" votes="90" />
+                <Precinct name="FRIENDSHIP" votes="169" />
+                <Precinct name="KLINE" votes="78" />
+                <Precinct name="HEALING SPRINGS" votes="47" />
+                <Precinct name="HILDA" votes="220" />
+                <Precinct name="SNELLING" votes="155" />
+                <Precinct name="WILLISTON 1" votes="119" />
+                <Precinct name="WILLISTON 2" votes="103" />
+                <Precinct name="WILLISTON 3" votes="151" />
+                <Precinct name="Absentee" votes="500" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="19" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="American" party="AMC" totalVotes="28">
+            <VoteType name="Election Day" votes="28">
+                <Precinct name="BARNWELL 1" votes="2" />
+                <Precinct name="BARNWELL 2" votes="3" />
+                <Precinct name="BARNWELL 3" votes="5" />
+                <Precinct name="BARNWELL 4" votes="2" />
+                <Precinct name="BLACKVILLE 1" votes="2" />
+                <Precinct name="BLACKVILLE 2" votes="1" />
+                <Precinct name="ELKO" votes="1" />
+                <Precinct name="FRIENDSHIP" votes="2" />
+                <Precinct name="KLINE" votes="0" />
+                <Precinct name="HEALING SPRINGS" votes="1" />
+                <Precinct name="HILDA" votes="0" />
+                <Precinct name="SNELLING" votes="1" />
+                <Precinct name="WILLISTON 1" votes="2" />
+                <Precinct name="WILLISTON 2" votes="1" />
+                <Precinct name="WILLISTON 3" votes="4" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="008" text="Libertarian" party="LIB" totalVotes="10">
+            <VoteType name="Election Day" votes="10">
+                <Precinct name="BARNWELL 1" votes="1" />
+                <Precinct name="BARNWELL 2" votes="0" />
+                <Precinct name="BARNWELL 3" votes="3" />
+                <Precinct name="BARNWELL 4" votes="1" />
+                <Precinct name="BLACKVILLE 1" votes="1" />
+                <Precinct name="BLACKVILLE 2" votes="0" />
+                <Precinct name="ELKO" votes="0" />
+                <Precinct name="FRIENDSHIP" votes="0" />
+                <Precinct name="KLINE" votes="0" />
+                <Precinct name="HEALING SPRINGS" votes="0" />
+                <Precinct name="HILDA" votes="0" />
+                <Precinct name="SNELLING" votes="2" />
+                <Precinct name="WILLISTON 1" votes="1" />
+                <Precinct name="WILLISTON 2" votes="0" />
+                <Precinct name="WILLISTON 3" votes="1" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0104" text="President and Vice President" voteFor="1" isQuestion="false" precinctsReporting="15" precinctsReported="15">
+        <VoteType name="overVotes" votes="2">
+            <Precinct name="BARNWELL 1" votes="0" />
+            <Precinct name="BARNWELL 2" votes="0" />
+            <Precinct name="BARNWELL 3" votes="0" />
+            <Precinct name="BARNWELL 4" votes="0" />
+            <Precinct name="BLACKVILLE 1" votes="0" />
+            <Precinct name="BLACKVILLE 2" votes="0" />
+            <Precinct name="ELKO" votes="0" />
+            <Precinct name="FRIENDSHIP" votes="0" />
+            <Precinct name="KLINE" votes="0" />
+            <Precinct name="HEALING SPRINGS" votes="0" />
+            <Precinct name="HILDA" votes="0" />
+            <Precinct name="SNELLING" votes="0" />
+            <Precinct name="WILLISTON 1" votes="0" />
+            <Precinct name="WILLISTON 2" votes="0" />
+            <Precinct name="WILLISTON 3" votes="0" />
+            <Precinct name="Absentee" votes="2" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="81">
+            <Precinct name="BARNWELL 1" votes="1" />
+            <Precinct name="BARNWELL 2" votes="8" />
+            <Precinct name="BARNWELL 3" votes="8" />
+            <Precinct name="BARNWELL 4" votes="2" />
+            <Precinct name="BLACKVILLE 1" votes="6" />
+            <Precinct name="BLACKVILLE 2" votes="7" />
+            <Precinct name="ELKO" votes="5" />
+            <Precinct name="FRIENDSHIP" votes="3" />
+            <Precinct name="KLINE" votes="2" />
+            <Precinct name="HEALING SPRINGS" votes="4" />
+            <Precinct name="HILDA" votes="6" />
+            <Precinct name="SNELLING" votes="0" />
+            <Precinct name="WILLISTON 1" votes="7" />
+            <Precinct name="WILLISTON 2" votes="4" />
+            <Precinct name="WILLISTON 3" votes="7" />
+            <Precinct name="Absentee" votes="9" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="2" />
+        </VoteType>
+        <Choice key="001" text="Hillary Rodham Clinton / Timothy Michael Kaine" party="DEM" totalVotes="4400">
+            <VoteType name="Election Day" votes="4400">
+                <Precinct name="BARNWELL 1" votes="153" />
+                <Precinct name="BARNWELL 2" votes="243" />
+                <Precinct name="BARNWELL 3" votes="301" />
+                <Precinct name="BARNWELL 4" votes="395" />
+                <Precinct name="BLACKVILLE 1" votes="336" />
+                <Precinct name="BLACKVILLE 2" votes="215" />
+                <Precinct name="ELKO" votes="155" />
+                <Precinct name="FRIENDSHIP" votes="23" />
+                <Precinct name="KLINE" votes="125" />
+                <Precinct name="HEALING SPRINGS" votes="352" />
+                <Precinct name="HILDA" votes="58" />
+                <Precinct name="SNELLING" votes="296" />
+                <Precinct name="WILLISTON 1" votes="443" />
+                <Precinct name="WILLISTON 2" votes="97" />
+                <Precinct name="WILLISTON 3" votes="173" />
+                <Precinct name="Absentee" votes="981" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="49" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="5" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Darrell Castle / Scott Bradley" party="CON" totalVotes="24">
+            <VoteType name="Election Day" votes="24">
+                <Precinct name="BARNWELL 1" votes="0" />
+                <Precinct name="BARNWELL 2" votes="3" />
+                <Precinct name="BARNWELL 3" votes="2" />
+                <Precinct name="BARNWELL 4" votes="1" />
+                <Precinct name="BLACKVILLE 1" votes="0" />
+                <Precinct name="BLACKVILLE 2" votes="3" />
+                <Precinct name="ELKO" votes="1" />
+                <Precinct name="FRIENDSHIP" votes="0" />
+                <Precinct name="KLINE" votes="0" />
+                <Precinct name="HEALING SPRINGS" votes="1" />
+                <Precinct name="HILDA" votes="0" />
+                <Precinct name="SNELLING" votes="0" />
+                <Precinct name="WILLISTON 1" votes="3" />
+                <Precinct name="WILLISTON 2" votes="1" />
+                <Precinct name="WILLISTON 3" votes="5" />
+                <Precinct name="Absentee" votes="4" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Evan McMullin / Nathan Johnson" party="IND" totalVotes="43">
+            <VoteType name="Election Day" votes="43">
+                <Precinct name="BARNWELL 1" votes="0" />
+                <Precinct name="BARNWELL 2" votes="5" />
+                <Precinct name="BARNWELL 3" votes="5" />
+                <Precinct name="BARNWELL 4" votes="3" />
+                <Precinct name="BLACKVILLE 1" votes="2" />
+                <Precinct name="BLACKVILLE 2" votes="5" />
+                <Precinct name="ELKO" votes="2" />
+                <Precinct name="FRIENDSHIP" votes="1" />
+                <Precinct name="KLINE" votes="0" />
+                <Precinct name="HEALING SPRINGS" votes="2" />
+                <Precinct name="HILDA" votes="4" />
+                <Precinct name="SNELLING" votes="1" />
+                <Precinct name="WILLISTON 1" votes="2" />
+                <Precinct name="WILLISTON 2" votes="2" />
+                <Precinct name="WILLISTON 3" votes="2" />
+                <Precinct name="Absentee" votes="7" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Jill Stein / Ajamu Baraka" party="GRN" totalVotes="35">
+            <VoteType name="Election Day" votes="35">
+                <Precinct name="BARNWELL 1" votes="2" />
+                <Precinct name="BARNWELL 2" votes="2" />
+                <Precinct name="BARNWELL 3" votes="8" />
+                <Precinct name="BARNWELL 4" votes="1" />
+                <Precinct name="BLACKVILLE 1" votes="2" />
+                <Precinct name="BLACKVILLE 2" votes="1" />
+                <Precinct name="ELKO" votes="3" />
+                <Precinct name="FRIENDSHIP" votes="2" />
+                <Precinct name="KLINE" votes="2" />
+                <Precinct name="HEALING SPRINGS" votes="2" />
+                <Precinct name="HILDA" votes="1" />
+                <Precinct name="SNELLING" votes="1" />
+                <Precinct name="WILLISTON 1" votes="3" />
+                <Precinct name="WILLISTON 2" votes="0" />
+                <Precinct name="WILLISTON 3" votes="1" />
+                <Precinct name="Absentee" votes="4" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Donald J Trump / Michael R Pence" party="REP" totalVotes="4889">
+            <VoteType name="Election Day" votes="4889">
+                <Precinct name="BARNWELL 1" votes="141" />
+                <Precinct name="BARNWELL 2" votes="448" />
+                <Precinct name="BARNWELL 3" votes="462" />
+                <Precinct name="BARNWELL 4" votes="244" />
+                <Precinct name="BLACKVILLE 1" votes="141" />
+                <Precinct name="BLACKVILLE 2" votes="93" />
+                <Precinct name="ELKO" votes="170" />
+                <Precinct name="FRIENDSHIP" votes="351" />
+                <Precinct name="KLINE" votes="192" />
+                <Precinct name="HEALING SPRINGS" votes="89" />
+                <Precinct name="HILDA" votes="433" />
+                <Precinct name="SNELLING" votes="357" />
+                <Precinct name="WILLISTON 1" votes="259" />
+                <Precinct name="WILLISTON 2" votes="212" />
+                <Precinct name="WILLISTON 3" votes="285" />
+                <Precinct name="Absentee" votes="972" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="39" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Peter Skewes / Michael Lacy" party="AMC" totalVotes="7">
+            <VoteType name="Election Day" votes="7">
+                <Precinct name="BARNWELL 1" votes="0" />
+                <Precinct name="BARNWELL 2" votes="0" />
+                <Precinct name="BARNWELL 3" votes="2" />
+                <Precinct name="BARNWELL 4" votes="1" />
+                <Precinct name="BLACKVILLE 1" votes="1" />
+                <Precinct name="BLACKVILLE 2" votes="0" />
+                <Precinct name="ELKO" votes="0" />
+                <Precinct name="FRIENDSHIP" votes="0" />
+                <Precinct name="KLINE" votes="1" />
+                <Precinct name="HEALING SPRINGS" votes="0" />
+                <Precinct name="HILDA" votes="2" />
+                <Precinct name="SNELLING" votes="0" />
+                <Precinct name="WILLISTON 1" votes="0" />
+                <Precinct name="WILLISTON 2" votes="0" />
+                <Precinct name="WILLISTON 3" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="Gary Johnson / Bill Weld" party="LIB" totalVotes="87">
+            <VoteType name="Election Day" votes="87">
+                <Precinct name="BARNWELL 1" votes="2" />
+                <Precinct name="BARNWELL 2" votes="5" />
+                <Precinct name="BARNWELL 3" votes="20" />
+                <Precinct name="BARNWELL 4" votes="7" />
+                <Precinct name="BLACKVILLE 1" votes="2" />
+                <Precinct name="BLACKVILLE 2" votes="0" />
+                <Precinct name="ELKO" votes="2" />
+                <Precinct name="FRIENDSHIP" votes="0" />
+                <Precinct name="KLINE" votes="8" />
+                <Precinct name="HEALING SPRINGS" votes="3" />
+                <Precinct name="HILDA" votes="0" />
+                <Precinct name="SNELLING" votes="6" />
+                <Precinct name="WILLISTON 1" votes="8" />
+                <Precinct name="WILLISTON 2" votes="5" />
+                <Precinct name="WILLISTON 3" votes="6" />
+                <Precinct name="Absentee" votes="12" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0105" text="U.S. Senate" voteFor="1" isQuestion="false" precinctsReporting="15" precinctsReported="15">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BARNWELL 1" votes="0" />
+            <Precinct name="BARNWELL 2" votes="0" />
+            <Precinct name="BARNWELL 3" votes="0" />
+            <Precinct name="BARNWELL 4" votes="0" />
+            <Precinct name="BLACKVILLE 1" votes="0" />
+            <Precinct name="BLACKVILLE 2" votes="0" />
+            <Precinct name="ELKO" votes="0" />
+            <Precinct name="FRIENDSHIP" votes="0" />
+            <Precinct name="KLINE" votes="0" />
+            <Precinct name="HEALING SPRINGS" votes="0" />
+            <Precinct name="HILDA" votes="0" />
+            <Precinct name="SNELLING" votes="0" />
+            <Precinct name="WILLISTON 1" votes="0" />
+            <Precinct name="WILLISTON 2" votes="0" />
+            <Precinct name="WILLISTON 3" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="381">
+            <Precinct name="BARNWELL 1" votes="8" />
+            <Precinct name="BARNWELL 2" votes="21" />
+            <Precinct name="BARNWELL 3" votes="30" />
+            <Precinct name="BARNWELL 4" votes="21" />
+            <Precinct name="BLACKVILLE 1" votes="22" />
+            <Precinct name="BLACKVILLE 2" votes="17" />
+            <Precinct name="ELKO" votes="16" />
+            <Precinct name="FRIENDSHIP" votes="26" />
+            <Precinct name="KLINE" votes="13" />
+            <Precinct name="HEALING SPRINGS" votes="15" />
+            <Precinct name="HILDA" votes="33" />
+            <Precinct name="SNELLING" votes="32" />
+            <Precinct name="WILLISTON 1" votes="26" />
+            <Precinct name="WILLISTON 2" votes="6" />
+            <Precinct name="WILLISTON 3" votes="22" />
+            <Precinct name="Absentee" votes="68" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="4" />
+        </VoteType>
+        <Choice key="001" text="Thomas Dixon" party="DEM" totalVotes="3998">
+            <VoteType name="Election Day" votes="3998">
+                <Precinct name="BARNWELL 1" votes="134" />
+                <Precinct name="BARNWELL 2" votes="222" />
+                <Precinct name="BARNWELL 3" votes="264" />
+                <Precinct name="BARNWELL 4" votes="350" />
+                <Precinct name="BLACKVILLE 1" votes="318" />
+                <Precinct name="BLACKVILLE 2" votes="196" />
+                <Precinct name="ELKO" votes="138" />
+                <Precinct name="FRIENDSHIP" votes="25" />
+                <Precinct name="KLINE" votes="107" />
+                <Precinct name="HEALING SPRINGS" votes="328" />
+                <Precinct name="HILDA" votes="51" />
+                <Precinct name="SNELLING" votes="262" />
+                <Precinct name="WILLISTON 1" votes="406" />
+                <Precinct name="WILLISTON 2" votes="87" />
+                <Precinct name="WILLISTON 3" votes="151" />
+                <Precinct name="Absentee" votes="910" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="46" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Thomas Dixon" party="WFM" totalVotes="182">
+            <VoteType name="Election Day" votes="182">
+                <Precinct name="BARNWELL 1" votes="11" />
+                <Precinct name="BARNWELL 2" votes="16" />
+                <Precinct name="BARNWELL 3" votes="14" />
+                <Precinct name="BARNWELL 4" votes="17" />
+                <Precinct name="BLACKVILLE 1" votes="6" />
+                <Precinct name="BLACKVILLE 2" votes="7" />
+                <Precinct name="ELKO" votes="3" />
+                <Precinct name="FRIENDSHIP" votes="10" />
+                <Precinct name="KLINE" votes="9" />
+                <Precinct name="HEALING SPRINGS" votes="7" />
+                <Precinct name="HILDA" votes="14" />
+                <Precinct name="SNELLING" votes="15" />
+                <Precinct name="WILLISTON 1" votes="11" />
+                <Precinct name="WILLISTON 2" votes="8" />
+                <Precinct name="WILLISTON 3" votes="9" />
+                <Precinct name="Absentee" votes="18" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="7" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Bill Bledsoe" party="CON" totalVotes="53">
+            <VoteType name="Election Day" votes="53">
+                <Precinct name="BARNWELL 1" votes="2" />
+                <Precinct name="BARNWELL 2" votes="6" />
+                <Precinct name="BARNWELL 3" votes="5" />
+                <Precinct name="BARNWELL 4" votes="3" />
+                <Precinct name="BLACKVILLE 1" votes="1" />
+                <Precinct name="BLACKVILLE 2" votes="3" />
+                <Precinct name="ELKO" votes="5" />
+                <Precinct name="FRIENDSHIP" votes="3" />
+                <Precinct name="KLINE" votes="1" />
+                <Precinct name="HEALING SPRINGS" votes="1" />
+                <Precinct name="HILDA" votes="2" />
+                <Precinct name="SNELLING" votes="4" />
+                <Precinct name="WILLISTON 1" votes="0" />
+                <Precinct name="WILLISTON 2" votes="3" />
+                <Precinct name="WILLISTON 3" votes="4" />
+                <Precinct name="Absentee" votes="9" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Thomas Dixon" party="GRN" totalVotes="48">
+            <VoteType name="Election Day" votes="48">
+                <Precinct name="BARNWELL 1" votes="2" />
+                <Precinct name="BARNWELL 2" votes="4" />
+                <Precinct name="BARNWELL 3" votes="8" />
+                <Precinct name="BARNWELL 4" votes="2" />
+                <Precinct name="BLACKVILLE 1" votes="4" />
+                <Precinct name="BLACKVILLE 2" votes="1" />
+                <Precinct name="ELKO" votes="3" />
+                <Precinct name="FRIENDSHIP" votes="1" />
+                <Precinct name="KLINE" votes="2" />
+                <Precinct name="HEALING SPRINGS" votes="0" />
+                <Precinct name="HILDA" votes="3" />
+                <Precinct name="SNELLING" votes="4" />
+                <Precinct name="WILLISTON 1" votes="4" />
+                <Precinct name="WILLISTON 2" votes="2" />
+                <Precinct name="WILLISTON 3" votes="2" />
+                <Precinct name="Absentee" votes="5" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Tim Scott" party="REP" totalVotes="4793">
+            <VoteType name="Election Day" votes="4793">
+                <Precinct name="BARNWELL 1" votes="137" />
+                <Precinct name="BARNWELL 2" votes="436" />
+                <Precinct name="BARNWELL 3" votes="471" />
+                <Precinct name="BARNWELL 4" votes="255" />
+                <Precinct name="BLACKVILLE 1" votes="134" />
+                <Precinct name="BLACKVILLE 2" votes="97" />
+                <Precinct name="ELKO" votes="168" />
+                <Precinct name="FRIENDSHIP" votes="305" />
+                <Precinct name="KLINE" votes="191" />
+                <Precinct name="HEALING SPRINGS" votes="98" />
+                <Precinct name="HILDA" votes="398" />
+                <Precinct name="SNELLING" votes="330" />
+                <Precinct name="WILLISTON 1" votes="273" />
+                <Precinct name="WILLISTON 2" votes="210" />
+                <Precinct name="WILLISTON 3" votes="283" />
+                <Precinct name="Absentee" votes="973" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="33" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Rebel Michael Scarborough" party="AMC" totalVotes="56">
+            <VoteType name="Election Day" votes="56">
+                <Precinct name="BARNWELL 1" votes="3" />
+                <Precinct name="BARNWELL 2" votes="3" />
+                <Precinct name="BARNWELL 3" votes="6" />
+                <Precinct name="BARNWELL 4" votes="3" />
+                <Precinct name="BLACKVILLE 1" votes="3" />
+                <Precinct name="BLACKVILLE 2" votes="2" />
+                <Precinct name="ELKO" votes="3" />
+                <Precinct name="FRIENDSHIP" votes="5" />
+                <Precinct name="KLINE" votes="1" />
+                <Precinct name="HEALING SPRINGS" votes="3" />
+                <Precinct name="HILDA" votes="2" />
+                <Precinct name="SNELLING" votes="7" />
+                <Precinct name="WILLISTON 1" votes="2" />
+                <Precinct name="WILLISTON 2" votes="2" />
+                <Precinct name="WILLISTON 3" votes="5" />
+                <Precinct name="Absentee" votes="6" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="Bill Bledsoe" party="LIB" totalVotes="54">
+            <VoteType name="Election Day" votes="54">
+                <Precinct name="BARNWELL 1" votes="2" />
+                <Precinct name="BARNWELL 2" votes="5" />
+                <Precinct name="BARNWELL 3" votes="9" />
+                <Precinct name="BARNWELL 4" votes="3" />
+                <Precinct name="BLACKVILLE 1" votes="2" />
+                <Precinct name="BLACKVILLE 2" votes="1" />
+                <Precinct name="ELKO" votes="2" />
+                <Precinct name="FRIENDSHIP" votes="5" />
+                <Precinct name="KLINE" votes="6" />
+                <Precinct name="HEALING SPRINGS" votes="1" />
+                <Precinct name="HILDA" votes="1" />
+                <Precinct name="SNELLING" votes="7" />
+                <Precinct name="WILLISTON 1" votes="3" />
+                <Precinct name="WILLISTON 2" votes="3" />
+                <Precinct name="WILLISTON 3" votes="3" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="008" text="Write-In" party="NON" totalVotes="3">
+            <VoteType name="Election Day" votes="3">
+                <Precinct name="BARNWELL 1" votes="0" />
+                <Precinct name="BARNWELL 2" votes="1" />
+                <Precinct name="BARNWELL 3" votes="1" />
+                <Precinct name="BARNWELL 4" votes="0" />
+                <Precinct name="BLACKVILLE 1" votes="0" />
+                <Precinct name="BLACKVILLE 2" votes="0" />
+                <Precinct name="ELKO" votes="0" />
+                <Precinct name="FRIENDSHIP" votes="0" />
+                <Precinct name="KLINE" votes="0" />
+                <Precinct name="HEALING SPRINGS" votes="0" />
+                <Precinct name="HILDA" votes="0" />
+                <Precinct name="SNELLING" votes="0" />
+                <Precinct name="WILLISTON 1" votes="0" />
+                <Precinct name="WILLISTON 2" votes="0" />
+                <Precinct name="WILLISTON 3" votes="0" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0106" text="U.S.  House of Representatives, District  2" voteFor="1" isQuestion="false" precinctsReporting="15" precinctsReported="15">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BARNWELL 1" votes="0" />
+            <Precinct name="BARNWELL 2" votes="0" />
+            <Precinct name="BARNWELL 3" votes="0" />
+            <Precinct name="BARNWELL 4" votes="0" />
+            <Precinct name="BLACKVILLE 1" votes="0" />
+            <Precinct name="BLACKVILLE 2" votes="0" />
+            <Precinct name="ELKO" votes="0" />
+            <Precinct name="FRIENDSHIP" votes="0" />
+            <Precinct name="KLINE" votes="0" />
+            <Precinct name="HEALING SPRINGS" votes="0" />
+            <Precinct name="HILDA" votes="0" />
+            <Precinct name="SNELLING" votes="0" />
+            <Precinct name="WILLISTON 1" votes="0" />
+            <Precinct name="WILLISTON 2" votes="0" />
+            <Precinct name="WILLISTON 3" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="369">
+            <Precinct name="BARNWELL 1" votes="8" />
+            <Precinct name="BARNWELL 2" votes="19" />
+            <Precinct name="BARNWELL 3" votes="28" />
+            <Precinct name="BARNWELL 4" votes="26" />
+            <Precinct name="BLACKVILLE 1" votes="22" />
+            <Precinct name="BLACKVILLE 2" votes="14" />
+            <Precinct name="ELKO" votes="14" />
+            <Precinct name="FRIENDSHIP" votes="16" />
+            <Precinct name="KLINE" votes="16" />
+            <Precinct name="HEALING SPRINGS" votes="19" />
+            <Precinct name="HILDA" votes="25" />
+            <Precinct name="SNELLING" votes="30" />
+            <Precinct name="WILLISTON 1" votes="29" />
+            <Precinct name="WILLISTON 2" votes="9" />
+            <Precinct name="WILLISTON 3" votes="17" />
+            <Precinct name="Absentee" votes="72" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="4" />
+        </VoteType>
+        <Choice key="001" text="Arik Bjorn" party="DEM" totalVotes="4059">
+            <VoteType name="Election Day" votes="4059">
+                <Precinct name="BARNWELL 1" votes="142" />
+                <Precinct name="BARNWELL 2" votes="219" />
+                <Precinct name="BARNWELL 3" votes="272" />
+                <Precinct name="BARNWELL 4" votes="348" />
+                <Precinct name="BLACKVILLE 1" votes="323" />
+                <Precinct name="BLACKVILLE 2" votes="204" />
+                <Precinct name="ELKO" votes="132" />
+                <Precinct name="FRIENDSHIP" votes="28" />
+                <Precinct name="KLINE" votes="110" />
+                <Precinct name="HEALING SPRINGS" votes="331" />
+                <Precinct name="HILDA" votes="51" />
+                <Precinct name="SNELLING" votes="262" />
+                <Precinct name="WILLISTON 1" votes="410" />
+                <Precinct name="WILLISTON 2" votes="90" />
+                <Precinct name="WILLISTON 3" votes="157" />
+                <Precinct name="Absentee" votes="933" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="45" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Arik Bjorn" party="GRN" totalVotes="72">
+            <VoteType name="Election Day" votes="72">
+                <Precinct name="BARNWELL 1" votes="1" />
+                <Precinct name="BARNWELL 2" votes="6" />
+                <Precinct name="BARNWELL 3" votes="6" />
+                <Precinct name="BARNWELL 4" votes="5" />
+                <Precinct name="BLACKVILLE 1" votes="6" />
+                <Precinct name="BLACKVILLE 2" votes="0" />
+                <Precinct name="ELKO" votes="12" />
+                <Precinct name="FRIENDSHIP" votes="4" />
+                <Precinct name="KLINE" votes="3" />
+                <Precinct name="HEALING SPRINGS" votes="1" />
+                <Precinct name="HILDA" votes="4" />
+                <Precinct name="SNELLING" votes="3" />
+                <Precinct name="WILLISTON 1" votes="4" />
+                <Precinct name="WILLISTON 2" votes="1" />
+                <Precinct name="WILLISTON 3" votes="4" />
+                <Precinct name="Absentee" votes="12" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Joe Wilson" party="REP" totalVotes="4762">
+            <VoteType name="Election Day" votes="4762">
+                <Precinct name="BARNWELL 1" votes="131" />
+                <Precinct name="BARNWELL 2" votes="451" />
+                <Precinct name="BARNWELL 3" votes="465" />
+                <Precinct name="BARNWELL 4" votes="251" />
+                <Precinct name="BLACKVILLE 1" votes="126" />
+                <Precinct name="BLACKVILLE 2" votes="100" />
+                <Precinct name="ELKO" votes="167" />
+                <Precinct name="FRIENDSHIP" votes="317" />
+                <Precinct name="KLINE" votes="188" />
+                <Precinct name="HEALING SPRINGS" votes="90" />
+                <Precinct name="HILDA" votes="398" />
+                <Precinct name="SNELLING" votes="346" />
+                <Precinct name="WILLISTON 1" votes="266" />
+                <Precinct name="WILLISTON 2" votes="211" />
+                <Precinct name="WILLISTON 3" votes="291" />
+                <Precinct name="Absentee" votes="924" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="38" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Eddie McCain" party="AMC" totalVotes="302">
+            <VoteType name="Election Day" votes="302">
+                <Precinct name="BARNWELL 1" votes="17" />
+                <Precinct name="BARNWELL 2" votes="17" />
+                <Precinct name="BARNWELL 3" votes="37" />
+                <Precinct name="BARNWELL 4" votes="23" />
+                <Precinct name="BLACKVILLE 1" votes="13" />
+                <Precinct name="BLACKVILLE 2" votes="6" />
+                <Precinct name="ELKO" votes="13" />
+                <Precinct name="FRIENDSHIP" votes="14" />
+                <Precinct name="KLINE" votes="13" />
+                <Precinct name="HEALING SPRINGS" votes="12" />
+                <Precinct name="HILDA" votes="26" />
+                <Precinct name="SNELLING" votes="20" />
+                <Precinct name="WILLISTON 1" votes="16" />
+                <Precinct name="WILLISTON 2" votes="10" />
+                <Precinct name="WILLISTON 3" votes="10" />
+                <Precinct name="Absentee" votes="50" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="5" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Write-In" party="NON" totalVotes="4">
+            <VoteType name="Election Day" votes="4">
+                <Precinct name="BARNWELL 1" votes="0" />
+                <Precinct name="BARNWELL 2" votes="2" />
+                <Precinct name="BARNWELL 3" votes="0" />
+                <Precinct name="BARNWELL 4" votes="1" />
+                <Precinct name="BLACKVILLE 1" votes="0" />
+                <Precinct name="BLACKVILLE 2" votes="0" />
+                <Precinct name="ELKO" votes="0" />
+                <Precinct name="FRIENDSHIP" votes="1" />
+                <Precinct name="KLINE" votes="0" />
+                <Precinct name="HEALING SPRINGS" votes="0" />
+                <Precinct name="HILDA" votes="0" />
+                <Precinct name="SNELLING" votes="0" />
+                <Precinct name="WILLISTON 1" votes="0" />
+                <Precinct name="WILLISTON 2" votes="0" />
+                <Precinct name="WILLISTON 3" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0107" text="State  Senate, District  40" voteFor="1" isQuestion="false" precinctsReporting="15" precinctsReported="15">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BARNWELL 1" votes="0" />
+            <Precinct name="BARNWELL 2" votes="0" />
+            <Precinct name="BARNWELL 3" votes="0" />
+            <Precinct name="BARNWELL 4" votes="0" />
+            <Precinct name="BLACKVILLE 1" votes="0" />
+            <Precinct name="BLACKVILLE 2" votes="0" />
+            <Precinct name="ELKO" votes="0" />
+            <Precinct name="FRIENDSHIP" votes="0" />
+            <Precinct name="KLINE" votes="0" />
+            <Precinct name="HEALING SPRINGS" votes="0" />
+            <Precinct name="HILDA" votes="0" />
+            <Precinct name="SNELLING" votes="0" />
+            <Precinct name="WILLISTON 1" votes="0" />
+            <Precinct name="WILLISTON 2" votes="0" />
+            <Precinct name="WILLISTON 3" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="2850">
+            <Precinct name="BARNWELL 1" votes="61" />
+            <Precinct name="BARNWELL 2" votes="245" />
+            <Precinct name="BARNWELL 3" votes="233" />
+            <Precinct name="BARNWELL 4" votes="138" />
+            <Precinct name="BLACKVILLE 1" votes="98" />
+            <Precinct name="BLACKVILLE 2" votes="61" />
+            <Precinct name="ELKO" votes="109" />
+            <Precinct name="FRIENDSHIP" votes="176" />
+            <Precinct name="KLINE" votes="113" />
+            <Precinct name="HEALING SPRINGS" votes="71" />
+            <Precinct name="HILDA" votes="258" />
+            <Precinct name="SNELLING" votes="198" />
+            <Precinct name="WILLISTON 1" votes="166" />
+            <Precinct name="WILLISTON 2" votes="118" />
+            <Precinct name="WILLISTON 3" votes="181" />
+            <Precinct name="Absentee" votes="606" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="12" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="6" />
+        </VoteType>
+        <Choice key="001" text="Brad Hutto" party="DEM" totalVotes="6648">
+            <VoteType name="Election Day" votes="6648">
+                <Precinct name="BARNWELL 1" votes="235" />
+                <Precinct name="BARNWELL 2" votes="455" />
+                <Precinct name="BARNWELL 3" votes="569" />
+                <Precinct name="BARNWELL 4" votes="510" />
+                <Precinct name="BLACKVILLE 1" votes="390" />
+                <Precinct name="BLACKVILLE 2" votes="260" />
+                <Precinct name="ELKO" votes="225" />
+                <Precinct name="FRIENDSHIP" votes="202" />
+                <Precinct name="KLINE" votes="215" />
+                <Precinct name="HEALING SPRINGS" votes="381" />
+                <Precinct name="HILDA" votes="243" />
+                <Precinct name="SNELLING" votes="460" />
+                <Precinct name="WILLISTON 1" votes="558" />
+                <Precinct name="WILLISTON 2" votes="200" />
+                <Precinct name="WILLISTON 3" votes="295" />
+                <Precinct name="Absentee" votes="1373" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="75" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="70">
+            <VoteType name="Election Day" votes="70">
+                <Precinct name="BARNWELL 1" votes="3" />
+                <Precinct name="BARNWELL 2" votes="14" />
+                <Precinct name="BARNWELL 3" votes="6" />
+                <Precinct name="BARNWELL 4" votes="6" />
+                <Precinct name="BLACKVILLE 1" votes="2" />
+                <Precinct name="BLACKVILLE 2" votes="3" />
+                <Precinct name="ELKO" votes="4" />
+                <Precinct name="FRIENDSHIP" votes="2" />
+                <Precinct name="KLINE" votes="2" />
+                <Precinct name="HEALING SPRINGS" votes="1" />
+                <Precinct name="HILDA" votes="3" />
+                <Precinct name="SNELLING" votes="3" />
+                <Precinct name="WILLISTON 1" votes="1" />
+                <Precinct name="WILLISTON 2" votes="3" />
+                <Precinct name="WILLISTON 3" votes="3" />
+                <Precinct name="Absentee" votes="12" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0108" text="State  House of Representatives, District  90" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BARNWELL 3" votes="0" />
+            <Precinct name="BLACKVILLE 1" votes="0" />
+            <Precinct name="BLACKVILLE 2" votes="0" />
+            <Precinct name="FRIENDSHIP" votes="0" />
+            <Precinct name="KLINE" votes="0" />
+            <Precinct name="HILDA" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="72">
+            <Precinct name="BARNWELL 3" votes="1" />
+            <Precinct name="BLACKVILLE 1" votes="0" />
+            <Precinct name="BLACKVILLE 2" votes="3" />
+            <Precinct name="FRIENDSHIP" votes="24" />
+            <Precinct name="KLINE" votes="5" />
+            <Precinct name="HILDA" votes="30" />
+            <Precinct name="Absentee" votes="9" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Justin Bamberg" party="DEM" totalVotes="297">
+            <VoteType name="Election Day" votes="297">
+                <Precinct name="BARNWELL 3" votes="15" />
+                <Precinct name="BLACKVILLE 1" votes="8" />
+                <Precinct name="BLACKVILLE 2" votes="31" />
+                <Precinct name="FRIENDSHIP" votes="57" />
+                <Precinct name="KLINE" votes="59" />
+                <Precinct name="HILDA" votes="94" />
+                <Precinct name="Absentee" votes="32" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Dan Lawrence" party="REP" totalVotes="994">
+            <VoteType name="Election Day" votes="994">
+                <Precinct name="BARNWELL 3" votes="46" />
+                <Precinct name="BLACKVILLE 1" votes="6" />
+                <Precinct name="BLACKVILLE 2" votes="16" />
+                <Precinct name="FRIENDSHIP" votes="299" />
+                <Precinct name="KLINE" votes="80" />
+                <Precinct name="HILDA" votes="380" />
+                <Precinct name="Absentee" votes="157" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="10" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="2">
+            <VoteType name="Election Day" votes="2">
+                <Precinct name="BARNWELL 3" votes="0" />
+                <Precinct name="BLACKVILLE 1" votes="0" />
+                <Precinct name="BLACKVILLE 2" votes="1" />
+                <Precinct name="FRIENDSHIP" votes="0" />
+                <Precinct name="KLINE" votes="0" />
+                <Precinct name="HILDA" votes="0" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0109" text="State  House of Representatives, District  91" voteFor="1" isQuestion="false" precinctsReporting="13" precinctsReported="13">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BARNWELL 1" votes="0" />
+            <Precinct name="BARNWELL 2" votes="0" />
+            <Precinct name="BARNWELL 3" votes="0" />
+            <Precinct name="BARNWELL 4" votes="0" />
+            <Precinct name="BLACKVILLE 1" votes="0" />
+            <Precinct name="BLACKVILLE 2" votes="0" />
+            <Precinct name="ELKO" votes="0" />
+            <Precinct name="KLINE" votes="0" />
+            <Precinct name="HEALING SPRINGS" votes="0" />
+            <Precinct name="SNELLING" votes="0" />
+            <Precinct name="WILLISTON 1" votes="0" />
+            <Precinct name="WILLISTON 2" votes="0" />
+            <Precinct name="WILLISTON 3" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="2173">
+            <Precinct name="BARNWELL 1" votes="65" />
+            <Precinct name="BARNWELL 2" votes="240" />
+            <Precinct name="BARNWELL 3" votes="197" />
+            <Precinct name="BARNWELL 4" votes="126" />
+            <Precinct name="BLACKVILLE 1" votes="95" />
+            <Precinct name="BLACKVILLE 2" votes="49" />
+            <Precinct name="ELKO" votes="101" />
+            <Precinct name="KLINE" votes="66" />
+            <Precinct name="HEALING SPRINGS" votes="74" />
+            <Precinct name="SNELLING" votes="200" />
+            <Precinct name="WILLISTON 1" votes="167" />
+            <Precinct name="WILLISTON 2" votes="115" />
+            <Precinct name="WILLISTON 3" votes="185" />
+            <Precinct name="Absentee" votes="485" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="8" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Lonnie Hosey" party="DEM" totalVotes="5968">
+            <VoteType name="Election Day" votes="5968">
+                <Precinct name="BARNWELL 1" votes="232" />
+                <Precinct name="BARNWELL 2" votes="461" />
+                <Precinct name="BARNWELL 3" votes="544" />
+                <Precinct name="BARNWELL 4" votes="524" />
+                <Precinct name="BLACKVILLE 1" votes="379" />
+                <Precinct name="BLACKVILLE 2" votes="223" />
+                <Precinct name="ELKO" votes="233" />
+                <Precinct name="KLINE" votes="118" />
+                <Precinct name="HEALING SPRINGS" votes="378" />
+                <Precinct name="SNELLING" votes="458" />
+                <Precinct name="WILLISTON 1" votes="556" />
+                <Precinct name="WILLISTON 2" votes="203" />
+                <Precinct name="WILLISTON 3" votes="293" />
+                <Precinct name="Absentee" votes="1298" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="68" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="54">
+            <VoteType name="Election Day" votes="54">
+                <Precinct name="BARNWELL 1" votes="2" />
+                <Precinct name="BARNWELL 2" votes="13" />
+                <Precinct name="BARNWELL 3" votes="5" />
+                <Precinct name="BARNWELL 4" votes="4" />
+                <Precinct name="BLACKVILLE 1" votes="2" />
+                <Precinct name="BLACKVILLE 2" votes="1" />
+                <Precinct name="ELKO" votes="4" />
+                <Precinct name="KLINE" votes="2" />
+                <Precinct name="HEALING SPRINGS" votes="1" />
+                <Precinct name="SNELLING" votes="3" />
+                <Precinct name="WILLISTON 1" votes="2" />
+                <Precinct name="WILLISTON 2" votes="3" />
+                <Precinct name="WILLISTON 3" votes="1" />
+                <Precinct name="Absentee" votes="9" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0110" text=" Solicitor, Circuit  2" voteFor="1" isQuestion="false" precinctsReporting="15" precinctsReported="15">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BARNWELL 1" votes="0" />
+            <Precinct name="BARNWELL 2" votes="0" />
+            <Precinct name="BARNWELL 3" votes="0" />
+            <Precinct name="BARNWELL 4" votes="0" />
+            <Precinct name="BLACKVILLE 1" votes="0" />
+            <Precinct name="BLACKVILLE 2" votes="0" />
+            <Precinct name="ELKO" votes="0" />
+            <Precinct name="FRIENDSHIP" votes="0" />
+            <Precinct name="KLINE" votes="0" />
+            <Precinct name="HEALING SPRINGS" votes="0" />
+            <Precinct name="HILDA" votes="0" />
+            <Precinct name="SNELLING" votes="0" />
+            <Precinct name="WILLISTON 1" votes="0" />
+            <Precinct name="WILLISTON 2" votes="0" />
+            <Precinct name="WILLISTON 3" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="3772">
+            <Precinct name="BARNWELL 1" votes="116" />
+            <Precinct name="BARNWELL 2" votes="211" />
+            <Precinct name="BARNWELL 3" votes="238" />
+            <Precinct name="BARNWELL 4" votes="297" />
+            <Precinct name="BLACKVILLE 1" votes="302" />
+            <Precinct name="BLACKVILLE 2" votes="178" />
+            <Precinct name="ELKO" votes="137" />
+            <Precinct name="FRIENDSHIP" votes="35" />
+            <Precinct name="KLINE" votes="111" />
+            <Precinct name="HEALING SPRINGS" votes="290" />
+            <Precinct name="HILDA" votes="72" />
+            <Precinct name="SNELLING" votes="227" />
+            <Precinct name="WILLISTON 1" votes="404" />
+            <Precinct name="WILLISTON 2" votes="80" />
+            <Precinct name="WILLISTON 3" votes="149" />
+            <Precinct name="Absentee" votes="881" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="39" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="5" />
+        </VoteType>
+        <Choice key="001" text="J Strom Thurmond" party="REP" totalVotes="5763">
+            <VoteType name="Election Day" votes="5763">
+                <Precinct name="BARNWELL 1" votes="181" />
+                <Precinct name="BARNWELL 2" votes="500" />
+                <Precinct name="BARNWELL 3" votes="566" />
+                <Precinct name="BARNWELL 4" votes="354" />
+                <Precinct name="BLACKVILLE 1" votes="183" />
+                <Precinct name="BLACKVILLE 2" votes="146" />
+                <Precinct name="ELKO" votes="198" />
+                <Precinct name="FRIENDSHIP" votes="344" />
+                <Precinct name="KLINE" votes="219" />
+                <Precinct name="HEALING SPRINGS" votes="163" />
+                <Precinct name="HILDA" votes="432" />
+                <Precinct name="SNELLING" votes="431" />
+                <Precinct name="WILLISTON 1" votes="320" />
+                <Precinct name="WILLISTON 2" votes="241" />
+                <Precinct name="WILLISTON 3" votes="327" />
+                <Precinct name="Absentee" votes="1105" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="50" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="33">
+            <VoteType name="Election Day" votes="33">
+                <Precinct name="BARNWELL 1" votes="2" />
+                <Precinct name="BARNWELL 2" votes="3" />
+                <Precinct name="BARNWELL 3" votes="4" />
+                <Precinct name="BARNWELL 4" votes="3" />
+                <Precinct name="BLACKVILLE 1" votes="5" />
+                <Precinct name="BLACKVILLE 2" votes="0" />
+                <Precinct name="ELKO" votes="3" />
+                <Precinct name="FRIENDSHIP" votes="1" />
+                <Precinct name="KLINE" votes="0" />
+                <Precinct name="HEALING SPRINGS" votes="0" />
+                <Precinct name="HILDA" votes="0" />
+                <Precinct name="SNELLING" votes="3" />
+                <Precinct name="WILLISTON 1" votes="1" />
+                <Precinct name="WILLISTON 2" votes="0" />
+                <Precinct name="WILLISTON 3" votes="3" />
+                <Precinct name="Absentee" votes="5" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0111" text="Sheriff" voteFor="1" isQuestion="false" precinctsReporting="15" precinctsReported="15">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BARNWELL 1" votes="0" />
+            <Precinct name="BARNWELL 2" votes="0" />
+            <Precinct name="BARNWELL 3" votes="0" />
+            <Precinct name="BARNWELL 4" votes="0" />
+            <Precinct name="BLACKVILLE 1" votes="0" />
+            <Precinct name="BLACKVILLE 2" votes="0" />
+            <Precinct name="ELKO" votes="0" />
+            <Precinct name="FRIENDSHIP" votes="0" />
+            <Precinct name="KLINE" votes="0" />
+            <Precinct name="HEALING SPRINGS" votes="0" />
+            <Precinct name="HILDA" votes="0" />
+            <Precinct name="SNELLING" votes="0" />
+            <Precinct name="WILLISTON 1" votes="0" />
+            <Precinct name="WILLISTON 2" votes="0" />
+            <Precinct name="WILLISTON 3" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="181">
+            <Precinct name="BARNWELL 1" votes="3" />
+            <Precinct name="BARNWELL 2" votes="13" />
+            <Precinct name="BARNWELL 3" votes="11" />
+            <Precinct name="BARNWELL 4" votes="13" />
+            <Precinct name="BLACKVILLE 1" votes="17" />
+            <Precinct name="BLACKVILLE 2" votes="12" />
+            <Precinct name="ELKO" votes="5" />
+            <Precinct name="FRIENDSHIP" votes="4" />
+            <Precinct name="KLINE" votes="9" />
+            <Precinct name="HEALING SPRINGS" votes="11" />
+            <Precinct name="HILDA" votes="11" />
+            <Precinct name="SNELLING" votes="13" />
+            <Precinct name="WILLISTON 1" votes="18" />
+            <Precinct name="WILLISTON 2" votes="5" />
+            <Precinct name="WILLISTON 3" votes="11" />
+            <Precinct name="Absentee" votes="22" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="3" />
+        </VoteType>
+        <Choice key="001" text="Willie Walker" party="DEM" totalVotes="3834">
+            <VoteType name="Election Day" votes="3834">
+                <Precinct name="BARNWELL 1" votes="140" />
+                <Precinct name="BARNWELL 2" votes="204" />
+                <Precinct name="BARNWELL 3" votes="252" />
+                <Precinct name="BARNWELL 4" votes="327" />
+                <Precinct name="BLACKVILLE 1" votes="315" />
+                <Precinct name="BLACKVILLE 2" votes="197" />
+                <Precinct name="ELKO" votes="135" />
+                <Precinct name="FRIENDSHIP" votes="31" />
+                <Precinct name="KLINE" votes="94" />
+                <Precinct name="HEALING SPRINGS" votes="324" />
+                <Precinct name="HILDA" votes="55" />
+                <Precinct name="SNELLING" votes="226" />
+                <Precinct name="WILLISTON 1" votes="406" />
+                <Precinct name="WILLISTON 2" votes="86" />
+                <Precinct name="WILLISTON 3" votes="164" />
+                <Precinct name="Absentee" votes="829" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="47" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Ed Carroll" party="REP" totalVotes="5546">
+            <VoteType name="Election Day" votes="5546">
+                <Precinct name="BARNWELL 1" votes="156" />
+                <Precinct name="BARNWELL 2" votes="496" />
+                <Precinct name="BARNWELL 3" votes="545" />
+                <Precinct name="BARNWELL 4" votes="313" />
+                <Precinct name="BLACKVILLE 1" votes="158" />
+                <Precinct name="BLACKVILLE 2" votes="115" />
+                <Precinct name="ELKO" votes="196" />
+                <Precinct name="FRIENDSHIP" votes="345" />
+                <Precinct name="KLINE" votes="226" />
+                <Precinct name="HEALING SPRINGS" votes="118" />
+                <Precinct name="HILDA" votes="438" />
+                <Precinct name="SNELLING" votes="421" />
+                <Precinct name="WILLISTON 1" votes="301" />
+                <Precinct name="WILLISTON 2" votes="230" />
+                <Precinct name="WILLISTON 3" votes="304" />
+                <Precinct name="Absentee" votes="1139" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="42" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="7">
+            <VoteType name="Election Day" votes="7">
+                <Precinct name="BARNWELL 1" votes="0" />
+                <Precinct name="BARNWELL 2" votes="1" />
+                <Precinct name="BARNWELL 3" votes="0" />
+                <Precinct name="BARNWELL 4" votes="1" />
+                <Precinct name="BLACKVILLE 1" votes="0" />
+                <Precinct name="BLACKVILLE 2" votes="0" />
+                <Precinct name="ELKO" votes="2" />
+                <Precinct name="FRIENDSHIP" votes="0" />
+                <Precinct name="KLINE" votes="1" />
+                <Precinct name="HEALING SPRINGS" votes="0" />
+                <Precinct name="HILDA" votes="0" />
+                <Precinct name="SNELLING" votes="1" />
+                <Precinct name="WILLISTON 1" votes="0" />
+                <Precinct name="WILLISTON 2" votes="0" />
+                <Precinct name="WILLISTON 3" votes="0" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0112" text="Clerk of Court" voteFor="1" isQuestion="false" precinctsReporting="15" precinctsReported="15">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BARNWELL 1" votes="0" />
+            <Precinct name="BARNWELL 2" votes="0" />
+            <Precinct name="BARNWELL 3" votes="0" />
+            <Precinct name="BARNWELL 4" votes="0" />
+            <Precinct name="BLACKVILLE 1" votes="0" />
+            <Precinct name="BLACKVILLE 2" votes="0" />
+            <Precinct name="ELKO" votes="0" />
+            <Precinct name="FRIENDSHIP" votes="0" />
+            <Precinct name="KLINE" votes="0" />
+            <Precinct name="HEALING SPRINGS" votes="0" />
+            <Precinct name="HILDA" votes="0" />
+            <Precinct name="SNELLING" votes="0" />
+            <Precinct name="WILLISTON 1" votes="0" />
+            <Precinct name="WILLISTON 2" votes="0" />
+            <Precinct name="WILLISTON 3" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="2310">
+            <Precinct name="BARNWELL 1" votes="59" />
+            <Precinct name="BARNWELL 2" votes="189" />
+            <Precinct name="BARNWELL 3" votes="179" />
+            <Precinct name="BARNWELL 4" votes="103" />
+            <Precinct name="BLACKVILLE 1" votes="79" />
+            <Precinct name="BLACKVILLE 2" votes="54" />
+            <Precinct name="ELKO" votes="88" />
+            <Precinct name="FRIENDSHIP" votes="138" />
+            <Precinct name="KLINE" votes="86" />
+            <Precinct name="HEALING SPRINGS" votes="56" />
+            <Precinct name="HILDA" votes="211" />
+            <Precinct name="SNELLING" votes="157" />
+            <Precinct name="WILLISTON 1" votes="144" />
+            <Precinct name="WILLISTON 2" votes="100" />
+            <Precinct name="WILLISTON 3" votes="149" />
+            <Precinct name="Absentee" votes="505" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="9" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="4" />
+        </VoteType>
+        <Choice key="001" text="Rhonda D McElveen" party="DEM" totalVotes="7222">
+            <VoteType name="Election Day" votes="7222">
+                <Precinct name="BARNWELL 1" votes="238" />
+                <Precinct name="BARNWELL 2" votes="516" />
+                <Precinct name="BARNWELL 3" votes="626" />
+                <Precinct name="BARNWELL 4" votes="548" />
+                <Precinct name="BLACKVILLE 1" votes="410" />
+                <Precinct name="BLACKVILLE 2" votes="267" />
+                <Precinct name="ELKO" votes="250" />
+                <Precinct name="FRIENDSHIP" votes="242" />
+                <Precinct name="KLINE" votes="243" />
+                <Precinct name="HEALING SPRINGS" votes="397" />
+                <Precinct name="HILDA" votes="291" />
+                <Precinct name="SNELLING" votes="503" />
+                <Precinct name="WILLISTON 1" votes="581" />
+                <Precinct name="WILLISTON 2" votes="221" />
+                <Precinct name="WILLISTON 3" votes="329" />
+                <Precinct name="Absentee" votes="1480" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="78" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="34">
+            <VoteType name="Election Day" votes="34">
+                <Precinct name="BARNWELL 1" votes="2" />
+                <Precinct name="BARNWELL 2" votes="9" />
+                <Precinct name="BARNWELL 3" votes="3" />
+                <Precinct name="BARNWELL 4" votes="3" />
+                <Precinct name="BLACKVILLE 1" votes="1" />
+                <Precinct name="BLACKVILLE 2" votes="3" />
+                <Precinct name="ELKO" votes="0" />
+                <Precinct name="FRIENDSHIP" votes="0" />
+                <Precinct name="KLINE" votes="1" />
+                <Precinct name="HEALING SPRINGS" votes="0" />
+                <Precinct name="HILDA" votes="2" />
+                <Precinct name="SNELLING" votes="1" />
+                <Precinct name="WILLISTON 1" votes="0" />
+                <Precinct name="WILLISTON 2" votes="0" />
+                <Precinct name="WILLISTON 3" votes="1" />
+                <Precinct name="Absentee" votes="6" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0113" text="Coroner" voteFor="1" isQuestion="false" precinctsReporting="15" precinctsReported="15">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BARNWELL 1" votes="0" />
+            <Precinct name="BARNWELL 2" votes="0" />
+            <Precinct name="BARNWELL 3" votes="0" />
+            <Precinct name="BARNWELL 4" votes="0" />
+            <Precinct name="BLACKVILLE 1" votes="0" />
+            <Precinct name="BLACKVILLE 2" votes="0" />
+            <Precinct name="ELKO" votes="0" />
+            <Precinct name="FRIENDSHIP" votes="0" />
+            <Precinct name="KLINE" votes="0" />
+            <Precinct name="HEALING SPRINGS" votes="0" />
+            <Precinct name="HILDA" votes="0" />
+            <Precinct name="SNELLING" votes="0" />
+            <Precinct name="WILLISTON 1" votes="0" />
+            <Precinct name="WILLISTON 2" votes="0" />
+            <Precinct name="WILLISTON 3" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="3410">
+            <Precinct name="BARNWELL 1" votes="108" />
+            <Precinct name="BARNWELL 2" votes="180" />
+            <Precinct name="BARNWELL 3" votes="200" />
+            <Precinct name="BARNWELL 4" votes="270" />
+            <Precinct name="BLACKVILLE 1" votes="274" />
+            <Precinct name="BLACKVILLE 2" votes="164" />
+            <Precinct name="ELKO" votes="125" />
+            <Precinct name="FRIENDSHIP" votes="29" />
+            <Precinct name="KLINE" votes="91" />
+            <Precinct name="HEALING SPRINGS" votes="275" />
+            <Precinct name="HILDA" votes="64" />
+            <Precinct name="SNELLING" votes="196" />
+            <Precinct name="WILLISTON 1" votes="374" />
+            <Precinct name="WILLISTON 2" votes="73" />
+            <Precinct name="WILLISTON 3" votes="119" />
+            <Precinct name="Absentee" votes="827" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="36" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="5" />
+        </VoteType>
+        <Choice key="001" text="Lloyd B Ward" party="REP" totalVotes="6137">
+            <VoteType name="Election Day" votes="6137">
+                <Precinct name="BARNWELL 1" votes="190" />
+                <Precinct name="BARNWELL 2" votes="532" />
+                <Precinct name="BARNWELL 3" votes="607" />
+                <Precinct name="BARNWELL 4" votes="381" />
+                <Precinct name="BLACKVILLE 1" votes="211" />
+                <Precinct name="BLACKVILLE 2" votes="159" />
+                <Precinct name="ELKO" votes="213" />
+                <Precinct name="FRIENDSHIP" votes="350" />
+                <Precinct name="KLINE" votes="239" />
+                <Precinct name="HEALING SPRINGS" votes="177" />
+                <Precinct name="HILDA" votes="440" />
+                <Precinct name="SNELLING" votes="464" />
+                <Precinct name="WILLISTON 1" votes="350" />
+                <Precinct name="WILLISTON 2" votes="248" />
+                <Precinct name="WILLISTON 3" votes="360" />
+                <Precinct name="Absentee" votes="1160" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="53" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="21">
+            <VoteType name="Election Day" votes="21">
+                <Precinct name="BARNWELL 1" votes="1" />
+                <Precinct name="BARNWELL 2" votes="2" />
+                <Precinct name="BARNWELL 3" votes="1" />
+                <Precinct name="BARNWELL 4" votes="3" />
+                <Precinct name="BLACKVILLE 1" votes="5" />
+                <Precinct name="BLACKVILLE 2" votes="1" />
+                <Precinct name="ELKO" votes="0" />
+                <Precinct name="FRIENDSHIP" votes="1" />
+                <Precinct name="KLINE" votes="0" />
+                <Precinct name="HEALING SPRINGS" votes="1" />
+                <Precinct name="HILDA" votes="0" />
+                <Precinct name="SNELLING" votes="1" />
+                <Precinct name="WILLISTON 1" votes="1" />
+                <Precinct name="WILLISTON 2" votes="0" />
+                <Precinct name="WILLISTON 3" votes="0" />
+                <Precinct name="Absentee" votes="4" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0114" text="County Council District 1" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BLACKVILLE 1" votes="0" />
+            <Precinct name="ELKO" votes="0" />
+            <Precinct name="HEALING SPRINGS" votes="0" />
+            <Precinct name="WILLISTON 1" votes="0" />
+            <Precinct name="WILLISTON 2" votes="0" />
+            <Precinct name="WILLISTON 3" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="300">
+            <Precinct name="BLACKVILLE 1" votes="3" />
+            <Precinct name="ELKO" votes="88" />
+            <Precinct name="HEALING SPRINGS" votes="5" />
+            <Precinct name="WILLISTON 1" votes="112" />
+            <Precinct name="WILLISTON 2" votes="20" />
+            <Precinct name="WILLISTON 3" votes="24" />
+            <Precinct name="Absentee" votes="48" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Freddie L Houston Sr" party="DEM" totalVotes="1072">
+            <VoteType name="Election Day" votes="1072">
+                <Precinct name="BLACKVILLE 1" votes="4" />
+                <Precinct name="ELKO" votes="180" />
+                <Precinct name="HEALING SPRINGS" votes="6" />
+                <Precinct name="WILLISTON 1" votes="487" />
+                <Precinct name="WILLISTON 2" votes="77" />
+                <Precinct name="WILLISTON 3" votes="123" />
+                <Precinct name="Absentee" votes="190" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="5" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="7">
+            <VoteType name="Election Day" votes="7">
+                <Precinct name="BLACKVILLE 1" votes="0" />
+                <Precinct name="ELKO" votes="5" />
+                <Precinct name="HEALING SPRINGS" votes="0" />
+                <Precinct name="WILLISTON 1" votes="1" />
+                <Precinct name="WILLISTON 2" votes="0" />
+                <Precinct name="WILLISTON 3" votes="0" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0115" text="County Council District 3" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BARNWELL 1" votes="0" />
+            <Precinct name="BARNWELL 2" votes="0" />
+            <Precinct name="BLACKVILLE 1" votes="0" />
+            <Precinct name="ELKO" votes="0" />
+            <Precinct name="HEALING SPRINGS" votes="0" />
+            <Precinct name="WILLISTON 1" votes="0" />
+            <Precinct name="WILLISTON 2" votes="0" />
+            <Precinct name="WILLISTON 3" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="303">
+            <Precinct name="BARNWELL 1" votes="10" />
+            <Precinct name="BARNWELL 2" votes="16" />
+            <Precinct name="BLACKVILLE 1" votes="44" />
+            <Precinct name="ELKO" votes="15" />
+            <Precinct name="HEALING SPRINGS" votes="12" />
+            <Precinct name="WILLISTON 1" votes="47" />
+            <Precinct name="WILLISTON 2" votes="30" />
+            <Precinct name="WILLISTON 3" votes="42" />
+            <Precinct name="Absentee" votes="85" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="2" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Donald Q Harper" party="REP" totalVotes="1131">
+            <VoteType name="Election Day" votes="1131">
+                <Precinct name="BARNWELL 1" votes="39" />
+                <Precinct name="BARNWELL 2" votes="124" />
+                <Precinct name="BLACKVILLE 1" votes="84" />
+                <Precinct name="ELKO" votes="50" />
+                <Precinct name="HEALING SPRINGS" votes="74" />
+                <Precinct name="WILLISTON 1" votes="78" />
+                <Precinct name="WILLISTON 2" votes="194" />
+                <Precinct name="WILLISTON 3" votes="261" />
+                <Precinct name="Absentee" votes="221" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="6" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="5">
+            <VoteType name="Election Day" votes="5">
+                <Precinct name="BARNWELL 1" votes="0" />
+                <Precinct name="BARNWELL 2" votes="0" />
+                <Precinct name="BLACKVILLE 1" votes="0" />
+                <Precinct name="ELKO" votes="0" />
+                <Precinct name="HEALING SPRINGS" votes="0" />
+                <Precinct name="WILLISTON 1" votes="0" />
+                <Precinct name="WILLISTON 2" votes="0" />
+                <Precinct name="WILLISTON 3" votes="2" />
+                <Precinct name="Absentee" votes="3" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0116" text="County Council District 5" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BARNWELL 1" votes="0" />
+            <Precinct name="BARNWELL 2" votes="0" />
+            <Precinct name="BARNWELL 3" votes="0" />
+            <Precinct name="BARNWELL 4" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="450">
+            <Precinct name="BARNWELL 1" votes="49" />
+            <Precinct name="BARNWELL 2" votes="113" />
+            <Precinct name="BARNWELL 3" votes="72" />
+            <Precinct name="BARNWELL 4" votes="38" />
+            <Precinct name="Absentee" votes="166" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="12" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Ben Kinlaw" party="REP" totalVotes="721">
+            <VoteType name="Election Day" votes="721">
+                <Precinct name="BARNWELL 1" votes="56" />
+                <Precinct name="BARNWELL 2" votes="87" />
+                <Precinct name="BARNWELL 3" votes="257" />
+                <Precinct name="BARNWELL 4" votes="98" />
+                <Precinct name="Absentee" votes="207" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="16" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="7">
+            <VoteType name="Election Day" votes="7">
+                <Precinct name="BARNWELL 1" votes="0" />
+                <Precinct name="BARNWELL 2" votes="1" />
+                <Precinct name="BARNWELL 3" votes="4" />
+                <Precinct name="BARNWELL 4" votes="0" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0117" text="County Council District 7" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BARNWELL 2" votes="0" />
+            <Precinct name="BARNWELL 3" votes="0" />
+            <Precinct name="FRIENDSHIP" votes="0" />
+            <Precinct name="KLINE" votes="0" />
+            <Precinct name="HILDA" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="206">
+            <Precinct name="BARNWELL 2" votes="2" />
+            <Precinct name="BARNWELL 3" votes="15" />
+            <Precinct name="FRIENDSHIP" votes="30" />
+            <Precinct name="KLINE" votes="62" />
+            <Precinct name="HILDA" votes="53" />
+            <Precinct name="Absentee" votes="43" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Jerry R Creech" party="REP" totalVotes="1155">
+            <VoteType name="Election Day" votes="1155">
+                <Precinct name="BARNWELL 2" votes="8" />
+                <Precinct name="BARNWELL 3" votes="80" />
+                <Precinct name="FRIENDSHIP" votes="350" />
+                <Precinct name="KLINE" votes="115" />
+                <Precinct name="HILDA" votes="427" />
+                <Precinct name="Absentee" votes="165" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="10" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="5">
+            <VoteType name="Election Day" votes="5">
+                <Precinct name="BARNWELL 2" votes="0" />
+                <Precinct name="BARNWELL 3" votes="0" />
+                <Precinct name="FRIENDSHIP" votes="0" />
+                <Precinct name="KLINE" votes="2" />
+                <Precinct name="HILDA" votes="2" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0118" text="Soil and Water District Commission" voteFor="1" isQuestion="false" precinctsReporting="15" precinctsReported="15">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BARNWELL 1" votes="0" />
+            <Precinct name="BARNWELL 2" votes="0" />
+            <Precinct name="BARNWELL 3" votes="0" />
+            <Precinct name="BARNWELL 4" votes="0" />
+            <Precinct name="BLACKVILLE 1" votes="0" />
+            <Precinct name="BLACKVILLE 2" votes="0" />
+            <Precinct name="ELKO" votes="0" />
+            <Precinct name="FRIENDSHIP" votes="0" />
+            <Precinct name="KLINE" votes="0" />
+            <Precinct name="HEALING SPRINGS" votes="0" />
+            <Precinct name="HILDA" votes="0" />
+            <Precinct name="SNELLING" votes="0" />
+            <Precinct name="WILLISTON 1" votes="0" />
+            <Precinct name="WILLISTON 2" votes="0" />
+            <Precinct name="WILLISTON 3" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="5254">
+            <Precinct name="BARNWELL 1" votes="147" />
+            <Precinct name="BARNWELL 2" votes="335" />
+            <Precinct name="BARNWELL 3" votes="343" />
+            <Precinct name="BARNWELL 4" votes="319" />
+            <Precinct name="BLACKVILLE 1" votes="323" />
+            <Precinct name="BLACKVILLE 2" votes="192" />
+            <Precinct name="ELKO" votes="209" />
+            <Precinct name="FRIENDSHIP" votes="152" />
+            <Precinct name="KLINE" votes="146" />
+            <Precinct name="HEALING SPRINGS" votes="316" />
+            <Precinct name="HILDA" votes="243" />
+            <Precinct name="SNELLING" votes="324" />
+            <Precinct name="WILLISTON 1" votes="508" />
+            <Precinct name="WILLISTON 2" votes="164" />
+            <Precinct name="WILLISTON 3" votes="263" />
+            <Precinct name="Absentee" votes="1226" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="39" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="5" />
+        </VoteType>
+        <Choice key="001" text="Wayne O Browning" party="NON" totalVotes="4296">
+            <VoteType name="Election Day" votes="4296">
+                <Precinct name="BARNWELL 1" votes="150" />
+                <Precinct name="BARNWELL 2" votes="379" />
+                <Precinct name="BARNWELL 3" votes="463" />
+                <Precinct name="BARNWELL 4" votes="333" />
+                <Precinct name="BLACKVILLE 1" votes="164" />
+                <Precinct name="BLACKVILLE 2" votes="131" />
+                <Precinct name="ELKO" votes="129" />
+                <Precinct name="FRIENDSHIP" votes="228" />
+                <Precinct name="KLINE" votes="183" />
+                <Precinct name="HEALING SPRINGS" votes="137" />
+                <Precinct name="HILDA" votes="261" />
+                <Precinct name="SNELLING" votes="335" />
+                <Precinct name="WILLISTON 1" votes="217" />
+                <Precinct name="WILLISTON 2" votes="157" />
+                <Precinct name="WILLISTON 3" votes="216" />
+                <Precinct name="Absentee" votes="761" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="49" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="18">
+            <VoteType name="Election Day" votes="18">
+                <Precinct name="BARNWELL 1" votes="2" />
+                <Precinct name="BARNWELL 2" votes="0" />
+                <Precinct name="BARNWELL 3" votes="2" />
+                <Precinct name="BARNWELL 4" votes="2" />
+                <Precinct name="BLACKVILLE 1" votes="3" />
+                <Precinct name="BLACKVILLE 2" votes="1" />
+                <Precinct name="ELKO" votes="0" />
+                <Precinct name="FRIENDSHIP" votes="0" />
+                <Precinct name="KLINE" votes="1" />
+                <Precinct name="HEALING SPRINGS" votes="0" />
+                <Precinct name="HILDA" votes="0" />
+                <Precinct name="SNELLING" votes="2" />
+                <Precinct name="WILLISTON 1" votes="0" />
+                <Precinct name="WILLISTON 2" votes="0" />
+                <Precinct name="WILLISTON 3" votes="0" />
+                <Precinct name="Absentee" votes="4" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0119" text="Referendum" voteFor="1" isQuestion="true" precinctsReporting="15" precinctsReported="15">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BARNWELL 1" votes="0" />
+            <Precinct name="BARNWELL 2" votes="0" />
+            <Precinct name="BARNWELL 3" votes="0" />
+            <Precinct name="BARNWELL 4" votes="0" />
+            <Precinct name="BLACKVILLE 1" votes="0" />
+            <Precinct name="BLACKVILLE 2" votes="0" />
+            <Precinct name="ELKO" votes="0" />
+            <Precinct name="FRIENDSHIP" votes="0" />
+            <Precinct name="KLINE" votes="0" />
+            <Precinct name="HEALING SPRINGS" votes="0" />
+            <Precinct name="HILDA" votes="0" />
+            <Precinct name="SNELLING" votes="0" />
+            <Precinct name="WILLISTON 1" votes="0" />
+            <Precinct name="WILLISTON 2" votes="0" />
+            <Precinct name="WILLISTON 3" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="572">
+            <Precinct name="BARNWELL 1" votes="23" />
+            <Precinct name="BARNWELL 2" votes="26" />
+            <Precinct name="BARNWELL 3" votes="47" />
+            <Precinct name="BARNWELL 4" votes="45" />
+            <Precinct name="BLACKVILLE 1" votes="35" />
+            <Precinct name="BLACKVILLE 2" votes="19" />
+            <Precinct name="ELKO" votes="20" />
+            <Precinct name="FRIENDSHIP" votes="17" />
+            <Precinct name="KLINE" votes="16" />
+            <Precinct name="HEALING SPRINGS" votes="47" />
+            <Precinct name="HILDA" votes="21" />
+            <Precinct name="SNELLING" votes="29" />
+            <Precinct name="WILLISTON 1" votes="36" />
+            <Precinct name="WILLISTON 2" votes="14" />
+            <Precinct name="WILLISTON 3" votes="21" />
+            <Precinct name="Absentee" votes="149" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="4" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="3" />
+        </VoteType>
+        <Choice key="001" text="Yes" party="NON" totalVotes="5057">
+            <VoteType name="Election Day" votes="5057">
+                <Precinct name="BARNWELL 1" votes="163" />
+                <Precinct name="BARNWELL 2" votes="390" />
+                <Precinct name="BARNWELL 3" votes="429" />
+                <Precinct name="BARNWELL 4" votes="365" />
+                <Precinct name="BLACKVILLE 1" votes="240" />
+                <Precinct name="BLACKVILLE 2" votes="202" />
+                <Precinct name="ELKO" votes="163" />
+                <Precinct name="FRIENDSHIP" votes="156" />
+                <Precinct name="KLINE" votes="150" />
+                <Precinct name="HEALING SPRINGS" votes="274" />
+                <Precinct name="HILDA" votes="243" />
+                <Precinct name="SNELLING" votes="315" />
+                <Precinct name="WILLISTON 1" votes="474" />
+                <Precinct name="WILLISTON 2" votes="196" />
+                <Precinct name="WILLISTON 3" votes="274" />
+                <Precinct name="Absentee" votes="975" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="46" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="No" party="NON" totalVotes="3939">
+            <VoteType name="Election Day" votes="3939">
+                <Precinct name="BARNWELL 1" votes="113" />
+                <Precinct name="BARNWELL 2" votes="298" />
+                <Precinct name="BARNWELL 3" votes="332" />
+                <Precinct name="BARNWELL 4" votes="244" />
+                <Precinct name="BLACKVILLE 1" votes="215" />
+                <Precinct name="BLACKVILLE 2" votes="103" />
+                <Precinct name="ELKO" votes="155" />
+                <Precinct name="FRIENDSHIP" votes="207" />
+                <Precinct name="KLINE" votes="164" />
+                <Precinct name="HEALING SPRINGS" votes="132" />
+                <Precinct name="HILDA" votes="240" />
+                <Precinct name="SNELLING" votes="317" />
+                <Precinct name="WILLISTON 1" votes="215" />
+                <Precinct name="WILLISTON 2" votes="111" />
+                <Precinct name="WILLISTON 3" votes="184" />
+                <Precinct name="Absentee" votes="867" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="39" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="3" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

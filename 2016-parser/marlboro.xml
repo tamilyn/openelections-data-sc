@@ -1,0 +1,2074 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>11/16/2016 3:22:20 PM EST</Timestamp>
+    <ElectionName>2016 Statewide General Election</ElectionName>
+    <ElectionDate>11/8/2016</ElectionDate>
+    <Region>Marlboro</Region>
+    <VoterTurnout totalVoters="18477" ballotsCast="10491" voterTurnout="56.78">
+        <Precincts>
+            <Precinct name="ADAMSVILLE" totalVoters="426" ballotsCast="174" voterTurnout="40.85" percentReporting="4" />
+            <Precinct name="BLENHEIM" totalVoters="336" ballotsCast="146" voterTurnout="43.45" percentReporting="4" />
+            <Precinct name="BRIGHTSVILLE" totalVoters="769" ballotsCast="319" voterTurnout="41.48" percentReporting="4" />
+            <Precinct name="BROWNSVILLE" totalVoters="352" ballotsCast="180" voterTurnout="51.14" percentReporting="4" />
+            <Precinct name="RED HILL" totalVoters="1353" ballotsCast="438" voterTurnout="32.37" percentReporting="4" />
+            <Precinct name="TATUM" totalVoters="407" ballotsCast="186" voterTurnout="45.70" percentReporting="4" />
+            <Precinct name="WALLACE" totalVoters="1353" ballotsCast="602" voterTurnout="44.49" percentReporting="4" />
+            <Precinct name="QUICKS X ROADS" totalVoters="1034" ballotsCast="385" voterTurnout="37.23" percentReporting="4" />
+            <Precinct name="CLIO" totalVoters="1668" ballotsCast="610" voterTurnout="36.57" percentReporting="4" />
+            <Precinct name="MCCOLL" totalVoters="1520" ballotsCast="467" voterTurnout="30.72" percentReporting="4" />
+            <Precinct name="EAST MCCOLL" totalVoters="1030" ballotsCast="386" voterTurnout="37.48" percentReporting="4" />
+            <Precinct name="E BENNETTSVILLE" totalVoters="2044" ballotsCast="491" voterTurnout="24.02" percentReporting="4" />
+            <Precinct name="W BENNETTSVILLE" totalVoters="2208" ballotsCast="431" voterTurnout="19.52" percentReporting="4" />
+            <Precinct name="S BENNETTSVILLE" totalVoters="1281" ballotsCast="310" voterTurnout="24.20" percentReporting="4" />
+            <Precinct name="N BENNETTSVILLE" totalVoters="2779" ballotsCast="695" voterTurnout="25.01" percentReporting="4" />
+            <Precinct name="Absentee" totalVoters="0" ballotsCast="4611" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Emergency" totalVoters="0" ballotsCast="0" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Failsafe" totalVoters="0" ballotsCast="22" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Provisional" totalVoters="0" ballotsCast="38" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Failsafe Provisional" totalVoters="0" ballotsCast="0" voterTurnout="0.00" percentReporting="32" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="0103" text="STRAIGHT PARTY" voteFor="1" isQuestion="false" precinctsReporting="15" precinctsReported="15">
+        <VoteType name="overVotes" votes="3">
+            <Precinct name="ADAMSVILLE" votes="0" />
+            <Precinct name="BLENHEIM" votes="0" />
+            <Precinct name="BRIGHTSVILLE" votes="0" />
+            <Precinct name="BROWNSVILLE" votes="0" />
+            <Precinct name="RED HILL" votes="0" />
+            <Precinct name="TATUM" votes="0" />
+            <Precinct name="WALLACE" votes="0" />
+            <Precinct name="QUICKS X ROADS" votes="0" />
+            <Precinct name="CLIO" votes="0" />
+            <Precinct name="MCCOLL" votes="0" />
+            <Precinct name="EAST MCCOLL" votes="0" />
+            <Precinct name="E BENNETTSVILLE" votes="0" />
+            <Precinct name="W BENNETTSVILLE" votes="0" />
+            <Precinct name="S BENNETTSVILLE" votes="0" />
+            <Precinct name="N BENNETTSVILLE" votes="0" />
+            <Precinct name="Absentee" votes="3" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="4412">
+            <Precinct name="ADAMSVILLE" votes="75" />
+            <Precinct name="BLENHEIM" votes="68" />
+            <Precinct name="BRIGHTSVILLE" votes="123" />
+            <Precinct name="BROWNSVILLE" votes="86" />
+            <Precinct name="RED HILL" votes="234" />
+            <Precinct name="TATUM" votes="91" />
+            <Precinct name="WALLACE" votes="237" />
+            <Precinct name="QUICKS X ROADS" votes="178" />
+            <Precinct name="CLIO" votes="204" />
+            <Precinct name="MCCOLL" votes="225" />
+            <Precinct name="EAST MCCOLL" votes="242" />
+            <Precinct name="E BENNETTSVILLE" votes="200" />
+            <Precinct name="W BENNETTSVILLE" votes="168" />
+            <Precinct name="S BENNETTSVILLE" votes="67" />
+            <Precinct name="N BENNETTSVILLE" votes="349" />
+            <Precinct name="Absentee" votes="1845" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="6" />
+            <Precinct name="Provisional" votes="14" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Democratic" party="DEM" totalVotes="4369">
+            <VoteType name="Election Day" votes="4369">
+                <Precinct name="ADAMSVILLE" votes="50" />
+                <Precinct name="BLENHEIM" votes="41" />
+                <Precinct name="BRIGHTSVILLE" votes="113" />
+                <Precinct name="BROWNSVILLE" votes="34" />
+                <Precinct name="RED HILL" votes="124" />
+                <Precinct name="TATUM" votes="56" />
+                <Precinct name="WALLACE" votes="192" />
+                <Precinct name="QUICKS X ROADS" votes="138" />
+                <Precinct name="CLIO" votes="319" />
+                <Precinct name="MCCOLL" votes="131" />
+                <Precinct name="EAST MCCOLL" votes="48" />
+                <Precinct name="E BENNETTSVILLE" votes="221" />
+                <Precinct name="W BENNETTSVILLE" votes="209" />
+                <Precinct name="S BENNETTSVILLE" votes="213" />
+                <Precinct name="N BENNETTSVILLE" votes="225" />
+                <Precinct name="Absentee" votes="2224" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="13" />
+                <Precinct name="Provisional" votes="18" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Working Families" party="WFW" totalVotes="91">
+            <VoteType name="Election Day" votes="91">
+                <Precinct name="ADAMSVILLE" votes="1" />
+                <Precinct name="BLENHEIM" votes="3" />
+                <Precinct name="BRIGHTSVILLE" votes="5" />
+                <Precinct name="BROWNSVILLE" votes="0" />
+                <Precinct name="RED HILL" votes="6" />
+                <Precinct name="TATUM" votes="1" />
+                <Precinct name="WALLACE" votes="6" />
+                <Precinct name="QUICKS X ROADS" votes="5" />
+                <Precinct name="CLIO" votes="4" />
+                <Precinct name="MCCOLL" votes="11" />
+                <Precinct name="EAST MCCOLL" votes="2" />
+                <Precinct name="E BENNETTSVILLE" votes="1" />
+                <Precinct name="W BENNETTSVILLE" votes="6" />
+                <Precinct name="S BENNETTSVILLE" votes="9" />
+                <Precinct name="N BENNETTSVILLE" votes="5" />
+                <Precinct name="Absentee" votes="24" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="2" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Constitution" party="CON" totalVotes="4">
+            <VoteType name="Election Day" votes="4">
+                <Precinct name="ADAMSVILLE" votes="0" />
+                <Precinct name="BLENHEIM" votes="1" />
+                <Precinct name="BRIGHTSVILLE" votes="0" />
+                <Precinct name="BROWNSVILLE" votes="0" />
+                <Precinct name="RED HILL" votes="0" />
+                <Precinct name="TATUM" votes="0" />
+                <Precinct name="WALLACE" votes="2" />
+                <Precinct name="QUICKS X ROADS" votes="0" />
+                <Precinct name="CLIO" votes="0" />
+                <Precinct name="MCCOLL" votes="0" />
+                <Precinct name="EAST MCCOLL" votes="0" />
+                <Precinct name="E BENNETTSVILLE" votes="1" />
+                <Precinct name="W BENNETTSVILLE" votes="0" />
+                <Precinct name="S BENNETTSVILLE" votes="0" />
+                <Precinct name="N BENNETTSVILLE" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Independence" party="IND" totalVotes="61">
+            <VoteType name="Election Day" votes="61">
+                <Precinct name="ADAMSVILLE" votes="0" />
+                <Precinct name="BLENHEIM" votes="1" />
+                <Precinct name="BRIGHTSVILLE" votes="1" />
+                <Precinct name="BROWNSVILLE" votes="2" />
+                <Precinct name="RED HILL" votes="0" />
+                <Precinct name="TATUM" votes="3" />
+                <Precinct name="WALLACE" votes="9" />
+                <Precinct name="QUICKS X ROADS" votes="5" />
+                <Precinct name="CLIO" votes="6" />
+                <Precinct name="MCCOLL" votes="5" />
+                <Precinct name="EAST MCCOLL" votes="3" />
+                <Precinct name="E BENNETTSVILLE" votes="1" />
+                <Precinct name="W BENNETTSVILLE" votes="4" />
+                <Precinct name="S BENNETTSVILLE" votes="0" />
+                <Precinct name="N BENNETTSVILLE" votes="3" />
+                <Precinct name="Absentee" votes="18" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Green" party="GRN" totalVotes="7">
+            <VoteType name="Election Day" votes="7">
+                <Precinct name="ADAMSVILLE" votes="0" />
+                <Precinct name="BLENHEIM" votes="0" />
+                <Precinct name="BRIGHTSVILLE" votes="0" />
+                <Precinct name="BROWNSVILLE" votes="0" />
+                <Precinct name="RED HILL" votes="0" />
+                <Precinct name="TATUM" votes="0" />
+                <Precinct name="WALLACE" votes="2" />
+                <Precinct name="QUICKS X ROADS" votes="0" />
+                <Precinct name="CLIO" votes="0" />
+                <Precinct name="MCCOLL" votes="0" />
+                <Precinct name="EAST MCCOLL" votes="0" />
+                <Precinct name="E BENNETTSVILLE" votes="1" />
+                <Precinct name="W BENNETTSVILLE" votes="0" />
+                <Precinct name="S BENNETTSVILLE" votes="1" />
+                <Precinct name="N BENNETTSVILLE" votes="0" />
+                <Precinct name="Absentee" votes="3" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Republican" party="REP" totalVotes="1479">
+            <VoteType name="Election Day" votes="1479">
+                <Precinct name="ADAMSVILLE" votes="47" />
+                <Precinct name="BLENHEIM" votes="29" />
+                <Precinct name="BRIGHTSVILLE" votes="75" />
+                <Precinct name="BROWNSVILLE" votes="58" />
+                <Precinct name="RED HILL" votes="73" />
+                <Precinct name="TATUM" votes="32" />
+                <Precinct name="WALLACE" votes="147" />
+                <Precinct name="QUICKS X ROADS" votes="56" />
+                <Precinct name="CLIO" votes="72" />
+                <Precinct name="MCCOLL" votes="92" />
+                <Precinct name="EAST MCCOLL" votes="88" />
+                <Precinct name="E BENNETTSVILLE" votes="62" />
+                <Precinct name="W BENNETTSVILLE" votes="42" />
+                <Precinct name="S BENNETTSVILLE" votes="15" />
+                <Precinct name="N BENNETTSVILLE" votes="110" />
+                <Precinct name="Absentee" votes="474" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="3" />
+                <Precinct name="Provisional" votes="4" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="American" party="AMR" totalVotes="52">
+            <VoteType name="Election Day" votes="52">
+                <Precinct name="ADAMSVILLE" votes="1" />
+                <Precinct name="BLENHEIM" votes="3" />
+                <Precinct name="BRIGHTSVILLE" votes="2" />
+                <Precinct name="BROWNSVILLE" votes="0" />
+                <Precinct name="RED HILL" votes="1" />
+                <Precinct name="TATUM" votes="2" />
+                <Precinct name="WALLACE" votes="6" />
+                <Precinct name="QUICKS X ROADS" votes="2" />
+                <Precinct name="CLIO" votes="3" />
+                <Precinct name="MCCOLL" votes="2" />
+                <Precinct name="EAST MCCOLL" votes="3" />
+                <Precinct name="E BENNETTSVILLE" votes="3" />
+                <Precinct name="W BENNETTSVILLE" votes="2" />
+                <Precinct name="S BENNETTSVILLE" votes="5" />
+                <Precinct name="N BENNETTSVILLE" votes="2" />
+                <Precinct name="Absentee" votes="15" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="008" text="Libertarian" party="LIB" totalVotes="13">
+            <VoteType name="Election Day" votes="13">
+                <Precinct name="ADAMSVILLE" votes="0" />
+                <Precinct name="BLENHEIM" votes="0" />
+                <Precinct name="BRIGHTSVILLE" votes="0" />
+                <Precinct name="BROWNSVILLE" votes="0" />
+                <Precinct name="RED HILL" votes="0" />
+                <Precinct name="TATUM" votes="1" />
+                <Precinct name="WALLACE" votes="1" />
+                <Precinct name="QUICKS X ROADS" votes="1" />
+                <Precinct name="CLIO" votes="2" />
+                <Precinct name="MCCOLL" votes="1" />
+                <Precinct name="EAST MCCOLL" votes="0" />
+                <Precinct name="E BENNETTSVILLE" votes="1" />
+                <Precinct name="W BENNETTSVILLE" votes="0" />
+                <Precinct name="S BENNETTSVILLE" votes="0" />
+                <Precinct name="N BENNETTSVILLE" votes="1" />
+                <Precinct name="Absentee" votes="5" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0104" text="President and Vice President" voteFor="1" isQuestion="false" precinctsReporting="15" precinctsReported="15">
+        <VoteType name="overVotes" votes="7">
+            <Precinct name="ADAMSVILLE" votes="0" />
+            <Precinct name="BLENHEIM" votes="0" />
+            <Precinct name="BRIGHTSVILLE" votes="0" />
+            <Precinct name="BROWNSVILLE" votes="0" />
+            <Precinct name="RED HILL" votes="0" />
+            <Precinct name="TATUM" votes="0" />
+            <Precinct name="WALLACE" votes="0" />
+            <Precinct name="QUICKS X ROADS" votes="0" />
+            <Precinct name="CLIO" votes="0" />
+            <Precinct name="MCCOLL" votes="0" />
+            <Precinct name="EAST MCCOLL" votes="0" />
+            <Precinct name="E BENNETTSVILLE" votes="0" />
+            <Precinct name="W BENNETTSVILLE" votes="0" />
+            <Precinct name="S BENNETTSVILLE" votes="0" />
+            <Precinct name="N BENNETTSVILLE" votes="0" />
+            <Precinct name="Absentee" votes="5" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="2" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="95">
+            <Precinct name="ADAMSVILLE" votes="1" />
+            <Precinct name="BLENHEIM" votes="3" />
+            <Precinct name="BRIGHTSVILLE" votes="4" />
+            <Precinct name="BROWNSVILLE" votes="0" />
+            <Precinct name="RED HILL" votes="3" />
+            <Precinct name="TATUM" votes="2" />
+            <Precinct name="WALLACE" votes="4" />
+            <Precinct name="QUICKS X ROADS" votes="3" />
+            <Precinct name="CLIO" votes="4" />
+            <Precinct name="MCCOLL" votes="7" />
+            <Precinct name="EAST MCCOLL" votes="3" />
+            <Precinct name="E BENNETTSVILLE" votes="7" />
+            <Precinct name="W BENNETTSVILLE" votes="6" />
+            <Precinct name="S BENNETTSVILLE" votes="2" />
+            <Precinct name="N BENNETTSVILLE" votes="5" />
+            <Precinct name="Absentee" votes="41" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Hillary Rodham Clinton / Timothy Michael Kaine" party="DEM" totalVotes="5954">
+            <VoteType name="Election Day" votes="5954">
+                <Precinct name="ADAMSVILLE" votes="73" />
+                <Precinct name="BLENHEIM" votes="52" />
+                <Precinct name="BRIGHTSVILLE" votes="151" />
+                <Precinct name="BROWNSVILLE" votes="49" />
+                <Precinct name="RED HILL" votes="179" />
+                <Precinct name="TATUM" votes="80" />
+                <Precinct name="WALLACE" votes="257" />
+                <Precinct name="QUICKS X ROADS" votes="196" />
+                <Precinct name="CLIO" votes="397" />
+                <Precinct name="MCCOLL" votes="194" />
+                <Precinct name="EAST MCCOLL" votes="76" />
+                <Precinct name="E BENNETTSVILLE" votes="308" />
+                <Precinct name="W BENNETTSVILLE" votes="282" />
+                <Precinct name="S BENNETTSVILLE" votes="275" />
+                <Precinct name="N BENNETTSVILLE" votes="321" />
+                <Precinct name="Absentee" votes="3022" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="16" />
+                <Precinct name="Provisional" votes="26" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Darrell Castle / Scott Bradley" party="CON" totalVotes="20">
+            <VoteType name="Election Day" votes="20">
+                <Precinct name="ADAMSVILLE" votes="1" />
+                <Precinct name="BLENHEIM" votes="2" />
+                <Precinct name="BRIGHTSVILLE" votes="0" />
+                <Precinct name="BROWNSVILLE" votes="0" />
+                <Precinct name="RED HILL" votes="1" />
+                <Precinct name="TATUM" votes="0" />
+                <Precinct name="WALLACE" votes="0" />
+                <Precinct name="QUICKS X ROADS" votes="2" />
+                <Precinct name="CLIO" votes="1" />
+                <Precinct name="MCCOLL" votes="2" />
+                <Precinct name="EAST MCCOLL" votes="0" />
+                <Precinct name="E BENNETTSVILLE" votes="3" />
+                <Precinct name="W BENNETTSVILLE" votes="1" />
+                <Precinct name="S BENNETTSVILLE" votes="0" />
+                <Precinct name="N BENNETTSVILLE" votes="0" />
+                <Precinct name="Absentee" votes="7" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Evan McMullin / Nathan Johnson" party="IND" totalVotes="32">
+            <VoteType name="Election Day" votes="32">
+                <Precinct name="ADAMSVILLE" votes="1" />
+                <Precinct name="BLENHEIM" votes="1" />
+                <Precinct name="BRIGHTSVILLE" votes="1" />
+                <Precinct name="BROWNSVILLE" votes="1" />
+                <Precinct name="RED HILL" votes="1" />
+                <Precinct name="TATUM" votes="1" />
+                <Precinct name="WALLACE" votes="2" />
+                <Precinct name="QUICKS X ROADS" votes="1" />
+                <Precinct name="CLIO" votes="1" />
+                <Precinct name="MCCOLL" votes="2" />
+                <Precinct name="EAST MCCOLL" votes="1" />
+                <Precinct name="E BENNETTSVILLE" votes="1" />
+                <Precinct name="W BENNETTSVILLE" votes="1" />
+                <Precinct name="S BENNETTSVILLE" votes="1" />
+                <Precinct name="N BENNETTSVILLE" votes="4" />
+                <Precinct name="Absentee" votes="12" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Jill Stein / Ajamu Baraka" party="GRN" totalVotes="33">
+            <VoteType name="Election Day" votes="33">
+                <Precinct name="ADAMSVILLE" votes="1" />
+                <Precinct name="BLENHEIM" votes="0" />
+                <Precinct name="BRIGHTSVILLE" votes="1" />
+                <Precinct name="BROWNSVILLE" votes="0" />
+                <Precinct name="RED HILL" votes="2" />
+                <Precinct name="TATUM" votes="1" />
+                <Precinct name="WALLACE" votes="2" />
+                <Precinct name="QUICKS X ROADS" votes="1" />
+                <Precinct name="CLIO" votes="2" />
+                <Precinct name="MCCOLL" votes="3" />
+                <Precinct name="EAST MCCOLL" votes="0" />
+                <Precinct name="E BENNETTSVILLE" votes="1" />
+                <Precinct name="W BENNETTSVILLE" votes="2" />
+                <Precinct name="S BENNETTSVILLE" votes="4" />
+                <Precinct name="N BENNETTSVILLE" votes="6" />
+                <Precinct name="Absentee" votes="7" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Donald J Trump / Michael R Pence" party="REP" totalVotes="4267">
+            <VoteType name="Election Day" votes="4267">
+                <Precinct name="ADAMSVILLE" votes="95" />
+                <Precinct name="BLENHEIM" votes="87" />
+                <Precinct name="BRIGHTSVILLE" votes="157" />
+                <Precinct name="BROWNSVILLE" votes="128" />
+                <Precinct name="RED HILL" votes="251" />
+                <Precinct name="TATUM" votes="99" />
+                <Precinct name="WALLACE" votes="331" />
+                <Precinct name="QUICKS X ROADS" votes="175" />
+                <Precinct name="CLIO" votes="199" />
+                <Precinct name="MCCOLL" votes="255" />
+                <Precinct name="EAST MCCOLL" votes="303" />
+                <Precinct name="E BENNETTSVILLE" votes="167" />
+                <Precinct name="W BENNETTSVILLE" votes="138" />
+                <Precinct name="S BENNETTSVILLE" votes="25" />
+                <Precinct name="N BENNETTSVILLE" votes="352" />
+                <Precinct name="Absentee" votes="1489" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="6" />
+                <Precinct name="Provisional" votes="10" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Peter Skewes / Michael Lacy" party="AMR" totalVotes="13">
+            <VoteType name="Election Day" votes="13">
+                <Precinct name="ADAMSVILLE" votes="1" />
+                <Precinct name="BLENHEIM" votes="0" />
+                <Precinct name="BRIGHTSVILLE" votes="2" />
+                <Precinct name="BROWNSVILLE" votes="0" />
+                <Precinct name="RED HILL" votes="0" />
+                <Precinct name="TATUM" votes="1" />
+                <Precinct name="WALLACE" votes="1" />
+                <Precinct name="QUICKS X ROADS" votes="1" />
+                <Precinct name="CLIO" votes="1" />
+                <Precinct name="MCCOLL" votes="1" />
+                <Precinct name="EAST MCCOLL" votes="0" />
+                <Precinct name="E BENNETTSVILLE" votes="0" />
+                <Precinct name="W BENNETTSVILLE" votes="1" />
+                <Precinct name="S BENNETTSVILLE" votes="0" />
+                <Precinct name="N BENNETTSVILLE" votes="2" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="Gary Johnson / Bill Weld" party="LIB" totalVotes="70">
+            <VoteType name="Election Day" votes="70">
+                <Precinct name="ADAMSVILLE" votes="1" />
+                <Precinct name="BLENHEIM" votes="1" />
+                <Precinct name="BRIGHTSVILLE" votes="3" />
+                <Precinct name="BROWNSVILLE" votes="2" />
+                <Precinct name="RED HILL" votes="1" />
+                <Precinct name="TATUM" votes="2" />
+                <Precinct name="WALLACE" votes="5" />
+                <Precinct name="QUICKS X ROADS" votes="6" />
+                <Precinct name="CLIO" votes="5" />
+                <Precinct name="MCCOLL" votes="3" />
+                <Precinct name="EAST MCCOLL" votes="3" />
+                <Precinct name="E BENNETTSVILLE" votes="4" />
+                <Precinct name="W BENNETTSVILLE" votes="0" />
+                <Precinct name="S BENNETTSVILLE" votes="3" />
+                <Precinct name="N BENNETTSVILLE" votes="5" />
+                <Precinct name="Absentee" votes="26" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0105" text="U.S. Senate" voteFor="1" isQuestion="false" precinctsReporting="15" precinctsReported="15">
+        <VoteType name="overVotes" votes="7">
+            <Precinct name="ADAMSVILLE" votes="0" />
+            <Precinct name="BLENHEIM" votes="0" />
+            <Precinct name="BRIGHTSVILLE" votes="0" />
+            <Precinct name="BROWNSVILLE" votes="0" />
+            <Precinct name="RED HILL" votes="0" />
+            <Precinct name="TATUM" votes="0" />
+            <Precinct name="WALLACE" votes="0" />
+            <Precinct name="QUICKS X ROADS" votes="0" />
+            <Precinct name="CLIO" votes="0" />
+            <Precinct name="MCCOLL" votes="0" />
+            <Precinct name="EAST MCCOLL" votes="0" />
+            <Precinct name="E BENNETTSVILLE" votes="0" />
+            <Precinct name="W BENNETTSVILLE" votes="0" />
+            <Precinct name="S BENNETTSVILLE" votes="0" />
+            <Precinct name="N BENNETTSVILLE" votes="0" />
+            <Precinct name="Absentee" votes="5" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="2" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="469">
+            <Precinct name="ADAMSVILLE" votes="6" />
+            <Precinct name="BLENHEIM" votes="7" />
+            <Precinct name="BRIGHTSVILLE" votes="22" />
+            <Precinct name="BROWNSVILLE" votes="6" />
+            <Precinct name="RED HILL" votes="23" />
+            <Precinct name="TATUM" votes="9" />
+            <Precinct name="WALLACE" votes="14" />
+            <Precinct name="QUICKS X ROADS" votes="19" />
+            <Precinct name="CLIO" votes="19" />
+            <Precinct name="MCCOLL" votes="18" />
+            <Precinct name="EAST MCCOLL" votes="30" />
+            <Precinct name="E BENNETTSVILLE" votes="24" />
+            <Precinct name="W BENNETTSVILLE" votes="23" />
+            <Precinct name="S BENNETTSVILLE" votes="11" />
+            <Precinct name="N BENNETTSVILLE" votes="20" />
+            <Precinct name="Absentee" votes="212" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="2" />
+            <Precinct name="Provisional" votes="4" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Thomas Dixon" party="DEM" totalVotes="5364">
+            <VoteType name="Election Day" votes="5364">
+                <Precinct name="ADAMSVILLE" votes="64" />
+                <Precinct name="BLENHEIM" votes="49" />
+                <Precinct name="BRIGHTSVILLE" votes="132" />
+                <Precinct name="BROWNSVILLE" votes="44" />
+                <Precinct name="RED HILL" votes="168" />
+                <Precinct name="TATUM" votes="71" />
+                <Precinct name="WALLACE" votes="232" />
+                <Precinct name="QUICKS X ROADS" votes="182" />
+                <Precinct name="CLIO" votes="364" />
+                <Precinct name="MCCOLL" votes="173" />
+                <Precinct name="EAST MCCOLL" votes="74" />
+                <Precinct name="E BENNETTSVILLE" votes="275" />
+                <Precinct name="W BENNETTSVILLE" votes="245" />
+                <Precinct name="S BENNETTSVILLE" votes="236" />
+                <Precinct name="N BENNETTSVILLE" votes="282" />
+                <Precinct name="Absentee" votes="2735" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="14" />
+                <Precinct name="Provisional" votes="24" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Thomas Dixon" party="WFW" totalVotes="300">
+            <VoteType name="Election Day" votes="300">
+                <Precinct name="ADAMSVILLE" votes="6" />
+                <Precinct name="BLENHEIM" votes="4" />
+                <Precinct name="BRIGHTSVILLE" votes="11" />
+                <Precinct name="BROWNSVILLE" votes="3" />
+                <Precinct name="RED HILL" votes="17" />
+                <Precinct name="TATUM" votes="11" />
+                <Precinct name="WALLACE" votes="26" />
+                <Precinct name="QUICKS X ROADS" votes="10" />
+                <Precinct name="CLIO" votes="12" />
+                <Precinct name="MCCOLL" votes="26" />
+                <Precinct name="EAST MCCOLL" votes="20" />
+                <Precinct name="E BENNETTSVILLE" votes="10" />
+                <Precinct name="W BENNETTSVILLE" votes="19" />
+                <Precinct name="S BENNETTSVILLE" votes="14" />
+                <Precinct name="N BENNETTSVILLE" votes="22" />
+                <Precinct name="Absentee" votes="86" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="2" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Bill Bledsoe" party="CON" totalVotes="54">
+            <VoteType name="Election Day" votes="54">
+                <Precinct name="ADAMSVILLE" votes="0" />
+                <Precinct name="BLENHEIM" votes="2" />
+                <Precinct name="BRIGHTSVILLE" votes="2" />
+                <Precinct name="BROWNSVILLE" votes="1" />
+                <Precinct name="RED HILL" votes="5" />
+                <Precinct name="TATUM" votes="1" />
+                <Precinct name="WALLACE" votes="6" />
+                <Precinct name="QUICKS X ROADS" votes="3" />
+                <Precinct name="CLIO" votes="2" />
+                <Precinct name="MCCOLL" votes="1" />
+                <Precinct name="EAST MCCOLL" votes="3" />
+                <Precinct name="E BENNETTSVILLE" votes="3" />
+                <Precinct name="W BENNETTSVILLE" votes="4" />
+                <Precinct name="S BENNETTSVILLE" votes="1" />
+                <Precinct name="N BENNETTSVILLE" votes="5" />
+                <Precinct name="Absentee" votes="15" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Thomas Dixon" party="GRN" totalVotes="53">
+            <VoteType name="Election Day" votes="53">
+                <Precinct name="ADAMSVILLE" votes="0" />
+                <Precinct name="BLENHEIM" votes="1" />
+                <Precinct name="BRIGHTSVILLE" votes="2" />
+                <Precinct name="BROWNSVILLE" votes="1" />
+                <Precinct name="RED HILL" votes="4" />
+                <Precinct name="TATUM" votes="0" />
+                <Precinct name="WALLACE" votes="4" />
+                <Precinct name="QUICKS X ROADS" votes="3" />
+                <Precinct name="CLIO" votes="1" />
+                <Precinct name="MCCOLL" votes="4" />
+                <Precinct name="EAST MCCOLL" votes="3" />
+                <Precinct name="E BENNETTSVILLE" votes="2" />
+                <Precinct name="W BENNETTSVILLE" votes="2" />
+                <Precinct name="S BENNETTSVILLE" votes="5" />
+                <Precinct name="N BENNETTSVILLE" votes="4" />
+                <Precinct name="Absentee" votes="15" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="2" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Tim Scott" party="REP" totalVotes="4132">
+            <VoteType name="Election Day" votes="4132">
+                <Precinct name="ADAMSVILLE" votes="96" />
+                <Precinct name="BLENHEIM" votes="79" />
+                <Precinct name="BRIGHTSVILLE" votes="149" />
+                <Precinct name="BROWNSVILLE" votes="122" />
+                <Precinct name="RED HILL" votes="220" />
+                <Precinct name="TATUM" votes="90" />
+                <Precinct name="WALLACE" votes="306" />
+                <Precinct name="QUICKS X ROADS" votes="161" />
+                <Precinct name="CLIO" votes="208" />
+                <Precinct name="MCCOLL" votes="236" />
+                <Precinct name="EAST MCCOLL" votes="250" />
+                <Precinct name="E BENNETTSVILLE" votes="171" />
+                <Precinct name="W BENNETTSVILLE" votes="132" />
+                <Precinct name="S BENNETTSVILLE" votes="36" />
+                <Precinct name="N BENNETTSVILLE" votes="356" />
+                <Precinct name="Absentee" votes="1511" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="5" />
+                <Precinct name="Provisional" votes="4" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Rebel Michael Scarborough" party="AMR" totalVotes="49">
+            <VoteType name="Election Day" votes="49">
+                <Precinct name="ADAMSVILLE" votes="1" />
+                <Precinct name="BLENHEIM" votes="3" />
+                <Precinct name="BRIGHTSVILLE" votes="0" />
+                <Precinct name="BROWNSVILLE" votes="1" />
+                <Precinct name="RED HILL" votes="0" />
+                <Precinct name="TATUM" votes="2" />
+                <Precinct name="WALLACE" votes="4" />
+                <Precinct name="QUICKS X ROADS" votes="4" />
+                <Precinct name="CLIO" votes="2" />
+                <Precinct name="MCCOLL" votes="3" />
+                <Precinct name="EAST MCCOLL" votes="5" />
+                <Precinct name="E BENNETTSVILLE" votes="3" />
+                <Precinct name="W BENNETTSVILLE" votes="3" />
+                <Precinct name="S BENNETTSVILLE" votes="5" />
+                <Precinct name="N BENNETTSVILLE" votes="2" />
+                <Precinct name="Absentee" votes="11" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="Bill Bledsoe" party="LIB" totalVotes="60">
+            <VoteType name="Election Day" votes="60">
+                <Precinct name="ADAMSVILLE" votes="1" />
+                <Precinct name="BLENHEIM" votes="1" />
+                <Precinct name="BRIGHTSVILLE" votes="1" />
+                <Precinct name="BROWNSVILLE" votes="2" />
+                <Precinct name="RED HILL" votes="0" />
+                <Precinct name="TATUM" votes="2" />
+                <Precinct name="WALLACE" votes="10" />
+                <Precinct name="QUICKS X ROADS" votes="3" />
+                <Precinct name="CLIO" votes="2" />
+                <Precinct name="MCCOLL" votes="6" />
+                <Precinct name="EAST MCCOLL" votes="1" />
+                <Precinct name="E BENNETTSVILLE" votes="2" />
+                <Precinct name="W BENNETTSVILLE" votes="3" />
+                <Precinct name="S BENNETTSVILLE" votes="2" />
+                <Precinct name="N BENNETTSVILLE" votes="4" />
+                <Precinct name="Absentee" votes="20" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="008" text="Write-In" party="NON" totalVotes="3">
+            <VoteType name="Election Day" votes="3">
+                <Precinct name="ADAMSVILLE" votes="0" />
+                <Precinct name="BLENHEIM" votes="0" />
+                <Precinct name="BRIGHTSVILLE" votes="0" />
+                <Precinct name="BROWNSVILLE" votes="0" />
+                <Precinct name="RED HILL" votes="1" />
+                <Precinct name="TATUM" votes="0" />
+                <Precinct name="WALLACE" votes="0" />
+                <Precinct name="QUICKS X ROADS" votes="0" />
+                <Precinct name="CLIO" votes="0" />
+                <Precinct name="MCCOLL" votes="0" />
+                <Precinct name="EAST MCCOLL" votes="0" />
+                <Precinct name="E BENNETTSVILLE" votes="1" />
+                <Precinct name="W BENNETTSVILLE" votes="0" />
+                <Precinct name="S BENNETTSVILLE" votes="0" />
+                <Precinct name="N BENNETTSVILLE" votes="0" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0106" text="U.S.  House of Representatives, District  7" voteFor="1" isQuestion="false" precinctsReporting="15" precinctsReported="15">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ADAMSVILLE" votes="0" />
+            <Precinct name="BLENHEIM" votes="0" />
+            <Precinct name="BRIGHTSVILLE" votes="0" />
+            <Precinct name="BROWNSVILLE" votes="0" />
+            <Precinct name="RED HILL" votes="0" />
+            <Precinct name="TATUM" votes="0" />
+            <Precinct name="WALLACE" votes="0" />
+            <Precinct name="QUICKS X ROADS" votes="0" />
+            <Precinct name="CLIO" votes="0" />
+            <Precinct name="MCCOLL" votes="0" />
+            <Precinct name="EAST MCCOLL" votes="0" />
+            <Precinct name="E BENNETTSVILLE" votes="0" />
+            <Precinct name="W BENNETTSVILLE" votes="0" />
+            <Precinct name="S BENNETTSVILLE" votes="0" />
+            <Precinct name="N BENNETTSVILLE" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="488">
+            <Precinct name="ADAMSVILLE" votes="6" />
+            <Precinct name="BLENHEIM" votes="6" />
+            <Precinct name="BRIGHTSVILLE" votes="23" />
+            <Precinct name="BROWNSVILLE" votes="4" />
+            <Precinct name="RED HILL" votes="24" />
+            <Precinct name="TATUM" votes="8" />
+            <Precinct name="WALLACE" votes="17" />
+            <Precinct name="QUICKS X ROADS" votes="21" />
+            <Precinct name="CLIO" votes="25" />
+            <Precinct name="MCCOLL" votes="22" />
+            <Precinct name="EAST MCCOLL" votes="24" />
+            <Precinct name="E BENNETTSVILLE" votes="22" />
+            <Precinct name="W BENNETTSVILLE" votes="22" />
+            <Precinct name="S BENNETTSVILLE" votes="14" />
+            <Precinct name="N BENNETTSVILLE" votes="25" />
+            <Precinct name="Absentee" votes="220" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="4" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Mal Hyman" party="DEM" totalVotes="5406">
+            <VoteType name="Election Day" votes="5406">
+                <Precinct name="ADAMSVILLE" votes="65" />
+                <Precinct name="BLENHEIM" votes="46" />
+                <Precinct name="BRIGHTSVILLE" votes="136" />
+                <Precinct name="BROWNSVILLE" votes="45" />
+                <Precinct name="RED HILL" votes="165" />
+                <Precinct name="TATUM" votes="70" />
+                <Precinct name="WALLACE" votes="238" />
+                <Precinct name="QUICKS X ROADS" votes="186" />
+                <Precinct name="CLIO" votes="373" />
+                <Precinct name="MCCOLL" votes="166" />
+                <Precinct name="EAST MCCOLL" votes="71" />
+                <Precinct name="E BENNETTSVILLE" votes="276" />
+                <Precinct name="W BENNETTSVILLE" votes="252" />
+                <Precinct name="S BENNETTSVILLE" votes="241" />
+                <Precinct name="N BENNETTSVILLE" votes="292" />
+                <Precinct name="Absentee" votes="2747" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="13" />
+                <Precinct name="Provisional" votes="24" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Mal Hyman" party="WFW" totalVotes="260">
+            <VoteType name="Election Day" votes="260">
+                <Precinct name="ADAMSVILLE" votes="6" />
+                <Precinct name="BLENHEIM" votes="6" />
+                <Precinct name="BRIGHTSVILLE" votes="9" />
+                <Precinct name="BROWNSVILLE" votes="2" />
+                <Precinct name="RED HILL" votes="13" />
+                <Precinct name="TATUM" votes="4" />
+                <Precinct name="WALLACE" votes="22" />
+                <Precinct name="QUICKS X ROADS" votes="10" />
+                <Precinct name="CLIO" votes="10" />
+                <Precinct name="MCCOLL" votes="23" />
+                <Precinct name="EAST MCCOLL" votes="10" />
+                <Precinct name="E BENNETTSVILLE" votes="10" />
+                <Precinct name="W BENNETTSVILLE" votes="14" />
+                <Precinct name="S BENNETTSVILLE" votes="15" />
+                <Precinct name="N BENNETTSVILLE" votes="15" />
+                <Precinct name="Absentee" votes="89" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="2" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Mal Hyman" party="GRN" totalVotes="59">
+            <VoteType name="Election Day" votes="59">
+                <Precinct name="ADAMSVILLE" votes="1" />
+                <Precinct name="BLENHEIM" votes="2" />
+                <Precinct name="BRIGHTSVILLE" votes="1" />
+                <Precinct name="BROWNSVILLE" votes="0" />
+                <Precinct name="RED HILL" votes="4" />
+                <Precinct name="TATUM" votes="2" />
+                <Precinct name="WALLACE" votes="6" />
+                <Precinct name="QUICKS X ROADS" votes="4" />
+                <Precinct name="CLIO" votes="1" />
+                <Precinct name="MCCOLL" votes="3" />
+                <Precinct name="EAST MCCOLL" votes="1" />
+                <Precinct name="E BENNETTSVILLE" votes="5" />
+                <Precinct name="W BENNETTSVILLE" votes="3" />
+                <Precinct name="S BENNETTSVILLE" votes="3" />
+                <Precinct name="N BENNETTSVILLE" votes="5" />
+                <Precinct name="Absentee" votes="16" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="2" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Tom Rice" party="REP" totalVotes="4270">
+            <VoteType name="Election Day" votes="4270">
+                <Precinct name="ADAMSVILLE" votes="96" />
+                <Precinct name="BLENHEIM" votes="85" />
+                <Precinct name="BRIGHTSVILLE" votes="150" />
+                <Precinct name="BROWNSVILLE" votes="129" />
+                <Precinct name="RED HILL" votes="230" />
+                <Precinct name="TATUM" votes="102" />
+                <Precinct name="WALLACE" votes="319" />
+                <Precinct name="QUICKS X ROADS" votes="163" />
+                <Precinct name="CLIO" votes="201" />
+                <Precinct name="MCCOLL" votes="252" />
+                <Precinct name="EAST MCCOLL" votes="280" />
+                <Precinct name="E BENNETTSVILLE" votes="177" />
+                <Precinct name="W BENNETTSVILLE" votes="140" />
+                <Precinct name="S BENNETTSVILLE" votes="37" />
+                <Precinct name="N BENNETTSVILLE" votes="358" />
+                <Precinct name="Absentee" votes="1537" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="8" />
+                <Precinct name="Provisional" votes="6" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Write-In" party="NON" totalVotes="8">
+            <VoteType name="Election Day" votes="8">
+                <Precinct name="ADAMSVILLE" votes="0" />
+                <Precinct name="BLENHEIM" votes="1" />
+                <Precinct name="BRIGHTSVILLE" votes="0" />
+                <Precinct name="BROWNSVILLE" votes="0" />
+                <Precinct name="RED HILL" votes="2" />
+                <Precinct name="TATUM" votes="0" />
+                <Precinct name="WALLACE" votes="0" />
+                <Precinct name="QUICKS X ROADS" votes="1" />
+                <Precinct name="CLIO" votes="0" />
+                <Precinct name="MCCOLL" votes="1" />
+                <Precinct name="EAST MCCOLL" votes="0" />
+                <Precinct name="E BENNETTSVILLE" votes="1" />
+                <Precinct name="W BENNETTSVILLE" votes="0" />
+                <Precinct name="S BENNETTSVILLE" votes="0" />
+                <Precinct name="N BENNETTSVILLE" votes="0" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0107" text="State  Senate, District  29" voteFor="1" isQuestion="false" precinctsReporting="13" precinctsReported="13">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ADAMSVILLE" votes="0" />
+            <Precinct name="BLENHEIM" votes="0" />
+            <Precinct name="BRIGHTSVILLE" votes="0" />
+            <Precinct name="BROWNSVILLE" votes="0" />
+            <Precinct name="RED HILL" votes="0" />
+            <Precinct name="WALLACE" votes="0" />
+            <Precinct name="QUICKS X ROADS" votes="0" />
+            <Precinct name="MCCOLL" votes="0" />
+            <Precinct name="EAST MCCOLL" votes="0" />
+            <Precinct name="E BENNETTSVILLE" votes="0" />
+            <Precinct name="W BENNETTSVILLE" votes="0" />
+            <Precinct name="S BENNETTSVILLE" votes="0" />
+            <Precinct name="N BENNETTSVILLE" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="2146">
+            <Precinct name="ADAMSVILLE" votes="56" />
+            <Precinct name="BLENHEIM" votes="54" />
+            <Precinct name="BRIGHTSVILLE" votes="106" />
+            <Precinct name="BROWNSVILLE" votes="57" />
+            <Precinct name="RED HILL" votes="114" />
+            <Precinct name="WALLACE" votes="180" />
+            <Precinct name="QUICKS X ROADS" votes="90" />
+            <Precinct name="MCCOLL" votes="135" />
+            <Precinct name="EAST MCCOLL" votes="148" />
+            <Precinct name="E BENNETTSVILLE" votes="95" />
+            <Precinct name="W BENNETTSVILLE" votes="77" />
+            <Precinct name="S BENNETTSVILLE" votes="33" />
+            <Precinct name="N BENNETTSVILLE" votes="159" />
+            <Precinct name="Absentee" votes="829" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="3" />
+            <Precinct name="Provisional" votes="10" />
+        </VoteType>
+        <Choice key="001" text="Gerald Malloy" party="DEM" totalVotes="7085">
+            <VoteType name="Election Day" votes="7085">
+                <Precinct name="ADAMSVILLE" votes="115" />
+                <Precinct name="BLENHEIM" votes="92" />
+                <Precinct name="BRIGHTSVILLE" votes="211" />
+                <Precinct name="BROWNSVILLE" votes="122" />
+                <Precinct name="RED HILL" votes="319" />
+                <Precinct name="WALLACE" votes="418" />
+                <Precinct name="QUICKS X ROADS" votes="294" />
+                <Precinct name="MCCOLL" votes="331" />
+                <Precinct name="EAST MCCOLL" votes="236" />
+                <Precinct name="E BENNETTSVILLE" votes="392" />
+                <Precinct name="W BENNETTSVILLE" votes="353" />
+                <Precinct name="S BENNETTSVILLE" votes="277" />
+                <Precinct name="N BENNETTSVILLE" votes="530" />
+                <Precinct name="Absentee" votes="3355" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="18" />
+                <Precinct name="Provisional" votes="22" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="61">
+            <VoteType name="Election Day" votes="61">
+                <Precinct name="ADAMSVILLE" votes="3" />
+                <Precinct name="BLENHEIM" votes="0" />
+                <Precinct name="BRIGHTSVILLE" votes="2" />
+                <Precinct name="BROWNSVILLE" votes="1" />
+                <Precinct name="RED HILL" votes="5" />
+                <Precinct name="WALLACE" votes="4" />
+                <Precinct name="QUICKS X ROADS" votes="1" />
+                <Precinct name="MCCOLL" votes="1" />
+                <Precinct name="EAST MCCOLL" votes="2" />
+                <Precinct name="E BENNETTSVILLE" votes="4" />
+                <Precinct name="W BENNETTSVILLE" votes="1" />
+                <Precinct name="S BENNETTSVILLE" votes="0" />
+                <Precinct name="N BENNETTSVILLE" votes="6" />
+                <Precinct name="Absentee" votes="29" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="2" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0108" text="State  Senate, District  30" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="TATUM" votes="0" />
+            <Precinct name="CLIO" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="169">
+            <Precinct name="TATUM" votes="39" />
+            <Precinct name="CLIO" votes="87" />
+            <Precinct name="Absentee" votes="42" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Kent Williams" party="DEM" totalVotes="1025">
+            <VoteType name="Election Day" votes="1025">
+                <Precinct name="TATUM" votes="146" />
+                <Precinct name="CLIO" votes="521" />
+                <Precinct name="Absentee" votes="354" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="4" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="5">
+            <VoteType name="Election Day" votes="5">
+                <Precinct name="TATUM" votes="1" />
+                <Precinct name="CLIO" votes="2" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0109" text="State  House of Representatives, District  54" voteFor="1" isQuestion="false" precinctsReporting="15" precinctsReported="15">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ADAMSVILLE" votes="0" />
+            <Precinct name="BLENHEIM" votes="0" />
+            <Precinct name="BRIGHTSVILLE" votes="0" />
+            <Precinct name="BROWNSVILLE" votes="0" />
+            <Precinct name="RED HILL" votes="0" />
+            <Precinct name="TATUM" votes="0" />
+            <Precinct name="WALLACE" votes="0" />
+            <Precinct name="QUICKS X ROADS" votes="0" />
+            <Precinct name="CLIO" votes="0" />
+            <Precinct name="MCCOLL" votes="0" />
+            <Precinct name="EAST MCCOLL" votes="0" />
+            <Precinct name="E BENNETTSVILLE" votes="0" />
+            <Precinct name="W BENNETTSVILLE" votes="0" />
+            <Precinct name="S BENNETTSVILLE" votes="0" />
+            <Precinct name="N BENNETTSVILLE" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="400">
+            <Precinct name="ADAMSVILLE" votes="8" />
+            <Precinct name="BLENHEIM" votes="6" />
+            <Precinct name="BRIGHTSVILLE" votes="23" />
+            <Precinct name="BROWNSVILLE" votes="0" />
+            <Precinct name="RED HILL" votes="18" />
+            <Precinct name="TATUM" votes="5" />
+            <Precinct name="WALLACE" votes="27" />
+            <Precinct name="QUICKS X ROADS" votes="21" />
+            <Precinct name="CLIO" votes="9" />
+            <Precinct name="MCCOLL" votes="18" />
+            <Precinct name="EAST MCCOLL" votes="26" />
+            <Precinct name="E BENNETTSVILLE" votes="18" />
+            <Precinct name="W BENNETTSVILLE" votes="21" />
+            <Precinct name="S BENNETTSVILLE" votes="17" />
+            <Precinct name="N BENNETTSVILLE" votes="18" />
+            <Precinct name="Absentee" votes="159" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="6" />
+        </VoteType>
+        <Choice key="001" text="Patricia Pat Moore Henegan" party="DEM" totalVotes="6657">
+            <VoteType name="Election Day" votes="6657">
+                <Precinct name="ADAMSVILLE" votes="90" />
+                <Precinct name="BLENHEIM" votes="54" />
+                <Precinct name="BRIGHTSVILLE" votes="180" />
+                <Precinct name="BROWNSVILLE" votes="0" />
+                <Precinct name="RED HILL" votes="258" />
+                <Precinct name="TATUM" votes="123" />
+                <Precinct name="WALLACE" votes="329" />
+                <Precinct name="QUICKS X ROADS" votes="252" />
+                <Precinct name="CLIO" votes="216" />
+                <Precinct name="MCCOLL" votes="200" />
+                <Precinct name="EAST MCCOLL" votes="201" />
+                <Precinct name="E BENNETTSVILLE" votes="351" />
+                <Precinct name="W BENNETTSVILLE" votes="320" />
+                <Precinct name="S BENNETTSVILLE" votes="272" />
+                <Precinct name="N BENNETTSVILLE" votes="428" />
+                <Precinct name="Absentee" votes="3341" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="16" />
+                <Precinct name="Provisional" votes="26" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="J D Chaplin" party="REP" totalVotes="2357">
+            <VoteType name="Election Day" votes="2357">
+                <Precinct name="ADAMSVILLE" votes="76" />
+                <Precinct name="BLENHEIM" votes="20" />
+                <Precinct name="BRIGHTSVILLE" votes="116" />
+                <Precinct name="BROWNSVILLE" votes="1" />
+                <Precinct name="RED HILL" votes="161" />
+                <Precinct name="TATUM" votes="57" />
+                <Precinct name="WALLACE" votes="246" />
+                <Precinct name="QUICKS X ROADS" votes="112" />
+                <Precinct name="CLIO" votes="48" />
+                <Precinct name="MCCOLL" votes="101" />
+                <Precinct name="EAST MCCOLL" votes="159" />
+                <Precinct name="E BENNETTSVILLE" votes="121" />
+                <Precinct name="W BENNETTSVILLE" votes="90" />
+                <Precinct name="S BENNETTSVILLE" votes="21" />
+                <Precinct name="N BENNETTSVILLE" votes="249" />
+                <Precinct name="Absentee" votes="772" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="3" />
+                <Precinct name="Provisional" votes="4" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="3">
+            <VoteType name="Election Day" votes="3">
+                <Precinct name="ADAMSVILLE" votes="0" />
+                <Precinct name="BLENHEIM" votes="0" />
+                <Precinct name="BRIGHTSVILLE" votes="0" />
+                <Precinct name="BROWNSVILLE" votes="0" />
+                <Precinct name="RED HILL" votes="1" />
+                <Precinct name="TATUM" votes="1" />
+                <Precinct name="WALLACE" votes="0" />
+                <Precinct name="QUICKS X ROADS" votes="0" />
+                <Precinct name="CLIO" votes="0" />
+                <Precinct name="MCCOLL" votes="0" />
+                <Precinct name="EAST MCCOLL" votes="0" />
+                <Precinct name="E BENNETTSVILLE" votes="1" />
+                <Precinct name="W BENNETTSVILLE" votes="0" />
+                <Precinct name="S BENNETTSVILLE" votes="0" />
+                <Precinct name="N BENNETTSVILLE" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0110" text="State  House of Representatives, District  55" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BLENHEIM" votes="0" />
+            <Precinct name="BROWNSVILLE" votes="0" />
+            <Precinct name="CLIO" votes="0" />
+            <Precinct name="MCCOLL" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="225">
+            <Precinct name="BLENHEIM" votes="26" />
+            <Precinct name="BROWNSVILLE" votes="43" />
+            <Precinct name="CLIO" votes="47" />
+            <Precinct name="MCCOLL" votes="45" />
+            <Precinct name="Absentee" votes="63" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Jackie E Hayes" party="DEM" totalVotes="845">
+            <VoteType name="Election Day" votes="845">
+                <Precinct name="BLENHEIM" votes="40" />
+                <Precinct name="BROWNSVILLE" votes="136" />
+                <Precinct name="CLIO" votes="289" />
+                <Precinct name="MCCOLL" votes="102" />
+                <Precinct name="Absentee" votes="274" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="4">
+            <VoteType name="Election Day" votes="4">
+                <Precinct name="BLENHEIM" votes="0" />
+                <Precinct name="BROWNSVILLE" votes="0" />
+                <Precinct name="CLIO" votes="1" />
+                <Precinct name="MCCOLL" votes="1" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0111" text=" Solicitor, Circuit  4" voteFor="1" isQuestion="false" precinctsReporting="15" precinctsReported="15">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ADAMSVILLE" votes="0" />
+            <Precinct name="BLENHEIM" votes="0" />
+            <Precinct name="BRIGHTSVILLE" votes="0" />
+            <Precinct name="BROWNSVILLE" votes="0" />
+            <Precinct name="RED HILL" votes="0" />
+            <Precinct name="TATUM" votes="0" />
+            <Precinct name="WALLACE" votes="0" />
+            <Precinct name="QUICKS X ROADS" votes="0" />
+            <Precinct name="CLIO" votes="0" />
+            <Precinct name="MCCOLL" votes="0" />
+            <Precinct name="EAST MCCOLL" votes="0" />
+            <Precinct name="E BENNETTSVILLE" votes="0" />
+            <Precinct name="W BENNETTSVILLE" votes="0" />
+            <Precinct name="S BENNETTSVILLE" votes="0" />
+            <Precinct name="N BENNETTSVILLE" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1757">
+            <Precinct name="ADAMSVILLE" votes="47" />
+            <Precinct name="BLENHEIM" votes="33" />
+            <Precinct name="BRIGHTSVILLE" votes="86" />
+            <Precinct name="BROWNSVILLE" votes="41" />
+            <Precinct name="RED HILL" votes="92" />
+            <Precinct name="TATUM" votes="28" />
+            <Precinct name="WALLACE" votes="157" />
+            <Precinct name="QUICKS X ROADS" votes="59" />
+            <Precinct name="CLIO" votes="83" />
+            <Precinct name="MCCOLL" votes="115" />
+            <Precinct name="EAST MCCOLL" votes="104" />
+            <Precinct name="E BENNETTSVILLE" votes="73" />
+            <Precinct name="W BENNETTSVILLE" votes="58" />
+            <Precinct name="S BENNETTSVILLE" votes="27" />
+            <Precinct name="N BENNETTSVILLE" votes="108" />
+            <Precinct name="Absentee" votes="637" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="3" />
+            <Precinct name="Provisional" votes="6" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Will Rogers" party="DEM" totalVotes="8716">
+            <VoteType name="Election Day" votes="8716">
+                <Precinct name="ADAMSVILLE" votes="127" />
+                <Precinct name="BLENHEIM" votes="113" />
+                <Precinct name="BRIGHTSVILLE" votes="233" />
+                <Precinct name="BROWNSVILLE" votes="139" />
+                <Precinct name="RED HILL" votes="344" />
+                <Precinct name="TATUM" votes="158" />
+                <Precinct name="WALLACE" votes="444" />
+                <Precinct name="QUICKS X ROADS" votes="326" />
+                <Precinct name="CLIO" votes="527" />
+                <Precinct name="MCCOLL" votes="351" />
+                <Precinct name="EAST MCCOLL" votes="281" />
+                <Precinct name="E BENNETTSVILLE" votes="418" />
+                <Precinct name="W BENNETTSVILLE" votes="373" />
+                <Precinct name="S BENNETTSVILLE" votes="283" />
+                <Precinct name="N BENNETTSVILLE" votes="585" />
+                <Precinct name="Absentee" votes="3963" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="19" />
+                <Precinct name="Provisional" votes="32" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="18">
+            <VoteType name="Election Day" votes="18">
+                <Precinct name="ADAMSVILLE" votes="0" />
+                <Precinct name="BLENHEIM" votes="0" />
+                <Precinct name="BRIGHTSVILLE" votes="0" />
+                <Precinct name="BROWNSVILLE" votes="0" />
+                <Precinct name="RED HILL" votes="2" />
+                <Precinct name="TATUM" votes="0" />
+                <Precinct name="WALLACE" votes="1" />
+                <Precinct name="QUICKS X ROADS" votes="0" />
+                <Precinct name="CLIO" votes="0" />
+                <Precinct name="MCCOLL" votes="1" />
+                <Precinct name="EAST MCCOLL" votes="1" />
+                <Precinct name="E BENNETTSVILLE" votes="0" />
+                <Precinct name="W BENNETTSVILLE" votes="0" />
+                <Precinct name="S BENNETTSVILLE" votes="0" />
+                <Precinct name="N BENNETTSVILLE" votes="2" />
+                <Precinct name="Absentee" votes="11" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0112" text="Sheriff" voteFor="1" isQuestion="false" precinctsReporting="15" precinctsReported="15">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ADAMSVILLE" votes="0" />
+            <Precinct name="BLENHEIM" votes="0" />
+            <Precinct name="BRIGHTSVILLE" votes="0" />
+            <Precinct name="BROWNSVILLE" votes="0" />
+            <Precinct name="RED HILL" votes="0" />
+            <Precinct name="TATUM" votes="0" />
+            <Precinct name="WALLACE" votes="0" />
+            <Precinct name="QUICKS X ROADS" votes="0" />
+            <Precinct name="CLIO" votes="0" />
+            <Precinct name="MCCOLL" votes="0" />
+            <Precinct name="EAST MCCOLL" votes="0" />
+            <Precinct name="E BENNETTSVILLE" votes="0" />
+            <Precinct name="W BENNETTSVILLE" votes="0" />
+            <Precinct name="S BENNETTSVILLE" votes="0" />
+            <Precinct name="N BENNETTSVILLE" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1564">
+            <Precinct name="ADAMSVILLE" votes="34" />
+            <Precinct name="BLENHEIM" votes="35" />
+            <Precinct name="BRIGHTSVILLE" votes="73" />
+            <Precinct name="BROWNSVILLE" votes="42" />
+            <Precinct name="RED HILL" votes="82" />
+            <Precinct name="TATUM" votes="29" />
+            <Precinct name="WALLACE" votes="145" />
+            <Precinct name="QUICKS X ROADS" votes="52" />
+            <Precinct name="CLIO" votes="77" />
+            <Precinct name="MCCOLL" votes="99" />
+            <Precinct name="EAST MCCOLL" votes="91" />
+            <Precinct name="E BENNETTSVILLE" votes="67" />
+            <Precinct name="W BENNETTSVILLE" votes="48" />
+            <Precinct name="S BENNETTSVILLE" votes="21" />
+            <Precinct name="N BENNETTSVILLE" votes="102" />
+            <Precinct name="Absentee" votes="559" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="4" />
+            <Precinct name="Provisional" votes="4" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Charles Lemon" party="DEM" totalVotes="8724">
+            <VoteType name="Election Day" votes="8724">
+                <Precinct name="ADAMSVILLE" votes="136" />
+                <Precinct name="BLENHEIM" votes="109" />
+                <Precinct name="BRIGHTSVILLE" votes="242" />
+                <Precinct name="BROWNSVILLE" votes="132" />
+                <Precinct name="RED HILL" votes="342" />
+                <Precinct name="TATUM" votes="153" />
+                <Precinct name="WALLACE" votes="452" />
+                <Precinct name="QUICKS X ROADS" votes="332" />
+                <Precinct name="CLIO" votes="526" />
+                <Precinct name="MCCOLL" votes="359" />
+                <Precinct name="EAST MCCOLL" votes="281" />
+                <Precinct name="E BENNETTSVILLE" votes="411" />
+                <Precinct name="W BENNETTSVILLE" votes="375" />
+                <Precinct name="S BENNETTSVILLE" votes="287" />
+                <Precinct name="N BENNETTSVILLE" votes="573" />
+                <Precinct name="Absentee" votes="3962" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="18" />
+                <Precinct name="Provisional" votes="34" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="203">
+            <VoteType name="Election Day" votes="203">
+                <Precinct name="ADAMSVILLE" votes="4" />
+                <Precinct name="BLENHEIM" votes="2" />
+                <Precinct name="BRIGHTSVILLE" votes="4" />
+                <Precinct name="BROWNSVILLE" votes="6" />
+                <Precinct name="RED HILL" votes="14" />
+                <Precinct name="TATUM" votes="4" />
+                <Precinct name="WALLACE" votes="5" />
+                <Precinct name="QUICKS X ROADS" votes="1" />
+                <Precinct name="CLIO" votes="7" />
+                <Precinct name="MCCOLL" votes="9" />
+                <Precinct name="EAST MCCOLL" votes="14" />
+                <Precinct name="E BENNETTSVILLE" votes="13" />
+                <Precinct name="W BENNETTSVILLE" votes="8" />
+                <Precinct name="S BENNETTSVILLE" votes="2" />
+                <Precinct name="N BENNETTSVILLE" votes="20" />
+                <Precinct name="Absentee" votes="90" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0113" text="Clerk of Court" voteFor="1" isQuestion="false" precinctsReporting="15" precinctsReported="15">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ADAMSVILLE" votes="0" />
+            <Precinct name="BLENHEIM" votes="0" />
+            <Precinct name="BRIGHTSVILLE" votes="0" />
+            <Precinct name="BROWNSVILLE" votes="0" />
+            <Precinct name="RED HILL" votes="0" />
+            <Precinct name="TATUM" votes="0" />
+            <Precinct name="WALLACE" votes="0" />
+            <Precinct name="QUICKS X ROADS" votes="0" />
+            <Precinct name="CLIO" votes="0" />
+            <Precinct name="MCCOLL" votes="0" />
+            <Precinct name="EAST MCCOLL" votes="0" />
+            <Precinct name="E BENNETTSVILLE" votes="0" />
+            <Precinct name="W BENNETTSVILLE" votes="0" />
+            <Precinct name="S BENNETTSVILLE" votes="0" />
+            <Precinct name="N BENNETTSVILLE" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1608">
+            <Precinct name="ADAMSVILLE" votes="44" />
+            <Precinct name="BLENHEIM" votes="31" />
+            <Precinct name="BRIGHTSVILLE" votes="70" />
+            <Precinct name="BROWNSVILLE" votes="47" />
+            <Precinct name="RED HILL" votes="84" />
+            <Precinct name="TATUM" votes="26" />
+            <Precinct name="WALLACE" votes="129" />
+            <Precinct name="QUICKS X ROADS" votes="52" />
+            <Precinct name="CLIO" votes="79" />
+            <Precinct name="MCCOLL" votes="105" />
+            <Precinct name="EAST MCCOLL" votes="93" />
+            <Precinct name="E BENNETTSVILLE" votes="64" />
+            <Precinct name="W BENNETTSVILLE" votes="46" />
+            <Precinct name="S BENNETTSVILLE" votes="25" />
+            <Precinct name="N BENNETTSVILLE" votes="106" />
+            <Precinct name="Absentee" votes="601" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="2" />
+            <Precinct name="Provisional" votes="4" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Anita Joy Williams" party="DEM" totalVotes="8835">
+            <VoteType name="Election Day" votes="8835">
+                <Precinct name="ADAMSVILLE" votes="129" />
+                <Precinct name="BLENHEIM" votes="115" />
+                <Precinct name="BRIGHTSVILLE" votes="248" />
+                <Precinct name="BROWNSVILLE" votes="133" />
+                <Precinct name="RED HILL" votes="352" />
+                <Precinct name="TATUM" votes="159" />
+                <Precinct name="WALLACE" votes="472" />
+                <Precinct name="QUICKS X ROADS" votes="332" />
+                <Precinct name="CLIO" votes="528" />
+                <Precinct name="MCCOLL" votes="361" />
+                <Precinct name="EAST MCCOLL" votes="292" />
+                <Precinct name="E BENNETTSVILLE" votes="426" />
+                <Precinct name="W BENNETTSVILLE" votes="385" />
+                <Precinct name="S BENNETTSVILLE" votes="285" />
+                <Precinct name="N BENNETTSVILLE" votes="584" />
+                <Precinct name="Absentee" votes="3982" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="20" />
+                <Precinct name="Provisional" votes="32" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="48">
+            <VoteType name="Election Day" votes="48">
+                <Precinct name="ADAMSVILLE" votes="1" />
+                <Precinct name="BLENHEIM" votes="0" />
+                <Precinct name="BRIGHTSVILLE" votes="1" />
+                <Precinct name="BROWNSVILLE" votes="0" />
+                <Precinct name="RED HILL" votes="2" />
+                <Precinct name="TATUM" votes="1" />
+                <Precinct name="WALLACE" votes="1" />
+                <Precinct name="QUICKS X ROADS" votes="1" />
+                <Precinct name="CLIO" votes="3" />
+                <Precinct name="MCCOLL" votes="1" />
+                <Precinct name="EAST MCCOLL" votes="1" />
+                <Precinct name="E BENNETTSVILLE" votes="1" />
+                <Precinct name="W BENNETTSVILLE" votes="0" />
+                <Precinct name="S BENNETTSVILLE" votes="0" />
+                <Precinct name="N BENNETTSVILLE" votes="5" />
+                <Precinct name="Absentee" votes="28" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="2" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0114" text="Coroner" voteFor="1" isQuestion="false" precinctsReporting="15" precinctsReported="15">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ADAMSVILLE" votes="0" />
+            <Precinct name="BLENHEIM" votes="0" />
+            <Precinct name="BRIGHTSVILLE" votes="0" />
+            <Precinct name="BROWNSVILLE" votes="0" />
+            <Precinct name="RED HILL" votes="0" />
+            <Precinct name="TATUM" votes="0" />
+            <Precinct name="WALLACE" votes="0" />
+            <Precinct name="QUICKS X ROADS" votes="0" />
+            <Precinct name="CLIO" votes="0" />
+            <Precinct name="MCCOLL" votes="0" />
+            <Precinct name="EAST MCCOLL" votes="0" />
+            <Precinct name="E BENNETTSVILLE" votes="0" />
+            <Precinct name="W BENNETTSVILLE" votes="0" />
+            <Precinct name="S BENNETTSVILLE" votes="0" />
+            <Precinct name="N BENNETTSVILLE" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1487">
+            <Precinct name="ADAMSVILLE" votes="41" />
+            <Precinct name="BLENHEIM" votes="34" />
+            <Precinct name="BRIGHTSVILLE" votes="76" />
+            <Precinct name="BROWNSVILLE" votes="41" />
+            <Precinct name="RED HILL" votes="72" />
+            <Precinct name="TATUM" votes="26" />
+            <Precinct name="WALLACE" votes="116" />
+            <Precinct name="QUICKS X ROADS" votes="48" />
+            <Precinct name="CLIO" votes="66" />
+            <Precinct name="MCCOLL" votes="100" />
+            <Precinct name="EAST MCCOLL" votes="82" />
+            <Precinct name="E BENNETTSVILLE" votes="62" />
+            <Precinct name="W BENNETTSVILLE" votes="47" />
+            <Precinct name="S BENNETTSVILLE" votes="27" />
+            <Precinct name="N BENNETTSVILLE" votes="103" />
+            <Precinct name="Absentee" votes="539" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="6" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Timothy E Brown" party="DEM" totalVotes="8968">
+            <VoteType name="Election Day" votes="8968">
+                <Precinct name="ADAMSVILLE" votes="133" />
+                <Precinct name="BLENHEIM" votes="112" />
+                <Precinct name="BRIGHTSVILLE" votes="243" />
+                <Precinct name="BROWNSVILLE" votes="139" />
+                <Precinct name="RED HILL" votes="365" />
+                <Precinct name="TATUM" votes="160" />
+                <Precinct name="WALLACE" votes="473" />
+                <Precinct name="QUICKS X ROADS" votes="336" />
+                <Precinct name="CLIO" votes="544" />
+                <Precinct name="MCCOLL" votes="367" />
+                <Precinct name="EAST MCCOLL" votes="300" />
+                <Precinct name="E BENNETTSVILLE" votes="427" />
+                <Precinct name="W BENNETTSVILLE" votes="384" />
+                <Precinct name="S BENNETTSVILLE" votes="283" />
+                <Precinct name="N BENNETTSVILLE" votes="591" />
+                <Precinct name="Absentee" votes="4058" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="21" />
+                <Precinct name="Provisional" votes="32" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="36">
+            <VoteType name="Election Day" votes="36">
+                <Precinct name="ADAMSVILLE" votes="0" />
+                <Precinct name="BLENHEIM" votes="0" />
+                <Precinct name="BRIGHTSVILLE" votes="0" />
+                <Precinct name="BROWNSVILLE" votes="0" />
+                <Precinct name="RED HILL" votes="1" />
+                <Precinct name="TATUM" votes="0" />
+                <Precinct name="WALLACE" votes="13" />
+                <Precinct name="QUICKS X ROADS" votes="1" />
+                <Precinct name="CLIO" votes="0" />
+                <Precinct name="MCCOLL" votes="0" />
+                <Precinct name="EAST MCCOLL" votes="4" />
+                <Precinct name="E BENNETTSVILLE" votes="2" />
+                <Precinct name="W BENNETTSVILLE" votes="0" />
+                <Precinct name="S BENNETTSVILLE" votes="0" />
+                <Precinct name="N BENNETTSVILLE" votes="1" />
+                <Precinct name="Absentee" votes="14" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0115" text="County Treasurer" voteFor="1" isQuestion="false" precinctsReporting="15" precinctsReported="15">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ADAMSVILLE" votes="0" />
+            <Precinct name="BLENHEIM" votes="0" />
+            <Precinct name="BRIGHTSVILLE" votes="0" />
+            <Precinct name="BROWNSVILLE" votes="0" />
+            <Precinct name="RED HILL" votes="0" />
+            <Precinct name="TATUM" votes="0" />
+            <Precinct name="WALLACE" votes="0" />
+            <Precinct name="QUICKS X ROADS" votes="0" />
+            <Precinct name="CLIO" votes="0" />
+            <Precinct name="MCCOLL" votes="0" />
+            <Precinct name="EAST MCCOLL" votes="0" />
+            <Precinct name="E BENNETTSVILLE" votes="0" />
+            <Precinct name="W BENNETTSVILLE" votes="0" />
+            <Precinct name="S BENNETTSVILLE" votes="0" />
+            <Precinct name="N BENNETTSVILLE" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1356">
+            <Precinct name="ADAMSVILLE" votes="39" />
+            <Precinct name="BLENHEIM" votes="24" />
+            <Precinct name="BRIGHTSVILLE" votes="73" />
+            <Precinct name="BROWNSVILLE" votes="38" />
+            <Precinct name="RED HILL" votes="61" />
+            <Precinct name="TATUM" votes="25" />
+            <Precinct name="WALLACE" votes="112" />
+            <Precinct name="QUICKS X ROADS" votes="45" />
+            <Precinct name="CLIO" votes="62" />
+            <Precinct name="MCCOLL" votes="91" />
+            <Precinct name="EAST MCCOLL" votes="80" />
+            <Precinct name="E BENNETTSVILLE" votes="56" />
+            <Precinct name="W BENNETTSVILLE" votes="44" />
+            <Precinct name="S BENNETTSVILLE" votes="21" />
+            <Precinct name="N BENNETTSVILLE" votes="90" />
+            <Precinct name="Absentee" votes="488" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="6" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Delorice B Barrington" party="DEM" totalVotes="9108">
+            <VoteType name="Election Day" votes="9108">
+                <Precinct name="ADAMSVILLE" votes="135" />
+                <Precinct name="BLENHEIM" votes="122" />
+                <Precinct name="BRIGHTSVILLE" votes="246" />
+                <Precinct name="BROWNSVILLE" votes="142" />
+                <Precinct name="RED HILL" votes="372" />
+                <Precinct name="TATUM" votes="161" />
+                <Precinct name="WALLACE" votes="489" />
+                <Precinct name="QUICKS X ROADS" votes="340" />
+                <Precinct name="CLIO" votes="547" />
+                <Precinct name="MCCOLL" votes="374" />
+                <Precinct name="EAST MCCOLL" votes="306" />
+                <Precinct name="E BENNETTSVILLE" votes="433" />
+                <Precinct name="W BENNETTSVILLE" votes="387" />
+                <Precinct name="S BENNETTSVILLE" votes="287" />
+                <Precinct name="N BENNETTSVILLE" votes="602" />
+                <Precinct name="Absentee" votes="4112" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="21" />
+                <Precinct name="Provisional" votes="32" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="27">
+            <VoteType name="Election Day" votes="27">
+                <Precinct name="ADAMSVILLE" votes="0" />
+                <Precinct name="BLENHEIM" votes="0" />
+                <Precinct name="BRIGHTSVILLE" votes="0" />
+                <Precinct name="BROWNSVILLE" votes="0" />
+                <Precinct name="RED HILL" votes="5" />
+                <Precinct name="TATUM" votes="0" />
+                <Precinct name="WALLACE" votes="1" />
+                <Precinct name="QUICKS X ROADS" votes="0" />
+                <Precinct name="CLIO" votes="1" />
+                <Precinct name="MCCOLL" votes="2" />
+                <Precinct name="EAST MCCOLL" votes="0" />
+                <Precinct name="E BENNETTSVILLE" votes="2" />
+                <Precinct name="W BENNETTSVILLE" votes="0" />
+                <Precinct name="S BENNETTSVILLE" votes="2" />
+                <Precinct name="N BENNETTSVILLE" votes="3" />
+                <Precinct name="Absentee" votes="11" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0116" text="Soil and Water District Commission" voteFor="1" isQuestion="false" precinctsReporting="15" precinctsReported="15">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ADAMSVILLE" votes="0" />
+            <Precinct name="BLENHEIM" votes="0" />
+            <Precinct name="BRIGHTSVILLE" votes="0" />
+            <Precinct name="BROWNSVILLE" votes="0" />
+            <Precinct name="RED HILL" votes="0" />
+            <Precinct name="TATUM" votes="0" />
+            <Precinct name="WALLACE" votes="0" />
+            <Precinct name="QUICKS X ROADS" votes="0" />
+            <Precinct name="CLIO" votes="0" />
+            <Precinct name="MCCOLL" votes="0" />
+            <Precinct name="EAST MCCOLL" votes="0" />
+            <Precinct name="E BENNETTSVILLE" votes="0" />
+            <Precinct name="W BENNETTSVILLE" votes="0" />
+            <Precinct name="S BENNETTSVILLE" votes="0" />
+            <Precinct name="N BENNETTSVILLE" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="4592">
+            <Precinct name="ADAMSVILLE" votes="77" />
+            <Precinct name="BLENHEIM" votes="49" />
+            <Precinct name="BRIGHTSVILLE" votes="172" />
+            <Precinct name="BROWNSVILLE" votes="61" />
+            <Precinct name="RED HILL" votes="176" />
+            <Precinct name="TATUM" votes="61" />
+            <Precinct name="WALLACE" votes="223" />
+            <Precinct name="QUICKS X ROADS" votes="127" />
+            <Precinct name="CLIO" votes="298" />
+            <Precinct name="MCCOLL" votes="193" />
+            <Precinct name="EAST MCCOLL" votes="117" />
+            <Precinct name="E BENNETTSVILLE" votes="196" />
+            <Precinct name="W BENNETTSVILLE" votes="202" />
+            <Precinct name="S BENNETTSVILLE" votes="178" />
+            <Precinct name="N BENNETTSVILLE" votes="254" />
+            <Precinct name="Absentee" votes="2179" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="13" />
+            <Precinct name="Provisional" votes="16" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Pat Rogers" party="NON" totalVotes="5878">
+            <VoteType name="Election Day" votes="5878">
+                <Precinct name="ADAMSVILLE" votes="97" />
+                <Precinct name="BLENHEIM" votes="97" />
+                <Precinct name="BRIGHTSVILLE" votes="146" />
+                <Precinct name="BROWNSVILLE" votes="119" />
+                <Precinct name="RED HILL" votes="260" />
+                <Precinct name="TATUM" votes="125" />
+                <Precinct name="WALLACE" votes="377" />
+                <Precinct name="QUICKS X ROADS" votes="257" />
+                <Precinct name="CLIO" votes="311" />
+                <Precinct name="MCCOLL" votes="274" />
+                <Precinct name="EAST MCCOLL" votes="269" />
+                <Precinct name="E BENNETTSVILLE" votes="295" />
+                <Precinct name="W BENNETTSVILLE" votes="229" />
+                <Precinct name="S BENNETTSVILLE" votes="131" />
+                <Precinct name="N BENNETTSVILLE" votes="440" />
+                <Precinct name="Absentee" votes="2420" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="9" />
+                <Precinct name="Provisional" votes="22" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="21">
+            <VoteType name="Election Day" votes="21">
+                <Precinct name="ADAMSVILLE" votes="0" />
+                <Precinct name="BLENHEIM" votes="0" />
+                <Precinct name="BRIGHTSVILLE" votes="1" />
+                <Precinct name="BROWNSVILLE" votes="0" />
+                <Precinct name="RED HILL" votes="2" />
+                <Precinct name="TATUM" votes="0" />
+                <Precinct name="WALLACE" votes="2" />
+                <Precinct name="QUICKS X ROADS" votes="1" />
+                <Precinct name="CLIO" votes="1" />
+                <Precinct name="MCCOLL" votes="0" />
+                <Precinct name="EAST MCCOLL" votes="0" />
+                <Precinct name="E BENNETTSVILLE" votes="0" />
+                <Precinct name="W BENNETTSVILLE" votes="0" />
+                <Precinct name="S BENNETTSVILLE" votes="1" />
+                <Precinct name="N BENNETTSVILLE" votes="1" />
+                <Precinct name="Absentee" votes="12" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0117" text="County Council District 2" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ADAMSVILLE" votes="0" />
+            <Precinct name="BRIGHTSVILLE" votes="0" />
+            <Precinct name="RED HILL" votes="0" />
+            <Precinct name="QUICKS X ROADS" votes="0" />
+            <Precinct name="W BENNETTSVILLE" votes="0" />
+            <Precinct name="N BENNETTSVILLE" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="222">
+            <Precinct name="ADAMSVILLE" votes="14" />
+            <Precinct name="BRIGHTSVILLE" votes="76" />
+            <Precinct name="RED HILL" votes="0" />
+            <Precinct name="QUICKS X ROADS" votes="6" />
+            <Precinct name="W BENNETTSVILLE" votes="17" />
+            <Precinct name="N BENNETTSVILLE" votes="12" />
+            <Precinct name="Absentee" votes="95" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="2" />
+        </VoteType>
+        <Choice key="001" text="Willie Gladden" party="DEM" totalVotes="1127">
+            <VoteType name="Election Day" votes="1127">
+                <Precinct name="ADAMSVILLE" votes="60" />
+                <Precinct name="BRIGHTSVILLE" votes="199" />
+                <Precinct name="RED HILL" votes="7" />
+                <Precinct name="QUICKS X ROADS" votes="77" />
+                <Precinct name="W BENNETTSVILLE" votes="124" />
+                <Precinct name="N BENNETTSVILLE" votes="51" />
+                <Precinct name="Absentee" votes="605" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="4" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="9">
+            <VoteType name="Election Day" votes="9">
+                <Precinct name="ADAMSVILLE" votes="1" />
+                <Precinct name="BRIGHTSVILLE" votes="0" />
+                <Precinct name="RED HILL" votes="0" />
+                <Precinct name="QUICKS X ROADS" votes="1" />
+                <Precinct name="W BENNETTSVILLE" votes="2" />
+                <Precinct name="N BENNETTSVILLE" votes="1" />
+                <Precinct name="Absentee" votes="4" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0118" text="County Council District 3" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="E BENNETTSVILLE" votes="0" />
+            <Precinct name="N BENNETTSVILLE" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="172">
+            <Precinct name="E BENNETTSVILLE" votes="8" />
+            <Precinct name="N BENNETTSVILLE" votes="66" />
+            <Precinct name="Absentee" votes="98" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Charles Paul Midgley Jr" party="DEM" totalVotes="1322">
+            <VoteType name="Election Day" votes="1322">
+                <Precinct name="E BENNETTSVILLE" votes="60" />
+                <Precinct name="N BENNETTSVILLE" votes="446" />
+                <Precinct name="Absentee" votes="813" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="6">
+            <VoteType name="Election Day" votes="6">
+                <Precinct name="E BENNETTSVILLE" votes="0" />
+                <Precinct name="N BENNETTSVILLE" votes="3" />
+                <Precinct name="Absentee" votes="3" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0119" text="County Council District 5" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="E BENNETTSVILLE" votes="0" />
+            <Precinct name="W BENNETTSVILLE" votes="0" />
+            <Precinct name="S BENNETTSVILLE" votes="0" />
+            <Precinct name="N BENNETTSVILLE" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="157">
+            <Precinct name="E BENNETTSVILLE" votes="42" />
+            <Precinct name="W BENNETTSVILLE" votes="3" />
+            <Precinct name="S BENNETTSVILLE" votes="10" />
+            <Precinct name="N BENNETTSVILLE" votes="12" />
+            <Precinct name="Absentee" votes="90" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Carolyn A Prince" party="DEM" totalVotes="1100">
+            <VoteType name="Election Day" votes="1100">
+                <Precinct name="E BENNETTSVILLE" votes="269" />
+                <Precinct name="W BENNETTSVILLE" votes="32" />
+                <Precinct name="S BENNETTSVILLE" votes="140" />
+                <Precinct name="N BENNETTSVILLE" votes="35" />
+                <Precinct name="Absentee" votes="613" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="7" />
+                <Precinct name="Provisional" votes="4" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="9">
+            <VoteType name="Election Day" votes="9">
+                <Precinct name="E BENNETTSVILLE" votes="3" />
+                <Precinct name="W BENNETTSVILLE" votes="0" />
+                <Precinct name="S BENNETTSVILLE" votes="0" />
+                <Precinct name="N BENNETTSVILLE" votes="1" />
+                <Precinct name="Absentee" votes="5" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0120" text="County Council District 6" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="MCCOLL" votes="0" />
+            <Precinct name="EAST MCCOLL" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="222">
+            <Precinct name="MCCOLL" votes="78" />
+            <Precinct name="EAST MCCOLL" votes="65" />
+            <Precinct name="Absentee" votes="77" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="2" />
+        </VoteType>
+        <Choice key="001" text="Verd Odom" party="DEM" totalVotes="957">
+            <VoteType name="Election Day" votes="957">
+                <Precinct name="MCCOLL" votes="311" />
+                <Precinct name="EAST MCCOLL" votes="318" />
+                <Precinct name="Absentee" votes="322" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="6" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="17">
+            <VoteType name="Election Day" votes="17">
+                <Precinct name="MCCOLL" votes="7" />
+                <Precinct name="EAST MCCOLL" votes="3" />
+                <Precinct name="Absentee" votes="7" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0121" text="School Board District 1" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BRIGHTSVILLE" votes="0" />
+            <Precinct name="WALLACE" votes="0" />
+            <Precinct name="QUICKS X ROADS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="391">
+            <Precinct name="BRIGHTSVILLE" votes="22" />
+            <Precinct name="WALLACE" votes="200" />
+            <Precinct name="QUICKS X ROADS" votes="75" />
+            <Precinct name="Absentee" votes="94" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Michael Coachman" party="NON" totalVotes="820">
+            <VoteType name="Election Day" votes="820">
+                <Precinct name="BRIGHTSVILLE" votes="22" />
+                <Precinct name="WALLACE" votes="397" />
+                <Precinct name="QUICKS X ROADS" votes="221" />
+                <Precinct name="Absentee" votes="179" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="16">
+            <VoteType name="Election Day" votes="16">
+                <Precinct name="BRIGHTSVILLE" votes="0" />
+                <Precinct name="WALLACE" votes="5" />
+                <Precinct name="QUICKS X ROADS" votes="5" />
+                <Precinct name="Absentee" votes="6" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0122" text="School Board District 4" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="RED HILL" votes="0" />
+            <Precinct name="E BENNETTSVILLE" votes="0" />
+            <Precinct name="W BENNETTSVILLE" votes="0" />
+            <Precinct name="S BENNETTSVILLE" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="501">
+            <Precinct name="RED HILL" votes="13" />
+            <Precinct name="E BENNETTSVILLE" votes="32" />
+            <Precinct name="W BENNETTSVILLE" votes="98" />
+            <Precinct name="S BENNETTSVILLE" votes="68" />
+            <Precinct name="Absentee" votes="280" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="10" />
+        </VoteType>
+        <Choice key="001" text="Nan Fleming" party="NON" totalVotes="627">
+            <VoteType name="Election Day" votes="627">
+                <Precinct name="RED HILL" votes="18" />
+                <Precinct name="E BENNETTSVILLE" votes="41" />
+                <Precinct name="W BENNETTSVILLE" votes="154" />
+                <Precinct name="S BENNETTSVILLE" votes="91" />
+                <Precinct name="Absentee" votes="322" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="11">
+            <VoteType name="Election Day" votes="11">
+                <Precinct name="RED HILL" votes="3" />
+                <Precinct name="E BENNETTSVILLE" votes="0" />
+                <Precinct name="W BENNETTSVILLE" votes="1" />
+                <Precinct name="S BENNETTSVILLE" votes="1" />
+                <Precinct name="Absentee" votes="6" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0123" text="School Board District 6" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="MCCOLL" votes="0" />
+            <Precinct name="EAST MCCOLL" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="292">
+            <Precinct name="MCCOLL" votes="129" />
+            <Precinct name="EAST MCCOLL" votes="65" />
+            <Precinct name="Absentee" votes="96" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="2" />
+        </VoteType>
+        <Choice key="001" text="Macky Norton" party="NON" totalVotes="903">
+            <VoteType name="Election Day" votes="903">
+                <Precinct name="MCCOLL" votes="267" />
+                <Precinct name="EAST MCCOLL" votes="320" />
+                <Precinct name="Absentee" votes="310" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="6" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="1">
+            <VoteType name="Election Day" votes="1">
+                <Precinct name="MCCOLL" votes="0" />
+                <Precinct name="EAST MCCOLL" votes="1" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0124" text="Carters Branch Muddy Creek Watershed Dis" voteFor="3" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BLENHEIM" votes="0" />
+            <Precinct name="RED HILL" votes="0" />
+            <Precinct name="E BENNETTSVILLE" votes="0" />
+            <Precinct name="W BENNETTSVILLE" votes="0" />
+            <Precinct name="S BENNETTSVILLE" votes="0" />
+            <Precinct name="N BENNETTSVILLE" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="3459">
+            <Precinct name="BLENHEIM" votes="60" />
+            <Precinct name="RED HILL" votes="797" />
+            <Precinct name="E BENNETTSVILLE" votes="336" />
+            <Precinct name="W BENNETTSVILLE" votes="371" />
+            <Precinct name="S BENNETTSVILLE" votes="84" />
+            <Precinct name="N BENNETTSVILLE" votes="75" />
+            <Precinct name="Absentee" votes="1688" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="12" />
+            <Precinct name="Provisional" votes="36" />
+        </VoteType>
+        <Choice key="001" text="Write-In" party="NON" totalVotes="48">
+            <VoteType name="Election Day" votes="48">
+                <Precinct name="BLENHEIM" votes="0" />
+                <Precinct name="RED HILL" votes="19" />
+                <Precinct name="E BENNETTSVILLE" votes="6" />
+                <Precinct name="W BENNETTSVILLE" votes="1" />
+                <Precinct name="S BENNETTSVILLE" votes="0" />
+                <Precinct name="N BENNETTSVILLE" votes="0" />
+                <Precinct name="Absentee" votes="22" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

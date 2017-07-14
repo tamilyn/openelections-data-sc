@@ -1,0 +1,2775 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>11/16/2016 2:12:34 PM EST</Timestamp>
+    <ElectionName>2016 Statewide General Election</ElectionName>
+    <ElectionDate>11/8/2016</ElectionDate>
+    <Region>Clarendon</Region>
+    <VoterTurnout totalVoters="23771" ballotsCast="15583" voterTurnout="65.55">
+        <Precincts>
+            <Precinct name="Alcolu" totalVoters="926" ballotsCast="394" voterTurnout="42.55" percentReporting="4" />
+            <Precinct name="Barrineau" totalVoters="477" ballotsCast="309" voterTurnout="64.78" percentReporting="4" />
+            <Precinct name="Barrows Mill" totalVoters="149" ballotsCast="104" voterTurnout="69.80" percentReporting="4" />
+            <Precinct name="Bloomville" totalVoters="499" ballotsCast="234" voterTurnout="46.89" percentReporting="4" />
+            <Precinct name="Calvary" totalVoters="595" ballotsCast="280" voterTurnout="47.06" percentReporting="4" />
+            <Precinct name="Davis Station" totalVoters="1955" ballotsCast="730" voterTurnout="37.34" percentReporting="4" />
+            <Precinct name="Harmony" totalVoters="678" ballotsCast="344" voterTurnout="50.74" percentReporting="4" />
+            <Precinct name="Hicks" totalVoters="565" ballotsCast="369" voterTurnout="65.31" percentReporting="4" />
+            <Precinct name="Home Branch" totalVoters="360" ballotsCast="212" voterTurnout="58.89" percentReporting="4" />
+            <Precinct name="Jordan" totalVoters="2531" ballotsCast="802" voterTurnout="31.69" percentReporting="4" />
+            <Precinct name="Manning No. 1" totalVoters="720" ballotsCast="251" voterTurnout="34.86" percentReporting="4" />
+            <Precinct name="Manning No. 2" totalVoters="1075" ballotsCast="357" voterTurnout="33.21" percentReporting="4" />
+            <Precinct name="Manning No. 3" totalVoters="1572" ballotsCast="517" voterTurnout="32.89" percentReporting="4" />
+            <Precinct name="Manning No. 4" totalVoters="1776" ballotsCast="460" voterTurnout="25.90" percentReporting="4" />
+            <Precinct name="Manning No. 5" totalVoters="1108" ballotsCast="416" voterTurnout="37.55" percentReporting="4" />
+            <Precinct name="New Zion" totalVoters="469" ballotsCast="280" voterTurnout="59.70" percentReporting="4" />
+            <Precinct name="Paxville" totalVoters="1019" ballotsCast="493" voterTurnout="48.38" percentReporting="4" />
+            <Precinct name="Panola" totalVoters="265" ballotsCast="127" voterTurnout="47.92" percentReporting="4" />
+            <Precinct name="Sardina-Gable" totalVoters="348" ballotsCast="223" voterTurnout="64.08" percentReporting="4" />
+            <Precinct name="Summerton No. 1" totalVoters="2364" ballotsCast="771" voterTurnout="32.61" percentReporting="4" />
+            <Precinct name="Summerton No. 2" totalVoters="460" ballotsCast="140" voterTurnout="30.43" percentReporting="4" />
+            <Precinct name="Summerton No. 3" totalVoters="1201" ballotsCast="407" voterTurnout="33.89" percentReporting="4" />
+            <Precinct name="Turbeville" totalVoters="1060" ballotsCast="596" voterTurnout="56.23" percentReporting="4" />
+            <Precinct name="Wilson Foreston" totalVoters="1392" ballotsCast="520" voterTurnout="37.36" percentReporting="4" />
+            <Precinct name="Oakdale" totalVoters="278" ballotsCast="183" voterTurnout="65.83" percentReporting="4" />
+            <Precinct name="Absentee" totalVoters="0" ballotsCast="6042" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Failsafe" totalVoters="0" ballotsCast="15" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Provisional" totalVoters="0" ballotsCast="7" voterTurnout="0.00" percentReporting="32" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="0103" text="STRAIGHT PARTY" voteFor="1" isQuestion="false" precinctsReporting="25" precinctsReported="25">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Alcolu" votes="0" />
+            <Precinct name="Barrineau" votes="0" />
+            <Precinct name="Barrows Mill" votes="0" />
+            <Precinct name="Bloomville" votes="0" />
+            <Precinct name="Calvary" votes="0" />
+            <Precinct name="Davis Station" votes="0" />
+            <Precinct name="Harmony" votes="0" />
+            <Precinct name="Hicks" votes="0" />
+            <Precinct name="Home Branch" votes="0" />
+            <Precinct name="Jordan" votes="0" />
+            <Precinct name="Manning No. 1" votes="0" />
+            <Precinct name="Manning No. 2" votes="0" />
+            <Precinct name="Manning No. 3" votes="0" />
+            <Precinct name="Manning No. 4" votes="0" />
+            <Precinct name="Manning No. 5" votes="0" />
+            <Precinct name="New Zion" votes="0" />
+            <Precinct name="Paxville" votes="0" />
+            <Precinct name="Panola" votes="0" />
+            <Precinct name="Sardina-Gable" votes="0" />
+            <Precinct name="Summerton No. 1" votes="0" />
+            <Precinct name="Summerton No. 2" votes="0" />
+            <Precinct name="Summerton No. 3" votes="0" />
+            <Precinct name="Turbeville" votes="0" />
+            <Precinct name="Wilson Foreston" votes="0" />
+            <Precinct name="Oakdale" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="6359">
+            <Precinct name="Alcolu" votes="180" />
+            <Precinct name="Barrineau" votes="135" />
+            <Precinct name="Barrows Mill" votes="48" />
+            <Precinct name="Bloomville" votes="110" />
+            <Precinct name="Calvary" votes="69" />
+            <Precinct name="Davis Station" votes="295" />
+            <Precinct name="Harmony" votes="163" />
+            <Precinct name="Hicks" votes="198" />
+            <Precinct name="Home Branch" votes="120" />
+            <Precinct name="Jordan" votes="437" />
+            <Precinct name="Manning No. 1" votes="103" />
+            <Precinct name="Manning No. 2" votes="176" />
+            <Precinct name="Manning No. 3" votes="313" />
+            <Precinct name="Manning No. 4" votes="16" />
+            <Precinct name="Manning No. 5" votes="211" />
+            <Precinct name="New Zion" votes="135" />
+            <Precinct name="Paxville" votes="230" />
+            <Precinct name="Panola" votes="38" />
+            <Precinct name="Sardina-Gable" votes="73" />
+            <Precinct name="Summerton No. 1" votes="369" />
+            <Precinct name="Summerton No. 2" votes="39" />
+            <Precinct name="Summerton No. 3" votes="115" />
+            <Precinct name="Turbeville" votes="267" />
+            <Precinct name="Wilson Foreston" votes="201" />
+            <Precinct name="Oakdale" votes="76" />
+            <Precinct name="Absentee" votes="2238" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="3" />
+            <Precinct name="Provisional" votes="1" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Democratic" party="DEM" totalVotes="5824">
+            <VoteType name="Election Day" votes="5824">
+                <Precinct name="Alcolu" votes="138" />
+                <Precinct name="Barrineau" votes="18" />
+                <Precinct name="Barrows Mill" votes="23" />
+                <Precinct name="Bloomville" votes="61" />
+                <Precinct name="Calvary" votes="185" />
+                <Precinct name="Davis Station" votes="208" />
+                <Precinct name="Harmony" votes="125" />
+                <Precinct name="Hicks" votes="42" />
+                <Precinct name="Home Branch" votes="23" />
+                <Precinct name="Jordan" votes="103" />
+                <Precinct name="Manning No. 1" votes="110" />
+                <Precinct name="Manning No. 2" votes="126" />
+                <Precinct name="Manning No. 3" votes="86" />
+                <Precinct name="Manning No. 4" votes="183" />
+                <Precinct name="Manning No. 5" votes="129" />
+                <Precinct name="New Zion" votes="72" />
+                <Precinct name="Paxville" votes="180" />
+                <Precinct name="Panola" votes="75" />
+                <Precinct name="Sardina-Gable" votes="122" />
+                <Precinct name="Summerton No. 1" votes="174" />
+                <Precinct name="Summerton No. 2" votes="82" />
+                <Precinct name="Summerton No. 3" votes="268" />
+                <Precinct name="Turbeville" votes="116" />
+                <Precinct name="Wilson Foreston" votes="223" />
+                <Precinct name="Oakdale" votes="78" />
+                <Precinct name="Absentee" votes="2860" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="11" />
+                <Precinct name="Provisional" votes="3" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Working Families" party="WFM" totalVotes="60">
+            <VoteType name="Election Day" votes="60">
+                <Precinct name="Alcolu" votes="1" />
+                <Precinct name="Barrineau" votes="1" />
+                <Precinct name="Barrows Mill" votes="0" />
+                <Precinct name="Bloomville" votes="0" />
+                <Precinct name="Calvary" votes="1" />
+                <Precinct name="Davis Station" votes="8" />
+                <Precinct name="Harmony" votes="3" />
+                <Precinct name="Hicks" votes="0" />
+                <Precinct name="Home Branch" votes="0" />
+                <Precinct name="Jordan" votes="2" />
+                <Precinct name="Manning No. 1" votes="3" />
+                <Precinct name="Manning No. 2" votes="1" />
+                <Precinct name="Manning No. 3" votes="2" />
+                <Precinct name="Manning No. 4" votes="0" />
+                <Precinct name="Manning No. 5" votes="2" />
+                <Precinct name="New Zion" votes="2" />
+                <Precinct name="Paxville" votes="4" />
+                <Precinct name="Panola" votes="1" />
+                <Precinct name="Sardina-Gable" votes="0" />
+                <Precinct name="Summerton No. 1" votes="3" />
+                <Precinct name="Summerton No. 2" votes="1" />
+                <Precinct name="Summerton No. 3" votes="2" />
+                <Precinct name="Turbeville" votes="1" />
+                <Precinct name="Wilson Foreston" votes="3" />
+                <Precinct name="Oakdale" votes="0" />
+                <Precinct name="Absentee" votes="18" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Constitution" party="CON" totalVotes="2">
+            <VoteType name="Election Day" votes="2">
+                <Precinct name="Alcolu" votes="0" />
+                <Precinct name="Barrineau" votes="0" />
+                <Precinct name="Barrows Mill" votes="0" />
+                <Precinct name="Bloomville" votes="0" />
+                <Precinct name="Calvary" votes="0" />
+                <Precinct name="Davis Station" votes="1" />
+                <Precinct name="Harmony" votes="0" />
+                <Precinct name="Hicks" votes="0" />
+                <Precinct name="Home Branch" votes="0" />
+                <Precinct name="Jordan" votes="1" />
+                <Precinct name="Manning No. 1" votes="0" />
+                <Precinct name="Manning No. 2" votes="0" />
+                <Precinct name="Manning No. 3" votes="0" />
+                <Precinct name="Manning No. 4" votes="0" />
+                <Precinct name="Manning No. 5" votes="0" />
+                <Precinct name="New Zion" votes="0" />
+                <Precinct name="Paxville" votes="0" />
+                <Precinct name="Panola" votes="0" />
+                <Precinct name="Sardina-Gable" votes="0" />
+                <Precinct name="Summerton No. 1" votes="0" />
+                <Precinct name="Summerton No. 2" votes="0" />
+                <Precinct name="Summerton No. 3" votes="0" />
+                <Precinct name="Turbeville" votes="0" />
+                <Precinct name="Wilson Foreston" votes="0" />
+                <Precinct name="Oakdale" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Independence" party="IND" totalVotes="74">
+            <VoteType name="Election Day" votes="74">
+                <Precinct name="Alcolu" votes="1" />
+                <Precinct name="Barrineau" votes="0" />
+                <Precinct name="Barrows Mill" votes="2" />
+                <Precinct name="Bloomville" votes="0" />
+                <Precinct name="Calvary" votes="1" />
+                <Precinct name="Davis Station" votes="3" />
+                <Precinct name="Harmony" votes="2" />
+                <Precinct name="Hicks" votes="1" />
+                <Precinct name="Home Branch" votes="0" />
+                <Precinct name="Jordan" votes="9" />
+                <Precinct name="Manning No. 1" votes="2" />
+                <Precinct name="Manning No. 2" votes="4" />
+                <Precinct name="Manning No. 3" votes="4" />
+                <Precinct name="Manning No. 4" votes="0" />
+                <Precinct name="Manning No. 5" votes="0" />
+                <Precinct name="New Zion" votes="1" />
+                <Precinct name="Paxville" votes="8" />
+                <Precinct name="Panola" votes="0" />
+                <Precinct name="Sardina-Gable" votes="0" />
+                <Precinct name="Summerton No. 1" votes="4" />
+                <Precinct name="Summerton No. 2" votes="0" />
+                <Precinct name="Summerton No. 3" votes="1" />
+                <Precinct name="Turbeville" votes="1" />
+                <Precinct name="Wilson Foreston" votes="5" />
+                <Precinct name="Oakdale" votes="1" />
+                <Precinct name="Absentee" votes="24" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Green" party="GRN" totalVotes="10">
+            <VoteType name="Election Day" votes="10">
+                <Precinct name="Alcolu" votes="0" />
+                <Precinct name="Barrineau" votes="0" />
+                <Precinct name="Barrows Mill" votes="0" />
+                <Precinct name="Bloomville" votes="0" />
+                <Precinct name="Calvary" votes="0" />
+                <Precinct name="Davis Station" votes="0" />
+                <Precinct name="Harmony" votes="0" />
+                <Precinct name="Hicks" votes="0" />
+                <Precinct name="Home Branch" votes="0" />
+                <Precinct name="Jordan" votes="3" />
+                <Precinct name="Manning No. 1" votes="0" />
+                <Precinct name="Manning No. 2" votes="0" />
+                <Precinct name="Manning No. 3" votes="0" />
+                <Precinct name="Manning No. 4" votes="0" />
+                <Precinct name="Manning No. 5" votes="0" />
+                <Precinct name="New Zion" votes="1" />
+                <Precinct name="Paxville" votes="1" />
+                <Precinct name="Panola" votes="0" />
+                <Precinct name="Sardina-Gable" votes="0" />
+                <Precinct name="Summerton No. 1" votes="1" />
+                <Precinct name="Summerton No. 2" votes="0" />
+                <Precinct name="Summerton No. 3" votes="0" />
+                <Precinct name="Turbeville" votes="0" />
+                <Precinct name="Wilson Foreston" votes="0" />
+                <Precinct name="Oakdale" votes="0" />
+                <Precinct name="Absentee" votes="4" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Republican" party="REP" totalVotes="2939">
+            <VoteType name="Election Day" votes="2939">
+                <Precinct name="Alcolu" votes="70" />
+                <Precinct name="Barrineau" votes="155" />
+                <Precinct name="Barrows Mill" votes="31" />
+                <Precinct name="Bloomville" votes="62" />
+                <Precinct name="Calvary" votes="23" />
+                <Precinct name="Davis Station" votes="209" />
+                <Precinct name="Harmony" votes="50" />
+                <Precinct name="Hicks" votes="126" />
+                <Precinct name="Home Branch" votes="68" />
+                <Precinct name="Jordan" votes="241" />
+                <Precinct name="Manning No. 1" votes="31" />
+                <Precinct name="Manning No. 2" votes="49" />
+                <Precinct name="Manning No. 3" votes="109" />
+                <Precinct name="Manning No. 4" votes="8" />
+                <Precinct name="Manning No. 5" votes="69" />
+                <Precinct name="New Zion" votes="70" />
+                <Precinct name="Paxville" votes="69" />
+                <Precinct name="Panola" votes="13" />
+                <Precinct name="Sardina-Gable" votes="27" />
+                <Precinct name="Summerton No. 1" votes="217" />
+                <Precinct name="Summerton No. 2" votes="16" />
+                <Precinct name="Summerton No. 3" votes="19" />
+                <Precinct name="Turbeville" votes="209" />
+                <Precinct name="Wilson Foreston" votes="86" />
+                <Precinct name="Oakdale" votes="27" />
+                <Precinct name="Absentee" votes="882" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="2" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="American" party="AMR" totalVotes="42">
+            <VoteType name="Election Day" votes="42">
+                <Precinct name="Alcolu" votes="3" />
+                <Precinct name="Barrineau" votes="0" />
+                <Precinct name="Barrows Mill" votes="0" />
+                <Precinct name="Bloomville" votes="1" />
+                <Precinct name="Calvary" votes="1" />
+                <Precinct name="Davis Station" votes="3" />
+                <Precinct name="Harmony" votes="0" />
+                <Precinct name="Hicks" votes="1" />
+                <Precinct name="Home Branch" votes="1" />
+                <Precinct name="Jordan" votes="3" />
+                <Precinct name="Manning No. 1" votes="1" />
+                <Precinct name="Manning No. 2" votes="1" />
+                <Precinct name="Manning No. 3" votes="0" />
+                <Precinct name="Manning No. 4" votes="1" />
+                <Precinct name="Manning No. 5" votes="3" />
+                <Precinct name="New Zion" votes="0" />
+                <Precinct name="Paxville" votes="1" />
+                <Precinct name="Panola" votes="0" />
+                <Precinct name="Sardina-Gable" votes="1" />
+                <Precinct name="Summerton No. 1" votes="2" />
+                <Precinct name="Summerton No. 2" votes="2" />
+                <Precinct name="Summerton No. 3" votes="2" />
+                <Precinct name="Turbeville" votes="2" />
+                <Precinct name="Wilson Foreston" votes="2" />
+                <Precinct name="Oakdale" votes="0" />
+                <Precinct name="Absentee" votes="11" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="008" text="Libertarian" party="LIB" totalVotes="23">
+            <VoteType name="Election Day" votes="23">
+                <Precinct name="Alcolu" votes="1" />
+                <Precinct name="Barrineau" votes="0" />
+                <Precinct name="Barrows Mill" votes="1" />
+                <Precinct name="Bloomville" votes="0" />
+                <Precinct name="Calvary" votes="0" />
+                <Precinct name="Davis Station" votes="3" />
+                <Precinct name="Harmony" votes="1" />
+                <Precinct name="Hicks" votes="1" />
+                <Precinct name="Home Branch" votes="0" />
+                <Precinct name="Jordan" votes="3" />
+                <Precinct name="Manning No. 1" votes="1" />
+                <Precinct name="Manning No. 2" votes="0" />
+                <Precinct name="Manning No. 3" votes="3" />
+                <Precinct name="Manning No. 4" votes="0" />
+                <Precinct name="Manning No. 5" votes="2" />
+                <Precinct name="New Zion" votes="0" />
+                <Precinct name="Paxville" votes="0" />
+                <Precinct name="Panola" votes="0" />
+                <Precinct name="Sardina-Gable" votes="0" />
+                <Precinct name="Summerton No. 1" votes="1" />
+                <Precinct name="Summerton No. 2" votes="0" />
+                <Precinct name="Summerton No. 3" votes="0" />
+                <Precinct name="Turbeville" votes="0" />
+                <Precinct name="Wilson Foreston" votes="0" />
+                <Precinct name="Oakdale" votes="1" />
+                <Precinct name="Absentee" votes="5" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0104" text="President and Vice President" voteFor="1" isQuestion="false" precinctsReporting="25" precinctsReported="25">
+        <VoteType name="overVotes" votes="2">
+            <Precinct name="Alcolu" votes="0" />
+            <Precinct name="Barrineau" votes="0" />
+            <Precinct name="Barrows Mill" votes="0" />
+            <Precinct name="Bloomville" votes="0" />
+            <Precinct name="Calvary" votes="0" />
+            <Precinct name="Davis Station" votes="0" />
+            <Precinct name="Harmony" votes="0" />
+            <Precinct name="Hicks" votes="0" />
+            <Precinct name="Home Branch" votes="0" />
+            <Precinct name="Jordan" votes="0" />
+            <Precinct name="Manning No. 1" votes="0" />
+            <Precinct name="Manning No. 2" votes="0" />
+            <Precinct name="Manning No. 3" votes="0" />
+            <Precinct name="Manning No. 4" votes="0" />
+            <Precinct name="Manning No. 5" votes="0" />
+            <Precinct name="New Zion" votes="0" />
+            <Precinct name="Paxville" votes="0" />
+            <Precinct name="Panola" votes="0" />
+            <Precinct name="Sardina-Gable" votes="0" />
+            <Precinct name="Summerton No. 1" votes="0" />
+            <Precinct name="Summerton No. 2" votes="0" />
+            <Precinct name="Summerton No. 3" votes="0" />
+            <Precinct name="Turbeville" votes="0" />
+            <Precinct name="Wilson Foreston" votes="0" />
+            <Precinct name="Oakdale" votes="0" />
+            <Precinct name="Absentee" votes="2" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="157">
+            <Precinct name="Alcolu" votes="3" />
+            <Precinct name="Barrineau" votes="4" />
+            <Precinct name="Barrows Mill" votes="0" />
+            <Precinct name="Bloomville" votes="2" />
+            <Precinct name="Calvary" votes="4" />
+            <Precinct name="Davis Station" votes="11" />
+            <Precinct name="Harmony" votes="7" />
+            <Precinct name="Hicks" votes="2" />
+            <Precinct name="Home Branch" votes="1" />
+            <Precinct name="Jordan" votes="11" />
+            <Precinct name="Manning No. 1" votes="2" />
+            <Precinct name="Manning No. 2" votes="3" />
+            <Precinct name="Manning No. 3" votes="2" />
+            <Precinct name="Manning No. 4" votes="8" />
+            <Precinct name="Manning No. 5" votes="3" />
+            <Precinct name="New Zion" votes="2" />
+            <Precinct name="Paxville" votes="1" />
+            <Precinct name="Panola" votes="1" />
+            <Precinct name="Sardina-Gable" votes="0" />
+            <Precinct name="Summerton No. 1" votes="7" />
+            <Precinct name="Summerton No. 2" votes="6" />
+            <Precinct name="Summerton No. 3" votes="3" />
+            <Precinct name="Turbeville" votes="6" />
+            <Precinct name="Wilson Foreston" votes="5" />
+            <Precinct name="Oakdale" votes="5" />
+            <Precinct name="Absentee" votes="58" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Hillary Rodham Clinton / Timothy Michael Kaine" party="DEM" totalVotes="7732">
+            <VoteType name="Election Day" votes="7732">
+                <Precinct name="Alcolu" votes="184" />
+                <Precinct name="Barrineau" votes="29" />
+                <Precinct name="Barrows Mill" votes="26" />
+                <Precinct name="Bloomville" votes="67" />
+                <Precinct name="Calvary" votes="212" />
+                <Precinct name="Davis Station" votes="272" />
+                <Precinct name="Harmony" votes="146" />
+                <Precinct name="Hicks" votes="49" />
+                <Precinct name="Home Branch" votes="29" />
+                <Precinct name="Jordan" votes="193" />
+                <Precinct name="Manning No. 1" votes="140" />
+                <Precinct name="Manning No. 2" votes="181" />
+                <Precinct name="Manning No. 3" votes="145" />
+                <Precinct name="Manning No. 4" votes="305" />
+                <Precinct name="Manning No. 5" votes="198" />
+                <Precinct name="New Zion" votes="90" />
+                <Precinct name="Paxville" votes="259" />
+                <Precinct name="Panola" votes="89" />
+                <Precinct name="Sardina-Gable" votes="144" />
+                <Precinct name="Summerton No. 1" votes="264" />
+                <Precinct name="Summerton No. 2" votes="92" />
+                <Precinct name="Summerton No. 3" votes="316" />
+                <Precinct name="Turbeville" votes="143" />
+                <Precinct name="Wilson Foreston" votes="286" />
+                <Precinct name="Oakdale" votes="83" />
+                <Precinct name="Absentee" votes="3773" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="13" />
+                <Precinct name="Provisional" votes="4" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Darrell Castle / Scott Bradley" party="CON" totalVotes="25">
+            <VoteType name="Election Day" votes="25">
+                <Precinct name="Alcolu" votes="1" />
+                <Precinct name="Barrineau" votes="0" />
+                <Precinct name="Barrows Mill" votes="0" />
+                <Precinct name="Bloomville" votes="0" />
+                <Precinct name="Calvary" votes="0" />
+                <Precinct name="Davis Station" votes="2" />
+                <Precinct name="Harmony" votes="0" />
+                <Precinct name="Hicks" votes="0" />
+                <Precinct name="Home Branch" votes="0" />
+                <Precinct name="Jordan" votes="1" />
+                <Precinct name="Manning No. 1" votes="0" />
+                <Precinct name="Manning No. 2" votes="0" />
+                <Precinct name="Manning No. 3" votes="2" />
+                <Precinct name="Manning No. 4" votes="1" />
+                <Precinct name="Manning No. 5" votes="0" />
+                <Precinct name="New Zion" votes="1" />
+                <Precinct name="Paxville" votes="1" />
+                <Precinct name="Panola" votes="0" />
+                <Precinct name="Sardina-Gable" votes="0" />
+                <Precinct name="Summerton No. 1" votes="1" />
+                <Precinct name="Summerton No. 2" votes="0" />
+                <Precinct name="Summerton No. 3" votes="0" />
+                <Precinct name="Turbeville" votes="0" />
+                <Precinct name="Wilson Foreston" votes="3" />
+                <Precinct name="Oakdale" votes="1" />
+                <Precinct name="Absentee" votes="11" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Evan McMullin / Nathan Johnson" party="IND" totalVotes="74">
+            <VoteType name="Election Day" votes="74">
+                <Precinct name="Alcolu" votes="0" />
+                <Precinct name="Barrineau" votes="0" />
+                <Precinct name="Barrows Mill" votes="3" />
+                <Precinct name="Bloomville" votes="0" />
+                <Precinct name="Calvary" votes="2" />
+                <Precinct name="Davis Station" votes="2" />
+                <Precinct name="Harmony" votes="1" />
+                <Precinct name="Hicks" votes="1" />
+                <Precinct name="Home Branch" votes="1" />
+                <Precinct name="Jordan" votes="7" />
+                <Precinct name="Manning No. 1" votes="1" />
+                <Precinct name="Manning No. 2" votes="1" />
+                <Precinct name="Manning No. 3" votes="7" />
+                <Precinct name="Manning No. 4" votes="3" />
+                <Precinct name="Manning No. 5" votes="5" />
+                <Precinct name="New Zion" votes="0" />
+                <Precinct name="Paxville" votes="10" />
+                <Precinct name="Panola" votes="1" />
+                <Precinct name="Sardina-Gable" votes="0" />
+                <Precinct name="Summerton No. 1" votes="8" />
+                <Precinct name="Summerton No. 2" votes="3" />
+                <Precinct name="Summerton No. 3" votes="0" />
+                <Precinct name="Turbeville" votes="1" />
+                <Precinct name="Wilson Foreston" votes="2" />
+                <Precinct name="Oakdale" votes="1" />
+                <Precinct name="Absentee" votes="14" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Jill Stein / Ajamu Baraka" party="GRN" totalVotes="27">
+            <VoteType name="Election Day" votes="27">
+                <Precinct name="Alcolu" votes="1" />
+                <Precinct name="Barrineau" votes="0" />
+                <Precinct name="Barrows Mill" votes="0" />
+                <Precinct name="Bloomville" votes="0" />
+                <Precinct name="Calvary" votes="0" />
+                <Precinct name="Davis Station" votes="3" />
+                <Precinct name="Harmony" votes="0" />
+                <Precinct name="Hicks" votes="0" />
+                <Precinct name="Home Branch" votes="0" />
+                <Precinct name="Jordan" votes="4" />
+                <Precinct name="Manning No. 1" votes="0" />
+                <Precinct name="Manning No. 2" votes="0" />
+                <Precinct name="Manning No. 3" votes="0" />
+                <Precinct name="Manning No. 4" votes="0" />
+                <Precinct name="Manning No. 5" votes="2" />
+                <Precinct name="New Zion" votes="1" />
+                <Precinct name="Paxville" votes="3" />
+                <Precinct name="Panola" votes="1" />
+                <Precinct name="Sardina-Gable" votes="0" />
+                <Precinct name="Summerton No. 1" votes="1" />
+                <Precinct name="Summerton No. 2" votes="1" />
+                <Precinct name="Summerton No. 3" votes="0" />
+                <Precinct name="Turbeville" votes="0" />
+                <Precinct name="Wilson Foreston" votes="2" />
+                <Precinct name="Oakdale" votes="1" />
+                <Precinct name="Absentee" votes="7" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Donald J Trump / Michael R Pence" party="REP" totalVotes="7386">
+            <VoteType name="Election Day" votes="7386">
+                <Precinct name="Alcolu" votes="198" />
+                <Precinct name="Barrineau" votes="275" />
+                <Precinct name="Barrows Mill" votes="74" />
+                <Precinct name="Bloomville" votes="163" />
+                <Precinct name="Calvary" votes="57" />
+                <Precinct name="Davis Station" votes="427" />
+                <Precinct name="Harmony" votes="187" />
+                <Precinct name="Hicks" votes="313" />
+                <Precinct name="Home Branch" votes="180" />
+                <Precinct name="Jordan" votes="581" />
+                <Precinct name="Manning No. 1" votes="106" />
+                <Precinct name="Manning No. 2" votes="164" />
+                <Precinct name="Manning No. 3" votes="350" />
+                <Precinct name="Manning No. 4" votes="71" />
+                <Precinct name="Manning No. 5" votes="204" />
+                <Precinct name="New Zion" votes="184" />
+                <Precinct name="Paxville" votes="204" />
+                <Precinct name="Panola" votes="34" />
+                <Precinct name="Sardina-Gable" votes="78" />
+                <Precinct name="Summerton No. 1" votes="479" />
+                <Precinct name="Summerton No. 2" votes="38" />
+                <Precinct name="Summerton No. 3" votes="85" />
+                <Precinct name="Turbeville" votes="441" />
+                <Precinct name="Wilson Foreston" votes="219" />
+                <Precinct name="Oakdale" votes="91" />
+                <Precinct name="Absentee" votes="2178" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="3" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Peter Skewes / Michael Lacy" party="AMR" totalVotes="24">
+            <VoteType name="Election Day" votes="24">
+                <Precinct name="Alcolu" votes="1" />
+                <Precinct name="Barrineau" votes="1" />
+                <Precinct name="Barrows Mill" votes="0" />
+                <Precinct name="Bloomville" votes="0" />
+                <Precinct name="Calvary" votes="0" />
+                <Precinct name="Davis Station" votes="2" />
+                <Precinct name="Harmony" votes="0" />
+                <Precinct name="Hicks" votes="2" />
+                <Precinct name="Home Branch" votes="0" />
+                <Precinct name="Jordan" votes="1" />
+                <Precinct name="Manning No. 1" votes="0" />
+                <Precinct name="Manning No. 2" votes="1" />
+                <Precinct name="Manning No. 3" votes="0" />
+                <Precinct name="Manning No. 4" votes="0" />
+                <Precinct name="Manning No. 5" votes="1" />
+                <Precinct name="New Zion" votes="1" />
+                <Precinct name="Paxville" votes="2" />
+                <Precinct name="Panola" votes="0" />
+                <Precinct name="Sardina-Gable" votes="1" />
+                <Precinct name="Summerton No. 1" votes="1" />
+                <Precinct name="Summerton No. 2" votes="0" />
+                <Precinct name="Summerton No. 3" votes="0" />
+                <Precinct name="Turbeville" votes="3" />
+                <Precinct name="Wilson Foreston" votes="1" />
+                <Precinct name="Oakdale" votes="0" />
+                <Precinct name="Absentee" votes="6" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="Gary Johnson / Bill Weld" party="LIB" totalVotes="127">
+            <VoteType name="Election Day" votes="127">
+                <Precinct name="Alcolu" votes="6" />
+                <Precinct name="Barrineau" votes="0" />
+                <Precinct name="Barrows Mill" votes="1" />
+                <Precinct name="Bloomville" votes="2" />
+                <Precinct name="Calvary" votes="5" />
+                <Precinct name="Davis Station" votes="11" />
+                <Precinct name="Harmony" votes="3" />
+                <Precinct name="Hicks" votes="2" />
+                <Precinct name="Home Branch" votes="1" />
+                <Precinct name="Jordan" votes="4" />
+                <Precinct name="Manning No. 1" votes="2" />
+                <Precinct name="Manning No. 2" votes="7" />
+                <Precinct name="Manning No. 3" votes="11" />
+                <Precinct name="Manning No. 4" votes="2" />
+                <Precinct name="Manning No. 5" votes="3" />
+                <Precinct name="New Zion" votes="1" />
+                <Precinct name="Paxville" votes="13" />
+                <Precinct name="Panola" votes="1" />
+                <Precinct name="Sardina-Gable" votes="0" />
+                <Precinct name="Summerton No. 1" votes="10" />
+                <Precinct name="Summerton No. 2" votes="0" />
+                <Precinct name="Summerton No. 3" votes="3" />
+                <Precinct name="Turbeville" votes="2" />
+                <Precinct name="Wilson Foreston" votes="2" />
+                <Precinct name="Oakdale" votes="1" />
+                <Precinct name="Absentee" votes="34" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0105" text="U.S. Senate" voteFor="1" isQuestion="false" precinctsReporting="25" precinctsReported="25">
+        <VoteType name="overVotes" votes="1">
+            <Precinct name="Alcolu" votes="0" />
+            <Precinct name="Barrineau" votes="0" />
+            <Precinct name="Barrows Mill" votes="0" />
+            <Precinct name="Bloomville" votes="0" />
+            <Precinct name="Calvary" votes="0" />
+            <Precinct name="Davis Station" votes="0" />
+            <Precinct name="Harmony" votes="0" />
+            <Precinct name="Hicks" votes="0" />
+            <Precinct name="Home Branch" votes="0" />
+            <Precinct name="Jordan" votes="0" />
+            <Precinct name="Manning No. 1" votes="0" />
+            <Precinct name="Manning No. 2" votes="0" />
+            <Precinct name="Manning No. 3" votes="0" />
+            <Precinct name="Manning No. 4" votes="0" />
+            <Precinct name="Manning No. 5" votes="0" />
+            <Precinct name="New Zion" votes="0" />
+            <Precinct name="Paxville" votes="0" />
+            <Precinct name="Panola" votes="0" />
+            <Precinct name="Sardina-Gable" votes="0" />
+            <Precinct name="Summerton No. 1" votes="0" />
+            <Precinct name="Summerton No. 2" votes="0" />
+            <Precinct name="Summerton No. 3" votes="0" />
+            <Precinct name="Turbeville" votes="0" />
+            <Precinct name="Wilson Foreston" votes="0" />
+            <Precinct name="Oakdale" votes="0" />
+            <Precinct name="Absentee" votes="1" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="618">
+            <Precinct name="Alcolu" votes="7" />
+            <Precinct name="Barrineau" votes="12" />
+            <Precinct name="Barrows Mill" votes="1" />
+            <Precinct name="Bloomville" votes="5" />
+            <Precinct name="Calvary" votes="11" />
+            <Precinct name="Davis Station" votes="28" />
+            <Precinct name="Harmony" votes="12" />
+            <Precinct name="Hicks" votes="6" />
+            <Precinct name="Home Branch" votes="6" />
+            <Precinct name="Jordan" votes="51" />
+            <Precinct name="Manning No. 1" votes="3" />
+            <Precinct name="Manning No. 2" votes="10" />
+            <Precinct name="Manning No. 3" votes="18" />
+            <Precinct name="Manning No. 4" votes="12" />
+            <Precinct name="Manning No. 5" votes="12" />
+            <Precinct name="New Zion" votes="7" />
+            <Precinct name="Paxville" votes="21" />
+            <Precinct name="Panola" votes="4" />
+            <Precinct name="Sardina-Gable" votes="6" />
+            <Precinct name="Summerton No. 1" votes="39" />
+            <Precinct name="Summerton No. 2" votes="8" />
+            <Precinct name="Summerton No. 3" votes="12" />
+            <Precinct name="Turbeville" votes="17" />
+            <Precinct name="Wilson Foreston" votes="31" />
+            <Precinct name="Oakdale" votes="7" />
+            <Precinct name="Absentee" votes="272" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Thomas Dixon" party="DEM" totalVotes="6965">
+            <VoteType name="Election Day" votes="6965">
+                <Precinct name="Alcolu" votes="168" />
+                <Precinct name="Barrineau" votes="25" />
+                <Precinct name="Barrows Mill" votes="29" />
+                <Precinct name="Bloomville" votes="65" />
+                <Precinct name="Calvary" votes="200" />
+                <Precinct name="Davis Station" votes="246" />
+                <Precinct name="Harmony" votes="140" />
+                <Precinct name="Hicks" votes="50" />
+                <Precinct name="Home Branch" votes="26" />
+                <Precinct name="Jordan" votes="149" />
+                <Precinct name="Manning No. 1" votes="129" />
+                <Precinct name="Manning No. 2" votes="154" />
+                <Precinct name="Manning No. 3" votes="125" />
+                <Precinct name="Manning No. 4" votes="275" />
+                <Precinct name="Manning No. 5" votes="170" />
+                <Precinct name="New Zion" votes="85" />
+                <Precinct name="Paxville" votes="230" />
+                <Precinct name="Panola" votes="79" />
+                <Precinct name="Sardina-Gable" votes="138" />
+                <Precinct name="Summerton No. 1" votes="222" />
+                <Precinct name="Summerton No. 2" votes="86" />
+                <Precinct name="Summerton No. 3" votes="293" />
+                <Precinct name="Turbeville" votes="133" />
+                <Precinct name="Wilson Foreston" votes="256" />
+                <Precinct name="Oakdale" votes="83" />
+                <Precinct name="Absentee" votes="3394" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="12" />
+                <Precinct name="Provisional" votes="3" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Thomas Dixon" party="WFM" totalVotes="194">
+            <VoteType name="Election Day" votes="194">
+                <Precinct name="Alcolu" votes="5" />
+                <Precinct name="Barrineau" votes="2" />
+                <Precinct name="Barrows Mill" votes="0" />
+                <Precinct name="Bloomville" votes="4" />
+                <Precinct name="Calvary" votes="4" />
+                <Precinct name="Davis Station" votes="12" />
+                <Precinct name="Harmony" votes="6" />
+                <Precinct name="Hicks" votes="4" />
+                <Precinct name="Home Branch" votes="2" />
+                <Precinct name="Jordan" votes="14" />
+                <Precinct name="Manning No. 1" votes="7" />
+                <Precinct name="Manning No. 2" votes="6" />
+                <Precinct name="Manning No. 3" votes="8" />
+                <Precinct name="Manning No. 4" votes="7" />
+                <Precinct name="Manning No. 5" votes="10" />
+                <Precinct name="New Zion" votes="7" />
+                <Precinct name="Paxville" votes="15" />
+                <Precinct name="Panola" votes="1" />
+                <Precinct name="Sardina-Gable" votes="0" />
+                <Precinct name="Summerton No. 1" votes="8" />
+                <Precinct name="Summerton No. 2" votes="2" />
+                <Precinct name="Summerton No. 3" votes="3" />
+                <Precinct name="Turbeville" votes="8" />
+                <Precinct name="Wilson Foreston" votes="12" />
+                <Precinct name="Oakdale" votes="0" />
+                <Precinct name="Absentee" votes="47" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Bill Bledsoe" party="CON" totalVotes="64">
+            <VoteType name="Election Day" votes="64">
+                <Precinct name="Alcolu" votes="3" />
+                <Precinct name="Barrineau" votes="1" />
+                <Precinct name="Barrows Mill" votes="0" />
+                <Precinct name="Bloomville" votes="1" />
+                <Precinct name="Calvary" votes="0" />
+                <Precinct name="Davis Station" votes="8" />
+                <Precinct name="Harmony" votes="1" />
+                <Precinct name="Hicks" votes="3" />
+                <Precinct name="Home Branch" votes="2" />
+                <Precinct name="Jordan" votes="7" />
+                <Precinct name="Manning No. 1" votes="0" />
+                <Precinct name="Manning No. 2" votes="0" />
+                <Precinct name="Manning No. 3" votes="1" />
+                <Precinct name="Manning No. 4" votes="2" />
+                <Precinct name="Manning No. 5" votes="2" />
+                <Precinct name="New Zion" votes="2" />
+                <Precinct name="Paxville" votes="5" />
+                <Precinct name="Panola" votes="1" />
+                <Precinct name="Sardina-Gable" votes="0" />
+                <Precinct name="Summerton No. 1" votes="5" />
+                <Precinct name="Summerton No. 2" votes="2" />
+                <Precinct name="Summerton No. 3" votes="0" />
+                <Precinct name="Turbeville" votes="2" />
+                <Precinct name="Wilson Foreston" votes="2" />
+                <Precinct name="Oakdale" votes="1" />
+                <Precinct name="Absentee" votes="13" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Thomas Dixon" party="GRN" totalVotes="55">
+            <VoteType name="Election Day" votes="55">
+                <Precinct name="Alcolu" votes="1" />
+                <Precinct name="Barrineau" votes="0" />
+                <Precinct name="Barrows Mill" votes="2" />
+                <Precinct name="Bloomville" votes="1" />
+                <Precinct name="Calvary" votes="1" />
+                <Precinct name="Davis Station" votes="5" />
+                <Precinct name="Harmony" votes="1" />
+                <Precinct name="Hicks" votes="0" />
+                <Precinct name="Home Branch" votes="0" />
+                <Precinct name="Jordan" votes="7" />
+                <Precinct name="Manning No. 1" votes="1" />
+                <Precinct name="Manning No. 2" votes="1" />
+                <Precinct name="Manning No. 3" votes="3" />
+                <Precinct name="Manning No. 4" votes="2" />
+                <Precinct name="Manning No. 5" votes="1" />
+                <Precinct name="New Zion" votes="1" />
+                <Precinct name="Paxville" votes="4" />
+                <Precinct name="Panola" votes="0" />
+                <Precinct name="Sardina-Gable" votes="1" />
+                <Precinct name="Summerton No. 1" votes="6" />
+                <Precinct name="Summerton No. 2" votes="0" />
+                <Precinct name="Summerton No. 3" votes="0" />
+                <Precinct name="Turbeville" votes="1" />
+                <Precinct name="Wilson Foreston" votes="2" />
+                <Precinct name="Oakdale" votes="0" />
+                <Precinct name="Absentee" votes="14" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Tim Scott" party="REP" totalVotes="7477">
+            <VoteType name="Election Day" votes="7477">
+                <Precinct name="Alcolu" votes="206" />
+                <Precinct name="Barrineau" votes="268" />
+                <Precinct name="Barrows Mill" votes="72" />
+                <Precinct name="Bloomville" votes="152" />
+                <Precinct name="Calvary" votes="60" />
+                <Precinct name="Davis Station" votes="419" />
+                <Precinct name="Harmony" votes="181" />
+                <Precinct name="Hicks" votes="302" />
+                <Precinct name="Home Branch" votes="173" />
+                <Precinct name="Jordan" votes="557" />
+                <Precinct name="Manning No. 1" votes="108" />
+                <Precinct name="Manning No. 2" votes="179" />
+                <Precinct name="Manning No. 3" votes="356" />
+                <Precinct name="Manning No. 4" votes="88" />
+                <Precinct name="Manning No. 5" votes="213" />
+                <Precinct name="New Zion" votes="175" />
+                <Precinct name="Paxville" votes="212" />
+                <Precinct name="Panola" votes="41" />
+                <Precinct name="Sardina-Gable" votes="75" />
+                <Precinct name="Summerton No. 1" votes="484" />
+                <Precinct name="Summerton No. 2" votes="38" />
+                <Precinct name="Summerton No. 3" votes="95" />
+                <Precinct name="Turbeville" votes="426" />
+                <Precinct name="Wilson Foreston" votes="205" />
+                <Precinct name="Oakdale" votes="90" />
+                <Precinct name="Absentee" votes="2296" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="4" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Rebel Michael Scarborough" party="AMR" totalVotes="73">
+            <VoteType name="Election Day" votes="73">
+                <Precinct name="Alcolu" votes="2" />
+                <Precinct name="Barrineau" votes="1" />
+                <Precinct name="Barrows Mill" votes="0" />
+                <Precinct name="Bloomville" votes="3" />
+                <Precinct name="Calvary" votes="2" />
+                <Precinct name="Davis Station" votes="6" />
+                <Precinct name="Harmony" votes="1" />
+                <Precinct name="Hicks" votes="1" />
+                <Precinct name="Home Branch" votes="3" />
+                <Precinct name="Jordan" votes="8" />
+                <Precinct name="Manning No. 1" votes="1" />
+                <Precinct name="Manning No. 2" votes="3" />
+                <Precinct name="Manning No. 3" votes="1" />
+                <Precinct name="Manning No. 4" votes="1" />
+                <Precinct name="Manning No. 5" votes="3" />
+                <Precinct name="New Zion" votes="1" />
+                <Precinct name="Paxville" votes="2" />
+                <Precinct name="Panola" votes="0" />
+                <Precinct name="Sardina-Gable" votes="1" />
+                <Precinct name="Summerton No. 1" votes="3" />
+                <Precinct name="Summerton No. 2" votes="2" />
+                <Precinct name="Summerton No. 3" votes="2" />
+                <Precinct name="Turbeville" votes="6" />
+                <Precinct name="Wilson Foreston" votes="2" />
+                <Precinct name="Oakdale" votes="1" />
+                <Precinct name="Absentee" votes="17" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="Bill Bledsoe" party="LIB" totalVotes="91">
+            <VoteType name="Election Day" votes="91">
+                <Precinct name="Alcolu" votes="2" />
+                <Precinct name="Barrineau" votes="0" />
+                <Precinct name="Barrows Mill" votes="0" />
+                <Precinct name="Bloomville" votes="3" />
+                <Precinct name="Calvary" votes="2" />
+                <Precinct name="Davis Station" votes="5" />
+                <Precinct name="Harmony" votes="2" />
+                <Precinct name="Hicks" votes="3" />
+                <Precinct name="Home Branch" votes="0" />
+                <Precinct name="Jordan" votes="8" />
+                <Precinct name="Manning No. 1" votes="2" />
+                <Precinct name="Manning No. 2" votes="4" />
+                <Precinct name="Manning No. 3" votes="5" />
+                <Precinct name="Manning No. 4" votes="2" />
+                <Precinct name="Manning No. 5" votes="5" />
+                <Precinct name="New Zion" votes="2" />
+                <Precinct name="Paxville" votes="2" />
+                <Precinct name="Panola" votes="1" />
+                <Precinct name="Sardina-Gable" votes="2" />
+                <Precinct name="Summerton No. 1" votes="2" />
+                <Precinct name="Summerton No. 2" votes="2" />
+                <Precinct name="Summerton No. 3" votes="2" />
+                <Precinct name="Turbeville" votes="2" />
+                <Precinct name="Wilson Foreston" votes="4" />
+                <Precinct name="Oakdale" votes="1" />
+                <Precinct name="Absentee" votes="27" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="008" text="Write-In" party="NON" totalVotes="15">
+            <VoteType name="Election Day" votes="15">
+                <Precinct name="Alcolu" votes="0" />
+                <Precinct name="Barrineau" votes="0" />
+                <Precinct name="Barrows Mill" votes="0" />
+                <Precinct name="Bloomville" votes="0" />
+                <Precinct name="Calvary" votes="0" />
+                <Precinct name="Davis Station" votes="1" />
+                <Precinct name="Harmony" votes="0" />
+                <Precinct name="Hicks" votes="0" />
+                <Precinct name="Home Branch" votes="0" />
+                <Precinct name="Jordan" votes="1" />
+                <Precinct name="Manning No. 1" votes="0" />
+                <Precinct name="Manning No. 2" votes="0" />
+                <Precinct name="Manning No. 3" votes="0" />
+                <Precinct name="Manning No. 4" votes="1" />
+                <Precinct name="Manning No. 5" votes="0" />
+                <Precinct name="New Zion" votes="0" />
+                <Precinct name="Paxville" votes="2" />
+                <Precinct name="Panola" votes="0" />
+                <Precinct name="Sardina-Gable" votes="0" />
+                <Precinct name="Summerton No. 1" votes="2" />
+                <Precinct name="Summerton No. 2" votes="0" />
+                <Precinct name="Summerton No. 3" votes="0" />
+                <Precinct name="Turbeville" votes="1" />
+                <Precinct name="Wilson Foreston" votes="6" />
+                <Precinct name="Oakdale" votes="0" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0106" text="U.S.  House of Representatives, District  6" voteFor="1" isQuestion="false" precinctsReporting="25" precinctsReported="25">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Alcolu" votes="0" />
+            <Precinct name="Barrineau" votes="0" />
+            <Precinct name="Barrows Mill" votes="0" />
+            <Precinct name="Bloomville" votes="0" />
+            <Precinct name="Calvary" votes="0" />
+            <Precinct name="Davis Station" votes="0" />
+            <Precinct name="Harmony" votes="0" />
+            <Precinct name="Hicks" votes="0" />
+            <Precinct name="Home Branch" votes="0" />
+            <Precinct name="Jordan" votes="0" />
+            <Precinct name="Manning No. 1" votes="0" />
+            <Precinct name="Manning No. 2" votes="0" />
+            <Precinct name="Manning No. 3" votes="0" />
+            <Precinct name="Manning No. 4" votes="0" />
+            <Precinct name="Manning No. 5" votes="0" />
+            <Precinct name="New Zion" votes="0" />
+            <Precinct name="Paxville" votes="0" />
+            <Precinct name="Panola" votes="0" />
+            <Precinct name="Sardina-Gable" votes="0" />
+            <Precinct name="Summerton No. 1" votes="0" />
+            <Precinct name="Summerton No. 2" votes="0" />
+            <Precinct name="Summerton No. 3" votes="0" />
+            <Precinct name="Turbeville" votes="0" />
+            <Precinct name="Wilson Foreston" votes="0" />
+            <Precinct name="Oakdale" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="647">
+            <Precinct name="Alcolu" votes="11" />
+            <Precinct name="Barrineau" votes="9" />
+            <Precinct name="Barrows Mill" votes="2" />
+            <Precinct name="Bloomville" votes="5" />
+            <Precinct name="Calvary" votes="13" />
+            <Precinct name="Davis Station" votes="30" />
+            <Precinct name="Harmony" votes="16" />
+            <Precinct name="Hicks" votes="10" />
+            <Precinct name="Home Branch" votes="9" />
+            <Precinct name="Jordan" votes="50" />
+            <Precinct name="Manning No. 1" votes="2" />
+            <Precinct name="Manning No. 2" votes="13" />
+            <Precinct name="Manning No. 3" votes="16" />
+            <Precinct name="Manning No. 4" votes="10" />
+            <Precinct name="Manning No. 5" votes="14" />
+            <Precinct name="New Zion" votes="5" />
+            <Precinct name="Paxville" votes="25" />
+            <Precinct name="Panola" votes="5" />
+            <Precinct name="Sardina-Gable" votes="4" />
+            <Precinct name="Summerton No. 1" votes="36" />
+            <Precinct name="Summerton No. 2" votes="12" />
+            <Precinct name="Summerton No. 3" votes="17" />
+            <Precinct name="Turbeville" votes="21" />
+            <Precinct name="Wilson Foreston" votes="34" />
+            <Precinct name="Oakdale" votes="8" />
+            <Precinct name="Absentee" votes="270" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="James E Jim Clyburn" party="DEM" totalVotes="8253">
+            <VoteType name="Election Day" votes="8253">
+                <Precinct name="Alcolu" votes="208" />
+                <Precinct name="Barrineau" votes="60" />
+                <Precinct name="Barrows Mill" votes="36" />
+                <Precinct name="Bloomville" votes="89" />
+                <Precinct name="Calvary" votes="214" />
+                <Precinct name="Davis Station" votes="310" />
+                <Precinct name="Harmony" votes="172" />
+                <Precinct name="Hicks" votes="86" />
+                <Precinct name="Home Branch" votes="36" />
+                <Precinct name="Jordan" votes="231" />
+                <Precinct name="Manning No. 1" votes="154" />
+                <Precinct name="Manning No. 2" votes="195" />
+                <Precinct name="Manning No. 3" votes="184" />
+                <Precinct name="Manning No. 4" votes="311" />
+                <Precinct name="Manning No. 5" votes="220" />
+                <Precinct name="New Zion" votes="121" />
+                <Precinct name="Paxville" votes="266" />
+                <Precinct name="Panola" votes="88" />
+                <Precinct name="Sardina-Gable" votes="150" />
+                <Precinct name="Summerton No. 1" votes="277" />
+                <Precinct name="Summerton No. 2" votes="91" />
+                <Precinct name="Summerton No. 3" votes="311" />
+                <Precinct name="Turbeville" votes="205" />
+                <Precinct name="Wilson Foreston" votes="302" />
+                <Precinct name="Oakdale" votes="98" />
+                <Precinct name="Absentee" votes="3821" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="13" />
+                <Precinct name="Provisional" votes="4" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Prince Charles Mallory" party="GRN" totalVotes="132">
+            <VoteType name="Election Day" votes="132">
+                <Precinct name="Alcolu" votes="6" />
+                <Precinct name="Barrineau" votes="4" />
+                <Precinct name="Barrows Mill" votes="1" />
+                <Precinct name="Bloomville" votes="0" />
+                <Precinct name="Calvary" votes="0" />
+                <Precinct name="Davis Station" votes="8" />
+                <Precinct name="Harmony" votes="0" />
+                <Precinct name="Hicks" votes="2" />
+                <Precinct name="Home Branch" votes="1" />
+                <Precinct name="Jordan" votes="8" />
+                <Precinct name="Manning No. 1" votes="1" />
+                <Precinct name="Manning No. 2" votes="3" />
+                <Precinct name="Manning No. 3" votes="6" />
+                <Precinct name="Manning No. 4" votes="3" />
+                <Precinct name="Manning No. 5" votes="3" />
+                <Precinct name="New Zion" votes="1" />
+                <Precinct name="Paxville" votes="8" />
+                <Precinct name="Panola" votes="1" />
+                <Precinct name="Sardina-Gable" votes="2" />
+                <Precinct name="Summerton No. 1" votes="9" />
+                <Precinct name="Summerton No. 2" votes="0" />
+                <Precinct name="Summerton No. 3" votes="1" />
+                <Precinct name="Turbeville" votes="1" />
+                <Precinct name="Wilson Foreston" votes="3" />
+                <Precinct name="Oakdale" votes="0" />
+                <Precinct name="Absentee" votes="60" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Laura Sterling" party="REP" totalVotes="6361">
+            <VoteType name="Election Day" votes="6361">
+                <Precinct name="Alcolu" votes="165" />
+                <Precinct name="Barrineau" votes="233" />
+                <Precinct name="Barrows Mill" votes="63" />
+                <Precinct name="Bloomville" votes="137" />
+                <Precinct name="Calvary" votes="49" />
+                <Precinct name="Davis Station" votes="371" />
+                <Precinct name="Harmony" votes="152" />
+                <Precinct name="Hicks" votes="265" />
+                <Precinct name="Home Branch" votes="166" />
+                <Precinct name="Jordan" votes="497" />
+                <Precinct name="Manning No. 1" votes="94" />
+                <Precinct name="Manning No. 2" votes="141" />
+                <Precinct name="Manning No. 3" votes="302" />
+                <Precinct name="Manning No. 4" votes="63" />
+                <Precinct name="Manning No. 5" votes="173" />
+                <Precinct name="New Zion" votes="150" />
+                <Precinct name="Paxville" votes="187" />
+                <Precinct name="Panola" votes="32" />
+                <Precinct name="Sardina-Gable" votes="67" />
+                <Precinct name="Summerton No. 1" votes="443" />
+                <Precinct name="Summerton No. 2" votes="35" />
+                <Precinct name="Summerton No. 3" votes="77" />
+                <Precinct name="Turbeville" votes="367" />
+                <Precinct name="Wilson Foreston" votes="173" />
+                <Precinct name="Oakdale" votes="76" />
+                <Precinct name="Absentee" votes="1878" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="3" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Rich Piotrowski" party="LIB" totalVotes="142">
+            <VoteType name="Election Day" votes="142">
+                <Precinct name="Alcolu" votes="4" />
+                <Precinct name="Barrineau" votes="1" />
+                <Precinct name="Barrows Mill" votes="2" />
+                <Precinct name="Bloomville" votes="3" />
+                <Precinct name="Calvary" votes="4" />
+                <Precinct name="Davis Station" votes="10" />
+                <Precinct name="Harmony" votes="4" />
+                <Precinct name="Hicks" votes="5" />
+                <Precinct name="Home Branch" votes="0" />
+                <Precinct name="Jordan" votes="16" />
+                <Precinct name="Manning No. 1" votes="0" />
+                <Precinct name="Manning No. 2" votes="5" />
+                <Precinct name="Manning No. 3" votes="9" />
+                <Precinct name="Manning No. 4" votes="3" />
+                <Precinct name="Manning No. 5" votes="5" />
+                <Precinct name="New Zion" votes="3" />
+                <Precinct name="Paxville" votes="6" />
+                <Precinct name="Panola" votes="1" />
+                <Precinct name="Sardina-Gable" votes="0" />
+                <Precinct name="Summerton No. 1" votes="6" />
+                <Precinct name="Summerton No. 2" votes="2" />
+                <Precinct name="Summerton No. 3" votes="1" />
+                <Precinct name="Turbeville" votes="1" />
+                <Precinct name="Wilson Foreston" votes="6" />
+                <Precinct name="Oakdale" votes="1" />
+                <Precinct name="Absentee" votes="44" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Write-In" party="NON" totalVotes="13">
+            <VoteType name="Election Day" votes="13">
+                <Precinct name="Alcolu" votes="0" />
+                <Precinct name="Barrineau" votes="2" />
+                <Precinct name="Barrows Mill" votes="0" />
+                <Precinct name="Bloomville" votes="0" />
+                <Precinct name="Calvary" votes="0" />
+                <Precinct name="Davis Station" votes="1" />
+                <Precinct name="Harmony" votes="0" />
+                <Precinct name="Hicks" votes="1" />
+                <Precinct name="Home Branch" votes="0" />
+                <Precinct name="Jordan" votes="0" />
+                <Precinct name="Manning No. 1" votes="0" />
+                <Precinct name="Manning No. 2" votes="0" />
+                <Precinct name="Manning No. 3" votes="0" />
+                <Precinct name="Manning No. 4" votes="0" />
+                <Precinct name="Manning No. 5" votes="1" />
+                <Precinct name="New Zion" votes="0" />
+                <Precinct name="Paxville" votes="1" />
+                <Precinct name="Panola" votes="0" />
+                <Precinct name="Sardina-Gable" votes="0" />
+                <Precinct name="Summerton No. 1" votes="0" />
+                <Precinct name="Summerton No. 2" votes="0" />
+                <Precinct name="Summerton No. 3" votes="0" />
+                <Precinct name="Turbeville" votes="1" />
+                <Precinct name="Wilson Foreston" votes="2" />
+                <Precinct name="Oakdale" votes="0" />
+                <Precinct name="Absentee" votes="4" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0107" text="State  Senate, District  36" voteFor="1" isQuestion="false" precinctsReporting="25" precinctsReported="25">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Alcolu" votes="0" />
+            <Precinct name="Barrineau" votes="0" />
+            <Precinct name="Barrows Mill" votes="0" />
+            <Precinct name="Bloomville" votes="0" />
+            <Precinct name="Calvary" votes="0" />
+            <Precinct name="Davis Station" votes="0" />
+            <Precinct name="Harmony" votes="0" />
+            <Precinct name="Hicks" votes="0" />
+            <Precinct name="Home Branch" votes="0" />
+            <Precinct name="Jordan" votes="0" />
+            <Precinct name="Manning No. 1" votes="0" />
+            <Precinct name="Manning No. 2" votes="0" />
+            <Precinct name="Manning No. 3" votes="0" />
+            <Precinct name="Manning No. 4" votes="0" />
+            <Precinct name="Manning No. 5" votes="0" />
+            <Precinct name="New Zion" votes="0" />
+            <Precinct name="Paxville" votes="0" />
+            <Precinct name="Panola" votes="0" />
+            <Precinct name="Sardina-Gable" votes="0" />
+            <Precinct name="Summerton No. 1" votes="0" />
+            <Precinct name="Summerton No. 2" votes="0" />
+            <Precinct name="Summerton No. 3" votes="0" />
+            <Precinct name="Turbeville" votes="0" />
+            <Precinct name="Wilson Foreston" votes="0" />
+            <Precinct name="Oakdale" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="486">
+            <Precinct name="Alcolu" votes="8" />
+            <Precinct name="Barrineau" votes="5" />
+            <Precinct name="Barrows Mill" votes="3" />
+            <Precinct name="Bloomville" votes="11" />
+            <Precinct name="Calvary" votes="8" />
+            <Precinct name="Davis Station" votes="27" />
+            <Precinct name="Harmony" votes="9" />
+            <Precinct name="Hicks" votes="11" />
+            <Precinct name="Home Branch" votes="9" />
+            <Precinct name="Jordan" votes="48" />
+            <Precinct name="Manning No. 1" votes="2" />
+            <Precinct name="Manning No. 2" votes="8" />
+            <Precinct name="Manning No. 3" votes="10" />
+            <Precinct name="Manning No. 4" votes="10" />
+            <Precinct name="Manning No. 5" votes="5" />
+            <Precinct name="New Zion" votes="6" />
+            <Precinct name="Paxville" votes="9" />
+            <Precinct name="Panola" votes="4" />
+            <Precinct name="Sardina-Gable" votes="3" />
+            <Precinct name="Summerton No. 1" votes="28" />
+            <Precinct name="Summerton No. 2" votes="11" />
+            <Precinct name="Summerton No. 3" votes="12" />
+            <Precinct name="Turbeville" votes="12" />
+            <Precinct name="Wilson Foreston" votes="18" />
+            <Precinct name="Oakdale" votes="7" />
+            <Precinct name="Absentee" votes="202" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Kevin L Johnson" party="DEM" totalVotes="9108">
+            <VoteType name="Election Day" votes="9108">
+                <Precinct name="Alcolu" votes="236" />
+                <Precinct name="Barrineau" votes="66" />
+                <Precinct name="Barrows Mill" votes="48" />
+                <Precinct name="Bloomville" votes="102" />
+                <Precinct name="Calvary" votes="221" />
+                <Precinct name="Davis Station" votes="340" />
+                <Precinct name="Harmony" votes="207" />
+                <Precinct name="Hicks" votes="117" />
+                <Precinct name="Home Branch" votes="51" />
+                <Precinct name="Jordan" votes="287" />
+                <Precinct name="Manning No. 1" votes="174" />
+                <Precinct name="Manning No. 2" votes="226" />
+                <Precinct name="Manning No. 3" votes="261" />
+                <Precinct name="Manning No. 4" votes="312" />
+                <Precinct name="Manning No. 5" votes="249" />
+                <Precinct name="New Zion" votes="141" />
+                <Precinct name="Paxville" votes="294" />
+                <Precinct name="Panola" votes="90" />
+                <Precinct name="Sardina-Gable" votes="157" />
+                <Precinct name="Summerton No. 1" votes="324" />
+                <Precinct name="Summerton No. 2" votes="95" />
+                <Precinct name="Summerton No. 3" votes="326" />
+                <Precinct name="Turbeville" votes="242" />
+                <Precinct name="Wilson Foreston" votes="317" />
+                <Precinct name="Oakdale" votes="114" />
+                <Precinct name="Absentee" votes="4093" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="14" />
+                <Precinct name="Provisional" votes="4" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Leon Winn" party="REP" totalVotes="5946">
+            <VoteType name="Election Day" votes="5946">
+                <Precinct name="Alcolu" votes="150" />
+                <Precinct name="Barrineau" votes="237" />
+                <Precinct name="Barrows Mill" votes="53" />
+                <Precinct name="Bloomville" votes="120" />
+                <Precinct name="Calvary" votes="51" />
+                <Precinct name="Davis Station" votes="362" />
+                <Precinct name="Harmony" votes="128" />
+                <Precinct name="Hicks" votes="241" />
+                <Precinct name="Home Branch" votes="152" />
+                <Precinct name="Jordan" votes="467" />
+                <Precinct name="Manning No. 1" votes="74" />
+                <Precinct name="Manning No. 2" votes="122" />
+                <Precinct name="Manning No. 3" votes="245" />
+                <Precinct name="Manning No. 4" votes="67" />
+                <Precinct name="Manning No. 5" votes="162" />
+                <Precinct name="New Zion" votes="133" />
+                <Precinct name="Paxville" votes="190" />
+                <Precinct name="Panola" votes="33" />
+                <Precinct name="Sardina-Gable" votes="63" />
+                <Precinct name="Summerton No. 1" votes="419" />
+                <Precinct name="Summerton No. 2" votes="34" />
+                <Precinct name="Summerton No. 3" votes="69" />
+                <Precinct name="Turbeville" votes="342" />
+                <Precinct name="Wilson Foreston" votes="183" />
+                <Precinct name="Oakdale" votes="62" />
+                <Precinct name="Absentee" votes="1783" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="3" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="15">
+            <VoteType name="Election Day" votes="15">
+                <Precinct name="Alcolu" votes="0" />
+                <Precinct name="Barrineau" votes="1" />
+                <Precinct name="Barrows Mill" votes="0" />
+                <Precinct name="Bloomville" votes="1" />
+                <Precinct name="Calvary" votes="0" />
+                <Precinct name="Davis Station" votes="1" />
+                <Precinct name="Harmony" votes="0" />
+                <Precinct name="Hicks" votes="0" />
+                <Precinct name="Home Branch" votes="0" />
+                <Precinct name="Jordan" votes="0" />
+                <Precinct name="Manning No. 1" votes="1" />
+                <Precinct name="Manning No. 2" votes="1" />
+                <Precinct name="Manning No. 3" votes="1" />
+                <Precinct name="Manning No. 4" votes="1" />
+                <Precinct name="Manning No. 5" votes="0" />
+                <Precinct name="New Zion" votes="0" />
+                <Precinct name="Paxville" votes="0" />
+                <Precinct name="Panola" votes="0" />
+                <Precinct name="Sardina-Gable" votes="0" />
+                <Precinct name="Summerton No. 1" votes="0" />
+                <Precinct name="Summerton No. 2" votes="0" />
+                <Precinct name="Summerton No. 3" votes="0" />
+                <Precinct name="Turbeville" votes="0" />
+                <Precinct name="Wilson Foreston" votes="2" />
+                <Precinct name="Oakdale" votes="0" />
+                <Precinct name="Absentee" votes="6" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0108" text="State  House of Representatives, District  64" voteFor="1" isQuestion="false" precinctsReporting="25" precinctsReported="25">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Alcolu" votes="0" />
+            <Precinct name="Barrineau" votes="0" />
+            <Precinct name="Barrows Mill" votes="0" />
+            <Precinct name="Bloomville" votes="0" />
+            <Precinct name="Calvary" votes="0" />
+            <Precinct name="Davis Station" votes="0" />
+            <Precinct name="Harmony" votes="0" />
+            <Precinct name="Hicks" votes="0" />
+            <Precinct name="Home Branch" votes="0" />
+            <Precinct name="Jordan" votes="0" />
+            <Precinct name="Manning No. 1" votes="0" />
+            <Precinct name="Manning No. 2" votes="0" />
+            <Precinct name="Manning No. 3" votes="0" />
+            <Precinct name="Manning No. 4" votes="0" />
+            <Precinct name="Manning No. 5" votes="0" />
+            <Precinct name="New Zion" votes="0" />
+            <Precinct name="Paxville" votes="0" />
+            <Precinct name="Panola" votes="0" />
+            <Precinct name="Sardina-Gable" votes="0" />
+            <Precinct name="Summerton No. 1" votes="0" />
+            <Precinct name="Summerton No. 2" votes="0" />
+            <Precinct name="Summerton No. 3" votes="0" />
+            <Precinct name="Turbeville" votes="0" />
+            <Precinct name="Wilson Foreston" votes="0" />
+            <Precinct name="Oakdale" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="2717">
+            <Precinct name="Alcolu" votes="68" />
+            <Precinct name="Barrineau" votes="138" />
+            <Precinct name="Barrows Mill" votes="25" />
+            <Precinct name="Bloomville" votes="28" />
+            <Precinct name="Calvary" votes="30" />
+            <Precinct name="Davis Station" votes="235" />
+            <Precinct name="Harmony" votes="57" />
+            <Precinct name="Hicks" votes="115" />
+            <Precinct name="Home Branch" votes="62" />
+            <Precinct name="Jordan" votes="31" />
+            <Precinct name="Manning No. 1" votes="34" />
+            <Precinct name="Manning No. 2" votes="45" />
+            <Precinct name="Manning No. 3" votes="101" />
+            <Precinct name="Manning No. 4" votes="40" />
+            <Precinct name="Manning No. 5" votes="60" />
+            <Precinct name="New Zion" votes="66" />
+            <Precinct name="Paxville" votes="101" />
+            <Precinct name="Panola" votes="14" />
+            <Precinct name="Sardina-Gable" votes="27" />
+            <Precinct name="Summerton No. 1" votes="235" />
+            <Precinct name="Summerton No. 2" votes="28" />
+            <Precinct name="Summerton No. 3" votes="23" />
+            <Precinct name="Turbeville" votes="184" />
+            <Precinct name="Wilson Foreston" votes="81" />
+            <Precinct name="Oakdale" votes="31" />
+            <Precinct name="Absentee" votes="856" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="2" />
+        </VoteType>
+        <Choice key="001" text="Robert L Ridgeway III" party="DEM" totalVotes="11160">
+            <VoteType name="Election Day" votes="11160">
+                <Precinct name="Alcolu" votes="326" />
+                <Precinct name="Barrineau" votes="170" />
+                <Precinct name="Barrows Mill" votes="78" />
+                <Precinct name="Bloomville" votes="131" />
+                <Precinct name="Calvary" votes="250" />
+                <Precinct name="Davis Station" votes="487" />
+                <Precinct name="Harmony" votes="285" />
+                <Precinct name="Hicks" votes="252" />
+                <Precinct name="Home Branch" votes="149" />
+                <Precinct name="Jordan" votes="98" />
+                <Precinct name="Manning No. 1" votes="217" />
+                <Precinct name="Manning No. 2" votes="309" />
+                <Precinct name="Manning No. 3" votes="414" />
+                <Precinct name="Manning No. 4" votes="348" />
+                <Precinct name="Manning No. 5" votes="352" />
+                <Precinct name="New Zion" votes="214" />
+                <Precinct name="Paxville" votes="387" />
+                <Precinct name="Panola" votes="112" />
+                <Precinct name="Sardina-Gable" votes="196" />
+                <Precinct name="Summerton No. 1" votes="531" />
+                <Precinct name="Summerton No. 2" votes="112" />
+                <Precinct name="Summerton No. 3" votes="383" />
+                <Precinct name="Turbeville" votes="409" />
+                <Precinct name="Wilson Foreston" votes="391" />
+                <Precinct name="Oakdale" votes="152" />
+                <Precinct name="Absentee" votes="4389" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="14" />
+                <Precinct name="Provisional" votes="4" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="58">
+            <VoteType name="Election Day" votes="58">
+                <Precinct name="Alcolu" votes="0" />
+                <Precinct name="Barrineau" votes="1" />
+                <Precinct name="Barrows Mill" votes="1" />
+                <Precinct name="Bloomville" votes="0" />
+                <Precinct name="Calvary" votes="0" />
+                <Precinct name="Davis Station" votes="7" />
+                <Precinct name="Harmony" votes="2" />
+                <Precinct name="Hicks" votes="2" />
+                <Precinct name="Home Branch" votes="1" />
+                <Precinct name="Jordan" votes="0" />
+                <Precinct name="Manning No. 1" votes="0" />
+                <Precinct name="Manning No. 2" votes="3" />
+                <Precinct name="Manning No. 3" votes="2" />
+                <Precinct name="Manning No. 4" votes="2" />
+                <Precinct name="Manning No. 5" votes="4" />
+                <Precinct name="New Zion" votes="0" />
+                <Precinct name="Paxville" votes="5" />
+                <Precinct name="Panola" votes="1" />
+                <Precinct name="Sardina-Gable" votes="0" />
+                <Precinct name="Summerton No. 1" votes="5" />
+                <Precinct name="Summerton No. 2" votes="0" />
+                <Precinct name="Summerton No. 3" votes="1" />
+                <Precinct name="Turbeville" votes="3" />
+                <Precinct name="Wilson Foreston" votes="0" />
+                <Precinct name="Oakdale" votes="0" />
+                <Precinct name="Absentee" votes="18" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0109" text="State  House of Representatives, District  101" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Bloomville" votes="0" />
+            <Precinct name="Davis Station" votes="0" />
+            <Precinct name="Jordan" votes="0" />
+            <Precinct name="Wilson Foreston" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="772">
+            <Precinct name="Bloomville" votes="25" />
+            <Precinct name="Davis Station" votes="0" />
+            <Precinct name="Jordan" votes="317" />
+            <Precinct name="Wilson Foreston" votes="11" />
+            <Precinct name="Absentee" votes="417" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="1" />
+        </VoteType>
+        <Choice key="001" text="Cezar McKnight" party="DEM" totalVotes="836">
+            <VoteType name="Election Day" votes="836">
+                <Precinct name="Bloomville" votes="50" />
+                <Precinct name="Davis Station" votes="1" />
+                <Precinct name="Jordan" votes="352" />
+                <Precinct name="Wilson Foreston" votes="36" />
+                <Precinct name="Absentee" votes="397" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="8">
+            <VoteType name="Election Day" votes="8">
+                <Precinct name="Bloomville" votes="0" />
+                <Precinct name="Davis Station" votes="0" />
+                <Precinct name="Jordan" votes="4" />
+                <Precinct name="Wilson Foreston" votes="1" />
+                <Precinct name="Absentee" votes="3" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0110" text="Sheriff" voteFor="1" isQuestion="false" precinctsReporting="25" precinctsReported="25">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Alcolu" votes="0" />
+            <Precinct name="Barrineau" votes="0" />
+            <Precinct name="Barrows Mill" votes="0" />
+            <Precinct name="Bloomville" votes="0" />
+            <Precinct name="Calvary" votes="0" />
+            <Precinct name="Davis Station" votes="0" />
+            <Precinct name="Harmony" votes="0" />
+            <Precinct name="Hicks" votes="0" />
+            <Precinct name="Home Branch" votes="0" />
+            <Precinct name="Jordan" votes="0" />
+            <Precinct name="Manning No. 1" votes="0" />
+            <Precinct name="Manning No. 2" votes="0" />
+            <Precinct name="Manning No. 3" votes="0" />
+            <Precinct name="Manning No. 4" votes="0" />
+            <Precinct name="Manning No. 5" votes="0" />
+            <Precinct name="New Zion" votes="0" />
+            <Precinct name="Paxville" votes="0" />
+            <Precinct name="Panola" votes="0" />
+            <Precinct name="Sardina-Gable" votes="0" />
+            <Precinct name="Summerton No. 1" votes="0" />
+            <Precinct name="Summerton No. 2" votes="0" />
+            <Precinct name="Summerton No. 3" votes="0" />
+            <Precinct name="Turbeville" votes="0" />
+            <Precinct name="Wilson Foreston" votes="0" />
+            <Precinct name="Oakdale" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="2851">
+            <Precinct name="Alcolu" votes="58" />
+            <Precinct name="Barrineau" votes="122" />
+            <Precinct name="Barrows Mill" votes="21" />
+            <Precinct name="Bloomville" votes="48" />
+            <Precinct name="Calvary" votes="26" />
+            <Precinct name="Davis Station" votes="197" />
+            <Precinct name="Harmony" votes="49" />
+            <Precinct name="Hicks" votes="98" />
+            <Precinct name="Home Branch" votes="56" />
+            <Precinct name="Jordan" votes="236" />
+            <Precinct name="Manning No. 1" votes="27" />
+            <Precinct name="Manning No. 2" votes="42" />
+            <Precinct name="Manning No. 3" votes="86" />
+            <Precinct name="Manning No. 4" votes="28" />
+            <Precinct name="Manning No. 5" votes="52" />
+            <Precinct name="New Zion" votes="57" />
+            <Precinct name="Paxville" votes="96" />
+            <Precinct name="Panola" votes="11" />
+            <Precinct name="Sardina-Gable" votes="22" />
+            <Precinct name="Summerton No. 1" votes="197" />
+            <Precinct name="Summerton No. 2" votes="25" />
+            <Precinct name="Summerton No. 3" votes="19" />
+            <Precinct name="Turbeville" votes="166" />
+            <Precinct name="Wilson Foreston" votes="88" />
+            <Precinct name="Oakdale" votes="31" />
+            <Precinct name="Absentee" votes="990" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="2" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Tim Baxley" party="DEM" totalVotes="12604">
+            <VoteType name="Election Day" votes="12604">
+                <Precinct name="Alcolu" votes="335" />
+                <Precinct name="Barrineau" votes="185" />
+                <Precinct name="Barrows Mill" votes="82" />
+                <Precinct name="Bloomville" votes="185" />
+                <Precinct name="Calvary" votes="254" />
+                <Precinct name="Davis Station" votes="528" />
+                <Precinct name="Harmony" votes="292" />
+                <Precinct name="Hicks" votes="268" />
+                <Precinct name="Home Branch" votes="153" />
+                <Precinct name="Jordan" votes="563" />
+                <Precinct name="Manning No. 1" votes="222" />
+                <Precinct name="Manning No. 2" votes="313" />
+                <Precinct name="Manning No. 3" votes="424" />
+                <Precinct name="Manning No. 4" votes="357" />
+                <Precinct name="Manning No. 5" votes="358" />
+                <Precinct name="New Zion" votes="222" />
+                <Precinct name="Paxville" votes="396" />
+                <Precinct name="Panola" votes="116" />
+                <Precinct name="Sardina-Gable" votes="200" />
+                <Precinct name="Summerton No. 1" votes="564" />
+                <Precinct name="Summerton No. 2" votes="115" />
+                <Precinct name="Summerton No. 3" votes="388" />
+                <Precinct name="Turbeville" votes="427" />
+                <Precinct name="Wilson Foreston" votes="430" />
+                <Precinct name="Oakdale" votes="152" />
+                <Precinct name="Absentee" votes="5056" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="14" />
+                <Precinct name="Provisional" votes="5" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="91">
+            <VoteType name="Election Day" votes="91">
+                <Precinct name="Alcolu" votes="1" />
+                <Precinct name="Barrineau" votes="2" />
+                <Precinct name="Barrows Mill" votes="1" />
+                <Precinct name="Bloomville" votes="1" />
+                <Precinct name="Calvary" votes="0" />
+                <Precinct name="Davis Station" votes="5" />
+                <Precinct name="Harmony" votes="3" />
+                <Precinct name="Hicks" votes="3" />
+                <Precinct name="Home Branch" votes="3" />
+                <Precinct name="Jordan" votes="3" />
+                <Precinct name="Manning No. 1" votes="2" />
+                <Precinct name="Manning No. 2" votes="2" />
+                <Precinct name="Manning No. 3" votes="7" />
+                <Precinct name="Manning No. 4" votes="5" />
+                <Precinct name="Manning No. 5" votes="6" />
+                <Precinct name="New Zion" votes="1" />
+                <Precinct name="Paxville" votes="1" />
+                <Precinct name="Panola" votes="0" />
+                <Precinct name="Sardina-Gable" votes="1" />
+                <Precinct name="Summerton No. 1" votes="10" />
+                <Precinct name="Summerton No. 2" votes="0" />
+                <Precinct name="Summerton No. 3" votes="0" />
+                <Precinct name="Turbeville" votes="3" />
+                <Precinct name="Wilson Foreston" votes="2" />
+                <Precinct name="Oakdale" votes="0" />
+                <Precinct name="Absentee" votes="29" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0111" text="Probate Judge" voteFor="1" isQuestion="false" precinctsReporting="25" precinctsReported="25">
+        <VoteType name="overVotes" votes="1">
+            <Precinct name="Alcolu" votes="0" />
+            <Precinct name="Barrineau" votes="0" />
+            <Precinct name="Barrows Mill" votes="0" />
+            <Precinct name="Bloomville" votes="0" />
+            <Precinct name="Calvary" votes="0" />
+            <Precinct name="Davis Station" votes="0" />
+            <Precinct name="Harmony" votes="0" />
+            <Precinct name="Hicks" votes="0" />
+            <Precinct name="Home Branch" votes="0" />
+            <Precinct name="Jordan" votes="0" />
+            <Precinct name="Manning No. 1" votes="0" />
+            <Precinct name="Manning No. 2" votes="0" />
+            <Precinct name="Manning No. 3" votes="0" />
+            <Precinct name="Manning No. 4" votes="0" />
+            <Precinct name="Manning No. 5" votes="0" />
+            <Precinct name="New Zion" votes="0" />
+            <Precinct name="Paxville" votes="0" />
+            <Precinct name="Panola" votes="0" />
+            <Precinct name="Sardina-Gable" votes="0" />
+            <Precinct name="Summerton No. 1" votes="0" />
+            <Precinct name="Summerton No. 2" votes="0" />
+            <Precinct name="Summerton No. 3" votes="0" />
+            <Precinct name="Turbeville" votes="0" />
+            <Precinct name="Wilson Foreston" votes="0" />
+            <Precinct name="Oakdale" votes="0" />
+            <Precinct name="Absentee" votes="1" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="3438">
+            <Precinct name="Alcolu" votes="67" />
+            <Precinct name="Barrineau" votes="136" />
+            <Precinct name="Barrows Mill" votes="27" />
+            <Precinct name="Bloomville" votes="58" />
+            <Precinct name="Calvary" votes="33" />
+            <Precinct name="Davis Station" votes="240" />
+            <Precinct name="Harmony" votes="53" />
+            <Precinct name="Hicks" votes="113" />
+            <Precinct name="Home Branch" votes="65" />
+            <Precinct name="Jordan" votes="289" />
+            <Precinct name="Manning No. 1" votes="39" />
+            <Precinct name="Manning No. 2" votes="56" />
+            <Precinct name="Manning No. 3" votes="106" />
+            <Precinct name="Manning No. 4" votes="31" />
+            <Precinct name="Manning No. 5" votes="55" />
+            <Precinct name="New Zion" votes="69" />
+            <Precinct name="Paxville" votes="102" />
+            <Precinct name="Panola" votes="18" />
+            <Precinct name="Sardina-Gable" votes="31" />
+            <Precinct name="Summerton No. 1" votes="235" />
+            <Precinct name="Summerton No. 2" votes="28" />
+            <Precinct name="Summerton No. 3" votes="36" />
+            <Precinct name="Turbeville" votes="194" />
+            <Precinct name="Wilson Foreston" votes="97" />
+            <Precinct name="Oakdale" votes="31" />
+            <Precinct name="Absentee" votes="1226" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="2" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Margaret Peggi Jackson Sorrell" party="DEM" totalVotes="12060">
+            <VoteType name="Election Day" votes="12060">
+                <Precinct name="Alcolu" votes="327" />
+                <Precinct name="Barrineau" votes="173" />
+                <Precinct name="Barrows Mill" votes="76" />
+                <Precinct name="Bloomville" votes="176" />
+                <Precinct name="Calvary" votes="246" />
+                <Precinct name="Davis Station" votes="485" />
+                <Precinct name="Harmony" votes="291" />
+                <Precinct name="Hicks" votes="255" />
+                <Precinct name="Home Branch" votes="147" />
+                <Precinct name="Jordan" votes="511" />
+                <Precinct name="Manning No. 1" votes="211" />
+                <Precinct name="Manning No. 2" votes="300" />
+                <Precinct name="Manning No. 3" votes="410" />
+                <Precinct name="Manning No. 4" votes="355" />
+                <Precinct name="Manning No. 5" votes="358" />
+                <Precinct name="New Zion" votes="209" />
+                <Precinct name="Paxville" votes="389" />
+                <Precinct name="Panola" votes="109" />
+                <Precinct name="Sardina-Gable" votes="191" />
+                <Precinct name="Summerton No. 1" votes="533" />
+                <Precinct name="Summerton No. 2" votes="112" />
+                <Precinct name="Summerton No. 3" votes="371" />
+                <Precinct name="Turbeville" votes="400" />
+                <Precinct name="Wilson Foreston" votes="422" />
+                <Precinct name="Oakdale" votes="152" />
+                <Precinct name="Absentee" votes="4832" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="14" />
+                <Precinct name="Provisional" votes="5" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="46">
+            <VoteType name="Election Day" votes="46">
+                <Precinct name="Alcolu" votes="0" />
+                <Precinct name="Barrineau" votes="0" />
+                <Precinct name="Barrows Mill" votes="1" />
+                <Precinct name="Bloomville" votes="0" />
+                <Precinct name="Calvary" votes="1" />
+                <Precinct name="Davis Station" votes="5" />
+                <Precinct name="Harmony" votes="0" />
+                <Precinct name="Hicks" votes="1" />
+                <Precinct name="Home Branch" votes="0" />
+                <Precinct name="Jordan" votes="2" />
+                <Precinct name="Manning No. 1" votes="1" />
+                <Precinct name="Manning No. 2" votes="1" />
+                <Precinct name="Manning No. 3" votes="1" />
+                <Precinct name="Manning No. 4" votes="4" />
+                <Precinct name="Manning No. 5" votes="3" />
+                <Precinct name="New Zion" votes="2" />
+                <Precinct name="Paxville" votes="2" />
+                <Precinct name="Panola" votes="0" />
+                <Precinct name="Sardina-Gable" votes="1" />
+                <Precinct name="Summerton No. 1" votes="3" />
+                <Precinct name="Summerton No. 2" votes="0" />
+                <Precinct name="Summerton No. 3" votes="0" />
+                <Precinct name="Turbeville" votes="2" />
+                <Precinct name="Wilson Foreston" votes="1" />
+                <Precinct name="Oakdale" votes="0" />
+                <Precinct name="Absentee" votes="15" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0112" text="Clerk of Court" voteFor="1" isQuestion="false" precinctsReporting="25" precinctsReported="25">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Alcolu" votes="0" />
+            <Precinct name="Barrineau" votes="0" />
+            <Precinct name="Barrows Mill" votes="0" />
+            <Precinct name="Bloomville" votes="0" />
+            <Precinct name="Calvary" votes="0" />
+            <Precinct name="Davis Station" votes="0" />
+            <Precinct name="Harmony" votes="0" />
+            <Precinct name="Hicks" votes="0" />
+            <Precinct name="Home Branch" votes="0" />
+            <Precinct name="Jordan" votes="0" />
+            <Precinct name="Manning No. 1" votes="0" />
+            <Precinct name="Manning No. 2" votes="0" />
+            <Precinct name="Manning No. 3" votes="0" />
+            <Precinct name="Manning No. 4" votes="0" />
+            <Precinct name="Manning No. 5" votes="0" />
+            <Precinct name="New Zion" votes="0" />
+            <Precinct name="Paxville" votes="0" />
+            <Precinct name="Panola" votes="0" />
+            <Precinct name="Sardina-Gable" votes="0" />
+            <Precinct name="Summerton No. 1" votes="0" />
+            <Precinct name="Summerton No. 2" votes="0" />
+            <Precinct name="Summerton No. 3" votes="0" />
+            <Precinct name="Turbeville" votes="0" />
+            <Precinct name="Wilson Foreston" votes="0" />
+            <Precinct name="Oakdale" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="3243">
+            <Precinct name="Alcolu" votes="66" />
+            <Precinct name="Barrineau" votes="121" />
+            <Precinct name="Barrows Mill" votes="22" />
+            <Precinct name="Bloomville" votes="53" />
+            <Precinct name="Calvary" votes="30" />
+            <Precinct name="Davis Station" votes="223" />
+            <Precinct name="Harmony" votes="40" />
+            <Precinct name="Hicks" votes="90" />
+            <Precinct name="Home Branch" votes="69" />
+            <Precinct name="Jordan" votes="296" />
+            <Precinct name="Manning No. 1" votes="28" />
+            <Precinct name="Manning No. 2" votes="57" />
+            <Precinct name="Manning No. 3" votes="104" />
+            <Precinct name="Manning No. 4" votes="31" />
+            <Precinct name="Manning No. 5" votes="60" />
+            <Precinct name="New Zion" votes="63" />
+            <Precinct name="Paxville" votes="94" />
+            <Precinct name="Panola" votes="15" />
+            <Precinct name="Sardina-Gable" votes="24" />
+            <Precinct name="Summerton No. 1" votes="226" />
+            <Precinct name="Summerton No. 2" votes="26" />
+            <Precinct name="Summerton No. 3" votes="36" />
+            <Precinct name="Turbeville" votes="181" />
+            <Precinct name="Wilson Foreston" votes="85" />
+            <Precinct name="Oakdale" votes="26" />
+            <Precinct name="Absentee" votes="1173" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="3" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Beulah G Roberts" party="DEM" totalVotes="12260">
+            <VoteType name="Election Day" votes="12260">
+                <Precinct name="Alcolu" votes="328" />
+                <Precinct name="Barrineau" votes="188" />
+                <Precinct name="Barrows Mill" votes="81" />
+                <Precinct name="Bloomville" votes="181" />
+                <Precinct name="Calvary" votes="250" />
+                <Precinct name="Davis Station" votes="504" />
+                <Precinct name="Harmony" votes="301" />
+                <Precinct name="Hicks" votes="278" />
+                <Precinct name="Home Branch" votes="143" />
+                <Precinct name="Jordan" votes="505" />
+                <Precinct name="Manning No. 1" votes="223" />
+                <Precinct name="Manning No. 2" votes="299" />
+                <Precinct name="Manning No. 3" votes="412" />
+                <Precinct name="Manning No. 4" votes="358" />
+                <Precinct name="Manning No. 5" votes="354" />
+                <Precinct name="New Zion" votes="215" />
+                <Precinct name="Paxville" votes="396" />
+                <Precinct name="Panola" votes="112" />
+                <Precinct name="Sardina-Gable" votes="199" />
+                <Precinct name="Summerton No. 1" votes="542" />
+                <Precinct name="Summerton No. 2" votes="114" />
+                <Precinct name="Summerton No. 3" votes="371" />
+                <Precinct name="Turbeville" votes="412" />
+                <Precinct name="Wilson Foreston" votes="432" />
+                <Precinct name="Oakdale" votes="157" />
+                <Precinct name="Absentee" votes="4887" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="14" />
+                <Precinct name="Provisional" votes="4" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="42">
+            <VoteType name="Election Day" votes="42">
+                <Precinct name="Alcolu" votes="0" />
+                <Precinct name="Barrineau" votes="0" />
+                <Precinct name="Barrows Mill" votes="1" />
+                <Precinct name="Bloomville" votes="0" />
+                <Precinct name="Calvary" votes="0" />
+                <Precinct name="Davis Station" votes="3" />
+                <Precinct name="Harmony" votes="3" />
+                <Precinct name="Hicks" votes="1" />
+                <Precinct name="Home Branch" votes="0" />
+                <Precinct name="Jordan" votes="1" />
+                <Precinct name="Manning No. 1" votes="0" />
+                <Precinct name="Manning No. 2" votes="1" />
+                <Precinct name="Manning No. 3" votes="1" />
+                <Precinct name="Manning No. 4" votes="1" />
+                <Precinct name="Manning No. 5" votes="2" />
+                <Precinct name="New Zion" votes="2" />
+                <Precinct name="Paxville" votes="3" />
+                <Precinct name="Panola" votes="0" />
+                <Precinct name="Sardina-Gable" votes="0" />
+                <Precinct name="Summerton No. 1" votes="3" />
+                <Precinct name="Summerton No. 2" votes="0" />
+                <Precinct name="Summerton No. 3" votes="0" />
+                <Precinct name="Turbeville" votes="3" />
+                <Precinct name="Wilson Foreston" votes="3" />
+                <Precinct name="Oakdale" votes="0" />
+                <Precinct name="Absentee" votes="14" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0113" text="Coroner" voteFor="1" isQuestion="false" precinctsReporting="25" precinctsReported="25">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Alcolu" votes="0" />
+            <Precinct name="Barrineau" votes="0" />
+            <Precinct name="Barrows Mill" votes="0" />
+            <Precinct name="Bloomville" votes="0" />
+            <Precinct name="Calvary" votes="0" />
+            <Precinct name="Davis Station" votes="0" />
+            <Precinct name="Harmony" votes="0" />
+            <Precinct name="Hicks" votes="0" />
+            <Precinct name="Home Branch" votes="0" />
+            <Precinct name="Jordan" votes="0" />
+            <Precinct name="Manning No. 1" votes="0" />
+            <Precinct name="Manning No. 2" votes="0" />
+            <Precinct name="Manning No. 3" votes="0" />
+            <Precinct name="Manning No. 4" votes="0" />
+            <Precinct name="Manning No. 5" votes="0" />
+            <Precinct name="New Zion" votes="0" />
+            <Precinct name="Paxville" votes="0" />
+            <Precinct name="Panola" votes="0" />
+            <Precinct name="Sardina-Gable" votes="0" />
+            <Precinct name="Summerton No. 1" votes="0" />
+            <Precinct name="Summerton No. 2" votes="0" />
+            <Precinct name="Summerton No. 3" votes="0" />
+            <Precinct name="Turbeville" votes="0" />
+            <Precinct name="Wilson Foreston" votes="0" />
+            <Precinct name="Oakdale" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="3179">
+            <Precinct name="Alcolu" votes="68" />
+            <Precinct name="Barrineau" votes="125" />
+            <Precinct name="Barrows Mill" votes="22" />
+            <Precinct name="Bloomville" votes="54" />
+            <Precinct name="Calvary" votes="31" />
+            <Precinct name="Davis Station" votes="223" />
+            <Precinct name="Harmony" votes="34" />
+            <Precinct name="Hicks" votes="95" />
+            <Precinct name="Home Branch" votes="73" />
+            <Precinct name="Jordan" votes="290" />
+            <Precinct name="Manning No. 1" votes="28" />
+            <Precinct name="Manning No. 2" votes="54" />
+            <Precinct name="Manning No. 3" votes="100" />
+            <Precinct name="Manning No. 4" votes="32" />
+            <Precinct name="Manning No. 5" votes="53" />
+            <Precinct name="New Zion" votes="70" />
+            <Precinct name="Paxville" votes="96" />
+            <Precinct name="Panola" votes="15" />
+            <Precinct name="Sardina-Gable" votes="26" />
+            <Precinct name="Summerton No. 1" votes="221" />
+            <Precinct name="Summerton No. 2" votes="28" />
+            <Precinct name="Summerton No. 3" votes="35" />
+            <Precinct name="Turbeville" votes="182" />
+            <Precinct name="Wilson Foreston" votes="81" />
+            <Precinct name="Oakdale" votes="28" />
+            <Precinct name="Absentee" votes="1111" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="2" />
+            <Precinct name="Provisional" votes="2" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Hayes F Samuels Jr" party="DEM" totalVotes="12321">
+            <VoteType name="Election Day" votes="12321">
+                <Precinct name="Alcolu" votes="324" />
+                <Precinct name="Barrineau" votes="184" />
+                <Precinct name="Barrows Mill" votes="81" />
+                <Precinct name="Bloomville" votes="179" />
+                <Precinct name="Calvary" votes="249" />
+                <Precinct name="Davis Station" votes="505" />
+                <Precinct name="Harmony" votes="307" />
+                <Precinct name="Hicks" votes="273" />
+                <Precinct name="Home Branch" votes="139" />
+                <Precinct name="Jordan" votes="510" />
+                <Precinct name="Manning No. 1" votes="223" />
+                <Precinct name="Manning No. 2" votes="301" />
+                <Precinct name="Manning No. 3" votes="416" />
+                <Precinct name="Manning No. 4" votes="356" />
+                <Precinct name="Manning No. 5" votes="360" />
+                <Precinct name="New Zion" votes="209" />
+                <Precinct name="Paxville" votes="394" />
+                <Precinct name="Panola" votes="112" />
+                <Precinct name="Sardina-Gable" votes="197" />
+                <Precinct name="Summerton No. 1" votes="547" />
+                <Precinct name="Summerton No. 2" votes="112" />
+                <Precinct name="Summerton No. 3" votes="371" />
+                <Precinct name="Turbeville" votes="413" />
+                <Precinct name="Wilson Foreston" votes="434" />
+                <Precinct name="Oakdale" votes="153" />
+                <Precinct name="Absentee" votes="4954" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="13" />
+                <Precinct name="Provisional" votes="5" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="46">
+            <VoteType name="Election Day" votes="46">
+                <Precinct name="Alcolu" votes="2" />
+                <Precinct name="Barrineau" votes="0" />
+                <Precinct name="Barrows Mill" votes="1" />
+                <Precinct name="Bloomville" votes="1" />
+                <Precinct name="Calvary" votes="0" />
+                <Precinct name="Davis Station" votes="2" />
+                <Precinct name="Harmony" votes="3" />
+                <Precinct name="Hicks" votes="1" />
+                <Precinct name="Home Branch" votes="0" />
+                <Precinct name="Jordan" votes="2" />
+                <Precinct name="Manning No. 1" votes="0" />
+                <Precinct name="Manning No. 2" votes="2" />
+                <Precinct name="Manning No. 3" votes="1" />
+                <Precinct name="Manning No. 4" votes="2" />
+                <Precinct name="Manning No. 5" votes="3" />
+                <Precinct name="New Zion" votes="1" />
+                <Precinct name="Paxville" votes="3" />
+                <Precinct name="Panola" votes="0" />
+                <Precinct name="Sardina-Gable" votes="0" />
+                <Precinct name="Summerton No. 1" votes="3" />
+                <Precinct name="Summerton No. 2" votes="0" />
+                <Precinct name="Summerton No. 3" votes="1" />
+                <Precinct name="Turbeville" votes="1" />
+                <Precinct name="Wilson Foreston" votes="5" />
+                <Precinct name="Oakdale" votes="2" />
+                <Precinct name="Absentee" votes="10" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0114" text="County Council Chair" voteFor="1" isQuestion="false" precinctsReporting="25" precinctsReported="25">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Alcolu" votes="0" />
+            <Precinct name="Barrineau" votes="0" />
+            <Precinct name="Barrows Mill" votes="0" />
+            <Precinct name="Bloomville" votes="0" />
+            <Precinct name="Calvary" votes="0" />
+            <Precinct name="Davis Station" votes="0" />
+            <Precinct name="Harmony" votes="0" />
+            <Precinct name="Hicks" votes="0" />
+            <Precinct name="Home Branch" votes="0" />
+            <Precinct name="Jordan" votes="0" />
+            <Precinct name="Manning No. 1" votes="0" />
+            <Precinct name="Manning No. 2" votes="0" />
+            <Precinct name="Manning No. 3" votes="0" />
+            <Precinct name="Manning No. 4" votes="0" />
+            <Precinct name="Manning No. 5" votes="0" />
+            <Precinct name="New Zion" votes="0" />
+            <Precinct name="Paxville" votes="0" />
+            <Precinct name="Panola" votes="0" />
+            <Precinct name="Sardina-Gable" votes="0" />
+            <Precinct name="Summerton No. 1" votes="0" />
+            <Precinct name="Summerton No. 2" votes="0" />
+            <Precinct name="Summerton No. 3" votes="0" />
+            <Precinct name="Turbeville" votes="0" />
+            <Precinct name="Wilson Foreston" votes="0" />
+            <Precinct name="Oakdale" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="3244">
+            <Precinct name="Alcolu" votes="65" />
+            <Precinct name="Barrineau" votes="126" />
+            <Precinct name="Barrows Mill" votes="22" />
+            <Precinct name="Bloomville" votes="57" />
+            <Precinct name="Calvary" votes="31" />
+            <Precinct name="Davis Station" votes="221" />
+            <Precinct name="Harmony" votes="46" />
+            <Precinct name="Hicks" votes="103" />
+            <Precinct name="Home Branch" votes="71" />
+            <Precinct name="Jordan" votes="293" />
+            <Precinct name="Manning No. 1" votes="33" />
+            <Precinct name="Manning No. 2" votes="54" />
+            <Precinct name="Manning No. 3" votes="100" />
+            <Precinct name="Manning No. 4" votes="27" />
+            <Precinct name="Manning No. 5" votes="52" />
+            <Precinct name="New Zion" votes="65" />
+            <Precinct name="Paxville" votes="92" />
+            <Precinct name="Panola" votes="13" />
+            <Precinct name="Sardina-Gable" votes="28" />
+            <Precinct name="Summerton No. 1" votes="215" />
+            <Precinct name="Summerton No. 2" votes="29" />
+            <Precinct name="Summerton No. 3" votes="37" />
+            <Precinct name="Turbeville" votes="179" />
+            <Precinct name="Wilson Foreston" votes="95" />
+            <Precinct name="Oakdale" votes="24" />
+            <Precinct name="Absentee" votes="1162" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="3" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Dwight Stewart" party="DEM" totalVotes="12229">
+            <VoteType name="Election Day" votes="12229">
+                <Precinct name="Alcolu" votes="329" />
+                <Precinct name="Barrineau" votes="181" />
+                <Precinct name="Barrows Mill" votes="81" />
+                <Precinct name="Bloomville" votes="176" />
+                <Precinct name="Calvary" votes="249" />
+                <Precinct name="Davis Station" votes="505" />
+                <Precinct name="Harmony" votes="295" />
+                <Precinct name="Hicks" votes="263" />
+                <Precinct name="Home Branch" votes="140" />
+                <Precinct name="Jordan" votes="508" />
+                <Precinct name="Manning No. 1" votes="218" />
+                <Precinct name="Manning No. 2" votes="301" />
+                <Precinct name="Manning No. 3" votes="415" />
+                <Precinct name="Manning No. 4" votes="362" />
+                <Precinct name="Manning No. 5" votes="361" />
+                <Precinct name="New Zion" votes="213" />
+                <Precinct name="Paxville" votes="397" />
+                <Precinct name="Panola" votes="114" />
+                <Precinct name="Sardina-Gable" votes="194" />
+                <Precinct name="Summerton No. 1" votes="551" />
+                <Precinct name="Summerton No. 2" votes="111" />
+                <Precinct name="Summerton No. 3" votes="369" />
+                <Precinct name="Turbeville" votes="411" />
+                <Precinct name="Wilson Foreston" votes="422" />
+                <Precinct name="Oakdale" votes="159" />
+                <Precinct name="Absentee" votes="4886" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="14" />
+                <Precinct name="Provisional" votes="4" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="72">
+            <VoteType name="Election Day" votes="72">
+                <Precinct name="Alcolu" votes="0" />
+                <Precinct name="Barrineau" votes="2" />
+                <Precinct name="Barrows Mill" votes="1" />
+                <Precinct name="Bloomville" votes="1" />
+                <Precinct name="Calvary" votes="0" />
+                <Precinct name="Davis Station" votes="4" />
+                <Precinct name="Harmony" votes="3" />
+                <Precinct name="Hicks" votes="3" />
+                <Precinct name="Home Branch" votes="1" />
+                <Precinct name="Jordan" votes="1" />
+                <Precinct name="Manning No. 1" votes="0" />
+                <Precinct name="Manning No. 2" votes="2" />
+                <Precinct name="Manning No. 3" votes="2" />
+                <Precinct name="Manning No. 4" votes="1" />
+                <Precinct name="Manning No. 5" votes="3" />
+                <Precinct name="New Zion" votes="2" />
+                <Precinct name="Paxville" votes="4" />
+                <Precinct name="Panola" votes="0" />
+                <Precinct name="Sardina-Gable" votes="1" />
+                <Precinct name="Summerton No. 1" votes="5" />
+                <Precinct name="Summerton No. 2" votes="0" />
+                <Precinct name="Summerton No. 3" votes="1" />
+                <Precinct name="Turbeville" votes="6" />
+                <Precinct name="Wilson Foreston" votes="3" />
+                <Precinct name="Oakdale" votes="0" />
+                <Precinct name="Absentee" votes="26" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0115" text="County Council District 2" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Alcolu" votes="0" />
+            <Precinct name="Bloomville" votes="0" />
+            <Precinct name="Davis Station" votes="0" />
+            <Precinct name="Home Branch" votes="0" />
+            <Precinct name="Jordan" votes="0" />
+            <Precinct name="Manning No. 1" votes="0" />
+            <Precinct name="Manning No. 2" votes="0" />
+            <Precinct name="Manning No. 3" votes="0" />
+            <Precinct name="Manning No. 4" votes="0" />
+            <Precinct name="Manning No. 5" votes="0" />
+            <Precinct name="Paxville" votes="0" />
+            <Precinct name="Wilson Foreston" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="275">
+            <Precinct name="Alcolu" votes="2" />
+            <Precinct name="Bloomville" votes="4" />
+            <Precinct name="Davis Station" votes="7" />
+            <Precinct name="Home Branch" votes="5" />
+            <Precinct name="Jordan" votes="49" />
+            <Precinct name="Manning No. 1" votes="5" />
+            <Precinct name="Manning No. 2" votes="11" />
+            <Precinct name="Manning No. 3" votes="15" />
+            <Precinct name="Manning No. 4" votes="9" />
+            <Precinct name="Manning No. 5" votes="5" />
+            <Precinct name="Paxville" votes="9" />
+            <Precinct name="Wilson Foreston" votes="24" />
+            <Precinct name="Absentee" votes="130" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="A C English" party="DEM" totalVotes="4869">
+            <VoteType name="Election Day" votes="4869">
+                <Precinct name="Alcolu" votes="83" />
+                <Precinct name="Bloomville" votes="116" />
+                <Precinct name="Davis Station" votes="74" />
+                <Precinct name="Home Branch" votes="59" />
+                <Precinct name="Jordan" votes="264" />
+                <Precinct name="Manning No. 1" votes="160" />
+                <Precinct name="Manning No. 2" votes="226" />
+                <Precinct name="Manning No. 3" votes="261" />
+                <Precinct name="Manning No. 4" votes="328" />
+                <Precinct name="Manning No. 5" votes="254" />
+                <Precinct name="Paxville" votes="145" />
+                <Precinct name="Wilson Foreston" votes="301" />
+                <Precinct name="Absentee" votes="2585" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="11" />
+                <Precinct name="Provisional" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Joe Witt" party="REP" totalVotes="2803">
+            <VoteType name="Election Day" votes="2803">
+                <Precinct name="Alcolu" votes="56" />
+                <Precinct name="Bloomville" votes="114" />
+                <Precinct name="Davis Station" votes="69" />
+                <Precinct name="Home Branch" votes="148" />
+                <Precinct name="Jordan" votes="489" />
+                <Precinct name="Manning No. 1" votes="86" />
+                <Precinct name="Manning No. 2" votes="120" />
+                <Precinct name="Manning No. 3" votes="240" />
+                <Precinct name="Manning No. 4" votes="53" />
+                <Precinct name="Manning No. 5" votes="157" />
+                <Precinct name="Paxville" votes="119" />
+                <Precinct name="Wilson Foreston" votes="159" />
+                <Precinct name="Absentee" votes="989" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="3">
+            <VoteType name="Election Day" votes="3">
+                <Precinct name="Alcolu" votes="0" />
+                <Precinct name="Bloomville" votes="0" />
+                <Precinct name="Davis Station" votes="0" />
+                <Precinct name="Home Branch" votes="0" />
+                <Precinct name="Jordan" votes="0" />
+                <Precinct name="Manning No. 1" votes="0" />
+                <Precinct name="Manning No. 2" votes="0" />
+                <Precinct name="Manning No. 3" votes="1" />
+                <Precinct name="Manning No. 4" votes="0" />
+                <Precinct name="Manning No. 5" votes="0" />
+                <Precinct name="Paxville" votes="0" />
+                <Precinct name="Wilson Foreston" votes="1" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0116" text="Soil and Water District Commission" voteFor="1" isQuestion="false" precinctsReporting="25" precinctsReported="25">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Alcolu" votes="0" />
+            <Precinct name="Barrineau" votes="0" />
+            <Precinct name="Barrows Mill" votes="0" />
+            <Precinct name="Bloomville" votes="0" />
+            <Precinct name="Calvary" votes="0" />
+            <Precinct name="Davis Station" votes="0" />
+            <Precinct name="Harmony" votes="0" />
+            <Precinct name="Hicks" votes="0" />
+            <Precinct name="Home Branch" votes="0" />
+            <Precinct name="Jordan" votes="0" />
+            <Precinct name="Manning No. 1" votes="0" />
+            <Precinct name="Manning No. 2" votes="0" />
+            <Precinct name="Manning No. 3" votes="0" />
+            <Precinct name="Manning No. 4" votes="0" />
+            <Precinct name="Manning No. 5" votes="0" />
+            <Precinct name="New Zion" votes="0" />
+            <Precinct name="Paxville" votes="0" />
+            <Precinct name="Panola" votes="0" />
+            <Precinct name="Sardina-Gable" votes="0" />
+            <Precinct name="Summerton No. 1" votes="0" />
+            <Precinct name="Summerton No. 2" votes="0" />
+            <Precinct name="Summerton No. 3" votes="0" />
+            <Precinct name="Turbeville" votes="0" />
+            <Precinct name="Wilson Foreston" votes="0" />
+            <Precinct name="Oakdale" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="7116">
+            <Precinct name="Alcolu" votes="152" />
+            <Precinct name="Barrineau" votes="134" />
+            <Precinct name="Barrows Mill" votes="34" />
+            <Precinct name="Bloomville" votes="78" />
+            <Precinct name="Calvary" votes="167" />
+            <Precinct name="Davis Station" votes="373" />
+            <Precinct name="Harmony" votes="146" />
+            <Precinct name="Hicks" votes="116" />
+            <Precinct name="Home Branch" votes="84" />
+            <Precinct name="Jordan" votes="353" />
+            <Precinct name="Manning No. 1" votes="99" />
+            <Precinct name="Manning No. 2" votes="125" />
+            <Precinct name="Manning No. 3" votes="144" />
+            <Precinct name="Manning No. 4" votes="191" />
+            <Precinct name="Manning No. 5" votes="114" />
+            <Precinct name="New Zion" votes="101" />
+            <Precinct name="Paxville" votes="216" />
+            <Precinct name="Panola" votes="49" />
+            <Precinct name="Sardina-Gable" votes="85" />
+            <Precinct name="Summerton No. 1" votes="339" />
+            <Precinct name="Summerton No. 2" votes="81" />
+            <Precinct name="Summerton No. 3" votes="207" />
+            <Precinct name="Turbeville" votes="267" />
+            <Precinct name="Wilson Foreston" votes="249" />
+            <Precinct name="Oakdale" votes="86" />
+            <Precinct name="Absentee" votes="3118" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="3" />
+            <Precinct name="Provisional" votes="5" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Jason Gamble" party="NON" totalVotes="8392">
+            <VoteType name="Election Day" votes="8392">
+                <Precinct name="Alcolu" votes="242" />
+                <Precinct name="Barrineau" votes="175" />
+                <Precinct name="Barrows Mill" votes="71" />
+                <Precinct name="Bloomville" votes="156" />
+                <Precinct name="Calvary" votes="113" />
+                <Precinct name="Davis Station" votes="355" />
+                <Precinct name="Harmony" votes="198" />
+                <Precinct name="Hicks" votes="253" />
+                <Precinct name="Home Branch" votes="127" />
+                <Precinct name="Jordan" votes="448" />
+                <Precinct name="Manning No. 1" votes="152" />
+                <Precinct name="Manning No. 2" votes="230" />
+                <Precinct name="Manning No. 3" votes="373" />
+                <Precinct name="Manning No. 4" votes="199" />
+                <Precinct name="Manning No. 5" votes="301" />
+                <Precinct name="New Zion" votes="179" />
+                <Precinct name="Paxville" votes="276" />
+                <Precinct name="Panola" votes="78" />
+                <Precinct name="Sardina-Gable" votes="137" />
+                <Precinct name="Summerton No. 1" votes="431" />
+                <Precinct name="Summerton No. 2" votes="59" />
+                <Precinct name="Summerton No. 3" votes="200" />
+                <Precinct name="Turbeville" votes="328" />
+                <Precinct name="Wilson Foreston" votes="269" />
+                <Precinct name="Oakdale" votes="97" />
+                <Precinct name="Absentee" votes="2931" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="12" />
+                <Precinct name="Provisional" votes="2" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="26">
+            <VoteType name="Election Day" votes="26">
+                <Precinct name="Alcolu" votes="0" />
+                <Precinct name="Barrineau" votes="0" />
+                <Precinct name="Barrows Mill" votes="0" />
+                <Precinct name="Bloomville" votes="0" />
+                <Precinct name="Calvary" votes="0" />
+                <Precinct name="Davis Station" votes="2" />
+                <Precinct name="Harmony" votes="0" />
+                <Precinct name="Hicks" votes="0" />
+                <Precinct name="Home Branch" votes="1" />
+                <Precinct name="Jordan" votes="1" />
+                <Precinct name="Manning No. 1" votes="0" />
+                <Precinct name="Manning No. 2" votes="2" />
+                <Precinct name="Manning No. 3" votes="0" />
+                <Precinct name="Manning No. 4" votes="0" />
+                <Precinct name="Manning No. 5" votes="1" />
+                <Precinct name="New Zion" votes="0" />
+                <Precinct name="Paxville" votes="1" />
+                <Precinct name="Panola" votes="0" />
+                <Precinct name="Sardina-Gable" votes="1" />
+                <Precinct name="Summerton No. 1" votes="1" />
+                <Precinct name="Summerton No. 2" votes="0" />
+                <Precinct name="Summerton No. 3" votes="0" />
+                <Precinct name="Turbeville" votes="1" />
+                <Precinct name="Wilson Foreston" votes="2" />
+                <Precinct name="Oakdale" votes="0" />
+                <Precinct name="Absentee" votes="13" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0117" text="School Board District 1" voteFor="2" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="overVotes" votes="2">
+            <Precinct name="Calvary" votes="0" />
+            <Precinct name="Davis Station" votes="0" />
+            <Precinct name="Panola" votes="0" />
+            <Precinct name="Summerton No. 1" votes="0" />
+            <Precinct name="Summerton No. 2" votes="0" />
+            <Precinct name="Summerton No. 3" votes="0" />
+            <Precinct name="Absentee" votes="2" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="3087">
+            <Precinct name="Calvary" votes="172" />
+            <Precinct name="Davis Station" votes="639" />
+            <Precinct name="Panola" votes="68" />
+            <Precinct name="Summerton No. 1" votes="581" />
+            <Precinct name="Summerton No. 2" votes="107" />
+            <Precinct name="Summerton No. 3" votes="201" />
+            <Precinct name="Absentee" votes="1317" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="2" />
+        </VoteType>
+        <Choice key="001" text="Erica Adams-Caldwell" party="NON" totalVotes="711">
+            <VoteType name="Election Day" votes="711">
+                <Precinct name="Calvary" votes="111" />
+                <Precinct name="Davis Station" votes="74" />
+                <Precinct name="Panola" votes="33" />
+                <Precinct name="Summerton No. 1" votes="100" />
+                <Precinct name="Summerton No. 2" votes="19" />
+                <Precinct name="Summerton No. 3" votes="76" />
+                <Precinct name="Absentee" votes="296" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="John David Bonaparte" party="NON" totalVotes="1182">
+            <VoteType name="Election Day" votes="1182">
+                <Precinct name="Calvary" votes="92" />
+                <Precinct name="Davis Station" votes="76" />
+                <Precinct name="Panola" votes="43" />
+                <Precinct name="Summerton No. 1" votes="157" />
+                <Precinct name="Summerton No. 2" votes="60" />
+                <Precinct name="Summerton No. 3" votes="152" />
+                <Precinct name="Absentee" votes="601" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Lindsey Coulliette" party="NON" totalVotes="964">
+            <VoteType name="Election Day" votes="964">
+                <Precinct name="Calvary" votes="38" />
+                <Precinct name="Davis Station" votes="122" />
+                <Precinct name="Panola" votes="37" />
+                <Precinct name="Summerton No. 1" votes="269" />
+                <Precinct name="Summerton No. 2" votes="18" />
+                <Precinct name="Summerton No. 3" votes="82" />
+                <Precinct name="Absentee" votes="398" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Joe Dingle" party="NON" totalVotes="1614">
+            <VoteType name="Election Day" votes="1614">
+                <Precinct name="Calvary" votes="78" />
+                <Precinct name="Davis Station" votes="349" />
+                <Precinct name="Panola" votes="35" />
+                <Precinct name="Summerton No. 1" votes="253" />
+                <Precinct name="Summerton No. 2" votes="43" />
+                <Precinct name="Summerton No. 3" votes="157" />
+                <Precinct name="Absentee" votes="698" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Leah Gardenhire" party="NON" totalVotes="133">
+            <VoteType name="Election Day" votes="133">
+                <Precinct name="Calvary" votes="12" />
+                <Precinct name="Davis Station" votes="17" />
+                <Precinct name="Panola" votes="4" />
+                <Precinct name="Summerton No. 1" votes="24" />
+                <Precinct name="Summerton No. 2" votes="6" />
+                <Precinct name="Summerton No. 3" votes="13" />
+                <Precinct name="Absentee" votes="57" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Kevin J Gist Sr" party="NON" totalVotes="491">
+            <VoteType name="Election Day" votes="491">
+                <Precinct name="Calvary" votes="18" />
+                <Precinct name="Davis Station" votes="89" />
+                <Precinct name="Panola" votes="19" />
+                <Precinct name="Summerton No. 1" votes="45" />
+                <Precinct name="Summerton No. 2" votes="13" />
+                <Precinct name="Summerton No. 3" votes="61" />
+                <Precinct name="Absentee" votes="246" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="Bernard Richburg" party="NON" totalVotes="634">
+            <VoteType name="Election Day" votes="634">
+                <Precinct name="Calvary" votes="39" />
+                <Precinct name="Davis Station" votes="94" />
+                <Precinct name="Panola" votes="15" />
+                <Precinct name="Summerton No. 1" votes="111" />
+                <Precinct name="Summerton No. 2" votes="14" />
+                <Precinct name="Summerton No. 3" votes="72" />
+                <Precinct name="Absentee" votes="287" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="008" text="Write-In" party="NON" totalVotes="7">
+            <VoteType name="Election Day" votes="7">
+                <Precinct name="Calvary" votes="0" />
+                <Precinct name="Davis Station" votes="0" />
+                <Precinct name="Panola" votes="0" />
+                <Precinct name="Summerton No. 1" votes="2" />
+                <Precinct name="Summerton No. 2" votes="0" />
+                <Precinct name="Summerton No. 3" votes="0" />
+                <Precinct name="Absentee" votes="5" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0118" text="Local Question" voteFor="1" isQuestion="true" precinctsReporting="25" precinctsReported="25">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="Alcolu" votes="0" />
+            <Precinct name="Barrineau" votes="0" />
+            <Precinct name="Barrows Mill" votes="0" />
+            <Precinct name="Bloomville" votes="0" />
+            <Precinct name="Calvary" votes="0" />
+            <Precinct name="Davis Station" votes="0" />
+            <Precinct name="Harmony" votes="0" />
+            <Precinct name="Hicks" votes="0" />
+            <Precinct name="Home Branch" votes="0" />
+            <Precinct name="Jordan" votes="0" />
+            <Precinct name="Manning No. 1" votes="0" />
+            <Precinct name="Manning No. 2" votes="0" />
+            <Precinct name="Manning No. 3" votes="0" />
+            <Precinct name="Manning No. 4" votes="0" />
+            <Precinct name="Manning No. 5" votes="0" />
+            <Precinct name="New Zion" votes="0" />
+            <Precinct name="Paxville" votes="0" />
+            <Precinct name="Panola" votes="0" />
+            <Precinct name="Sardina-Gable" votes="0" />
+            <Precinct name="Summerton No. 1" votes="0" />
+            <Precinct name="Summerton No. 2" votes="0" />
+            <Precinct name="Summerton No. 3" votes="0" />
+            <Precinct name="Turbeville" votes="0" />
+            <Precinct name="Wilson Foreston" votes="0" />
+            <Precinct name="Oakdale" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="3432">
+            <Precinct name="Alcolu" votes="97" />
+            <Precinct name="Barrineau" votes="82" />
+            <Precinct name="Barrows Mill" votes="16" />
+            <Precinct name="Bloomville" votes="62" />
+            <Precinct name="Calvary" votes="29" />
+            <Precinct name="Davis Station" votes="69" />
+            <Precinct name="Harmony" votes="94" />
+            <Precinct name="Hicks" votes="55" />
+            <Precinct name="Home Branch" votes="31" />
+            <Precinct name="Jordan" votes="152" />
+            <Precinct name="Manning No. 1" votes="72" />
+            <Precinct name="Manning No. 2" votes="78" />
+            <Precinct name="Manning No. 3" votes="97" />
+            <Precinct name="Manning No. 4" votes="121" />
+            <Precinct name="Manning No. 5" votes="93" />
+            <Precinct name="New Zion" votes="52" />
+            <Precinct name="Paxville" votes="143" />
+            <Precinct name="Panola" votes="11" />
+            <Precinct name="Sardina-Gable" votes="54" />
+            <Precinct name="Summerton No. 1" votes="79" />
+            <Precinct name="Summerton No. 2" votes="25" />
+            <Precinct name="Summerton No. 3" votes="40" />
+            <Precinct name="Turbeville" votes="128" />
+            <Precinct name="Wilson Foreston" votes="146" />
+            <Precinct name="Oakdale" votes="35" />
+            <Precinct name="Absentee" votes="1567" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="3" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="In Favor of the Question" party="NON" totalVotes="7435">
+            <VoteType name="Election Day" votes="7435">
+                <Precinct name="Alcolu" votes="174" />
+                <Precinct name="Barrineau" votes="100" />
+                <Precinct name="Barrows Mill" votes="43" />
+                <Precinct name="Bloomville" votes="103" />
+                <Precinct name="Calvary" votes="152" />
+                <Precinct name="Davis Station" votes="456" />
+                <Precinct name="Harmony" votes="148" />
+                <Precinct name="Hicks" votes="123" />
+                <Precinct name="Home Branch" votes="77" />
+                <Precinct name="Jordan" votes="457" />
+                <Precinct name="Manning No. 1" votes="125" />
+                <Precinct name="Manning No. 2" votes="179" />
+                <Precinct name="Manning No. 3" votes="284" />
+                <Precinct name="Manning No. 4" votes="185" />
+                <Precinct name="Manning No. 5" votes="224" />
+                <Precinct name="New Zion" votes="113" />
+                <Precinct name="Paxville" votes="200" />
+                <Precinct name="Panola" votes="78" />
+                <Precinct name="Sardina-Gable" votes="101" />
+                <Precinct name="Summerton No. 1" votes="453" />
+                <Precinct name="Summerton No. 2" votes="72" />
+                <Precinct name="Summerton No. 3" votes="241" />
+                <Precinct name="Turbeville" votes="209" />
+                <Precinct name="Wilson Foreston" votes="218" />
+                <Precinct name="Oakdale" votes="93" />
+                <Precinct name="Absentee" votes="2814" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="10" />
+                <Precinct name="Provisional" votes="3" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Opposed to the Question" party="NON" totalVotes="4665">
+            <VoteType name="Election Day" votes="4665">
+                <Precinct name="Alcolu" votes="123" />
+                <Precinct name="Barrineau" votes="127" />
+                <Precinct name="Barrows Mill" votes="45" />
+                <Precinct name="Bloomville" votes="69" />
+                <Precinct name="Calvary" votes="99" />
+                <Precinct name="Davis Station" votes="205" />
+                <Precinct name="Harmony" votes="102" />
+                <Precinct name="Hicks" votes="191" />
+                <Precinct name="Home Branch" votes="104" />
+                <Precinct name="Jordan" votes="193" />
+                <Precinct name="Manning No. 1" votes="54" />
+                <Precinct name="Manning No. 2" votes="100" />
+                <Precinct name="Manning No. 3" votes="136" />
+                <Precinct name="Manning No. 4" votes="84" />
+                <Precinct name="Manning No. 5" votes="99" />
+                <Precinct name="New Zion" votes="115" />
+                <Precinct name="Paxville" votes="150" />
+                <Precinct name="Panola" votes="38" />
+                <Precinct name="Sardina-Gable" votes="68" />
+                <Precinct name="Summerton No. 1" votes="239" />
+                <Precinct name="Summerton No. 2" votes="43" />
+                <Precinct name="Summerton No. 3" votes="126" />
+                <Precinct name="Turbeville" votes="259" />
+                <Precinct name="Wilson Foreston" votes="156" />
+                <Precinct name="Oakdale" votes="55" />
+                <Precinct name="Absentee" votes="1680" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="4" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

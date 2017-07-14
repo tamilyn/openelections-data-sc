@@ -1,0 +1,3015 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>11/16/2016 3:43:40 PM EST</Timestamp>
+    <ElectionName>2016 Statewide General Election</ElectionName>
+    <ElectionDate>11/8/2016</ElectionDate>
+    <Region>Williamsburg</Region>
+    <VoterTurnout totalVoters="22646" ballotsCast="15181" voterTurnout="67.04">
+        <Precincts>
+            <Precinct name="BLACK RIVER" totalVoters="344" ballotsCast="182" voterTurnout="52.91" percentReporting="4" />
+            <Precinct name="BLOOMINGVALE" totalVoters="786" ballotsCast="520" voterTurnout="66.16" percentReporting="4" />
+            <Precinct name="CADES" totalVoters="564" ballotsCast="264" voterTurnout="46.81" percentReporting="4" />
+            <Precinct name="CEDAR SWAMP" totalVoters="348" ballotsCast="182" voterTurnout="52.30" percentReporting="4" />
+            <Precinct name="CENTRAL" totalVoters="933" ballotsCast="499" voterTurnout="53.48" percentReporting="4" />
+            <Precinct name="EARLES" totalVoters="565" ballotsCast="360" voterTurnout="63.72" percentReporting="4" />
+            <Precinct name="GREELEYVILLE" totalVoters="1390" ballotsCast="709" voterTurnout="51.01" percentReporting="4" />
+            <Precinct name="HARMONY" totalVoters="296" ballotsCast="205" voterTurnout="69.26" percentReporting="4" />
+            <Precinct name="HEBRON" totalVoters="460" ballotsCast="315" voterTurnout="68.48" percentReporting="4" />
+            <Precinct name="HEMINGWAY" totalVoters="1621" ballotsCast="828" voterTurnout="51.08" percentReporting="4" />
+            <Precinct name="HENRY-POPLAR HILL" totalVoters="596" ballotsCast="345" voterTurnout="57.89" percentReporting="4" />
+            <Precinct name="INDIANTOWN" totalVoters="1444" ballotsCast="737" voterTurnout="51.04" percentReporting="4" />
+            <Precinct name="KINGSTREE NO.1" totalVoters="3049" ballotsCast="1404" voterTurnout="46.05" percentReporting="4" />
+            <Precinct name="KINGSTREE NO.2" totalVoters="1014" ballotsCast="350" voterTurnout="34.52" percentReporting="4" />
+            <Precinct name="KINGSTREE NO.3" totalVoters="2403" ballotsCast="855" voterTurnout="35.58" percentReporting="4" />
+            <Precinct name="KINGSTREE NO.4" totalVoters="1327" ballotsCast="565" voterTurnout="42.58" percentReporting="4" />
+            <Precinct name="LANE" totalVoters="881" ballotsCast="483" voterTurnout="54.82" percentReporting="4" />
+            <Precinct name="MORRISVILLE" totalVoters="240" ballotsCast="140" voterTurnout="58.33" percentReporting="4" />
+            <Precinct name="MOUNT VERNON" totalVoters="414" ballotsCast="237" voterTurnout="57.25" percentReporting="4" />
+            <Precinct name="NESMITH" totalVoters="581" ballotsCast="340" voterTurnout="58.52" percentReporting="4" />
+            <Precinct name="PERGAMOS" totalVoters="219" ballotsCast="141" voterTurnout="64.38" percentReporting="4" />
+            <Precinct name="PINEY FOREST" totalVoters="339" ballotsCast="241" voterTurnout="71.09" percentReporting="4" />
+            <Precinct name="SALTERS" totalVoters="1079" ballotsCast="578" voterTurnout="53.57" percentReporting="4" />
+            <Precinct name="SANDY BAY" totalVoters="352" ballotsCast="218" voterTurnout="61.93" percentReporting="4" />
+            <Precinct name="SINGLETARY" totalVoters="269" ballotsCast="144" voterTurnout="53.53" percentReporting="4" />
+            <Precinct name="SUTTONS" totalVoters="229" ballotsCast="157" voterTurnout="68.56" percentReporting="4" />
+            <Precinct name="TRIO" totalVoters="893" ballotsCast="421" voterTurnout="47.14" percentReporting="4" />
+            <Precinct name="MUDDY CREEK" totalVoters="757" ballotsCast="499" voterTurnout="65.92" percentReporting="4" />
+            <Precinct name="Absentee" totalVoters="0" ballotsCast="3193" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Emergency" totalVoters="0" ballotsCast="63" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Failsafe" totalVoters="0" ballotsCast="1" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Failsafe Provisional" totalVoters="0" ballotsCast="5" voterTurnout="0.00" percentReporting="32" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="0103" text="STRAIGHT PARTY" voteFor="1" isQuestion="false" precinctsReporting="28" precinctsReported="28">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BLACK RIVER" votes="0" />
+            <Precinct name="BLOOMINGVALE" votes="0" />
+            <Precinct name="CADES" votes="0" />
+            <Precinct name="CEDAR SWAMP" votes="0" />
+            <Precinct name="CENTRAL" votes="0" />
+            <Precinct name="EARLES" votes="0" />
+            <Precinct name="GREELEYVILLE" votes="0" />
+            <Precinct name="HARMONY" votes="0" />
+            <Precinct name="HEBRON" votes="0" />
+            <Precinct name="HEMINGWAY" votes="0" />
+            <Precinct name="HENRY-POPLAR HILL" votes="0" />
+            <Precinct name="INDIANTOWN" votes="0" />
+            <Precinct name="KINGSTREE NO.1" votes="0" />
+            <Precinct name="KINGSTREE NO.2" votes="0" />
+            <Precinct name="KINGSTREE NO.3" votes="0" />
+            <Precinct name="KINGSTREE NO.4" votes="0" />
+            <Precinct name="LANE" votes="0" />
+            <Precinct name="MORRISVILLE" votes="0" />
+            <Precinct name="MOUNT VERNON" votes="0" />
+            <Precinct name="NESMITH" votes="0" />
+            <Precinct name="PERGAMOS" votes="0" />
+            <Precinct name="PINEY FOREST" votes="0" />
+            <Precinct name="SALTERS" votes="0" />
+            <Precinct name="SANDY BAY" votes="0" />
+            <Precinct name="SINGLETARY" votes="0" />
+            <Precinct name="SUTTONS" votes="0" />
+            <Precinct name="TRIO" votes="0" />
+            <Precinct name="MUDDY CREEK" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="5132">
+            <Precinct name="BLACK RIVER" votes="69" />
+            <Precinct name="BLOOMINGVALE" votes="141" />
+            <Precinct name="CADES" votes="71" />
+            <Precinct name="CEDAR SWAMP" votes="102" />
+            <Precinct name="CENTRAL" votes="188" />
+            <Precinct name="EARLES" votes="155" />
+            <Precinct name="GREELEYVILLE" votes="194" />
+            <Precinct name="HARMONY" votes="76" />
+            <Precinct name="HEBRON" votes="131" />
+            <Precinct name="HEMINGWAY" votes="308" />
+            <Precinct name="HENRY-POPLAR HILL" votes="142" />
+            <Precinct name="INDIANTOWN" votes="200" />
+            <Precinct name="KINGSTREE NO.1" votes="688" />
+            <Precinct name="KINGSTREE NO.2" votes="86" />
+            <Precinct name="KINGSTREE NO.3" votes="252" />
+            <Precinct name="KINGSTREE NO.4" votes="227" />
+            <Precinct name="LANE" votes="94" />
+            <Precinct name="MORRISVILLE" votes="19" />
+            <Precinct name="MOUNT VERNON" votes="81" />
+            <Precinct name="NESMITH" votes="89" />
+            <Precinct name="PERGAMOS" votes="62" />
+            <Precinct name="PINEY FOREST" votes="78" />
+            <Precinct name="SALTERS" votes="169" />
+            <Precinct name="SANDY BAY" votes="109" />
+            <Precinct name="SINGLETARY" votes="39" />
+            <Precinct name="SUTTONS" votes="55" />
+            <Precinct name="TRIO" votes="100" />
+            <Precinct name="MUDDY CREEK" votes="218" />
+            <Precinct name="Absentee" votes="965" />
+            <Precinct name="Emergency" votes="24" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Democratic" party="DEM" totalVotes="7508">
+            <VoteType name="Election Day" votes="7508">
+                <Precinct name="BLACK RIVER" votes="71" />
+                <Precinct name="BLOOMINGVALE" votes="260" />
+                <Precinct name="CADES" votes="130" />
+                <Precinct name="CEDAR SWAMP" votes="45" />
+                <Precinct name="CENTRAL" votes="223" />
+                <Precinct name="EARLES" votes="59" />
+                <Precinct name="GREELEYVILLE" votes="430" />
+                <Precinct name="HARMONY" votes="43" />
+                <Precinct name="HEBRON" votes="29" />
+                <Precinct name="HEMINGWAY" votes="379" />
+                <Precinct name="HENRY-POPLAR HILL" votes="118" />
+                <Precinct name="INDIANTOWN" votes="476" />
+                <Precinct name="KINGSTREE NO.1" votes="423" />
+                <Precinct name="KINGSTREE NO.2" votes="247" />
+                <Precinct name="KINGSTREE NO.3" votes="554" />
+                <Precinct name="KINGSTREE NO.4" votes="276" />
+                <Precinct name="LANE" votes="367" />
+                <Precinct name="MORRISVILLE" votes="117" />
+                <Precinct name="MOUNT VERNON" votes="99" />
+                <Precinct name="NESMITH" votes="220" />
+                <Precinct name="PERGAMOS" votes="45" />
+                <Precinct name="PINEY FOREST" votes="5" />
+                <Precinct name="SALTERS" votes="363" />
+                <Precinct name="SANDY BAY" votes="32" />
+                <Precinct name="SINGLETARY" votes="92" />
+                <Precinct name="SUTTONS" votes="38" />
+                <Precinct name="TRIO" votes="292" />
+                <Precinct name="MUDDY CREEK" votes="111" />
+                <Precinct name="Absentee" votes="1926" />
+                <Precinct name="Emergency" votes="33" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="4" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Working Families" party="WFM" totalVotes="100">
+            <VoteType name="Election Day" votes="100">
+                <Precinct name="BLACK RIVER" votes="0" />
+                <Precinct name="BLOOMINGVALE" votes="7" />
+                <Precinct name="CADES" votes="1" />
+                <Precinct name="CEDAR SWAMP" votes="1" />
+                <Precinct name="CENTRAL" votes="3" />
+                <Precinct name="EARLES" votes="2" />
+                <Precinct name="GREELEYVILLE" votes="6" />
+                <Precinct name="HARMONY" votes="1" />
+                <Precinct name="HEBRON" votes="3" />
+                <Precinct name="HEMINGWAY" votes="2" />
+                <Precinct name="HENRY-POPLAR HILL" votes="2" />
+                <Precinct name="INDIANTOWN" votes="3" />
+                <Precinct name="KINGSTREE NO.1" votes="7" />
+                <Precinct name="KINGSTREE NO.2" votes="1" />
+                <Precinct name="KINGSTREE NO.3" votes="15" />
+                <Precinct name="KINGSTREE NO.4" votes="5" />
+                <Precinct name="LANE" votes="1" />
+                <Precinct name="MORRISVILLE" votes="1" />
+                <Precinct name="MOUNT VERNON" votes="5" />
+                <Precinct name="NESMITH" votes="6" />
+                <Precinct name="PERGAMOS" votes="0" />
+                <Precinct name="PINEY FOREST" votes="1" />
+                <Precinct name="SALTERS" votes="1" />
+                <Precinct name="SANDY BAY" votes="1" />
+                <Precinct name="SINGLETARY" votes="1" />
+                <Precinct name="SUTTONS" votes="1" />
+                <Precinct name="TRIO" votes="6" />
+                <Precinct name="MUDDY CREEK" votes="3" />
+                <Precinct name="Absentee" votes="13" />
+                <Precinct name="Emergency" votes="1" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Constitution" party="CON" totalVotes="10">
+            <VoteType name="Election Day" votes="10">
+                <Precinct name="BLACK RIVER" votes="0" />
+                <Precinct name="BLOOMINGVALE" votes="0" />
+                <Precinct name="CADES" votes="0" />
+                <Precinct name="CEDAR SWAMP" votes="0" />
+                <Precinct name="CENTRAL" votes="0" />
+                <Precinct name="EARLES" votes="0" />
+                <Precinct name="GREELEYVILLE" votes="1" />
+                <Precinct name="HARMONY" votes="0" />
+                <Precinct name="HEBRON" votes="0" />
+                <Precinct name="HEMINGWAY" votes="0" />
+                <Precinct name="HENRY-POPLAR HILL" votes="0" />
+                <Precinct name="INDIANTOWN" votes="0" />
+                <Precinct name="KINGSTREE NO.1" votes="1" />
+                <Precinct name="KINGSTREE NO.2" votes="0" />
+                <Precinct name="KINGSTREE NO.3" votes="2" />
+                <Precinct name="KINGSTREE NO.4" votes="0" />
+                <Precinct name="LANE" votes="0" />
+                <Precinct name="MORRISVILLE" votes="0" />
+                <Precinct name="MOUNT VERNON" votes="0" />
+                <Precinct name="NESMITH" votes="2" />
+                <Precinct name="PERGAMOS" votes="0" />
+                <Precinct name="PINEY FOREST" votes="0" />
+                <Precinct name="SALTERS" votes="0" />
+                <Precinct name="SANDY BAY" votes="0" />
+                <Precinct name="SINGLETARY" votes="1" />
+                <Precinct name="SUTTONS" votes="0" />
+                <Precinct name="TRIO" votes="1" />
+                <Precinct name="MUDDY CREEK" votes="0" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Independence" party="IND" totalVotes="43">
+            <VoteType name="Election Day" votes="43">
+                <Precinct name="BLACK RIVER" votes="1" />
+                <Precinct name="BLOOMINGVALE" votes="1" />
+                <Precinct name="CADES" votes="0" />
+                <Precinct name="CEDAR SWAMP" votes="0" />
+                <Precinct name="CENTRAL" votes="1" />
+                <Precinct name="EARLES" votes="2" />
+                <Precinct name="GREELEYVILLE" votes="2" />
+                <Precinct name="HARMONY" votes="0" />
+                <Precinct name="HEBRON" votes="0" />
+                <Precinct name="HEMINGWAY" votes="0" />
+                <Precinct name="HENRY-POPLAR HILL" votes="1" />
+                <Precinct name="INDIANTOWN" votes="2" />
+                <Precinct name="KINGSTREE NO.1" votes="5" />
+                <Precinct name="KINGSTREE NO.2" votes="5" />
+                <Precinct name="KINGSTREE NO.3" votes="1" />
+                <Precinct name="KINGSTREE NO.4" votes="5" />
+                <Precinct name="LANE" votes="0" />
+                <Precinct name="MORRISVILLE" votes="0" />
+                <Precinct name="MOUNT VERNON" votes="2" />
+                <Precinct name="NESMITH" votes="3" />
+                <Precinct name="PERGAMOS" votes="1" />
+                <Precinct name="PINEY FOREST" votes="2" />
+                <Precinct name="SALTERS" votes="4" />
+                <Precinct name="SANDY BAY" votes="1" />
+                <Precinct name="SINGLETARY" votes="0" />
+                <Precinct name="SUTTONS" votes="0" />
+                <Precinct name="TRIO" votes="2" />
+                <Precinct name="MUDDY CREEK" votes="1" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Green" party="GRN" totalVotes="29">
+            <VoteType name="Election Day" votes="29">
+                <Precinct name="BLACK RIVER" votes="1" />
+                <Precinct name="BLOOMINGVALE" votes="5" />
+                <Precinct name="CADES" votes="0" />
+                <Precinct name="CEDAR SWAMP" votes="0" />
+                <Precinct name="CENTRAL" votes="1" />
+                <Precinct name="EARLES" votes="1" />
+                <Precinct name="GREELEYVILLE" votes="0" />
+                <Precinct name="HARMONY" votes="1" />
+                <Precinct name="HEBRON" votes="0" />
+                <Precinct name="HEMINGWAY" votes="3" />
+                <Precinct name="HENRY-POPLAR HILL" votes="2" />
+                <Precinct name="INDIANTOWN" votes="0" />
+                <Precinct name="KINGSTREE NO.1" votes="1" />
+                <Precinct name="KINGSTREE NO.2" votes="1" />
+                <Precinct name="KINGSTREE NO.3" votes="2" />
+                <Precinct name="KINGSTREE NO.4" votes="1" />
+                <Precinct name="LANE" votes="0" />
+                <Precinct name="MORRISVILLE" votes="0" />
+                <Precinct name="MOUNT VERNON" votes="0" />
+                <Precinct name="NESMITH" votes="1" />
+                <Precinct name="PERGAMOS" votes="0" />
+                <Precinct name="PINEY FOREST" votes="0" />
+                <Precinct name="SALTERS" votes="0" />
+                <Precinct name="SANDY BAY" votes="0" />
+                <Precinct name="SINGLETARY" votes="0" />
+                <Precinct name="SUTTONS" votes="1" />
+                <Precinct name="TRIO" votes="1" />
+                <Precinct name="MUDDY CREEK" votes="3" />
+                <Precinct name="Absentee" votes="4" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Republican" party="REP" totalVotes="2290">
+            <VoteType name="Election Day" votes="2290">
+                <Precinct name="BLACK RIVER" votes="38" />
+                <Precinct name="BLOOMINGVALE" votes="102" />
+                <Precinct name="CADES" votes="61" />
+                <Precinct name="CEDAR SWAMP" votes="34" />
+                <Precinct name="CENTRAL" votes="82" />
+                <Precinct name="EARLES" votes="139" />
+                <Precinct name="GREELEYVILLE" votes="72" />
+                <Precinct name="HARMONY" votes="84" />
+                <Precinct name="HEBRON" votes="149" />
+                <Precinct name="HEMINGWAY" votes="130" />
+                <Precinct name="HENRY-POPLAR HILL" votes="78" />
+                <Precinct name="INDIANTOWN" votes="54" />
+                <Precinct name="KINGSTREE NO.1" votes="273" />
+                <Precinct name="KINGSTREE NO.2" votes="6" />
+                <Precinct name="KINGSTREE NO.3" votes="24" />
+                <Precinct name="KINGSTREE NO.4" votes="49" />
+                <Precinct name="LANE" votes="19" />
+                <Precinct name="MORRISVILLE" votes="3" />
+                <Precinct name="MOUNT VERNON" votes="48" />
+                <Precinct name="NESMITH" votes="17" />
+                <Precinct name="PERGAMOS" votes="33" />
+                <Precinct name="PINEY FOREST" votes="154" />
+                <Precinct name="SALTERS" votes="38" />
+                <Precinct name="SANDY BAY" votes="74" />
+                <Precinct name="SINGLETARY" votes="10" />
+                <Precinct name="SUTTONS" votes="62" />
+                <Precinct name="TRIO" votes="19" />
+                <Precinct name="MUDDY CREEK" votes="157" />
+                <Precinct name="Absentee" votes="275" />
+                <Precinct name="Emergency" votes="5" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="American" party="AMR" totalVotes="48">
+            <VoteType name="Election Day" votes="48">
+                <Precinct name="BLACK RIVER" votes="2" />
+                <Precinct name="BLOOMINGVALE" votes="2" />
+                <Precinct name="CADES" votes="0" />
+                <Precinct name="CEDAR SWAMP" votes="0" />
+                <Precinct name="CENTRAL" votes="1" />
+                <Precinct name="EARLES" votes="0" />
+                <Precinct name="GREELEYVILLE" votes="4" />
+                <Precinct name="HARMONY" votes="0" />
+                <Precinct name="HEBRON" votes="0" />
+                <Precinct name="HEMINGWAY" votes="4" />
+                <Precinct name="HENRY-POPLAR HILL" votes="2" />
+                <Precinct name="INDIANTOWN" votes="2" />
+                <Precinct name="KINGSTREE NO.1" votes="5" />
+                <Precinct name="KINGSTREE NO.2" votes="3" />
+                <Precinct name="KINGSTREE NO.3" votes="5" />
+                <Precinct name="KINGSTREE NO.4" votes="1" />
+                <Precinct name="LANE" votes="2" />
+                <Precinct name="MORRISVILLE" votes="0" />
+                <Precinct name="MOUNT VERNON" votes="1" />
+                <Precinct name="NESMITH" votes="2" />
+                <Precinct name="PERGAMOS" votes="0" />
+                <Precinct name="PINEY FOREST" votes="1" />
+                <Precinct name="SALTERS" votes="1" />
+                <Precinct name="SANDY BAY" votes="1" />
+                <Precinct name="SINGLETARY" votes="1" />
+                <Precinct name="SUTTONS" votes="0" />
+                <Precinct name="TRIO" votes="0" />
+                <Precinct name="MUDDY CREEK" votes="2" />
+                <Precinct name="Absentee" votes="6" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="008" text="Libertarian" party="LIB" totalVotes="21">
+            <VoteType name="Election Day" votes="21">
+                <Precinct name="BLACK RIVER" votes="0" />
+                <Precinct name="BLOOMINGVALE" votes="2" />
+                <Precinct name="CADES" votes="1" />
+                <Precinct name="CEDAR SWAMP" votes="0" />
+                <Precinct name="CENTRAL" votes="0" />
+                <Precinct name="EARLES" votes="2" />
+                <Precinct name="GREELEYVILLE" votes="0" />
+                <Precinct name="HARMONY" votes="0" />
+                <Precinct name="HEBRON" votes="3" />
+                <Precinct name="HEMINGWAY" votes="2" />
+                <Precinct name="HENRY-POPLAR HILL" votes="0" />
+                <Precinct name="INDIANTOWN" votes="0" />
+                <Precinct name="KINGSTREE NO.1" votes="1" />
+                <Precinct name="KINGSTREE NO.2" votes="1" />
+                <Precinct name="KINGSTREE NO.3" votes="0" />
+                <Precinct name="KINGSTREE NO.4" votes="1" />
+                <Precinct name="LANE" votes="0" />
+                <Precinct name="MORRISVILLE" votes="0" />
+                <Precinct name="MOUNT VERNON" votes="1" />
+                <Precinct name="NESMITH" votes="0" />
+                <Precinct name="PERGAMOS" votes="0" />
+                <Precinct name="PINEY FOREST" votes="0" />
+                <Precinct name="SALTERS" votes="2" />
+                <Precinct name="SANDY BAY" votes="0" />
+                <Precinct name="SINGLETARY" votes="0" />
+                <Precinct name="SUTTONS" votes="0" />
+                <Precinct name="TRIO" votes="0" />
+                <Precinct name="MUDDY CREEK" votes="4" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0104" text="President and Vice President" voteFor="1" isQuestion="false" precinctsReporting="28" precinctsReported="28">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BLACK RIVER" votes="0" />
+            <Precinct name="BLOOMINGVALE" votes="0" />
+            <Precinct name="CADES" votes="0" />
+            <Precinct name="CEDAR SWAMP" votes="0" />
+            <Precinct name="CENTRAL" votes="0" />
+            <Precinct name="EARLES" votes="0" />
+            <Precinct name="GREELEYVILLE" votes="0" />
+            <Precinct name="HARMONY" votes="0" />
+            <Precinct name="HEBRON" votes="0" />
+            <Precinct name="HEMINGWAY" votes="0" />
+            <Precinct name="HENRY-POPLAR HILL" votes="0" />
+            <Precinct name="INDIANTOWN" votes="0" />
+            <Precinct name="KINGSTREE NO.1" votes="0" />
+            <Precinct name="KINGSTREE NO.2" votes="0" />
+            <Precinct name="KINGSTREE NO.3" votes="0" />
+            <Precinct name="KINGSTREE NO.4" votes="0" />
+            <Precinct name="LANE" votes="0" />
+            <Precinct name="MORRISVILLE" votes="0" />
+            <Precinct name="MOUNT VERNON" votes="0" />
+            <Precinct name="NESMITH" votes="0" />
+            <Precinct name="PERGAMOS" votes="0" />
+            <Precinct name="PINEY FOREST" votes="0" />
+            <Precinct name="SALTERS" votes="0" />
+            <Precinct name="SANDY BAY" votes="0" />
+            <Precinct name="SINGLETARY" votes="0" />
+            <Precinct name="SUTTONS" votes="0" />
+            <Precinct name="TRIO" votes="0" />
+            <Precinct name="MUDDY CREEK" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="127">
+            <Precinct name="BLACK RIVER" votes="1" />
+            <Precinct name="BLOOMINGVALE" votes="5" />
+            <Precinct name="CADES" votes="4" />
+            <Precinct name="CEDAR SWAMP" votes="3" />
+            <Precinct name="CENTRAL" votes="5" />
+            <Precinct name="EARLES" votes="3" />
+            <Precinct name="GREELEYVILLE" votes="7" />
+            <Precinct name="HARMONY" votes="4" />
+            <Precinct name="HEBRON" votes="2" />
+            <Precinct name="HEMINGWAY" votes="6" />
+            <Precinct name="HENRY-POPLAR HILL" votes="0" />
+            <Precinct name="INDIANTOWN" votes="9" />
+            <Precinct name="KINGSTREE NO.1" votes="9" />
+            <Precinct name="KINGSTREE NO.2" votes="4" />
+            <Precinct name="KINGSTREE NO.3" votes="6" />
+            <Precinct name="KINGSTREE NO.4" votes="5" />
+            <Precinct name="LANE" votes="1" />
+            <Precinct name="MORRISVILLE" votes="1" />
+            <Precinct name="MOUNT VERNON" votes="2" />
+            <Precinct name="NESMITH" votes="6" />
+            <Precinct name="PERGAMOS" votes="3" />
+            <Precinct name="PINEY FOREST" votes="2" />
+            <Precinct name="SALTERS" votes="7" />
+            <Precinct name="SANDY BAY" votes="2" />
+            <Precinct name="SINGLETARY" votes="0" />
+            <Precinct name="SUTTONS" votes="1" />
+            <Precinct name="TRIO" votes="4" />
+            <Precinct name="MUDDY CREEK" votes="3" />
+            <Precinct name="Absentee" votes="22" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Hillary Rodham Clinton / Timothy Michael Kaine" party="DEM" totalVotes="9953">
+            <VoteType name="Election Day" votes="9953">
+                <Precinct name="BLACK RIVER" votes="97" />
+                <Precinct name="BLOOMINGVALE" votes="340" />
+                <Precinct name="CADES" votes="151" />
+                <Precinct name="CEDAR SWAMP" votes="81" />
+                <Precinct name="CENTRAL" votes="308" />
+                <Precinct name="EARLES" votes="78" />
+                <Precinct name="GREELEYVILLE" votes="546" />
+                <Precinct name="HARMONY" votes="54" />
+                <Precinct name="HEBRON" votes="41" />
+                <Precinct name="HEMINGWAY" votes="505" />
+                <Precinct name="HENRY-POPLAR HILL" votes="157" />
+                <Precinct name="INDIANTOWN" votes="599" />
+                <Precinct name="KINGSTREE NO.1" votes="641" />
+                <Precinct name="KINGSTREE NO.2" votes="327" />
+                <Precinct name="KINGSTREE NO.3" votes="780" />
+                <Precinct name="KINGSTREE NO.4" votes="432" />
+                <Precinct name="LANE" votes="434" />
+                <Precinct name="MORRISVILLE" votes="132" />
+                <Precinct name="MOUNT VERNON" votes="145" />
+                <Precinct name="NESMITH" votes="286" />
+                <Precinct name="PERGAMOS" votes="52" />
+                <Precinct name="PINEY FOREST" votes="7" />
+                <Precinct name="SALTERS" votes="476" />
+                <Precinct name="SANDY BAY" votes="53" />
+                <Precinct name="SINGLETARY" votes="113" />
+                <Precinct name="SUTTONS" votes="50" />
+                <Precinct name="TRIO" votes="362" />
+                <Precinct name="MUDDY CREEK" votes="145" />
+                <Precinct name="Absentee" votes="2502" />
+                <Precinct name="Emergency" votes="54" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="4" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Darrell Castle / Scott Bradley" party="CON" totalVotes="31">
+            <VoteType name="Election Day" votes="31">
+                <Precinct name="BLACK RIVER" votes="0" />
+                <Precinct name="BLOOMINGVALE" votes="0" />
+                <Precinct name="CADES" votes="0" />
+                <Precinct name="CEDAR SWAMP" votes="3" />
+                <Precinct name="CENTRAL" votes="1" />
+                <Precinct name="EARLES" votes="1" />
+                <Precinct name="GREELEYVILLE" votes="0" />
+                <Precinct name="HARMONY" votes="1" />
+                <Precinct name="HEBRON" votes="0" />
+                <Precinct name="HEMINGWAY" votes="0" />
+                <Precinct name="HENRY-POPLAR HILL" votes="2" />
+                <Precinct name="INDIANTOWN" votes="1" />
+                <Precinct name="KINGSTREE NO.1" votes="0" />
+                <Precinct name="KINGSTREE NO.2" votes="1" />
+                <Precinct name="KINGSTREE NO.3" votes="2" />
+                <Precinct name="KINGSTREE NO.4" votes="3" />
+                <Precinct name="LANE" votes="0" />
+                <Precinct name="MORRISVILLE" votes="0" />
+                <Precinct name="MOUNT VERNON" votes="2" />
+                <Precinct name="NESMITH" votes="1" />
+                <Precinct name="PERGAMOS" votes="0" />
+                <Precinct name="PINEY FOREST" votes="0" />
+                <Precinct name="SALTERS" votes="0" />
+                <Precinct name="SANDY BAY" votes="0" />
+                <Precinct name="SINGLETARY" votes="1" />
+                <Precinct name="SUTTONS" votes="0" />
+                <Precinct name="TRIO" votes="0" />
+                <Precinct name="MUDDY CREEK" votes="3" />
+                <Precinct name="Absentee" votes="9" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Evan McMullin / Nathan Johnson" party="IND" totalVotes="52">
+            <VoteType name="Election Day" votes="52">
+                <Precinct name="BLACK RIVER" votes="1" />
+                <Precinct name="BLOOMINGVALE" votes="5" />
+                <Precinct name="CADES" votes="0" />
+                <Precinct name="CEDAR SWAMP" votes="2" />
+                <Precinct name="CENTRAL" votes="2" />
+                <Precinct name="EARLES" votes="2" />
+                <Precinct name="GREELEYVILLE" votes="1" />
+                <Precinct name="HARMONY" votes="0" />
+                <Precinct name="HEBRON" votes="0" />
+                <Precinct name="HEMINGWAY" votes="1" />
+                <Precinct name="HENRY-POPLAR HILL" votes="1" />
+                <Precinct name="INDIANTOWN" votes="5" />
+                <Precinct name="KINGSTREE NO.1" votes="8" />
+                <Precinct name="KINGSTREE NO.2" votes="1" />
+                <Precinct name="KINGSTREE NO.3" votes="2" />
+                <Precinct name="KINGSTREE NO.4" votes="0" />
+                <Precinct name="LANE" votes="1" />
+                <Precinct name="MORRISVILLE" votes="0" />
+                <Precinct name="MOUNT VERNON" votes="2" />
+                <Precinct name="NESMITH" votes="1" />
+                <Precinct name="PERGAMOS" votes="1" />
+                <Precinct name="PINEY FOREST" votes="2" />
+                <Precinct name="SALTERS" votes="6" />
+                <Precinct name="SANDY BAY" votes="0" />
+                <Precinct name="SINGLETARY" votes="0" />
+                <Precinct name="SUTTONS" votes="0" />
+                <Precinct name="TRIO" votes="1" />
+                <Precinct name="MUDDY CREEK" votes="2" />
+                <Precinct name="Absentee" votes="5" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Jill Stein / Ajamu Baraka" party="GRN" totalVotes="50">
+            <VoteType name="Election Day" votes="50">
+                <Precinct name="BLACK RIVER" votes="0" />
+                <Precinct name="BLOOMINGVALE" votes="5" />
+                <Precinct name="CADES" votes="1" />
+                <Precinct name="CEDAR SWAMP" votes="1" />
+                <Precinct name="CENTRAL" votes="4" />
+                <Precinct name="EARLES" votes="1" />
+                <Precinct name="GREELEYVILLE" votes="3" />
+                <Precinct name="HARMONY" votes="1" />
+                <Precinct name="HEBRON" votes="0" />
+                <Precinct name="HEMINGWAY" votes="3" />
+                <Precinct name="HENRY-POPLAR HILL" votes="2" />
+                <Precinct name="INDIANTOWN" votes="0" />
+                <Precinct name="KINGSTREE NO.1" votes="3" />
+                <Precinct name="KINGSTREE NO.2" votes="3" />
+                <Precinct name="KINGSTREE NO.3" votes="2" />
+                <Precinct name="KINGSTREE NO.4" votes="2" />
+                <Precinct name="LANE" votes="0" />
+                <Precinct name="MORRISVILLE" votes="0" />
+                <Precinct name="MOUNT VERNON" votes="1" />
+                <Precinct name="NESMITH" votes="2" />
+                <Precinct name="PERGAMOS" votes="0" />
+                <Precinct name="PINEY FOREST" votes="0" />
+                <Precinct name="SALTERS" votes="1" />
+                <Precinct name="SANDY BAY" votes="1" />
+                <Precinct name="SINGLETARY" votes="0" />
+                <Precinct name="SUTTONS" votes="1" />
+                <Precinct name="TRIO" votes="0" />
+                <Precinct name="MUDDY CREEK" votes="2" />
+                <Precinct name="Absentee" votes="11" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Donald J Trump / Michael R Pence" party="REP" totalVotes="4864">
+            <VoteType name="Election Day" votes="4864">
+                <Precinct name="BLACK RIVER" votes="82" />
+                <Precinct name="BLOOMINGVALE" votes="162" />
+                <Precinct name="CADES" votes="107" />
+                <Precinct name="CEDAR SWAMP" votes="91" />
+                <Precinct name="CENTRAL" votes="177" />
+                <Precinct name="EARLES" votes="273" />
+                <Precinct name="GREELEYVILLE" votes="147" />
+                <Precinct name="HARMONY" votes="145" />
+                <Precinct name="HEBRON" votes="266" />
+                <Precinct name="HEMINGWAY" votes="309" />
+                <Precinct name="HENRY-POPLAR HILL" votes="183" />
+                <Precinct name="INDIANTOWN" votes="122" />
+                <Precinct name="KINGSTREE NO.1" votes="725" />
+                <Precinct name="KINGSTREE NO.2" votes="11" />
+                <Precinct name="KINGSTREE NO.3" votes="62" />
+                <Precinct name="KINGSTREE NO.4" votes="116" />
+                <Precinct name="LANE" votes="45" />
+                <Precinct name="MORRISVILLE" votes="6" />
+                <Precinct name="MOUNT VERNON" votes="84" />
+                <Precinct name="NESMITH" votes="41" />
+                <Precinct name="PERGAMOS" votes="84" />
+                <Precinct name="PINEY FOREST" votes="228" />
+                <Precinct name="SALTERS" votes="83" />
+                <Precinct name="SANDY BAY" votes="162" />
+                <Precinct name="SINGLETARY" votes="28" />
+                <Precinct name="SUTTONS" votes="104" />
+                <Precinct name="TRIO" votes="53" />
+                <Precinct name="MUDDY CREEK" votes="338" />
+                <Precinct name="Absentee" votes="620" />
+                <Precinct name="Emergency" votes="9" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Peter Skewes / Michael Lacy" party="AMR" totalVotes="20">
+            <VoteType name="Election Day" votes="20">
+                <Precinct name="BLACK RIVER" votes="0" />
+                <Precinct name="BLOOMINGVALE" votes="0" />
+                <Precinct name="CADES" votes="0" />
+                <Precinct name="CEDAR SWAMP" votes="0" />
+                <Precinct name="CENTRAL" votes="1" />
+                <Precinct name="EARLES" votes="0" />
+                <Precinct name="GREELEYVILLE" votes="3" />
+                <Precinct name="HARMONY" votes="0" />
+                <Precinct name="HEBRON" votes="1" />
+                <Precinct name="HEMINGWAY" votes="0" />
+                <Precinct name="HENRY-POPLAR HILL" votes="0" />
+                <Precinct name="INDIANTOWN" votes="0" />
+                <Precinct name="KINGSTREE NO.1" votes="2" />
+                <Precinct name="KINGSTREE NO.2" votes="0" />
+                <Precinct name="KINGSTREE NO.3" votes="0" />
+                <Precinct name="KINGSTREE NO.4" votes="2" />
+                <Precinct name="LANE" votes="2" />
+                <Precinct name="MORRISVILLE" votes="1" />
+                <Precinct name="MOUNT VERNON" votes="0" />
+                <Precinct name="NESMITH" votes="0" />
+                <Precinct name="PERGAMOS" votes="0" />
+                <Precinct name="PINEY FOREST" votes="1" />
+                <Precinct name="SALTERS" votes="1" />
+                <Precinct name="SANDY BAY" votes="0" />
+                <Precinct name="SINGLETARY" votes="0" />
+                <Precinct name="SUTTONS" votes="0" />
+                <Precinct name="TRIO" votes="0" />
+                <Precinct name="MUDDY CREEK" votes="3" />
+                <Precinct name="Absentee" votes="3" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="Gary Johnson / Bill Weld" party="LIB" totalVotes="84">
+            <VoteType name="Election Day" votes="84">
+                <Precinct name="BLACK RIVER" votes="1" />
+                <Precinct name="BLOOMINGVALE" votes="3" />
+                <Precinct name="CADES" votes="1" />
+                <Precinct name="CEDAR SWAMP" votes="1" />
+                <Precinct name="CENTRAL" votes="1" />
+                <Precinct name="EARLES" votes="2" />
+                <Precinct name="GREELEYVILLE" votes="2" />
+                <Precinct name="HARMONY" votes="0" />
+                <Precinct name="HEBRON" votes="5" />
+                <Precinct name="HEMINGWAY" votes="4" />
+                <Precinct name="HENRY-POPLAR HILL" votes="0" />
+                <Precinct name="INDIANTOWN" votes="1" />
+                <Precinct name="KINGSTREE NO.1" votes="16" />
+                <Precinct name="KINGSTREE NO.2" votes="3" />
+                <Precinct name="KINGSTREE NO.3" votes="1" />
+                <Precinct name="KINGSTREE NO.4" votes="5" />
+                <Precinct name="LANE" votes="0" />
+                <Precinct name="MORRISVILLE" votes="0" />
+                <Precinct name="MOUNT VERNON" votes="1" />
+                <Precinct name="NESMITH" votes="3" />
+                <Precinct name="PERGAMOS" votes="1" />
+                <Precinct name="PINEY FOREST" votes="1" />
+                <Precinct name="SALTERS" votes="4" />
+                <Precinct name="SANDY BAY" votes="0" />
+                <Precinct name="SINGLETARY" votes="2" />
+                <Precinct name="SUTTONS" votes="1" />
+                <Precinct name="TRIO" votes="1" />
+                <Precinct name="MUDDY CREEK" votes="3" />
+                <Precinct name="Absentee" votes="21" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0105" text="U.S. Senate" voteFor="1" isQuestion="false" precinctsReporting="28" precinctsReported="28">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BLACK RIVER" votes="0" />
+            <Precinct name="BLOOMINGVALE" votes="0" />
+            <Precinct name="CADES" votes="0" />
+            <Precinct name="CEDAR SWAMP" votes="0" />
+            <Precinct name="CENTRAL" votes="0" />
+            <Precinct name="EARLES" votes="0" />
+            <Precinct name="GREELEYVILLE" votes="0" />
+            <Precinct name="HARMONY" votes="0" />
+            <Precinct name="HEBRON" votes="0" />
+            <Precinct name="HEMINGWAY" votes="0" />
+            <Precinct name="HENRY-POPLAR HILL" votes="0" />
+            <Precinct name="INDIANTOWN" votes="0" />
+            <Precinct name="KINGSTREE NO.1" votes="0" />
+            <Precinct name="KINGSTREE NO.2" votes="0" />
+            <Precinct name="KINGSTREE NO.3" votes="0" />
+            <Precinct name="KINGSTREE NO.4" votes="0" />
+            <Precinct name="LANE" votes="0" />
+            <Precinct name="MORRISVILLE" votes="0" />
+            <Precinct name="MOUNT VERNON" votes="0" />
+            <Precinct name="NESMITH" votes="0" />
+            <Precinct name="PERGAMOS" votes="0" />
+            <Precinct name="PINEY FOREST" votes="0" />
+            <Precinct name="SALTERS" votes="0" />
+            <Precinct name="SANDY BAY" votes="0" />
+            <Precinct name="SINGLETARY" votes="0" />
+            <Precinct name="SUTTONS" votes="0" />
+            <Precinct name="TRIO" votes="0" />
+            <Precinct name="MUDDY CREEK" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="708">
+            <Precinct name="BLACK RIVER" votes="7" />
+            <Precinct name="BLOOMINGVALE" votes="28" />
+            <Precinct name="CADES" votes="5" />
+            <Precinct name="CEDAR SWAMP" votes="8" />
+            <Precinct name="CENTRAL" votes="31" />
+            <Precinct name="EARLES" votes="17" />
+            <Precinct name="GREELEYVILLE" votes="34" />
+            <Precinct name="HARMONY" votes="7" />
+            <Precinct name="HEBRON" votes="10" />
+            <Precinct name="HEMINGWAY" votes="44" />
+            <Precinct name="HENRY-POPLAR HILL" votes="13" />
+            <Precinct name="INDIANTOWN" votes="26" />
+            <Precinct name="KINGSTREE NO.1" votes="46" />
+            <Precinct name="KINGSTREE NO.2" votes="15" />
+            <Precinct name="KINGSTREE NO.3" votes="51" />
+            <Precinct name="KINGSTREE NO.4" votes="37" />
+            <Precinct name="LANE" votes="19" />
+            <Precinct name="MORRISVILLE" votes="1" />
+            <Precinct name="MOUNT VERNON" votes="7" />
+            <Precinct name="NESMITH" votes="19" />
+            <Precinct name="PERGAMOS" votes="3" />
+            <Precinct name="PINEY FOREST" votes="7" />
+            <Precinct name="SALTERS" votes="33" />
+            <Precinct name="SANDY BAY" votes="12" />
+            <Precinct name="SINGLETARY" votes="5" />
+            <Precinct name="SUTTONS" votes="5" />
+            <Precinct name="TRIO" votes="19" />
+            <Precinct name="MUDDY CREEK" votes="11" />
+            <Precinct name="Absentee" votes="187" />
+            <Precinct name="Emergency" votes="1" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Thomas Dixon" party="DEM" totalVotes="8902">
+            <VoteType name="Election Day" votes="8902">
+                <Precinct name="BLACK RIVER" votes="84" />
+                <Precinct name="BLOOMINGVALE" votes="293" />
+                <Precinct name="CADES" votes="150" />
+                <Precinct name="CEDAR SWAMP" votes="68" />
+                <Precinct name="CENTRAL" votes="267" />
+                <Precinct name="EARLES" votes="70" />
+                <Precinct name="GREELEYVILLE" votes="497" />
+                <Precinct name="HARMONY" votes="50" />
+                <Precinct name="HEBRON" votes="38" />
+                <Precinct name="HEMINGWAY" votes="444" />
+                <Precinct name="HENRY-POPLAR HILL" votes="141" />
+                <Precinct name="INDIANTOWN" votes="551" />
+                <Precinct name="KINGSTREE NO.1" votes="565" />
+                <Precinct name="KINGSTREE NO.2" votes="292" />
+                <Precinct name="KINGSTREE NO.3" votes="682" />
+                <Precinct name="KINGSTREE NO.4" votes="382" />
+                <Precinct name="LANE" votes="408" />
+                <Precinct name="MORRISVILLE" votes="131" />
+                <Precinct name="MOUNT VERNON" votes="127" />
+                <Precinct name="NESMITH" votes="251" />
+                <Precinct name="PERGAMOS" votes="50" />
+                <Precinct name="PINEY FOREST" votes="7" />
+                <Precinct name="SALTERS" votes="426" />
+                <Precinct name="SANDY BAY" votes="40" />
+                <Precinct name="SINGLETARY" votes="109" />
+                <Precinct name="SUTTONS" votes="42" />
+                <Precinct name="TRIO" votes="325" />
+                <Precinct name="MUDDY CREEK" votes="131" />
+                <Precinct name="Absentee" votes="2225" />
+                <Precinct name="Emergency" votes="52" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Thomas Dixon" party="WFM" totalVotes="216">
+            <VoteType name="Election Day" votes="216">
+                <Precinct name="BLACK RIVER" votes="1" />
+                <Precinct name="BLOOMINGVALE" votes="11" />
+                <Precinct name="CADES" votes="1" />
+                <Precinct name="CEDAR SWAMP" votes="1" />
+                <Precinct name="CENTRAL" votes="8" />
+                <Precinct name="EARLES" votes="8" />
+                <Precinct name="GREELEYVILLE" votes="13" />
+                <Precinct name="HARMONY" votes="0" />
+                <Precinct name="HEBRON" votes="7" />
+                <Precinct name="HEMINGWAY" votes="13" />
+                <Precinct name="HENRY-POPLAR HILL" votes="6" />
+                <Precinct name="INDIANTOWN" votes="7" />
+                <Precinct name="KINGSTREE NO.1" votes="20" />
+                <Precinct name="KINGSTREE NO.2" votes="7" />
+                <Precinct name="KINGSTREE NO.3" votes="24" />
+                <Precinct name="KINGSTREE NO.4" votes="10" />
+                <Precinct name="LANE" votes="3" />
+                <Precinct name="MORRISVILLE" votes="1" />
+                <Precinct name="MOUNT VERNON" votes="7" />
+                <Precinct name="NESMITH" votes="6" />
+                <Precinct name="PERGAMOS" votes="1" />
+                <Precinct name="PINEY FOREST" votes="3" />
+                <Precinct name="SALTERS" votes="7" />
+                <Precinct name="SANDY BAY" votes="3" />
+                <Precinct name="SINGLETARY" votes="0" />
+                <Precinct name="SUTTONS" votes="1" />
+                <Precinct name="TRIO" votes="8" />
+                <Precinct name="MUDDY CREEK" votes="6" />
+                <Precinct name="Absentee" votes="33" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Bill Bledsoe" party="CON" totalVotes="36">
+            <VoteType name="Election Day" votes="36">
+                <Precinct name="BLACK RIVER" votes="1" />
+                <Precinct name="BLOOMINGVALE" votes="0" />
+                <Precinct name="CADES" votes="3" />
+                <Precinct name="CEDAR SWAMP" votes="1" />
+                <Precinct name="CENTRAL" votes="1" />
+                <Precinct name="EARLES" votes="2" />
+                <Precinct name="GREELEYVILLE" votes="3" />
+                <Precinct name="HARMONY" votes="1" />
+                <Precinct name="HEBRON" votes="1" />
+                <Precinct name="HEMINGWAY" votes="0" />
+                <Precinct name="HENRY-POPLAR HILL" votes="1" />
+                <Precinct name="INDIANTOWN" votes="2" />
+                <Precinct name="KINGSTREE NO.1" votes="4" />
+                <Precinct name="KINGSTREE NO.2" votes="0" />
+                <Precinct name="KINGSTREE NO.3" votes="0" />
+                <Precinct name="KINGSTREE NO.4" votes="0" />
+                <Precinct name="LANE" votes="0" />
+                <Precinct name="MORRISVILLE" votes="0" />
+                <Precinct name="MOUNT VERNON" votes="0" />
+                <Precinct name="NESMITH" votes="2" />
+                <Precinct name="PERGAMOS" votes="0" />
+                <Precinct name="PINEY FOREST" votes="1" />
+                <Precinct name="SALTERS" votes="2" />
+                <Precinct name="SANDY BAY" votes="0" />
+                <Precinct name="SINGLETARY" votes="1" />
+                <Precinct name="SUTTONS" votes="1" />
+                <Precinct name="TRIO" votes="1" />
+                <Precinct name="MUDDY CREEK" votes="1" />
+                <Precinct name="Absentee" votes="7" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Thomas Dixon" party="GRN" totalVotes="61">
+            <VoteType name="Election Day" votes="61">
+                <Precinct name="BLACK RIVER" votes="1" />
+                <Precinct name="BLOOMINGVALE" votes="4" />
+                <Precinct name="CADES" votes="0" />
+                <Precinct name="CEDAR SWAMP" votes="3" />
+                <Precinct name="CENTRAL" votes="2" />
+                <Precinct name="EARLES" votes="2" />
+                <Precinct name="GREELEYVILLE" votes="1" />
+                <Precinct name="HARMONY" votes="1" />
+                <Precinct name="HEBRON" votes="0" />
+                <Precinct name="HEMINGWAY" votes="4" />
+                <Precinct name="HENRY-POPLAR HILL" votes="3" />
+                <Precinct name="INDIANTOWN" votes="0" />
+                <Precinct name="KINGSTREE NO.1" votes="8" />
+                <Precinct name="KINGSTREE NO.2" votes="3" />
+                <Precinct name="KINGSTREE NO.3" votes="4" />
+                <Precinct name="KINGSTREE NO.4" votes="2" />
+                <Precinct name="LANE" votes="1" />
+                <Precinct name="MORRISVILLE" votes="0" />
+                <Precinct name="MOUNT VERNON" votes="0" />
+                <Precinct name="NESMITH" votes="3" />
+                <Precinct name="PERGAMOS" votes="2" />
+                <Precinct name="PINEY FOREST" votes="1" />
+                <Precinct name="SALTERS" votes="0" />
+                <Precinct name="SANDY BAY" votes="0" />
+                <Precinct name="SINGLETARY" votes="0" />
+                <Precinct name="SUTTONS" votes="1" />
+                <Precinct name="TRIO" votes="1" />
+                <Precinct name="MUDDY CREEK" votes="3" />
+                <Precinct name="Absentee" votes="11" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Tim Scott" party="REP" totalVotes="5138">
+            <VoteType name="Election Day" votes="5138">
+                <Precinct name="BLACK RIVER" votes="84" />
+                <Precinct name="BLOOMINGVALE" votes="178" />
+                <Precinct name="CADES" votes="104" />
+                <Precinct name="CEDAR SWAMP" votes="100" />
+                <Precinct name="CENTRAL" votes="188" />
+                <Precinct name="EARLES" votes="257" />
+                <Precinct name="GREELEYVILLE" votes="155" />
+                <Precinct name="HARMONY" votes="144" />
+                <Precinct name="HEBRON" votes="255" />
+                <Precinct name="HEMINGWAY" votes="315" />
+                <Precinct name="HENRY-POPLAR HILL" votes="177" />
+                <Precinct name="INDIANTOWN" votes="147" />
+                <Precinct name="KINGSTREE NO.1" votes="752" />
+                <Precinct name="KINGSTREE NO.2" votes="26" />
+                <Precinct name="KINGSTREE NO.3" votes="89" />
+                <Precinct name="KINGSTREE NO.4" votes="131" />
+                <Precinct name="LANE" votes="50" />
+                <Precinct name="MORRISVILLE" votes="7" />
+                <Precinct name="MOUNT VERNON" votes="96" />
+                <Precinct name="NESMITH" votes="54" />
+                <Precinct name="PERGAMOS" votes="82" />
+                <Precinct name="PINEY FOREST" votes="219" />
+                <Precinct name="SALTERS" votes="103" />
+                <Precinct name="SANDY BAY" votes="160" />
+                <Precinct name="SINGLETARY" votes="29" />
+                <Precinct name="SUTTONS" votes="104" />
+                <Precinct name="TRIO" votes="67" />
+                <Precinct name="MUDDY CREEK" votes="343" />
+                <Precinct name="Absentee" votes="710" />
+                <Precinct name="Emergency" votes="10" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Rebel Michael Scarborough" party="AMR" totalVotes="67">
+            <VoteType name="Election Day" votes="67">
+                <Precinct name="BLACK RIVER" votes="4" />
+                <Precinct name="BLOOMINGVALE" votes="4" />
+                <Precinct name="CADES" votes="0" />
+                <Precinct name="CEDAR SWAMP" votes="0" />
+                <Precinct name="CENTRAL" votes="1" />
+                <Precinct name="EARLES" votes="2" />
+                <Precinct name="GREELEYVILLE" votes="3" />
+                <Precinct name="HARMONY" votes="0" />
+                <Precinct name="HEBRON" votes="1" />
+                <Precinct name="HEMINGWAY" votes="4" />
+                <Precinct name="HENRY-POPLAR HILL" votes="4" />
+                <Precinct name="INDIANTOWN" votes="3" />
+                <Precinct name="KINGSTREE NO.1" votes="4" />
+                <Precinct name="KINGSTREE NO.2" votes="5" />
+                <Precinct name="KINGSTREE NO.3" votes="5" />
+                <Precinct name="KINGSTREE NO.4" votes="1" />
+                <Precinct name="LANE" votes="2" />
+                <Precinct name="MORRISVILLE" votes="0" />
+                <Precinct name="MOUNT VERNON" votes="0" />
+                <Precinct name="NESMITH" votes="2" />
+                <Precinct name="PERGAMOS" votes="1" />
+                <Precinct name="PINEY FOREST" votes="2" />
+                <Precinct name="SALTERS" votes="2" />
+                <Precinct name="SANDY BAY" votes="2" />
+                <Precinct name="SINGLETARY" votes="0" />
+                <Precinct name="SUTTONS" votes="2" />
+                <Precinct name="TRIO" votes="0" />
+                <Precinct name="MUDDY CREEK" votes="2" />
+                <Precinct name="Absentee" votes="11" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="Bill Bledsoe" party="LIB" totalVotes="47">
+            <VoteType name="Election Day" votes="47">
+                <Precinct name="BLACK RIVER" votes="0" />
+                <Precinct name="BLOOMINGVALE" votes="2" />
+                <Precinct name="CADES" votes="1" />
+                <Precinct name="CEDAR SWAMP" votes="0" />
+                <Precinct name="CENTRAL" votes="1" />
+                <Precinct name="EARLES" votes="2" />
+                <Precinct name="GREELEYVILLE" votes="3" />
+                <Precinct name="HARMONY" votes="2" />
+                <Precinct name="HEBRON" votes="3" />
+                <Precinct name="HEMINGWAY" votes="4" />
+                <Precinct name="HENRY-POPLAR HILL" votes="0" />
+                <Precinct name="INDIANTOWN" votes="1" />
+                <Precinct name="KINGSTREE NO.1" votes="4" />
+                <Precinct name="KINGSTREE NO.2" votes="1" />
+                <Precinct name="KINGSTREE NO.3" votes="0" />
+                <Precinct name="KINGSTREE NO.4" votes="2" />
+                <Precinct name="LANE" votes="0" />
+                <Precinct name="MORRISVILLE" votes="0" />
+                <Precinct name="MOUNT VERNON" votes="0" />
+                <Precinct name="NESMITH" votes="2" />
+                <Precinct name="PERGAMOS" votes="2" />
+                <Precinct name="PINEY FOREST" votes="0" />
+                <Precinct name="SALTERS" votes="4" />
+                <Precinct name="SANDY BAY" votes="1" />
+                <Precinct name="SINGLETARY" votes="0" />
+                <Precinct name="SUTTONS" votes="1" />
+                <Precinct name="TRIO" votes="0" />
+                <Precinct name="MUDDY CREEK" votes="2" />
+                <Precinct name="Absentee" votes="9" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="008" text="Write-In" party="NON" totalVotes="6">
+            <VoteType name="Election Day" votes="6">
+                <Precinct name="BLACK RIVER" votes="0" />
+                <Precinct name="BLOOMINGVALE" votes="0" />
+                <Precinct name="CADES" votes="0" />
+                <Precinct name="CEDAR SWAMP" votes="1" />
+                <Precinct name="CENTRAL" votes="0" />
+                <Precinct name="EARLES" votes="0" />
+                <Precinct name="GREELEYVILLE" votes="0" />
+                <Precinct name="HARMONY" votes="0" />
+                <Precinct name="HEBRON" votes="0" />
+                <Precinct name="HEMINGWAY" votes="0" />
+                <Precinct name="HENRY-POPLAR HILL" votes="0" />
+                <Precinct name="INDIANTOWN" votes="0" />
+                <Precinct name="KINGSTREE NO.1" votes="1" />
+                <Precinct name="KINGSTREE NO.2" votes="1" />
+                <Precinct name="KINGSTREE NO.3" votes="0" />
+                <Precinct name="KINGSTREE NO.4" votes="0" />
+                <Precinct name="LANE" votes="0" />
+                <Precinct name="MORRISVILLE" votes="0" />
+                <Precinct name="MOUNT VERNON" votes="0" />
+                <Precinct name="NESMITH" votes="1" />
+                <Precinct name="PERGAMOS" votes="0" />
+                <Precinct name="PINEY FOREST" votes="1" />
+                <Precinct name="SALTERS" votes="1" />
+                <Precinct name="SANDY BAY" votes="0" />
+                <Precinct name="SINGLETARY" votes="0" />
+                <Precinct name="SUTTONS" votes="0" />
+                <Precinct name="TRIO" votes="0" />
+                <Precinct name="MUDDY CREEK" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0106" text="U.S.  House of Representatives, District  6" voteFor="1" isQuestion="false" precinctsReporting="28" precinctsReported="28">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BLACK RIVER" votes="0" />
+            <Precinct name="BLOOMINGVALE" votes="0" />
+            <Precinct name="CADES" votes="0" />
+            <Precinct name="CEDAR SWAMP" votes="0" />
+            <Precinct name="CENTRAL" votes="0" />
+            <Precinct name="EARLES" votes="0" />
+            <Precinct name="GREELEYVILLE" votes="0" />
+            <Precinct name="HARMONY" votes="0" />
+            <Precinct name="HEBRON" votes="0" />
+            <Precinct name="HEMINGWAY" votes="0" />
+            <Precinct name="HENRY-POPLAR HILL" votes="0" />
+            <Precinct name="INDIANTOWN" votes="0" />
+            <Precinct name="KINGSTREE NO.1" votes="0" />
+            <Precinct name="KINGSTREE NO.2" votes="0" />
+            <Precinct name="KINGSTREE NO.3" votes="0" />
+            <Precinct name="KINGSTREE NO.4" votes="0" />
+            <Precinct name="LANE" votes="0" />
+            <Precinct name="MORRISVILLE" votes="0" />
+            <Precinct name="MOUNT VERNON" votes="0" />
+            <Precinct name="NESMITH" votes="0" />
+            <Precinct name="PERGAMOS" votes="0" />
+            <Precinct name="PINEY FOREST" votes="0" />
+            <Precinct name="SALTERS" votes="0" />
+            <Precinct name="SANDY BAY" votes="0" />
+            <Precinct name="SINGLETARY" votes="0" />
+            <Precinct name="SUTTONS" votes="0" />
+            <Precinct name="TRIO" votes="0" />
+            <Precinct name="MUDDY CREEK" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="671">
+            <Precinct name="BLACK RIVER" votes="10" />
+            <Precinct name="BLOOMINGVALE" votes="34" />
+            <Precinct name="CADES" votes="6" />
+            <Precinct name="CEDAR SWAMP" votes="14" />
+            <Precinct name="CENTRAL" votes="26" />
+            <Precinct name="EARLES" votes="19" />
+            <Precinct name="GREELEYVILLE" votes="31" />
+            <Precinct name="HARMONY" votes="8" />
+            <Precinct name="HEBRON" votes="16" />
+            <Precinct name="HEMINGWAY" votes="40" />
+            <Precinct name="HENRY-POPLAR HILL" votes="12" />
+            <Precinct name="INDIANTOWN" votes="27" />
+            <Precinct name="KINGSTREE NO.1" votes="57" />
+            <Precinct name="KINGSTREE NO.2" votes="20" />
+            <Precinct name="KINGSTREE NO.3" votes="41" />
+            <Precinct name="KINGSTREE NO.4" votes="31" />
+            <Precinct name="LANE" votes="16" />
+            <Precinct name="MORRISVILLE" votes="2" />
+            <Precinct name="MOUNT VERNON" votes="11" />
+            <Precinct name="NESMITH" votes="11" />
+            <Precinct name="PERGAMOS" votes="4" />
+            <Precinct name="PINEY FOREST" votes="8" />
+            <Precinct name="SALTERS" votes="30" />
+            <Precinct name="SANDY BAY" votes="16" />
+            <Precinct name="SINGLETARY" votes="5" />
+            <Precinct name="SUTTONS" votes="3" />
+            <Precinct name="TRIO" votes="14" />
+            <Precinct name="MUDDY CREEK" votes="9" />
+            <Precinct name="Absentee" votes="150" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="James E Jim Clyburn" party="DEM" totalVotes="10291">
+            <VoteType name="Election Day" votes="10291">
+                <Precinct name="BLACK RIVER" votes="99" />
+                <Precinct name="BLOOMINGVALE" votes="335" />
+                <Precinct name="CADES" votes="164" />
+                <Precinct name="CEDAR SWAMP" votes="92" />
+                <Precinct name="CENTRAL" votes="324" />
+                <Precinct name="EARLES" votes="104" />
+                <Precinct name="GREELEYVILLE" votes="548" />
+                <Precinct name="HARMONY" votes="69" />
+                <Precinct name="HEBRON" votes="59" />
+                <Precinct name="HEMINGWAY" votes="524" />
+                <Precinct name="HENRY-POPLAR HILL" votes="175" />
+                <Precinct name="INDIANTOWN" votes="605" />
+                <Precinct name="KINGSTREE NO.1" votes="748" />
+                <Precinct name="KINGSTREE NO.2" votes="315" />
+                <Precinct name="KINGSTREE NO.3" votes="753" />
+                <Precinct name="KINGSTREE NO.4" votes="432" />
+                <Precinct name="LANE" votes="433" />
+                <Precinct name="MORRISVILLE" votes="132" />
+                <Precinct name="MOUNT VERNON" votes="149" />
+                <Precinct name="NESMITH" votes="290" />
+                <Precinct name="PERGAMOS" votes="61" />
+                <Precinct name="PINEY FOREST" votes="20" />
+                <Precinct name="SALTERS" votes="473" />
+                <Precinct name="SANDY BAY" votes="67" />
+                <Precinct name="SINGLETARY" votes="113" />
+                <Precinct name="SUTTONS" votes="56" />
+                <Precinct name="TRIO" votes="362" />
+                <Precinct name="MUDDY CREEK" votes="194" />
+                <Precinct name="Absentee" votes="2535" />
+                <Precinct name="Emergency" votes="55" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="4" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Prince Charles Mallory" party="GRN" totalVotes="88">
+            <VoteType name="Election Day" votes="88">
+                <Precinct name="BLACK RIVER" votes="1" />
+                <Precinct name="BLOOMINGVALE" votes="6" />
+                <Precinct name="CADES" votes="0" />
+                <Precinct name="CEDAR SWAMP" votes="3" />
+                <Precinct name="CENTRAL" votes="3" />
+                <Precinct name="EARLES" votes="3" />
+                <Precinct name="GREELEYVILLE" votes="3" />
+                <Precinct name="HARMONY" votes="2" />
+                <Precinct name="HEBRON" votes="2" />
+                <Precinct name="HEMINGWAY" votes="7" />
+                <Precinct name="HENRY-POPLAR HILL" votes="4" />
+                <Precinct name="INDIANTOWN" votes="2" />
+                <Precinct name="KINGSTREE NO.1" votes="8" />
+                <Precinct name="KINGSTREE NO.2" votes="4" />
+                <Precinct name="KINGSTREE NO.3" votes="6" />
+                <Precinct name="KINGSTREE NO.4" votes="4" />
+                <Precinct name="LANE" votes="2" />
+                <Precinct name="MORRISVILLE" votes="0" />
+                <Precinct name="MOUNT VERNON" votes="0" />
+                <Precinct name="NESMITH" votes="3" />
+                <Precinct name="PERGAMOS" votes="1" />
+                <Precinct name="PINEY FOREST" votes="1" />
+                <Precinct name="SALTERS" votes="3" />
+                <Precinct name="SANDY BAY" votes="1" />
+                <Precinct name="SINGLETARY" votes="1" />
+                <Precinct name="SUTTONS" votes="2" />
+                <Precinct name="TRIO" votes="2" />
+                <Precinct name="MUDDY CREEK" votes="6" />
+                <Precinct name="Absentee" votes="8" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Laura Sterling" party="REP" totalVotes="4025">
+            <VoteType name="Election Day" votes="4025">
+                <Precinct name="BLACK RIVER" votes="68" />
+                <Precinct name="BLOOMINGVALE" votes="143" />
+                <Precinct name="CADES" votes="91" />
+                <Precinct name="CEDAR SWAMP" votes="71" />
+                <Precinct name="CENTRAL" votes="143" />
+                <Precinct name="EARLES" votes="232" />
+                <Precinct name="GREELEYVILLE" votes="120" />
+                <Precinct name="HARMONY" votes="125" />
+                <Precinct name="HEBRON" votes="230" />
+                <Precinct name="HEMINGWAY" votes="250" />
+                <Precinct name="HENRY-POPLAR HILL" votes="151" />
+                <Precinct name="INDIANTOWN" votes="102" />
+                <Precinct name="KINGSTREE NO.1" votes="578" />
+                <Precinct name="KINGSTREE NO.2" votes="9" />
+                <Precinct name="KINGSTREE NO.3" votes="52" />
+                <Precinct name="KINGSTREE NO.4" votes="95" />
+                <Precinct name="LANE" votes="32" />
+                <Precinct name="MORRISVILLE" votes="6" />
+                <Precinct name="MOUNT VERNON" votes="71" />
+                <Precinct name="NESMITH" votes="34" />
+                <Precinct name="PERGAMOS" votes="73" />
+                <Precinct name="PINEY FOREST" votes="208" />
+                <Precinct name="SALTERS" votes="67" />
+                <Precinct name="SANDY BAY" votes="131" />
+                <Precinct name="SINGLETARY" votes="25" />
+                <Precinct name="SUTTONS" votes="95" />
+                <Precinct name="TRIO" votes="43" />
+                <Precinct name="MUDDY CREEK" votes="287" />
+                <Precinct name="Absentee" votes="485" />
+                <Precinct name="Emergency" votes="7" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Rich Piotrowski" party="LIB" totalVotes="91">
+            <VoteType name="Election Day" votes="91">
+                <Precinct name="BLACK RIVER" votes="3" />
+                <Precinct name="BLOOMINGVALE" votes="2" />
+                <Precinct name="CADES" votes="3" />
+                <Precinct name="CEDAR SWAMP" votes="1" />
+                <Precinct name="CENTRAL" votes="3" />
+                <Precinct name="EARLES" votes="1" />
+                <Precinct name="GREELEYVILLE" votes="7" />
+                <Precinct name="HARMONY" votes="0" />
+                <Precinct name="HEBRON" votes="8" />
+                <Precinct name="HEMINGWAY" votes="6" />
+                <Precinct name="HENRY-POPLAR HILL" votes="3" />
+                <Precinct name="INDIANTOWN" votes="1" />
+                <Precinct name="KINGSTREE NO.1" votes="10" />
+                <Precinct name="KINGSTREE NO.2" votes="2" />
+                <Precinct name="KINGSTREE NO.3" votes="3" />
+                <Precinct name="KINGSTREE NO.4" votes="3" />
+                <Precinct name="LANE" votes="0" />
+                <Precinct name="MORRISVILLE" votes="0" />
+                <Precinct name="MOUNT VERNON" votes="5" />
+                <Precinct name="NESMITH" votes="2" />
+                <Precinct name="PERGAMOS" votes="1" />
+                <Precinct name="PINEY FOREST" votes="3" />
+                <Precinct name="SALTERS" votes="5" />
+                <Precinct name="SANDY BAY" votes="3" />
+                <Precinct name="SINGLETARY" votes="0" />
+                <Precinct name="SUTTONS" votes="1" />
+                <Precinct name="TRIO" votes="0" />
+                <Precinct name="MUDDY CREEK" votes="3" />
+                <Precinct name="Absentee" votes="11" />
+                <Precinct name="Emergency" votes="1" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Write-In" party="NON" totalVotes="15">
+            <VoteType name="Election Day" votes="15">
+                <Precinct name="BLACK RIVER" votes="1" />
+                <Precinct name="BLOOMINGVALE" votes="0" />
+                <Precinct name="CADES" votes="0" />
+                <Precinct name="CEDAR SWAMP" votes="1" />
+                <Precinct name="CENTRAL" votes="0" />
+                <Precinct name="EARLES" votes="1" />
+                <Precinct name="GREELEYVILLE" votes="0" />
+                <Precinct name="HARMONY" votes="1" />
+                <Precinct name="HEBRON" votes="0" />
+                <Precinct name="HEMINGWAY" votes="1" />
+                <Precinct name="HENRY-POPLAR HILL" votes="0" />
+                <Precinct name="INDIANTOWN" votes="0" />
+                <Precinct name="KINGSTREE NO.1" votes="3" />
+                <Precinct name="KINGSTREE NO.2" votes="0" />
+                <Precinct name="KINGSTREE NO.3" votes="0" />
+                <Precinct name="KINGSTREE NO.4" votes="0" />
+                <Precinct name="LANE" votes="0" />
+                <Precinct name="MORRISVILLE" votes="0" />
+                <Precinct name="MOUNT VERNON" votes="1" />
+                <Precinct name="NESMITH" votes="0" />
+                <Precinct name="PERGAMOS" votes="1" />
+                <Precinct name="PINEY FOREST" votes="1" />
+                <Precinct name="SALTERS" votes="0" />
+                <Precinct name="SANDY BAY" votes="0" />
+                <Precinct name="SINGLETARY" votes="0" />
+                <Precinct name="SUTTONS" votes="0" />
+                <Precinct name="TRIO" votes="0" />
+                <Precinct name="MUDDY CREEK" votes="0" />
+                <Precinct name="Absentee" votes="4" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0107" text="State  Senate, District  32" voteFor="1" isQuestion="false" precinctsReporting="28" precinctsReported="28">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BLACK RIVER" votes="0" />
+            <Precinct name="BLOOMINGVALE" votes="0" />
+            <Precinct name="CADES" votes="0" />
+            <Precinct name="CEDAR SWAMP" votes="0" />
+            <Precinct name="CENTRAL" votes="0" />
+            <Precinct name="EARLES" votes="0" />
+            <Precinct name="GREELEYVILLE" votes="0" />
+            <Precinct name="HARMONY" votes="0" />
+            <Precinct name="HEBRON" votes="0" />
+            <Precinct name="HEMINGWAY" votes="0" />
+            <Precinct name="HENRY-POPLAR HILL" votes="0" />
+            <Precinct name="INDIANTOWN" votes="0" />
+            <Precinct name="KINGSTREE NO.1" votes="0" />
+            <Precinct name="KINGSTREE NO.2" votes="0" />
+            <Precinct name="KINGSTREE NO.3" votes="0" />
+            <Precinct name="KINGSTREE NO.4" votes="0" />
+            <Precinct name="LANE" votes="0" />
+            <Precinct name="MORRISVILLE" votes="0" />
+            <Precinct name="MOUNT VERNON" votes="0" />
+            <Precinct name="NESMITH" votes="0" />
+            <Precinct name="PERGAMOS" votes="0" />
+            <Precinct name="PINEY FOREST" votes="0" />
+            <Precinct name="SALTERS" votes="0" />
+            <Precinct name="SANDY BAY" votes="0" />
+            <Precinct name="SINGLETARY" votes="0" />
+            <Precinct name="SUTTONS" votes="0" />
+            <Precinct name="TRIO" votes="0" />
+            <Precinct name="MUDDY CREEK" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="2920">
+            <Precinct name="BLACK RIVER" votes="36" />
+            <Precinct name="BLOOMINGVALE" votes="116" />
+            <Precinct name="CADES" votes="50" />
+            <Precinct name="CEDAR SWAMP" votes="51" />
+            <Precinct name="CENTRAL" votes="96" />
+            <Precinct name="EARLES" votes="156" />
+            <Precinct name="GREELEYVILLE" votes="87" />
+            <Precinct name="HARMONY" votes="96" />
+            <Precinct name="HEBRON" votes="186" />
+            <Precinct name="HEMINGWAY" votes="191" />
+            <Precinct name="HENRY-POPLAR HILL" votes="105" />
+            <Precinct name="INDIANTOWN" votes="88" />
+            <Precinct name="KINGSTREE NO.1" votes="319" />
+            <Precinct name="KINGSTREE NO.2" votes="22" />
+            <Precinct name="KINGSTREE NO.3" votes="53" />
+            <Precinct name="KINGSTREE NO.4" votes="83" />
+            <Precinct name="LANE" votes="24" />
+            <Precinct name="MORRISVILLE" votes="6" />
+            <Precinct name="MOUNT VERNON" votes="48" />
+            <Precinct name="NESMITH" votes="46" />
+            <Precinct name="PERGAMOS" votes="45" />
+            <Precinct name="PINEY FOREST" votes="150" />
+            <Precinct name="SALTERS" votes="51" />
+            <Precinct name="SANDY BAY" votes="86" />
+            <Precinct name="SINGLETARY" votes="11" />
+            <Precinct name="SUTTONS" votes="55" />
+            <Precinct name="TRIO" votes="36" />
+            <Precinct name="MUDDY CREEK" votes="179" />
+            <Precinct name="Absentee" votes="441" />
+            <Precinct name="Emergency" votes="6" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="1" />
+        </VoteType>
+        <Choice key="001" text="Ronnie A Sabb" party="DEM" totalVotes="12068">
+            <VoteType name="Election Day" votes="12068">
+                <Precinct name="BLACK RIVER" votes="145" />
+                <Precinct name="BLOOMINGVALE" votes="401" />
+                <Precinct name="CADES" votes="212" />
+                <Precinct name="CEDAR SWAMP" votes="128" />
+                <Precinct name="CENTRAL" votes="383" />
+                <Precinct name="EARLES" votes="195" />
+                <Precinct name="GREELEYVILLE" votes="610" />
+                <Precinct name="HARMONY" votes="103" />
+                <Precinct name="HEBRON" votes="125" />
+                <Precinct name="HEMINGWAY" votes="635" />
+                <Precinct name="HENRY-POPLAR HILL" votes="237" />
+                <Precinct name="INDIANTOWN" votes="646" />
+                <Precinct name="KINGSTREE NO.1" votes="1034" />
+                <Precinct name="KINGSTREE NO.2" votes="328" />
+                <Precinct name="KINGSTREE NO.3" votes="795" />
+                <Precinct name="KINGSTREE NO.4" votes="478" />
+                <Precinct name="LANE" votes="456" />
+                <Precinct name="MORRISVILLE" votes="134" />
+                <Precinct name="MOUNT VERNON" votes="188" />
+                <Precinct name="NESMITH" votes="291" />
+                <Precinct name="PERGAMOS" votes="95" />
+                <Precinct name="PINEY FOREST" votes="88" />
+                <Precinct name="SALTERS" votes="525" />
+                <Precinct name="SANDY BAY" votes="127" />
+                <Precinct name="SINGLETARY" votes="133" />
+                <Precinct name="SUTTONS" votes="97" />
+                <Precinct name="TRIO" votes="379" />
+                <Precinct name="MUDDY CREEK" votes="316" />
+                <Precinct name="Absentee" votes="2722" />
+                <Precinct name="Emergency" votes="57" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="4" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="193">
+            <VoteType name="Election Day" votes="193">
+                <Precinct name="BLACK RIVER" votes="1" />
+                <Precinct name="BLOOMINGVALE" votes="3" />
+                <Precinct name="CADES" votes="2" />
+                <Precinct name="CEDAR SWAMP" votes="3" />
+                <Precinct name="CENTRAL" votes="20" />
+                <Precinct name="EARLES" votes="9" />
+                <Precinct name="GREELEYVILLE" votes="12" />
+                <Precinct name="HARMONY" votes="6" />
+                <Precinct name="HEBRON" votes="4" />
+                <Precinct name="HEMINGWAY" votes="2" />
+                <Precinct name="HENRY-POPLAR HILL" votes="3" />
+                <Precinct name="INDIANTOWN" votes="3" />
+                <Precinct name="KINGSTREE NO.1" votes="51" />
+                <Precinct name="KINGSTREE NO.2" votes="0" />
+                <Precinct name="KINGSTREE NO.3" votes="7" />
+                <Precinct name="KINGSTREE NO.4" votes="4" />
+                <Precinct name="LANE" votes="3" />
+                <Precinct name="MORRISVILLE" votes="0" />
+                <Precinct name="MOUNT VERNON" votes="1" />
+                <Precinct name="NESMITH" votes="3" />
+                <Precinct name="PERGAMOS" votes="1" />
+                <Precinct name="PINEY FOREST" votes="3" />
+                <Precinct name="SALTERS" votes="2" />
+                <Precinct name="SANDY BAY" votes="5" />
+                <Precinct name="SINGLETARY" votes="0" />
+                <Precinct name="SUTTONS" votes="5" />
+                <Precinct name="TRIO" votes="6" />
+                <Precinct name="MUDDY CREEK" votes="4" />
+                <Precinct name="Absentee" votes="30" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0108" text="State  House of Representatives, District  101" voteFor="1" isQuestion="false" precinctsReporting="26" precinctsReported="26">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BLACK RIVER" votes="0" />
+            <Precinct name="BLOOMINGVALE" votes="0" />
+            <Precinct name="CADES" votes="0" />
+            <Precinct name="CEDAR SWAMP" votes="0" />
+            <Precinct name="CENTRAL" votes="0" />
+            <Precinct name="EARLES" votes="0" />
+            <Precinct name="GREELEYVILLE" votes="0" />
+            <Precinct name="HARMONY" votes="0" />
+            <Precinct name="HEBRON" votes="0" />
+            <Precinct name="HEMINGWAY" votes="0" />
+            <Precinct name="HENRY-POPLAR HILL" votes="0" />
+            <Precinct name="INDIANTOWN" votes="0" />
+            <Precinct name="KINGSTREE NO.1" votes="0" />
+            <Precinct name="KINGSTREE NO.2" votes="0" />
+            <Precinct name="KINGSTREE NO.3" votes="0" />
+            <Precinct name="KINGSTREE NO.4" votes="0" />
+            <Precinct name="LANE" votes="0" />
+            <Precinct name="MOUNT VERNON" votes="0" />
+            <Precinct name="PERGAMOS" votes="0" />
+            <Precinct name="PINEY FOREST" votes="0" />
+            <Precinct name="SALTERS" votes="0" />
+            <Precinct name="SANDY BAY" votes="0" />
+            <Precinct name="SINGLETARY" votes="0" />
+            <Precinct name="SUTTONS" votes="0" />
+            <Precinct name="TRIO" votes="0" />
+            <Precinct name="MUDDY CREEK" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="3299">
+            <Precinct name="BLACK RIVER" votes="44" />
+            <Precinct name="BLOOMINGVALE" votes="130" />
+            <Precinct name="CADES" votes="56" />
+            <Precinct name="CEDAR SWAMP" votes="56" />
+            <Precinct name="CENTRAL" votes="115" />
+            <Precinct name="EARLES" votes="171" />
+            <Precinct name="GREELEYVILLE" votes="108" />
+            <Precinct name="HARMONY" votes="101" />
+            <Precinct name="HEBRON" votes="197" />
+            <Precinct name="HEMINGWAY" votes="213" />
+            <Precinct name="HENRY-POPLAR HILL" votes="114" />
+            <Precinct name="INDIANTOWN" votes="91" />
+            <Precinct name="KINGSTREE NO.1" votes="408" />
+            <Precinct name="KINGSTREE NO.2" votes="27" />
+            <Precinct name="KINGSTREE NO.3" votes="76" />
+            <Precinct name="KINGSTREE NO.4" votes="105" />
+            <Precinct name="LANE" votes="38" />
+            <Precinct name="MOUNT VERNON" votes="59" />
+            <Precinct name="PERGAMOS" votes="49" />
+            <Precinct name="PINEY FOREST" votes="159" />
+            <Precinct name="SALTERS" votes="60" />
+            <Precinct name="SANDY BAY" votes="95" />
+            <Precinct name="SINGLETARY" votes="16" />
+            <Precinct name="SUTTONS" votes="61" />
+            <Precinct name="TRIO" votes="41" />
+            <Precinct name="MUDDY CREEK" votes="184" />
+            <Precinct name="Absentee" votes="519" />
+            <Precinct name="Emergency" votes="6" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Cezar McKnight" party="DEM" totalVotes="11117">
+            <VoteType name="Election Day" votes="11117">
+                <Precinct name="BLACK RIVER" votes="134" />
+                <Precinct name="BLOOMINGVALE" votes="386" />
+                <Precinct name="CADES" votes="206" />
+                <Precinct name="CEDAR SWAMP" votes="119" />
+                <Precinct name="CENTRAL" votes="360" />
+                <Precinct name="EARLES" votes="181" />
+                <Precinct name="GREELEYVILLE" votes="592" />
+                <Precinct name="HARMONY" votes="101" />
+                <Precinct name="HEBRON" votes="115" />
+                <Precinct name="HEMINGWAY" votes="612" />
+                <Precinct name="HENRY-POPLAR HILL" votes="228" />
+                <Precinct name="INDIANTOWN" votes="644" />
+                <Precinct name="KINGSTREE NO.1" votes="933" />
+                <Precinct name="KINGSTREE NO.2" votes="322" />
+                <Precinct name="KINGSTREE NO.3" votes="772" />
+                <Precinct name="KINGSTREE NO.4" votes="456" />
+                <Precinct name="LANE" votes="444" />
+                <Precinct name="MOUNT VERNON" votes="177" />
+                <Precinct name="PERGAMOS" votes="91" />
+                <Precinct name="PINEY FOREST" votes="79" />
+                <Precinct name="SALTERS" votes="515" />
+                <Precinct name="SANDY BAY" votes="116" />
+                <Precinct name="SINGLETARY" votes="126" />
+                <Precinct name="SUTTONS" votes="93" />
+                <Precinct name="TRIO" votes="377" />
+                <Precinct name="MUDDY CREEK" votes="308" />
+                <Precinct name="Absentee" votes="2572" />
+                <Precinct name="Emergency" votes="57" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="223">
+            <VoteType name="Election Day" votes="223">
+                <Precinct name="BLACK RIVER" votes="4" />
+                <Precinct name="BLOOMINGVALE" votes="4" />
+                <Precinct name="CADES" votes="2" />
+                <Precinct name="CEDAR SWAMP" votes="7" />
+                <Precinct name="CENTRAL" votes="24" />
+                <Precinct name="EARLES" votes="8" />
+                <Precinct name="GREELEYVILLE" votes="9" />
+                <Precinct name="HARMONY" votes="3" />
+                <Precinct name="HEBRON" votes="3" />
+                <Precinct name="HEMINGWAY" votes="3" />
+                <Precinct name="HENRY-POPLAR HILL" votes="3" />
+                <Precinct name="INDIANTOWN" votes="2" />
+                <Precinct name="KINGSTREE NO.1" votes="63" />
+                <Precinct name="KINGSTREE NO.2" votes="1" />
+                <Precinct name="KINGSTREE NO.3" votes="7" />
+                <Precinct name="KINGSTREE NO.4" votes="4" />
+                <Precinct name="LANE" votes="1" />
+                <Precinct name="MOUNT VERNON" votes="1" />
+                <Precinct name="PERGAMOS" votes="1" />
+                <Precinct name="PINEY FOREST" votes="3" />
+                <Precinct name="SALTERS" votes="3" />
+                <Precinct name="SANDY BAY" votes="7" />
+                <Precinct name="SINGLETARY" votes="2" />
+                <Precinct name="SUTTONS" votes="3" />
+                <Precinct name="TRIO" votes="3" />
+                <Precinct name="MUDDY CREEK" votes="7" />
+                <Precinct name="Absentee" votes="45" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0109" text="State  House of Representatives, District  103" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="MORRISVILLE" votes="0" />
+            <Precinct name="NESMITH" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="51">
+            <Precinct name="MORRISVILLE" votes="5" />
+            <Precinct name="NESMITH" votes="45" />
+            <Precinct name="Absentee" votes="1" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Carl L Anderson" party="DEM" totalVotes="484">
+            <VoteType name="Election Day" votes="484">
+                <Precinct name="MORRISVILLE" votes="135" />
+                <Precinct name="NESMITH" votes="293" />
+                <Precinct name="Absentee" votes="56" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="2">
+            <VoteType name="Election Day" votes="2">
+                <Precinct name="MORRISVILLE" votes="0" />
+                <Precinct name="NESMITH" votes="2" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0110" text="Sheriff" voteFor="1" isQuestion="false" precinctsReporting="28" precinctsReported="28">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BLACK RIVER" votes="0" />
+            <Precinct name="BLOOMINGVALE" votes="0" />
+            <Precinct name="CADES" votes="0" />
+            <Precinct name="CEDAR SWAMP" votes="0" />
+            <Precinct name="CENTRAL" votes="0" />
+            <Precinct name="EARLES" votes="0" />
+            <Precinct name="GREELEYVILLE" votes="0" />
+            <Precinct name="HARMONY" votes="0" />
+            <Precinct name="HEBRON" votes="0" />
+            <Precinct name="HEMINGWAY" votes="0" />
+            <Precinct name="HENRY-POPLAR HILL" votes="0" />
+            <Precinct name="INDIANTOWN" votes="0" />
+            <Precinct name="KINGSTREE NO.1" votes="0" />
+            <Precinct name="KINGSTREE NO.2" votes="0" />
+            <Precinct name="KINGSTREE NO.3" votes="0" />
+            <Precinct name="KINGSTREE NO.4" votes="0" />
+            <Precinct name="LANE" votes="0" />
+            <Precinct name="MORRISVILLE" votes="0" />
+            <Precinct name="MOUNT VERNON" votes="0" />
+            <Precinct name="NESMITH" votes="0" />
+            <Precinct name="PERGAMOS" votes="0" />
+            <Precinct name="PINEY FOREST" votes="0" />
+            <Precinct name="SALTERS" votes="0" />
+            <Precinct name="SANDY BAY" votes="0" />
+            <Precinct name="SINGLETARY" votes="0" />
+            <Precinct name="SUTTONS" votes="0" />
+            <Precinct name="TRIO" votes="0" />
+            <Precinct name="MUDDY CREEK" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="2750">
+            <Precinct name="BLACK RIVER" votes="30" />
+            <Precinct name="BLOOMINGVALE" votes="113" />
+            <Precinct name="CADES" votes="41" />
+            <Precinct name="CEDAR SWAMP" votes="46" />
+            <Precinct name="CENTRAL" votes="88" />
+            <Precinct name="EARLES" votes="151" />
+            <Precinct name="GREELEYVILLE" votes="89" />
+            <Precinct name="HARMONY" votes="93" />
+            <Precinct name="HEBRON" votes="164" />
+            <Precinct name="HEMINGWAY" votes="189" />
+            <Precinct name="HENRY-POPLAR HILL" votes="99" />
+            <Precinct name="INDIANTOWN" votes="76" />
+            <Precinct name="KINGSTREE NO.1" votes="274" />
+            <Precinct name="KINGSTREE NO.2" votes="28" />
+            <Precinct name="KINGSTREE NO.3" votes="55" />
+            <Precinct name="KINGSTREE NO.4" votes="87" />
+            <Precinct name="LANE" votes="30" />
+            <Precinct name="MORRISVILLE" votes="6" />
+            <Precinct name="MOUNT VERNON" votes="49" />
+            <Precinct name="NESMITH" votes="47" />
+            <Precinct name="PERGAMOS" votes="42" />
+            <Precinct name="PINEY FOREST" votes="148" />
+            <Precinct name="SALTERS" votes="57" />
+            <Precinct name="SANDY BAY" votes="64" />
+            <Precinct name="SINGLETARY" votes="14" />
+            <Precinct name="SUTTONS" votes="56" />
+            <Precinct name="TRIO" votes="31" />
+            <Precinct name="MUDDY CREEK" votes="158" />
+            <Precinct name="Absentee" votes="418" />
+            <Precinct name="Emergency" votes="6" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="1" />
+        </VoteType>
+        <Choice key="001" text="Stephen R Gardner" party="DEM" totalVotes="12356">
+            <VoteType name="Election Day" votes="12356">
+                <Precinct name="BLACK RIVER" votes="147" />
+                <Precinct name="BLOOMINGVALE" votes="406" />
+                <Precinct name="CADES" votes="222" />
+                <Precinct name="CEDAR SWAMP" votes="133" />
+                <Precinct name="CENTRAL" votes="407" />
+                <Precinct name="EARLES" votes="204" />
+                <Precinct name="GREELEYVILLE" votes="617" />
+                <Precinct name="HARMONY" votes="111" />
+                <Precinct name="HEBRON" votes="151" />
+                <Precinct name="HEMINGWAY" votes="635" />
+                <Precinct name="HENRY-POPLAR HILL" votes="245" />
+                <Precinct name="INDIANTOWN" votes="659" />
+                <Precinct name="KINGSTREE NO.1" votes="1123" />
+                <Precinct name="KINGSTREE NO.2" votes="321" />
+                <Precinct name="KINGSTREE NO.3" votes="798" />
+                <Precinct name="KINGSTREE NO.4" votes="476" />
+                <Precinct name="LANE" votes="452" />
+                <Precinct name="MORRISVILLE" votes="134" />
+                <Precinct name="MOUNT VERNON" votes="186" />
+                <Precinct name="NESMITH" votes="292" />
+                <Precinct name="PERGAMOS" votes="99" />
+                <Precinct name="PINEY FOREST" votes="90" />
+                <Precinct name="SALTERS" votes="521" />
+                <Precinct name="SANDY BAY" votes="153" />
+                <Precinct name="SINGLETARY" votes="129" />
+                <Precinct name="SUTTONS" votes="100" />
+                <Precinct name="TRIO" votes="389" />
+                <Precinct name="MUDDY CREEK" votes="340" />
+                <Precinct name="Absentee" votes="2754" />
+                <Precinct name="Emergency" votes="57" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="4" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="75">
+            <VoteType name="Election Day" votes="75">
+                <Precinct name="BLACK RIVER" votes="5" />
+                <Precinct name="BLOOMINGVALE" votes="1" />
+                <Precinct name="CADES" votes="1" />
+                <Precinct name="CEDAR SWAMP" votes="3" />
+                <Precinct name="CENTRAL" votes="4" />
+                <Precinct name="EARLES" votes="5" />
+                <Precinct name="GREELEYVILLE" votes="3" />
+                <Precinct name="HARMONY" votes="1" />
+                <Precinct name="HEBRON" votes="0" />
+                <Precinct name="HEMINGWAY" votes="4" />
+                <Precinct name="HENRY-POPLAR HILL" votes="1" />
+                <Precinct name="INDIANTOWN" votes="2" />
+                <Precinct name="KINGSTREE NO.1" votes="7" />
+                <Precinct name="KINGSTREE NO.2" votes="1" />
+                <Precinct name="KINGSTREE NO.3" votes="2" />
+                <Precinct name="KINGSTREE NO.4" votes="2" />
+                <Precinct name="LANE" votes="1" />
+                <Precinct name="MORRISVILLE" votes="0" />
+                <Precinct name="MOUNT VERNON" votes="2" />
+                <Precinct name="NESMITH" votes="1" />
+                <Precinct name="PERGAMOS" votes="0" />
+                <Precinct name="PINEY FOREST" votes="3" />
+                <Precinct name="SALTERS" votes="0" />
+                <Precinct name="SANDY BAY" votes="1" />
+                <Precinct name="SINGLETARY" votes="1" />
+                <Precinct name="SUTTONS" votes="1" />
+                <Precinct name="TRIO" votes="1" />
+                <Precinct name="MUDDY CREEK" votes="1" />
+                <Precinct name="Absentee" votes="21" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0111" text="Probate Judge" voteFor="1" isQuestion="false" precinctsReporting="28" precinctsReported="28">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BLACK RIVER" votes="0" />
+            <Precinct name="BLOOMINGVALE" votes="0" />
+            <Precinct name="CADES" votes="0" />
+            <Precinct name="CEDAR SWAMP" votes="0" />
+            <Precinct name="CENTRAL" votes="0" />
+            <Precinct name="EARLES" votes="0" />
+            <Precinct name="GREELEYVILLE" votes="0" />
+            <Precinct name="HARMONY" votes="0" />
+            <Precinct name="HEBRON" votes="0" />
+            <Precinct name="HEMINGWAY" votes="0" />
+            <Precinct name="HENRY-POPLAR HILL" votes="0" />
+            <Precinct name="INDIANTOWN" votes="0" />
+            <Precinct name="KINGSTREE NO.1" votes="0" />
+            <Precinct name="KINGSTREE NO.2" votes="0" />
+            <Precinct name="KINGSTREE NO.3" votes="0" />
+            <Precinct name="KINGSTREE NO.4" votes="0" />
+            <Precinct name="LANE" votes="0" />
+            <Precinct name="MORRISVILLE" votes="0" />
+            <Precinct name="MOUNT VERNON" votes="0" />
+            <Precinct name="NESMITH" votes="0" />
+            <Precinct name="PERGAMOS" votes="0" />
+            <Precinct name="PINEY FOREST" votes="0" />
+            <Precinct name="SALTERS" votes="0" />
+            <Precinct name="SANDY BAY" votes="0" />
+            <Precinct name="SINGLETARY" votes="0" />
+            <Precinct name="SUTTONS" votes="0" />
+            <Precinct name="TRIO" votes="0" />
+            <Precinct name="MUDDY CREEK" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="3084">
+            <Precinct name="BLACK RIVER" votes="37" />
+            <Precinct name="BLOOMINGVALE" votes="117" />
+            <Precinct name="CADES" votes="49" />
+            <Precinct name="CEDAR SWAMP" votes="50" />
+            <Precinct name="CENTRAL" votes="107" />
+            <Precinct name="EARLES" votes="166" />
+            <Precinct name="GREELEYVILLE" votes="95" />
+            <Precinct name="HARMONY" votes="98" />
+            <Precinct name="HEBRON" votes="182" />
+            <Precinct name="HEMINGWAY" votes="201" />
+            <Precinct name="HENRY-POPLAR HILL" votes="101" />
+            <Precinct name="INDIANTOWN" votes="86" />
+            <Precinct name="KINGSTREE NO.1" votes="351" />
+            <Precinct name="KINGSTREE NO.2" votes="30" />
+            <Precinct name="KINGSTREE NO.3" votes="71" />
+            <Precinct name="KINGSTREE NO.4" votes="102" />
+            <Precinct name="LANE" votes="32" />
+            <Precinct name="MORRISVILLE" votes="6" />
+            <Precinct name="MOUNT VERNON" votes="57" />
+            <Precinct name="NESMITH" votes="51" />
+            <Precinct name="PERGAMOS" votes="45" />
+            <Precinct name="PINEY FOREST" votes="156" />
+            <Precinct name="SALTERS" votes="49" />
+            <Precinct name="SANDY BAY" votes="84" />
+            <Precinct name="SINGLETARY" votes="15" />
+            <Precinct name="SUTTONS" votes="60" />
+            <Precinct name="TRIO" votes="41" />
+            <Precinct name="MUDDY CREEK" votes="181" />
+            <Precinct name="Absentee" votes="458" />
+            <Precinct name="Emergency" votes="5" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="1" />
+        </VoteType>
+        <Choice key="001" text="Betty F Matthews" party="DEM" totalVotes="12056">
+            <VoteType name="Election Day" votes="12056">
+                <Precinct name="BLACK RIVER" votes="144" />
+                <Precinct name="BLOOMINGVALE" votes="401" />
+                <Precinct name="CADES" votes="213" />
+                <Precinct name="CEDAR SWAMP" votes="131" />
+                <Precinct name="CENTRAL" votes="389" />
+                <Precinct name="EARLES" votes="190" />
+                <Precinct name="GREELEYVILLE" votes="613" />
+                <Precinct name="HARMONY" votes="105" />
+                <Precinct name="HEBRON" votes="133" />
+                <Precinct name="HEMINGWAY" votes="624" />
+                <Precinct name="HENRY-POPLAR HILL" votes="244" />
+                <Precinct name="INDIANTOWN" votes="651" />
+                <Precinct name="KINGSTREE NO.1" votes="1046" />
+                <Precinct name="KINGSTREE NO.2" votes="319" />
+                <Precinct name="KINGSTREE NO.3" votes="784" />
+                <Precinct name="KINGSTREE NO.4" votes="462" />
+                <Precinct name="LANE" votes="450" />
+                <Precinct name="MORRISVILLE" votes="134" />
+                <Precinct name="MOUNT VERNON" votes="180" />
+                <Precinct name="NESMITH" votes="289" />
+                <Precinct name="PERGAMOS" votes="95" />
+                <Precinct name="PINEY FOREST" votes="82" />
+                <Precinct name="SALTERS" votes="528" />
+                <Precinct name="SANDY BAY" votes="134" />
+                <Precinct name="SINGLETARY" votes="128" />
+                <Precinct name="SUTTONS" votes="97" />
+                <Precinct name="TRIO" votes="380" />
+                <Precinct name="MUDDY CREEK" votes="317" />
+                <Precinct name="Absentee" votes="2730" />
+                <Precinct name="Emergency" votes="58" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="4" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="41">
+            <VoteType name="Election Day" votes="41">
+                <Precinct name="BLACK RIVER" votes="1" />
+                <Precinct name="BLOOMINGVALE" votes="2" />
+                <Precinct name="CADES" votes="2" />
+                <Precinct name="CEDAR SWAMP" votes="1" />
+                <Precinct name="CENTRAL" votes="3" />
+                <Precinct name="EARLES" votes="4" />
+                <Precinct name="GREELEYVILLE" votes="1" />
+                <Precinct name="HARMONY" votes="2" />
+                <Precinct name="HEBRON" votes="0" />
+                <Precinct name="HEMINGWAY" votes="3" />
+                <Precinct name="HENRY-POPLAR HILL" votes="0" />
+                <Precinct name="INDIANTOWN" votes="0" />
+                <Precinct name="KINGSTREE NO.1" votes="7" />
+                <Precinct name="KINGSTREE NO.2" votes="1" />
+                <Precinct name="KINGSTREE NO.3" votes="0" />
+                <Precinct name="KINGSTREE NO.4" votes="1" />
+                <Precinct name="LANE" votes="1" />
+                <Precinct name="MORRISVILLE" votes="0" />
+                <Precinct name="MOUNT VERNON" votes="0" />
+                <Precinct name="NESMITH" votes="0" />
+                <Precinct name="PERGAMOS" votes="1" />
+                <Precinct name="PINEY FOREST" votes="3" />
+                <Precinct name="SALTERS" votes="1" />
+                <Precinct name="SANDY BAY" votes="0" />
+                <Precinct name="SINGLETARY" votes="1" />
+                <Precinct name="SUTTONS" votes="0" />
+                <Precinct name="TRIO" votes="0" />
+                <Precinct name="MUDDY CREEK" votes="1" />
+                <Precinct name="Absentee" votes="5" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0112" text="Clerk of Court" voteFor="1" isQuestion="false" precinctsReporting="28" precinctsReported="28">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BLACK RIVER" votes="0" />
+            <Precinct name="BLOOMINGVALE" votes="0" />
+            <Precinct name="CADES" votes="0" />
+            <Precinct name="CEDAR SWAMP" votes="0" />
+            <Precinct name="CENTRAL" votes="0" />
+            <Precinct name="EARLES" votes="0" />
+            <Precinct name="GREELEYVILLE" votes="0" />
+            <Precinct name="HARMONY" votes="0" />
+            <Precinct name="HEBRON" votes="0" />
+            <Precinct name="HEMINGWAY" votes="0" />
+            <Precinct name="HENRY-POPLAR HILL" votes="0" />
+            <Precinct name="INDIANTOWN" votes="0" />
+            <Precinct name="KINGSTREE NO.1" votes="0" />
+            <Precinct name="KINGSTREE NO.2" votes="0" />
+            <Precinct name="KINGSTREE NO.3" votes="0" />
+            <Precinct name="KINGSTREE NO.4" votes="0" />
+            <Precinct name="LANE" votes="0" />
+            <Precinct name="MORRISVILLE" votes="0" />
+            <Precinct name="MOUNT VERNON" votes="0" />
+            <Precinct name="NESMITH" votes="0" />
+            <Precinct name="PERGAMOS" votes="0" />
+            <Precinct name="PINEY FOREST" votes="0" />
+            <Precinct name="SALTERS" votes="0" />
+            <Precinct name="SANDY BAY" votes="0" />
+            <Precinct name="SINGLETARY" votes="0" />
+            <Precinct name="SUTTONS" votes="0" />
+            <Precinct name="TRIO" votes="0" />
+            <Precinct name="MUDDY CREEK" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="2978">
+            <Precinct name="BLACK RIVER" votes="34" />
+            <Precinct name="BLOOMINGVALE" votes="117" />
+            <Precinct name="CADES" votes="49" />
+            <Precinct name="CEDAR SWAMP" votes="46" />
+            <Precinct name="CENTRAL" votes="96" />
+            <Precinct name="EARLES" votes="162" />
+            <Precinct name="GREELEYVILLE" votes="100" />
+            <Precinct name="HARMONY" votes="97" />
+            <Precinct name="HEBRON" votes="177" />
+            <Precinct name="HEMINGWAY" votes="193" />
+            <Precinct name="HENRY-POPLAR HILL" votes="103" />
+            <Precinct name="INDIANTOWN" votes="81" />
+            <Precinct name="KINGSTREE NO.1" votes="320" />
+            <Precinct name="KINGSTREE NO.2" votes="26" />
+            <Precinct name="KINGSTREE NO.3" votes="71" />
+            <Precinct name="KINGSTREE NO.4" votes="85" />
+            <Precinct name="LANE" votes="34" />
+            <Precinct name="MORRISVILLE" votes="5" />
+            <Precinct name="MOUNT VERNON" votes="54" />
+            <Precinct name="NESMITH" votes="47" />
+            <Precinct name="PERGAMOS" votes="46" />
+            <Precinct name="PINEY FOREST" votes="156" />
+            <Precinct name="SALTERS" votes="51" />
+            <Precinct name="SANDY BAY" votes="79" />
+            <Precinct name="SINGLETARY" votes="14" />
+            <Precinct name="SUTTONS" votes="55" />
+            <Precinct name="TRIO" votes="38" />
+            <Precinct name="MUDDY CREEK" votes="178" />
+            <Precinct name="Absentee" votes="455" />
+            <Precinct name="Emergency" votes="8" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="1" />
+        </VoteType>
+        <Choice key="001" text="Sharon Washington Staggers" party="DEM" totalVotes="12098">
+            <VoteType name="Election Day" votes="12098">
+                <Precinct name="BLACK RIVER" votes="147" />
+                <Precinct name="BLOOMINGVALE" votes="401" />
+                <Precinct name="CADES" votes="213" />
+                <Precinct name="CEDAR SWAMP" votes="134" />
+                <Precinct name="CENTRAL" votes="398" />
+                <Precinct name="EARLES" votes="195" />
+                <Precinct name="GREELEYVILLE" votes="601" />
+                <Precinct name="HARMONY" votes="106" />
+                <Precinct name="HEBRON" votes="138" />
+                <Precinct name="HEMINGWAY" votes="631" />
+                <Precinct name="HENRY-POPLAR HILL" votes="240" />
+                <Precinct name="INDIANTOWN" votes="656" />
+                <Precinct name="KINGSTREE NO.1" votes="1069" />
+                <Precinct name="KINGSTREE NO.2" votes="323" />
+                <Precinct name="KINGSTREE NO.3" votes="772" />
+                <Precinct name="KINGSTREE NO.4" votes="476" />
+                <Precinct name="LANE" votes="445" />
+                <Precinct name="MORRISVILLE" votes="135" />
+                <Precinct name="MOUNT VERNON" votes="181" />
+                <Precinct name="NESMITH" votes="292" />
+                <Precinct name="PERGAMOS" votes="93" />
+                <Precinct name="PINEY FOREST" votes="82" />
+                <Precinct name="SALTERS" votes="524" />
+                <Precinct name="SANDY BAY" votes="138" />
+                <Precinct name="SINGLETARY" votes="129" />
+                <Precinct name="SUTTONS" votes="102" />
+                <Precinct name="TRIO" votes="382" />
+                <Precinct name="MUDDY CREEK" votes="319" />
+                <Precinct name="Absentee" votes="2716" />
+                <Precinct name="Emergency" votes="55" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="4" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="105">
+            <VoteType name="Election Day" votes="105">
+                <Precinct name="BLACK RIVER" votes="1" />
+                <Precinct name="BLOOMINGVALE" votes="2" />
+                <Precinct name="CADES" votes="2" />
+                <Precinct name="CEDAR SWAMP" votes="2" />
+                <Precinct name="CENTRAL" votes="5" />
+                <Precinct name="EARLES" votes="3" />
+                <Precinct name="GREELEYVILLE" votes="8" />
+                <Precinct name="HARMONY" votes="2" />
+                <Precinct name="HEBRON" votes="0" />
+                <Precinct name="HEMINGWAY" votes="4" />
+                <Precinct name="HENRY-POPLAR HILL" votes="2" />
+                <Precinct name="INDIANTOWN" votes="0" />
+                <Precinct name="KINGSTREE NO.1" votes="15" />
+                <Precinct name="KINGSTREE NO.2" votes="1" />
+                <Precinct name="KINGSTREE NO.3" votes="12" />
+                <Precinct name="KINGSTREE NO.4" votes="4" />
+                <Precinct name="LANE" votes="4" />
+                <Precinct name="MORRISVILLE" votes="0" />
+                <Precinct name="MOUNT VERNON" votes="2" />
+                <Precinct name="NESMITH" votes="1" />
+                <Precinct name="PERGAMOS" votes="2" />
+                <Precinct name="PINEY FOREST" votes="3" />
+                <Precinct name="SALTERS" votes="3" />
+                <Precinct name="SANDY BAY" votes="1" />
+                <Precinct name="SINGLETARY" votes="1" />
+                <Precinct name="SUTTONS" votes="0" />
+                <Precinct name="TRIO" votes="1" />
+                <Precinct name="MUDDY CREEK" votes="2" />
+                <Precinct name="Absentee" votes="22" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0113" text="Coroner" voteFor="1" isQuestion="false" precinctsReporting="28" precinctsReported="28">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BLACK RIVER" votes="0" />
+            <Precinct name="BLOOMINGVALE" votes="0" />
+            <Precinct name="CADES" votes="0" />
+            <Precinct name="CEDAR SWAMP" votes="0" />
+            <Precinct name="CENTRAL" votes="0" />
+            <Precinct name="EARLES" votes="0" />
+            <Precinct name="GREELEYVILLE" votes="0" />
+            <Precinct name="HARMONY" votes="0" />
+            <Precinct name="HEBRON" votes="0" />
+            <Precinct name="HEMINGWAY" votes="0" />
+            <Precinct name="HENRY-POPLAR HILL" votes="0" />
+            <Precinct name="INDIANTOWN" votes="0" />
+            <Precinct name="KINGSTREE NO.1" votes="0" />
+            <Precinct name="KINGSTREE NO.2" votes="0" />
+            <Precinct name="KINGSTREE NO.3" votes="0" />
+            <Precinct name="KINGSTREE NO.4" votes="0" />
+            <Precinct name="LANE" votes="0" />
+            <Precinct name="MORRISVILLE" votes="0" />
+            <Precinct name="MOUNT VERNON" votes="0" />
+            <Precinct name="NESMITH" votes="0" />
+            <Precinct name="PERGAMOS" votes="0" />
+            <Precinct name="PINEY FOREST" votes="0" />
+            <Precinct name="SALTERS" votes="0" />
+            <Precinct name="SANDY BAY" votes="0" />
+            <Precinct name="SINGLETARY" votes="0" />
+            <Precinct name="SUTTONS" votes="0" />
+            <Precinct name="TRIO" votes="0" />
+            <Precinct name="MUDDY CREEK" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="2570">
+            <Precinct name="BLACK RIVER" votes="31" />
+            <Precinct name="BLOOMINGVALE" votes="96" />
+            <Precinct name="CADES" votes="44" />
+            <Precinct name="CEDAR SWAMP" votes="39" />
+            <Precinct name="CENTRAL" votes="91" />
+            <Precinct name="EARLES" votes="141" />
+            <Precinct name="GREELEYVILLE" votes="92" />
+            <Precinct name="HARMONY" votes="92" />
+            <Precinct name="HEBRON" votes="158" />
+            <Precinct name="HEMINGWAY" votes="177" />
+            <Precinct name="HENRY-POPLAR HILL" votes="92" />
+            <Precinct name="INDIANTOWN" votes="68" />
+            <Precinct name="KINGSTREE NO.1" votes="279" />
+            <Precinct name="KINGSTREE NO.2" votes="22" />
+            <Precinct name="KINGSTREE NO.3" votes="54" />
+            <Precinct name="KINGSTREE NO.4" votes="74" />
+            <Precinct name="LANE" votes="25" />
+            <Precinct name="MORRISVILLE" votes="3" />
+            <Precinct name="MOUNT VERNON" votes="50" />
+            <Precinct name="NESMITH" votes="39" />
+            <Precinct name="PERGAMOS" votes="43" />
+            <Precinct name="PINEY FOREST" votes="140" />
+            <Precinct name="SALTERS" votes="51" />
+            <Precinct name="SANDY BAY" votes="60" />
+            <Precinct name="SINGLETARY" votes="8" />
+            <Precinct name="SUTTONS" votes="50" />
+            <Precinct name="TRIO" votes="31" />
+            <Precinct name="MUDDY CREEK" votes="139" />
+            <Precinct name="Absentee" votes="374" />
+            <Precinct name="Emergency" votes="6" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="1" />
+        </VoteType>
+        <Choice key="001" text="Harrison McKnight" party="DEM" totalVotes="12473">
+            <VoteType name="Election Day" votes="12473">
+                <Precinct name="BLACK RIVER" votes="150" />
+                <Precinct name="BLOOMINGVALE" votes="421" />
+                <Precinct name="CADES" votes="220" />
+                <Precinct name="CEDAR SWAMP" votes="138" />
+                <Precinct name="CENTRAL" votes="403" />
+                <Precinct name="EARLES" votes="215" />
+                <Precinct name="GREELEYVILLE" votes="610" />
+                <Precinct name="HARMONY" votes="108" />
+                <Precinct name="HEBRON" votes="156" />
+                <Precinct name="HEMINGWAY" votes="647" />
+                <Precinct name="HENRY-POPLAR HILL" votes="252" />
+                <Precinct name="INDIANTOWN" votes="669" />
+                <Precinct name="KINGSTREE NO.1" votes="1103" />
+                <Precinct name="KINGSTREE NO.2" votes="324" />
+                <Precinct name="KINGSTREE NO.3" votes="791" />
+                <Precinct name="KINGSTREE NO.4" votes="483" />
+                <Precinct name="LANE" votes="454" />
+                <Precinct name="MORRISVILLE" votes="136" />
+                <Precinct name="MOUNT VERNON" votes="185" />
+                <Precinct name="NESMITH" votes="300" />
+                <Precinct name="PERGAMOS" votes="98" />
+                <Precinct name="PINEY FOREST" votes="98" />
+                <Precinct name="SALTERS" votes="518" />
+                <Precinct name="SANDY BAY" votes="156" />
+                <Precinct name="SINGLETARY" votes="136" />
+                <Precinct name="SUTTONS" votes="107" />
+                <Precinct name="TRIO" votes="386" />
+                <Precinct name="MUDDY CREEK" votes="359" />
+                <Precinct name="Absentee" votes="2788" />
+                <Precinct name="Emergency" votes="57" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="4" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="138">
+            <VoteType name="Election Day" votes="138">
+                <Precinct name="BLACK RIVER" votes="1" />
+                <Precinct name="BLOOMINGVALE" votes="3" />
+                <Precinct name="CADES" votes="0" />
+                <Precinct name="CEDAR SWAMP" votes="5" />
+                <Precinct name="CENTRAL" votes="5" />
+                <Precinct name="EARLES" votes="4" />
+                <Precinct name="GREELEYVILLE" votes="7" />
+                <Precinct name="HARMONY" votes="5" />
+                <Precinct name="HEBRON" votes="1" />
+                <Precinct name="HEMINGWAY" votes="4" />
+                <Precinct name="HENRY-POPLAR HILL" votes="1" />
+                <Precinct name="INDIANTOWN" votes="0" />
+                <Precinct name="KINGSTREE NO.1" votes="22" />
+                <Precinct name="KINGSTREE NO.2" votes="4" />
+                <Precinct name="KINGSTREE NO.3" votes="10" />
+                <Precinct name="KINGSTREE NO.4" votes="8" />
+                <Precinct name="LANE" votes="4" />
+                <Precinct name="MORRISVILLE" votes="1" />
+                <Precinct name="MOUNT VERNON" votes="2" />
+                <Precinct name="NESMITH" votes="1" />
+                <Precinct name="PERGAMOS" votes="0" />
+                <Precinct name="PINEY FOREST" votes="3" />
+                <Precinct name="SALTERS" votes="9" />
+                <Precinct name="SANDY BAY" votes="2" />
+                <Precinct name="SINGLETARY" votes="0" />
+                <Precinct name="SUTTONS" votes="0" />
+                <Precinct name="TRIO" votes="4" />
+                <Precinct name="MUDDY CREEK" votes="1" />
+                <Precinct name="Absentee" votes="31" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0114" text="County Council District 3" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="EARLES" votes="0" />
+            <Precinct name="HARMONY" votes="0" />
+            <Precinct name="LANE" votes="0" />
+            <Precinct name="PINEY FOREST" votes="0" />
+            <Precinct name="SALTERS" votes="0" />
+            <Precinct name="SUTTONS" votes="0" />
+            <Precinct name="TRIO" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="460">
+            <Precinct name="EARLES" votes="156" />
+            <Precinct name="HARMONY" votes="96" />
+            <Precinct name="LANE" votes="35" />
+            <Precinct name="PINEY FOREST" votes="10" />
+            <Precinct name="SALTERS" votes="32" />
+            <Precinct name="SUTTONS" votes="52" />
+            <Precinct name="TRIO" votes="36" />
+            <Precinct name="Absentee" votes="42" />
+            <Precinct name="Emergency" votes="1" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Jonathan Joe Miller" party="DEM" totalVotes="1857">
+            <VoteType name="Election Day" votes="1857">
+                <Precinct name="EARLES" votes="200" />
+                <Precinct name="HARMONY" votes="106" />
+                <Precinct name="LANE" votes="448" />
+                <Precinct name="PINEY FOREST" votes="6" />
+                <Precinct name="SALTERS" votes="293" />
+                <Precinct name="SUTTONS" votes="103" />
+                <Precinct name="TRIO" votes="384" />
+                <Precinct name="Absentee" votes="280" />
+                <Precinct name="Emergency" votes="37" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="14">
+            <VoteType name="Election Day" votes="14">
+                <Precinct name="EARLES" votes="4" />
+                <Precinct name="HARMONY" votes="3" />
+                <Precinct name="LANE" votes="0" />
+                <Precinct name="PINEY FOREST" votes="0" />
+                <Precinct name="SALTERS" votes="1" />
+                <Precinct name="SUTTONS" votes="2" />
+                <Precinct name="TRIO" votes="1" />
+                <Precinct name="Absentee" votes="3" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0115" text="County Council District 4" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BLACK RIVER" votes="0" />
+            <Precinct name="GREELEYVILLE" votes="0" />
+            <Precinct name="HEBRON" votes="0" />
+            <Precinct name="MOUNT VERNON" votes="0" />
+            <Precinct name="SALTERS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="299">
+            <Precinct name="BLACK RIVER" votes="36" />
+            <Precinct name="GREELEYVILLE" votes="91" />
+            <Precinct name="HEBRON" votes="65" />
+            <Precinct name="MOUNT VERNON" votes="56" />
+            <Precinct name="SALTERS" votes="17" />
+            <Precinct name="Absentee" votes="34" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Eddie Butch Woods Jr" party="DEM" totalVotes="1587">
+            <VoteType name="Election Day" votes="1587">
+                <Precinct name="BLACK RIVER" votes="144" />
+                <Precinct name="GREELEYVILLE" votes="613" />
+                <Precinct name="HEBRON" votes="71" />
+                <Precinct name="MOUNT VERNON" votes="181" />
+                <Precinct name="SALTERS" votes="235" />
+                <Precinct name="Absentee" votes="343" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="13">
+            <VoteType name="Election Day" votes="13">
+                <Precinct name="BLACK RIVER" votes="2" />
+                <Precinct name="GREELEYVILLE" votes="5" />
+                <Precinct name="HEBRON" votes="0" />
+                <Precinct name="MOUNT VERNON" votes="0" />
+                <Precinct name="SALTERS" votes="0" />
+                <Precinct name="Absentee" votes="6" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0116" text="County Council District 5" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="CEDAR SWAMP" votes="0" />
+            <Precinct name="CENTRAL" votes="0" />
+            <Precinct name="KINGSTREE NO.2" votes="0" />
+            <Precinct name="KINGSTREE NO.4" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="315">
+            <Precinct name="CEDAR SWAMP" votes="26" />
+            <Precinct name="CENTRAL" votes="102" />
+            <Precinct name="KINGSTREE NO.2" votes="28" />
+            <Precinct name="KINGSTREE NO.4" votes="82" />
+            <Precinct name="Absentee" votes="77" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Andy D McKnight" party="DEM" totalVotes="1797">
+            <VoteType name="Election Day" votes="1797">
+                <Precinct name="CEDAR SWAMP" votes="94" />
+                <Precinct name="CENTRAL" votes="390" />
+                <Precinct name="KINGSTREE NO.2" votes="319" />
+                <Precinct name="KINGSTREE NO.4" votes="476" />
+                <Precinct name="Absentee" votes="518" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="27">
+            <VoteType name="Election Day" votes="27">
+                <Precinct name="CEDAR SWAMP" votes="3" />
+                <Precinct name="CENTRAL" votes="7" />
+                <Precinct name="KINGSTREE NO.2" votes="3" />
+                <Precinct name="KINGSTREE NO.4" votes="7" />
+                <Precinct name="Absentee" votes="7" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0117" text="School Board District 1" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="HEMINGWAY" votes="0" />
+            <Precinct name="HENRY-POPLAR HILL" votes="0" />
+            <Precinct name="INDIANTOWN" votes="0" />
+            <Precinct name="NESMITH" votes="0" />
+            <Precinct name="SINGLETARY" votes="0" />
+            <Precinct name="MUDDY CREEK" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="420">
+            <Precinct name="HEMINGWAY" votes="170" />
+            <Precinct name="HENRY-POPLAR HILL" votes="68" />
+            <Precinct name="INDIANTOWN" votes="54" />
+            <Precinct name="NESMITH" votes="3" />
+            <Precinct name="SINGLETARY" votes="1" />
+            <Precinct name="MUDDY CREEK" votes="68" />
+            <Precinct name="Absentee" votes="56" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="George Brown" party="NON" totalVotes="848">
+            <VoteType name="Election Day" votes="848">
+                <Precinct name="HEMINGWAY" votes="339" />
+                <Precinct name="HENRY-POPLAR HILL" votes="146" />
+                <Precinct name="INDIANTOWN" votes="91" />
+                <Precinct name="NESMITH" votes="3" />
+                <Precinct name="SINGLETARY" votes="2" />
+                <Precinct name="MUDDY CREEK" votes="121" />
+                <Precinct name="Absentee" votes="146" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Joe Lee" party="NON" totalVotes="917">
+            <VoteType name="Election Day" votes="917">
+                <Precinct name="HEMINGWAY" votes="318" />
+                <Precinct name="HENRY-POPLAR HILL" votes="131" />
+                <Precinct name="INDIANTOWN" votes="56" />
+                <Precinct name="NESMITH" votes="4" />
+                <Precinct name="SINGLETARY" votes="0" />
+                <Precinct name="MUDDY CREEK" votes="309" />
+                <Precinct name="Absentee" votes="99" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="3">
+            <VoteType name="Election Day" votes="3">
+                <Precinct name="HEMINGWAY" votes="1" />
+                <Precinct name="HENRY-POPLAR HILL" votes="0" />
+                <Precinct name="INDIANTOWN" votes="0" />
+                <Precinct name="NESMITH" votes="0" />
+                <Precinct name="SINGLETARY" votes="0" />
+                <Precinct name="MUDDY CREEK" votes="1" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0118" text="School Board District 3" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="EARLES" votes="0" />
+            <Precinct name="HARMONY" votes="0" />
+            <Precinct name="LANE" votes="0" />
+            <Precinct name="PINEY FOREST" votes="0" />
+            <Precinct name="SALTERS" votes="0" />
+            <Precinct name="SUTTONS" votes="0" />
+            <Precinct name="TRIO" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="999">
+            <Precinct name="EARLES" votes="185" />
+            <Precinct name="HARMONY" votes="116" />
+            <Precinct name="LANE" votes="274" />
+            <Precinct name="PINEY FOREST" votes="9" />
+            <Precinct name="SALTERS" votes="116" />
+            <Precinct name="SUTTONS" votes="66" />
+            <Precinct name="TRIO" votes="94" />
+            <Precinct name="Absentee" votes="136" />
+            <Precinct name="Emergency" votes="3" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Alfred Darby" party="NON" totalVotes="1319">
+            <VoteType name="Election Day" votes="1319">
+                <Precinct name="EARLES" votes="171" />
+                <Precinct name="HARMONY" votes="87" />
+                <Precinct name="LANE" votes="207" />
+                <Precinct name="PINEY FOREST" votes="7" />
+                <Precinct name="SALTERS" votes="206" />
+                <Precinct name="SUTTONS" votes="91" />
+                <Precinct name="TRIO" votes="327" />
+                <Precinct name="Absentee" votes="188" />
+                <Precinct name="Emergency" votes="35" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="13">
+            <VoteType name="Election Day" votes="13">
+                <Precinct name="EARLES" votes="4" />
+                <Precinct name="HARMONY" votes="2" />
+                <Precinct name="LANE" votes="2" />
+                <Precinct name="PINEY FOREST" votes="0" />
+                <Precinct name="SALTERS" votes="4" />
+                <Precinct name="SUTTONS" votes="0" />
+                <Precinct name="TRIO" votes="0" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0119" text="School Board District 7" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="CADES" votes="0" />
+            <Precinct name="HEBRON" votes="0" />
+            <Precinct name="KINGSTREE NO.3" votes="0" />
+            <Precinct name="PERGAMOS" votes="0" />
+            <Precinct name="SINGLETARY" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="759">
+            <Precinct name="CADES" votes="92" />
+            <Precinct name="HEBRON" votes="112" />
+            <Precinct name="KINGSTREE NO.3" votes="240" />
+            <Precinct name="PERGAMOS" votes="66" />
+            <Precinct name="SINGLETARY" votes="6" />
+            <Precinct name="Absentee" votes="241" />
+            <Precinct name="Emergency" votes="1" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Linwood Cooper" party="NON" totalVotes="1226">
+            <VoteType name="Election Day" votes="1226">
+                <Precinct name="CADES" votes="171" />
+                <Precinct name="HEBRON" votes="67" />
+                <Precinct name="KINGSTREE NO.3" votes="541" />
+                <Precinct name="PERGAMOS" votes="75" />
+                <Precinct name="SINGLETARY" votes="6" />
+                <Precinct name="Absentee" votes="364" />
+                <Precinct name="Emergency" votes="2" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="5">
+            <VoteType name="Election Day" votes="5">
+                <Precinct name="CADES" votes="1" />
+                <Precinct name="HEBRON" votes="0" />
+                <Precinct name="KINGSTREE NO.3" votes="2" />
+                <Precinct name="PERGAMOS" votes="0" />
+                <Precinct name="SINGLETARY" votes="0" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0120" text="Soil and Water District Commission" voteFor="1" isQuestion="false" precinctsReporting="28" precinctsReported="28">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BLACK RIVER" votes="0" />
+            <Precinct name="BLOOMINGVALE" votes="0" />
+            <Precinct name="CADES" votes="0" />
+            <Precinct name="CEDAR SWAMP" votes="0" />
+            <Precinct name="CENTRAL" votes="0" />
+            <Precinct name="EARLES" votes="0" />
+            <Precinct name="GREELEYVILLE" votes="0" />
+            <Precinct name="HARMONY" votes="0" />
+            <Precinct name="HEBRON" votes="0" />
+            <Precinct name="HEMINGWAY" votes="0" />
+            <Precinct name="HENRY-POPLAR HILL" votes="0" />
+            <Precinct name="INDIANTOWN" votes="0" />
+            <Precinct name="KINGSTREE NO.1" votes="0" />
+            <Precinct name="KINGSTREE NO.2" votes="0" />
+            <Precinct name="KINGSTREE NO.3" votes="0" />
+            <Precinct name="KINGSTREE NO.4" votes="0" />
+            <Precinct name="LANE" votes="0" />
+            <Precinct name="MORRISVILLE" votes="0" />
+            <Precinct name="MOUNT VERNON" votes="0" />
+            <Precinct name="NESMITH" votes="0" />
+            <Precinct name="PERGAMOS" votes="0" />
+            <Precinct name="PINEY FOREST" votes="0" />
+            <Precinct name="SALTERS" votes="0" />
+            <Precinct name="SANDY BAY" votes="0" />
+            <Precinct name="SINGLETARY" votes="0" />
+            <Precinct name="SUTTONS" votes="0" />
+            <Precinct name="TRIO" votes="0" />
+            <Precinct name="MUDDY CREEK" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="7444">
+            <Precinct name="BLACK RIVER" votes="84" />
+            <Precinct name="BLOOMINGVALE" votes="296" />
+            <Precinct name="CADES" votes="108" />
+            <Precinct name="CEDAR SWAMP" votes="62" />
+            <Precinct name="CENTRAL" votes="229" />
+            <Precinct name="EARLES" votes="153" />
+            <Precinct name="GREELEYVILLE" votes="402" />
+            <Precinct name="HARMONY" votes="115" />
+            <Precinct name="HEBRON" votes="177" />
+            <Precinct name="HEMINGWAY" votes="410" />
+            <Precinct name="HENRY-POPLAR HILL" votes="129" />
+            <Precinct name="INDIANTOWN" votes="404" />
+            <Precinct name="KINGSTREE NO.1" votes="519" />
+            <Precinct name="KINGSTREE NO.2" votes="184" />
+            <Precinct name="KINGSTREE NO.3" votes="361" />
+            <Precinct name="KINGSTREE NO.4" votes="282" />
+            <Precinct name="LANE" votes="309" />
+            <Precinct name="MORRISVILLE" votes="107" />
+            <Precinct name="MOUNT VERNON" votes="115" />
+            <Precinct name="NESMITH" votes="225" />
+            <Precinct name="PERGAMOS" votes="67" />
+            <Precinct name="PINEY FOREST" votes="120" />
+            <Precinct name="SALTERS" votes="294" />
+            <Precinct name="SANDY BAY" votes="90" />
+            <Precinct name="SINGLETARY" votes="67" />
+            <Precinct name="SUTTONS" votes="58" />
+            <Precinct name="TRIO" votes="164" />
+            <Precinct name="MUDDY CREEK" votes="187" />
+            <Precinct name="Absentee" votes="1709" />
+            <Precinct name="Emergency" votes="13" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="3" />
+        </VoteType>
+        <Choice key="001" text="Brian McClam" party="NON" totalVotes="7689">
+            <VoteType name="Election Day" votes="7689">
+                <Precinct name="BLACK RIVER" votes="97" />
+                <Precinct name="BLOOMINGVALE" votes="223" />
+                <Precinct name="CADES" votes="156" />
+                <Precinct name="CEDAR SWAMP" votes="119" />
+                <Precinct name="CENTRAL" votes="269" />
+                <Precinct name="EARLES" votes="203" />
+                <Precinct name="GREELEYVILLE" votes="303" />
+                <Precinct name="HARMONY" votes="90" />
+                <Precinct name="HEBRON" votes="138" />
+                <Precinct name="HEMINGWAY" votes="415" />
+                <Precinct name="HENRY-POPLAR HILL" votes="216" />
+                <Precinct name="INDIANTOWN" votes="333" />
+                <Precinct name="KINGSTREE NO.1" votes="882" />
+                <Precinct name="KINGSTREE NO.2" votes="165" />
+                <Precinct name="KINGSTREE NO.3" votes="492" />
+                <Precinct name="KINGSTREE NO.4" votes="281" />
+                <Precinct name="LANE" votes="172" />
+                <Precinct name="MORRISVILLE" votes="33" />
+                <Precinct name="MOUNT VERNON" votes="121" />
+                <Precinct name="NESMITH" votes="114" />
+                <Precinct name="PERGAMOS" votes="74" />
+                <Precinct name="PINEY FOREST" votes="119" />
+                <Precinct name="SALTERS" votes="281" />
+                <Precinct name="SANDY BAY" votes="127" />
+                <Precinct name="SINGLETARY" votes="77" />
+                <Precinct name="SUTTONS" votes="99" />
+                <Precinct name="TRIO" votes="256" />
+                <Precinct name="MUDDY CREEK" votes="311" />
+                <Precinct name="Absentee" votes="1472" />
+                <Precinct name="Emergency" votes="49" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="48">
+            <VoteType name="Election Day" votes="48">
+                <Precinct name="BLACK RIVER" votes="1" />
+                <Precinct name="BLOOMINGVALE" votes="1" />
+                <Precinct name="CADES" votes="0" />
+                <Precinct name="CEDAR SWAMP" votes="1" />
+                <Precinct name="CENTRAL" votes="1" />
+                <Precinct name="EARLES" votes="4" />
+                <Precinct name="GREELEYVILLE" votes="4" />
+                <Precinct name="HARMONY" votes="0" />
+                <Precinct name="HEBRON" votes="0" />
+                <Precinct name="HEMINGWAY" votes="3" />
+                <Precinct name="HENRY-POPLAR HILL" votes="0" />
+                <Precinct name="INDIANTOWN" votes="0" />
+                <Precinct name="KINGSTREE NO.1" votes="3" />
+                <Precinct name="KINGSTREE NO.2" votes="1" />
+                <Precinct name="KINGSTREE NO.3" votes="2" />
+                <Precinct name="KINGSTREE NO.4" votes="2" />
+                <Precinct name="LANE" votes="2" />
+                <Precinct name="MORRISVILLE" votes="0" />
+                <Precinct name="MOUNT VERNON" votes="1" />
+                <Precinct name="NESMITH" votes="1" />
+                <Precinct name="PERGAMOS" votes="0" />
+                <Precinct name="PINEY FOREST" votes="2" />
+                <Precinct name="SALTERS" votes="3" />
+                <Precinct name="SANDY BAY" votes="1" />
+                <Precinct name="SINGLETARY" votes="0" />
+                <Precinct name="SUTTONS" votes="0" />
+                <Precinct name="TRIO" votes="1" />
+                <Precinct name="MUDDY CREEK" votes="1" />
+                <Precinct name="Absentee" votes="12" />
+                <Precinct name="Emergency" votes="1" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0121" text="South Lynches Fire District Commissioner" voteFor="3" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="CADES" votes="0" />
+            <Precinct name="HEBRON" votes="0" />
+            <Precinct name="HEMINGWAY" votes="0" />
+            <Precinct name="KINGSTREE NO.3" votes="0" />
+            <Precinct name="PERGAMOS" votes="0" />
+            <Precinct name="SANDY BAY" votes="0" />
+            <Precinct name="SINGLETARY" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1798">
+            <Precinct name="CADES" votes="528" />
+            <Precinct name="HEBRON" votes="439" />
+            <Precinct name="HEMINGWAY" votes="6" />
+            <Precinct name="KINGSTREE NO.3" votes="16" />
+            <Precinct name="PERGAMOS" votes="254" />
+            <Precinct name="SANDY BAY" votes="258" />
+            <Precinct name="SINGLETARY" votes="40" />
+            <Precinct name="Absentee" votes="220" />
+            <Precinct name="Emergency" votes="37" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Everette R Dennis" party="NON" totalVotes="324">
+            <VoteType name="Election Day" votes="324">
+                <Precinct name="CADES" votes="92" />
+                <Precinct name="HEBRON" votes="74" />
+                <Precinct name="HEMINGWAY" votes="1" />
+                <Precinct name="KINGSTREE NO.3" votes="3" />
+                <Precinct name="PERGAMOS" votes="54" />
+                <Precinct name="SANDY BAY" votes="50" />
+                <Precinct name="SINGLETARY" votes="5" />
+                <Precinct name="Absentee" votes="36" />
+                <Precinct name="Emergency" votes="9" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Lindward C James Jr" party="NON" totalVotes="293">
+            <VoteType name="Election Day" votes="293">
+                <Precinct name="CADES" votes="84" />
+                <Precinct name="HEBRON" votes="56" />
+                <Precinct name="HEMINGWAY" votes="1" />
+                <Precinct name="KINGSTREE NO.3" votes="1" />
+                <Precinct name="PERGAMOS" votes="61" />
+                <Precinct name="SANDY BAY" votes="46" />
+                <Precinct name="SINGLETARY" votes="3" />
+                <Precinct name="Absentee" votes="31" />
+                <Precinct name="Emergency" votes="10" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Cheryl P Sauls" party="NON" totalVotes="283">
+            <VoteType name="Election Day" votes="283">
+                <Precinct name="CADES" votes="88" />
+                <Precinct name="HEBRON" votes="57" />
+                <Precinct name="HEMINGWAY" votes="1" />
+                <Precinct name="KINGSTREE NO.3" votes="1" />
+                <Precinct name="PERGAMOS" votes="54" />
+                <Precinct name="SANDY BAY" votes="35" />
+                <Precinct name="SINGLETARY" votes="3" />
+                <Precinct name="Absentee" votes="34" />
+                <Precinct name="Emergency" votes="10" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Write-In" party="NON" totalVotes="2">
+            <VoteType name="Election Day" votes="2">
+                <Precinct name="CADES" votes="0" />
+                <Precinct name="HEBRON" votes="1" />
+                <Precinct name="HEMINGWAY" votes="0" />
+                <Precinct name="KINGSTREE NO.3" votes="0" />
+                <Precinct name="PERGAMOS" votes="0" />
+                <Precinct name="SANDY BAY" votes="1" />
+                <Precinct name="SINGLETARY" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0122" text="Captial Projects Sales Tax Question" voteFor="1" isQuestion="true" precinctsReporting="28" precinctsReported="28">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BLACK RIVER" votes="0" />
+            <Precinct name="BLOOMINGVALE" votes="0" />
+            <Precinct name="CADES" votes="0" />
+            <Precinct name="CEDAR SWAMP" votes="0" />
+            <Precinct name="CENTRAL" votes="0" />
+            <Precinct name="EARLES" votes="0" />
+            <Precinct name="GREELEYVILLE" votes="0" />
+            <Precinct name="HARMONY" votes="0" />
+            <Precinct name="HEBRON" votes="0" />
+            <Precinct name="HEMINGWAY" votes="0" />
+            <Precinct name="HENRY-POPLAR HILL" votes="0" />
+            <Precinct name="INDIANTOWN" votes="0" />
+            <Precinct name="KINGSTREE NO.1" votes="0" />
+            <Precinct name="KINGSTREE NO.2" votes="0" />
+            <Precinct name="KINGSTREE NO.3" votes="0" />
+            <Precinct name="KINGSTREE NO.4" votes="0" />
+            <Precinct name="LANE" votes="0" />
+            <Precinct name="MORRISVILLE" votes="0" />
+            <Precinct name="MOUNT VERNON" votes="0" />
+            <Precinct name="NESMITH" votes="0" />
+            <Precinct name="PERGAMOS" votes="0" />
+            <Precinct name="PINEY FOREST" votes="0" />
+            <Precinct name="SALTERS" votes="0" />
+            <Precinct name="SANDY BAY" votes="0" />
+            <Precinct name="SINGLETARY" votes="0" />
+            <Precinct name="SUTTONS" votes="0" />
+            <Precinct name="TRIO" votes="0" />
+            <Precinct name="MUDDY CREEK" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="2629">
+            <Precinct name="BLACK RIVER" votes="29" />
+            <Precinct name="BLOOMINGVALE" votes="150" />
+            <Precinct name="CADES" votes="34" />
+            <Precinct name="CEDAR SWAMP" votes="24" />
+            <Precinct name="CENTRAL" votes="70" />
+            <Precinct name="EARLES" votes="65" />
+            <Precinct name="GREELEYVILLE" votes="132" />
+            <Precinct name="HARMONY" votes="23" />
+            <Precinct name="HEBRON" votes="64" />
+            <Precinct name="HEMINGWAY" votes="157" />
+            <Precinct name="HENRY-POPLAR HILL" votes="52" />
+            <Precinct name="INDIANTOWN" votes="152" />
+            <Precinct name="KINGSTREE NO.1" votes="184" />
+            <Precinct name="KINGSTREE NO.2" votes="74" />
+            <Precinct name="KINGSTREE NO.3" votes="179" />
+            <Precinct name="KINGSTREE NO.4" votes="99" />
+            <Precinct name="LANE" votes="52" />
+            <Precinct name="MORRISVILLE" votes="52" />
+            <Precinct name="MOUNT VERNON" votes="28" />
+            <Precinct name="NESMITH" votes="42" />
+            <Precinct name="PERGAMOS" votes="18" />
+            <Precinct name="PINEY FOREST" votes="14" />
+            <Precinct name="SALTERS" votes="119" />
+            <Precinct name="SANDY BAY" votes="29" />
+            <Precinct name="SINGLETARY" votes="14" />
+            <Precinct name="SUTTONS" votes="18" />
+            <Precinct name="TRIO" votes="51" />
+            <Precinct name="MUDDY CREEK" votes="56" />
+            <Precinct name="Absentee" votes="631" />
+            <Precinct name="Emergency" votes="14" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="3" />
+        </VoteType>
+        <Choice key="001" text="In favor of the question/yes" party="NON" totalVotes="7292">
+            <VoteType name="Election Day" votes="7292">
+                <Precinct name="BLACK RIVER" votes="88" />
+                <Precinct name="BLOOMINGVALE" votes="211" />
+                <Precinct name="CADES" votes="137" />
+                <Precinct name="CEDAR SWAMP" votes="86" />
+                <Precinct name="CENTRAL" votes="257" />
+                <Precinct name="EARLES" votes="132" />
+                <Precinct name="GREELEYVILLE" votes="359" />
+                <Precinct name="HARMONY" votes="93" />
+                <Precinct name="HEBRON" votes="109" />
+                <Precinct name="HEMINGWAY" votes="376" />
+                <Precinct name="HENRY-POPLAR HILL" votes="164" />
+                <Precinct name="INDIANTOWN" votes="357" />
+                <Precinct name="KINGSTREE NO.1" votes="679" />
+                <Precinct name="KINGSTREE NO.2" votes="178" />
+                <Precinct name="KINGSTREE NO.3" votes="406" />
+                <Precinct name="KINGSTREE NO.4" votes="255" />
+                <Precinct name="LANE" votes="380" />
+                <Precinct name="MORRISVILLE" votes="42" />
+                <Precinct name="MOUNT VERNON" votes="122" />
+                <Precinct name="NESMITH" votes="193" />
+                <Precinct name="PERGAMOS" votes="61" />
+                <Precinct name="PINEY FOREST" votes="136" />
+                <Precinct name="SALTERS" votes="284" />
+                <Precinct name="SANDY BAY" votes="106" />
+                <Precinct name="SINGLETARY" votes="82" />
+                <Precinct name="SUTTONS" votes="46" />
+                <Precinct name="TRIO" votes="233" />
+                <Precinct name="MUDDY CREEK" votes="247" />
+                <Precinct name="Absentee" votes="1441" />
+                <Precinct name="Emergency" votes="30" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Opposed to the question/no" party="NON" totalVotes="5260">
+            <VoteType name="Election Day" votes="5260">
+                <Precinct name="BLACK RIVER" votes="65" />
+                <Precinct name="BLOOMINGVALE" votes="159" />
+                <Precinct name="CADES" votes="93" />
+                <Precinct name="CEDAR SWAMP" votes="72" />
+                <Precinct name="CENTRAL" votes="172" />
+                <Precinct name="EARLES" votes="163" />
+                <Precinct name="GREELEYVILLE" votes="218" />
+                <Precinct name="HARMONY" votes="89" />
+                <Precinct name="HEBRON" votes="142" />
+                <Precinct name="HEMINGWAY" votes="295" />
+                <Precinct name="HENRY-POPLAR HILL" votes="129" />
+                <Precinct name="INDIANTOWN" votes="228" />
+                <Precinct name="KINGSTREE NO.1" votes="541" />
+                <Precinct name="KINGSTREE NO.2" votes="98" />
+                <Precinct name="KINGSTREE NO.3" votes="270" />
+                <Precinct name="KINGSTREE NO.4" votes="211" />
+                <Precinct name="LANE" votes="51" />
+                <Precinct name="MORRISVILLE" votes="46" />
+                <Precinct name="MOUNT VERNON" votes="87" />
+                <Precinct name="NESMITH" votes="105" />
+                <Precinct name="PERGAMOS" votes="62" />
+                <Precinct name="PINEY FOREST" votes="91" />
+                <Precinct name="SALTERS" votes="175" />
+                <Precinct name="SANDY BAY" votes="83" />
+                <Precinct name="SINGLETARY" votes="48" />
+                <Precinct name="SUTTONS" votes="93" />
+                <Precinct name="TRIO" votes="137" />
+                <Precinct name="MUDDY CREEK" votes="196" />
+                <Precinct name="Absentee" votes="1121" />
+                <Precinct name="Emergency" votes="19" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0123" text="Sunday Alcohol Sales" voteFor="1" isQuestion="true" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="GREELEYVILLE" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="18">
+            <Precinct name="GREELEYVILLE" votes="9" />
+            <Precinct name="Absentee" votes="9" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Yes" party="NON" totalVotes="109">
+            <VoteType name="Election Day" votes="109">
+                <Precinct name="GREELEYVILLE" votes="91" />
+                <Precinct name="Absentee" votes="18" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="No" party="NON" totalVotes="107">
+            <VoteType name="Election Day" votes="107">
+                <Precinct name="GREELEYVILLE" votes="89" />
+                <Precinct name="Absentee" votes="18" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

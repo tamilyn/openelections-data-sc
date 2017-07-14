@@ -1,0 +1,1410 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>11/16/2016 2:19:10 PM EST</Timestamp>
+    <ElectionName>2016 Statewide General Election</ElectionName>
+    <ElectionDate>11/8/2016</ElectionDate>
+    <Region>Dillon</Region>
+    <VoterTurnout totalVoters="20037" ballotsCast="11797" voterTurnout="58.88">
+        <Precincts>
+            <Precinct name="EAST DILLON" totalVoters="1968" ballotsCast="1029" voterTurnout="52.29" percentReporting="4" />
+            <Precinct name="WEST DILLON" totalVoters="2473" ballotsCast="908" voterTurnout="36.72" percentReporting="4" />
+            <Precinct name="SOUTH DILLON" totalVoters="1986" ballotsCast="797" voterTurnout="40.13" percentReporting="4" />
+            <Precinct name="LATTA" totalVoters="2799" ballotsCast="1351" voterTurnout="48.27" percentReporting="4" />
+            <Precinct name="NEW HOLLY" totalVoters="370" ballotsCast="226" voterTurnout="61.08" percentReporting="4" />
+            <Precinct name="LAKE VIEW" totalVoters="1220" ballotsCast="731" voterTurnout="59.92" percentReporting="4" />
+            <Precinct name="KEMPER" totalVoters="492" ballotsCast="280" voterTurnout="56.91" percentReporting="4" />
+            <Precinct name="GADDY'S MILL" totalVoters="231" ballotsCast="140" voterTurnout="60.61" percentReporting="4" />
+            <Precinct name="MT. CALVARY" totalVoters="2235" ballotsCast="1085" voterTurnout="48.55" percentReporting="4" />
+            <Precinct name="BERMUDA" totalVoters="297" ballotsCast="171" voterTurnout="57.58" percentReporting="4" />
+            <Precinct name="PLEASANT HILL" totalVoters="215" ballotsCast="122" voterTurnout="56.74" percentReporting="4" />
+            <Precinct name="HAMER" totalVoters="964" ballotsCast="462" voterTurnout="47.93" percentReporting="4" />
+            <Precinct name="OAKLAND" totalVoters="1015" ballotsCast="540" voterTurnout="53.20" percentReporting="4" />
+            <Precinct name="CAROLINA" totalVoters="397" ballotsCast="154" voterTurnout="38.79" percentReporting="4" />
+            <Precinct name="LITTLE ROCK" totalVoters="738" ballotsCast="418" voterTurnout="56.64" percentReporting="4" />
+            <Precinct name="MINTURN" totalVoters="230" ballotsCast="117" voterTurnout="50.87" percentReporting="4" />
+            <Precinct name="OAK GROVE" totalVoters="960" ballotsCast="497" voterTurnout="51.77" percentReporting="4" />
+            <Precinct name="MANNING" totalVoters="416" ballotsCast="185" voterTurnout="44.47" percentReporting="4" />
+            <Precinct name="FLOYDALE" totalVoters="618" ballotsCast="383" voterTurnout="61.97" percentReporting="4" />
+            <Precinct name="FORK" totalVoters="379" ballotsCast="277" voterTurnout="73.09" percentReporting="4" />
+            <Precinct name="Absentee" totalVoters="0" ballotsCast="1922" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Failsafe" totalVoters="0" ballotsCast="2" voterTurnout="0.00" percentReporting="32" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="0103" text="STRAIGHT PARTY" voteFor="1" isQuestion="false" precinctsReporting="20" precinctsReported="20">
+        <Choice key="001" text="Democratic" party="DEM" totalVotes="2977">
+            <VoteType name="Election Day" votes="2977">
+                <Precinct name="EAST DILLON" votes="68" />
+                <Precinct name="WEST DILLON" votes="331" />
+                <Precinct name="SOUTH DILLON" votes="269" />
+                <Precinct name="LATTA" votes="349" />
+                <Precinct name="NEW HOLLY" votes="51" />
+                <Precinct name="LAKE VIEW" votes="182" />
+                <Precinct name="KEMPER" votes="68" />
+                <Precinct name="GADDY'S MILL" votes="29" />
+                <Precinct name="MT. CALVARY" votes="389" />
+                <Precinct name="BERMUDA" votes="37" />
+                <Precinct name="PLEASANT HILL" votes="19" />
+                <Precinct name="HAMER" votes="90" />
+                <Precinct name="OAKLAND" votes="174" />
+                <Precinct name="CAROLINA" votes="80" />
+                <Precinct name="LITTLE ROCK" votes="155" />
+                <Precinct name="MINTURN" votes="47" />
+                <Precinct name="OAK GROVE" votes="83" />
+                <Precinct name="MANNING" votes="37" />
+                <Precinct name="FLOYDALE" votes="42" />
+                <Precinct name="FORK" votes="48" />
+                <Precinct name="Absentee" votes="429" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Working Families" party="WFM" totalVotes="93">
+            <VoteType name="Election Day" votes="93">
+                <Precinct name="EAST DILLON" votes="2" />
+                <Precinct name="WEST DILLON" votes="18" />
+                <Precinct name="SOUTH DILLON" votes="5" />
+                <Precinct name="LATTA" votes="12" />
+                <Precinct name="NEW HOLLY" votes="2" />
+                <Precinct name="LAKE VIEW" votes="7" />
+                <Precinct name="KEMPER" votes="2" />
+                <Precinct name="GADDY'S MILL" votes="0" />
+                <Precinct name="MT. CALVARY" votes="15" />
+                <Precinct name="BERMUDA" votes="0" />
+                <Precinct name="PLEASANT HILL" votes="2" />
+                <Precinct name="HAMER" votes="4" />
+                <Precinct name="OAKLAND" votes="4" />
+                <Precinct name="CAROLINA" votes="1" />
+                <Precinct name="LITTLE ROCK" votes="2" />
+                <Precinct name="MINTURN" votes="0" />
+                <Precinct name="OAK GROVE" votes="6" />
+                <Precinct name="MANNING" votes="1" />
+                <Precinct name="FLOYDALE" votes="3" />
+                <Precinct name="FORK" votes="1" />
+                <Precinct name="Absentee" votes="6" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Constitution" party="CON" totalVotes="8">
+            <VoteType name="Election Day" votes="8">
+                <Precinct name="EAST DILLON" votes="0" />
+                <Precinct name="WEST DILLON" votes="1" />
+                <Precinct name="SOUTH DILLON" votes="1" />
+                <Precinct name="LATTA" votes="0" />
+                <Precinct name="NEW HOLLY" votes="0" />
+                <Precinct name="LAKE VIEW" votes="0" />
+                <Precinct name="KEMPER" votes="0" />
+                <Precinct name="GADDY'S MILL" votes="0" />
+                <Precinct name="MT. CALVARY" votes="0" />
+                <Precinct name="BERMUDA" votes="0" />
+                <Precinct name="PLEASANT HILL" votes="0" />
+                <Precinct name="HAMER" votes="1" />
+                <Precinct name="OAKLAND" votes="2" />
+                <Precinct name="CAROLINA" votes="0" />
+                <Precinct name="LITTLE ROCK" votes="0" />
+                <Precinct name="MINTURN" votes="0" />
+                <Precinct name="OAK GROVE" votes="0" />
+                <Precinct name="MANNING" votes="0" />
+                <Precinct name="FLOYDALE" votes="1" />
+                <Precinct name="FORK" votes="0" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Independence" party="IND" totalVotes="49">
+            <VoteType name="Election Day" votes="49">
+                <Precinct name="EAST DILLON" votes="4" />
+                <Precinct name="WEST DILLON" votes="10" />
+                <Precinct name="SOUTH DILLON" votes="1" />
+                <Precinct name="LATTA" votes="3" />
+                <Precinct name="NEW HOLLY" votes="0" />
+                <Precinct name="LAKE VIEW" votes="2" />
+                <Precinct name="KEMPER" votes="0" />
+                <Precinct name="GADDY'S MILL" votes="1" />
+                <Precinct name="MT. CALVARY" votes="7" />
+                <Precinct name="BERMUDA" votes="1" />
+                <Precinct name="PLEASANT HILL" votes="2" />
+                <Precinct name="HAMER" votes="5" />
+                <Precinct name="OAKLAND" votes="1" />
+                <Precinct name="CAROLINA" votes="1" />
+                <Precinct name="LITTLE ROCK" votes="1" />
+                <Precinct name="MINTURN" votes="1" />
+                <Precinct name="OAK GROVE" votes="1" />
+                <Precinct name="MANNING" votes="1" />
+                <Precinct name="FLOYDALE" votes="0" />
+                <Precinct name="FORK" votes="0" />
+                <Precinct name="Absentee" votes="7" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Green" party="GRN" totalVotes="16">
+            <VoteType name="Election Day" votes="16">
+                <Precinct name="EAST DILLON" votes="1" />
+                <Precinct name="WEST DILLON" votes="3" />
+                <Precinct name="SOUTH DILLON" votes="0" />
+                <Precinct name="LATTA" votes="1" />
+                <Precinct name="NEW HOLLY" votes="0" />
+                <Precinct name="LAKE VIEW" votes="1" />
+                <Precinct name="KEMPER" votes="0" />
+                <Precinct name="GADDY'S MILL" votes="0" />
+                <Precinct name="MT. CALVARY" votes="0" />
+                <Precinct name="BERMUDA" votes="1" />
+                <Precinct name="PLEASANT HILL" votes="0" />
+                <Precinct name="HAMER" votes="0" />
+                <Precinct name="OAKLAND" votes="2" />
+                <Precinct name="CAROLINA" votes="0" />
+                <Precinct name="LITTLE ROCK" votes="1" />
+                <Precinct name="MINTURN" votes="0" />
+                <Precinct name="OAK GROVE" votes="0" />
+                <Precinct name="MANNING" votes="2" />
+                <Precinct name="FLOYDALE" votes="1" />
+                <Precinct name="FORK" votes="0" />
+                <Precinct name="Absentee" votes="3" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Republican" party="REP" totalVotes="1148">
+            <VoteType name="Election Day" votes="1148">
+                <Precinct name="EAST DILLON" votes="144" />
+                <Precinct name="WEST DILLON" votes="48" />
+                <Precinct name="SOUTH DILLON" votes="34" />
+                <Precinct name="LATTA" votes="113" />
+                <Precinct name="NEW HOLLY" votes="35" />
+                <Precinct name="LAKE VIEW" votes="112" />
+                <Precinct name="KEMPER" votes="24" />
+                <Precinct name="GADDY'S MILL" votes="22" />
+                <Precinct name="MT. CALVARY" votes="69" />
+                <Precinct name="BERMUDA" votes="17" />
+                <Precinct name="PLEASANT HILL" votes="12" />
+                <Precinct name="HAMER" votes="43" />
+                <Precinct name="OAKLAND" votes="35" />
+                <Precinct name="CAROLINA" votes="13" />
+                <Precinct name="LITTLE ROCK" votes="37" />
+                <Precinct name="MINTURN" votes="8" />
+                <Precinct name="OAK GROVE" votes="103" />
+                <Precinct name="MANNING" votes="16" />
+                <Precinct name="FLOYDALE" votes="68" />
+                <Precinct name="FORK" votes="55" />
+                <Precinct name="Absentee" votes="140" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="American" party="AMR" totalVotes="53">
+            <VoteType name="Election Day" votes="53">
+                <Precinct name="EAST DILLON" votes="8" />
+                <Precinct name="WEST DILLON" votes="3" />
+                <Precinct name="SOUTH DILLON" votes="7" />
+                <Precinct name="LATTA" votes="9" />
+                <Precinct name="NEW HOLLY" votes="0" />
+                <Precinct name="LAKE VIEW" votes="5" />
+                <Precinct name="KEMPER" votes="0" />
+                <Precinct name="GADDY'S MILL" votes="0" />
+                <Precinct name="MT. CALVARY" votes="6" />
+                <Precinct name="BERMUDA" votes="0" />
+                <Precinct name="PLEASANT HILL" votes="0" />
+                <Precinct name="HAMER" votes="0" />
+                <Precinct name="OAKLAND" votes="3" />
+                <Precinct name="CAROLINA" votes="0" />
+                <Precinct name="LITTLE ROCK" votes="2" />
+                <Precinct name="MINTURN" votes="0" />
+                <Precinct name="OAK GROVE" votes="2" />
+                <Precinct name="MANNING" votes="1" />
+                <Precinct name="FLOYDALE" votes="2" />
+                <Precinct name="FORK" votes="0" />
+                <Precinct name="Absentee" votes="5" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="008" text="Libertarian" party="LIB" totalVotes="20">
+            <VoteType name="Election Day" votes="20">
+                <Precinct name="EAST DILLON" votes="2" />
+                <Precinct name="WEST DILLON" votes="1" />
+                <Precinct name="SOUTH DILLON" votes="1" />
+                <Precinct name="LATTA" votes="3" />
+                <Precinct name="NEW HOLLY" votes="0" />
+                <Precinct name="LAKE VIEW" votes="0" />
+                <Precinct name="KEMPER" votes="0" />
+                <Precinct name="GADDY'S MILL" votes="1" />
+                <Precinct name="MT. CALVARY" votes="3" />
+                <Precinct name="BERMUDA" votes="0" />
+                <Precinct name="PLEASANT HILL" votes="0" />
+                <Precinct name="HAMER" votes="1" />
+                <Precinct name="OAKLAND" votes="0" />
+                <Precinct name="CAROLINA" votes="0" />
+                <Precinct name="LITTLE ROCK" votes="1" />
+                <Precinct name="MINTURN" votes="0" />
+                <Precinct name="OAK GROVE" votes="1" />
+                <Precinct name="MANNING" votes="0" />
+                <Precinct name="FLOYDALE" votes="2" />
+                <Precinct name="FORK" votes="2" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0104" text="President and Vice President" voteFor="1" isQuestion="false" precinctsReporting="20" precinctsReported="20">
+        <Choice key="001" text="Hillary Rodham Clinton / Timothy Michael Kaine" party="DEM" totalVotes="5834">
+            <VoteType name="Election Day" votes="5834">
+                <Precinct name="EAST DILLON" votes="190" />
+                <Precinct name="WEST DILLON" votes="701" />
+                <Precinct name="SOUTH DILLON" votes="640" />
+                <Precinct name="LATTA" votes="689" />
+                <Precinct name="NEW HOLLY" votes="74" />
+                <Precinct name="LAKE VIEW" votes="304" />
+                <Precinct name="KEMPER" votes="151" />
+                <Precinct name="GADDY'S MILL" votes="44" />
+                <Precinct name="MT. CALVARY" votes="704" />
+                <Precinct name="BERMUDA" votes="61" />
+                <Precinct name="PLEASANT HILL" votes="38" />
+                <Precinct name="HAMER" votes="188" />
+                <Precinct name="OAKLAND" votes="316" />
+                <Precinct name="CAROLINA" votes="104" />
+                <Precinct name="LITTLE ROCK" votes="265" />
+                <Precinct name="MINTURN" votes="67" />
+                <Precinct name="OAK GROVE" votes="146" />
+                <Precinct name="MANNING" votes="69" />
+                <Precinct name="FLOYDALE" votes="86" />
+                <Precinct name="FORK" votes="64" />
+                <Precinct name="Absentee" votes="931" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Darrell Castle / Scott Bradley" party="CON" totalVotes="23">
+            <VoteType name="Election Day" votes="23">
+                <Precinct name="EAST DILLON" votes="3" />
+                <Precinct name="WEST DILLON" votes="5" />
+                <Precinct name="SOUTH DILLON" votes="5" />
+                <Precinct name="LATTA" votes="1" />
+                <Precinct name="NEW HOLLY" votes="0" />
+                <Precinct name="LAKE VIEW" votes="1" />
+                <Precinct name="KEMPER" votes="2" />
+                <Precinct name="GADDY'S MILL" votes="0" />
+                <Precinct name="MT. CALVARY" votes="0" />
+                <Precinct name="BERMUDA" votes="0" />
+                <Precinct name="PLEASANT HILL" votes="0" />
+                <Precinct name="HAMER" votes="0" />
+                <Precinct name="OAKLAND" votes="0" />
+                <Precinct name="CAROLINA" votes="0" />
+                <Precinct name="LITTLE ROCK" votes="0" />
+                <Precinct name="MINTURN" votes="0" />
+                <Precinct name="OAK GROVE" votes="0" />
+                <Precinct name="MANNING" votes="0" />
+                <Precinct name="FLOYDALE" votes="1" />
+                <Precinct name="FORK" votes="0" />
+                <Precinct name="Absentee" votes="5" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Evan McMullin / Nathan Johnson" party="IND" totalVotes="43">
+            <VoteType name="Election Day" votes="43">
+                <Precinct name="EAST DILLON" votes="5" />
+                <Precinct name="WEST DILLON" votes="4" />
+                <Precinct name="SOUTH DILLON" votes="4" />
+                <Precinct name="LATTA" votes="3" />
+                <Precinct name="NEW HOLLY" votes="1" />
+                <Precinct name="LAKE VIEW" votes="1" />
+                <Precinct name="KEMPER" votes="2" />
+                <Precinct name="GADDY'S MILL" votes="0" />
+                <Precinct name="MT. CALVARY" votes="8" />
+                <Precinct name="BERMUDA" votes="1" />
+                <Precinct name="PLEASANT HILL" votes="0" />
+                <Precinct name="HAMER" votes="2" />
+                <Precinct name="OAKLAND" votes="3" />
+                <Precinct name="CAROLINA" votes="0" />
+                <Precinct name="LITTLE ROCK" votes="2" />
+                <Precinct name="MINTURN" votes="1" />
+                <Precinct name="OAK GROVE" votes="0" />
+                <Precinct name="MANNING" votes="1" />
+                <Precinct name="FLOYDALE" votes="1" />
+                <Precinct name="FORK" votes="0" />
+                <Precinct name="Absentee" votes="4" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Jill Stein / Ajamu Baraka" party="GRN" totalVotes="54">
+            <VoteType name="Election Day" votes="54">
+                <Precinct name="EAST DILLON" votes="4" />
+                <Precinct name="WEST DILLON" votes="8" />
+                <Precinct name="SOUTH DILLON" votes="4" />
+                <Precinct name="LATTA" votes="8" />
+                <Precinct name="NEW HOLLY" votes="0" />
+                <Precinct name="LAKE VIEW" votes="4" />
+                <Precinct name="KEMPER" votes="2" />
+                <Precinct name="GADDY'S MILL" votes="0" />
+                <Precinct name="MT. CALVARY" votes="3" />
+                <Precinct name="BERMUDA" votes="1" />
+                <Precinct name="PLEASANT HILL" votes="1" />
+                <Precinct name="HAMER" votes="0" />
+                <Precinct name="OAKLAND" votes="2" />
+                <Precinct name="CAROLINA" votes="0" />
+                <Precinct name="LITTLE ROCK" votes="2" />
+                <Precinct name="MINTURN" votes="2" />
+                <Precinct name="OAK GROVE" votes="3" />
+                <Precinct name="MANNING" votes="1" />
+                <Precinct name="FLOYDALE" votes="1" />
+                <Precinct name="FORK" votes="0" />
+                <Precinct name="Absentee" votes="8" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Donald J Trump / Michael R Pence" party="REP" totalVotes="5637">
+            <VoteType name="Election Day" votes="5637">
+                <Precinct name="EAST DILLON" votes="817" />
+                <Precinct name="WEST DILLON" votes="167" />
+                <Precinct name="SOUTH DILLON" votes="135" />
+                <Precinct name="LATTA" votes="629" />
+                <Precinct name="NEW HOLLY" votes="148" />
+                <Precinct name="LAKE VIEW" votes="409" />
+                <Precinct name="KEMPER" votes="122" />
+                <Precinct name="GADDY'S MILL" votes="93" />
+                <Precinct name="MT. CALVARY" votes="347" />
+                <Precinct name="BERMUDA" votes="103" />
+                <Precinct name="PLEASANT HILL" votes="82" />
+                <Precinct name="HAMER" votes="263" />
+                <Precinct name="OAKLAND" votes="204" />
+                <Precinct name="CAROLINA" votes="50" />
+                <Precinct name="LITTLE ROCK" votes="144" />
+                <Precinct name="MINTURN" votes="46" />
+                <Precinct name="OAK GROVE" votes="335" />
+                <Precinct name="MANNING" votes="112" />
+                <Precinct name="FLOYDALE" votes="289" />
+                <Precinct name="FORK" votes="208" />
+                <Precinct name="Absentee" votes="934" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Peter Skewes / Michael Lacy" party="AMR" totalVotes="28">
+            <VoteType name="Election Day" votes="28">
+                <Precinct name="EAST DILLON" votes="3" />
+                <Precinct name="WEST DILLON" votes="1" />
+                <Precinct name="SOUTH DILLON" votes="2" />
+                <Precinct name="LATTA" votes="5" />
+                <Precinct name="NEW HOLLY" votes="0" />
+                <Precinct name="LAKE VIEW" votes="1" />
+                <Precinct name="KEMPER" votes="0" />
+                <Precinct name="GADDY'S MILL" votes="0" />
+                <Precinct name="MT. CALVARY" votes="3" />
+                <Precinct name="BERMUDA" votes="1" />
+                <Precinct name="PLEASANT HILL" votes="0" />
+                <Precinct name="HAMER" votes="1" />
+                <Precinct name="OAKLAND" votes="2" />
+                <Precinct name="CAROLINA" votes="0" />
+                <Precinct name="LITTLE ROCK" votes="0" />
+                <Precinct name="MINTURN" votes="0" />
+                <Precinct name="OAK GROVE" votes="3" />
+                <Precinct name="MANNING" votes="1" />
+                <Precinct name="FLOYDALE" votes="1" />
+                <Precinct name="FORK" votes="0" />
+                <Precinct name="Absentee" votes="4" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="Gary Johnson / Bill Weld" party="LIB" totalVotes="79">
+            <VoteType name="Election Day" votes="79">
+                <Precinct name="EAST DILLON" votes="5" />
+                <Precinct name="WEST DILLON" votes="4" />
+                <Precinct name="SOUTH DILLON" votes="3" />
+                <Precinct name="LATTA" votes="8" />
+                <Precinct name="NEW HOLLY" votes="2" />
+                <Precinct name="LAKE VIEW" votes="5" />
+                <Precinct name="KEMPER" votes="1" />
+                <Precinct name="GADDY'S MILL" votes="1" />
+                <Precinct name="MT. CALVARY" votes="9" />
+                <Precinct name="BERMUDA" votes="0" />
+                <Precinct name="PLEASANT HILL" votes="0" />
+                <Precinct name="HAMER" votes="7" />
+                <Precinct name="OAKLAND" votes="2" />
+                <Precinct name="CAROLINA" votes="0" />
+                <Precinct name="LITTLE ROCK" votes="2" />
+                <Precinct name="MINTURN" votes="1" />
+                <Precinct name="OAK GROVE" votes="6" />
+                <Precinct name="MANNING" votes="0" />
+                <Precinct name="FLOYDALE" votes="2" />
+                <Precinct name="FORK" votes="3" />
+                <Precinct name="Absentee" votes="18" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0105" text="U.S. Senate" voteFor="1" isQuestion="false" precinctsReporting="20" precinctsReported="20">
+        <Choice key="001" text="Thomas Dixon" party="DEM" totalVotes="4567">
+            <VoteType name="Election Day" votes="4567">
+                <Precinct name="EAST DILLON" votes="132" />
+                <Precinct name="WEST DILLON" votes="524" />
+                <Precinct name="SOUTH DILLON" votes="446" />
+                <Precinct name="LATTA" votes="575" />
+                <Precinct name="NEW HOLLY" votes="62" />
+                <Precinct name="LAKE VIEW" votes="252" />
+                <Precinct name="KEMPER" votes="110" />
+                <Precinct name="GADDY'S MILL" votes="36" />
+                <Precinct name="MT. CALVARY" votes="567" />
+                <Precinct name="BERMUDA" votes="52" />
+                <Precinct name="PLEASANT HILL" votes="30" />
+                <Precinct name="HAMER" votes="142" />
+                <Precinct name="OAKLAND" votes="242" />
+                <Precinct name="CAROLINA" votes="96" />
+                <Precinct name="LITTLE ROCK" votes="212" />
+                <Precinct name="MINTURN" votes="59" />
+                <Precinct name="OAK GROVE" votes="120" />
+                <Precinct name="MANNING" votes="51" />
+                <Precinct name="FLOYDALE" votes="70" />
+                <Precinct name="FORK" votes="57" />
+                <Precinct name="Absentee" votes="731" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Thomas Dixon" party="WFM" totalVotes="342">
+            <VoteType name="Election Day" votes="342">
+                <Precinct name="EAST DILLON" votes="14" />
+                <Precinct name="WEST DILLON" votes="48" />
+                <Precinct name="SOUTH DILLON" votes="37" />
+                <Precinct name="LATTA" votes="37" />
+                <Precinct name="NEW HOLLY" votes="7" />
+                <Precinct name="LAKE VIEW" votes="25" />
+                <Precinct name="KEMPER" votes="18" />
+                <Precinct name="GADDY'S MILL" votes="2" />
+                <Precinct name="MT. CALVARY" votes="34" />
+                <Precinct name="BERMUDA" votes="2" />
+                <Precinct name="PLEASANT HILL" votes="5" />
+                <Precinct name="HAMER" votes="15" />
+                <Precinct name="OAKLAND" votes="17" />
+                <Precinct name="CAROLINA" votes="4" />
+                <Precinct name="LITTLE ROCK" votes="11" />
+                <Precinct name="MINTURN" votes="1" />
+                <Precinct name="OAK GROVE" votes="15" />
+                <Precinct name="MANNING" votes="8" />
+                <Precinct name="FLOYDALE" votes="9" />
+                <Precinct name="FORK" votes="1" />
+                <Precinct name="Absentee" votes="32" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Bill Bledsoe" party="CON" totalVotes="54">
+            <VoteType name="Election Day" votes="54">
+                <Precinct name="EAST DILLON" votes="4" />
+                <Precinct name="WEST DILLON" votes="5" />
+                <Precinct name="SOUTH DILLON" votes="4" />
+                <Precinct name="LATTA" votes="4" />
+                <Precinct name="NEW HOLLY" votes="1" />
+                <Precinct name="LAKE VIEW" votes="1" />
+                <Precinct name="KEMPER" votes="2" />
+                <Precinct name="GADDY'S MILL" votes="0" />
+                <Precinct name="MT. CALVARY" votes="5" />
+                <Precinct name="BERMUDA" votes="2" />
+                <Precinct name="PLEASANT HILL" votes="1" />
+                <Precinct name="HAMER" votes="3" />
+                <Precinct name="OAKLAND" votes="1" />
+                <Precinct name="CAROLINA" votes="0" />
+                <Precinct name="LITTLE ROCK" votes="2" />
+                <Precinct name="MINTURN" votes="1" />
+                <Precinct name="OAK GROVE" votes="4" />
+                <Precinct name="MANNING" votes="1" />
+                <Precinct name="FLOYDALE" votes="3" />
+                <Precinct name="FORK" votes="0" />
+                <Precinct name="Absentee" votes="10" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Thomas Dixon" party="GRN" totalVotes="60">
+            <VoteType name="Election Day" votes="60">
+                <Precinct name="EAST DILLON" votes="5" />
+                <Precinct name="WEST DILLON" votes="5" />
+                <Precinct name="SOUTH DILLON" votes="9" />
+                <Precinct name="LATTA" votes="5" />
+                <Precinct name="NEW HOLLY" votes="0" />
+                <Precinct name="LAKE VIEW" votes="5" />
+                <Precinct name="KEMPER" votes="3" />
+                <Precinct name="GADDY'S MILL" votes="0" />
+                <Precinct name="MT. CALVARY" votes="2" />
+                <Precinct name="BERMUDA" votes="1" />
+                <Precinct name="PLEASANT HILL" votes="1" />
+                <Precinct name="HAMER" votes="1" />
+                <Precinct name="OAKLAND" votes="5" />
+                <Precinct name="CAROLINA" votes="1" />
+                <Precinct name="LITTLE ROCK" votes="2" />
+                <Precinct name="MINTURN" votes="1" />
+                <Precinct name="OAK GROVE" votes="3" />
+                <Precinct name="MANNING" votes="1" />
+                <Precinct name="FLOYDALE" votes="2" />
+                <Precinct name="FORK" votes="1" />
+                <Precinct name="Absentee" votes="7" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Tim Scott" party="REP" totalVotes="5743">
+            <VoteType name="Election Day" votes="5743">
+                <Precinct name="EAST DILLON" votes="799" />
+                <Precinct name="WEST DILLON" votes="211" />
+                <Precinct name="SOUTH DILLON" votes="177" />
+                <Precinct name="LATTA" votes="644" />
+                <Precinct name="NEW HOLLY" votes="143" />
+                <Precinct name="LAKE VIEW" votes="408" />
+                <Precinct name="KEMPER" votes="123" />
+                <Precinct name="GADDY'S MILL" votes="87" />
+                <Precinct name="MT. CALVARY" votes="376" />
+                <Precinct name="BERMUDA" votes="101" />
+                <Precinct name="PLEASANT HILL" votes="79" />
+                <Precinct name="HAMER" votes="264" />
+                <Precinct name="OAKLAND" votes="213" />
+                <Precinct name="CAROLINA" votes="46" />
+                <Precinct name="LITTLE ROCK" votes="147" />
+                <Precinct name="MINTURN" votes="45" />
+                <Precinct name="OAK GROVE" votes="306" />
+                <Precinct name="MANNING" votes="103" />
+                <Precinct name="FLOYDALE" votes="275" />
+                <Precinct name="FORK" votes="198" />
+                <Precinct name="Absentee" votes="998" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Rebel Michael Scarborough" party="AMR" totalVotes="74">
+            <VoteType name="Election Day" votes="74">
+                <Precinct name="EAST DILLON" votes="5" />
+                <Precinct name="WEST DILLON" votes="6" />
+                <Precinct name="SOUTH DILLON" votes="6" />
+                <Precinct name="LATTA" votes="14" />
+                <Precinct name="NEW HOLLY" votes="0" />
+                <Precinct name="LAKE VIEW" votes="4" />
+                <Precinct name="KEMPER" votes="0" />
+                <Precinct name="GADDY'S MILL" votes="0" />
+                <Precinct name="MT. CALVARY" votes="11" />
+                <Precinct name="BERMUDA" votes="0" />
+                <Precinct name="PLEASANT HILL" votes="0" />
+                <Precinct name="HAMER" votes="3" />
+                <Precinct name="OAKLAND" votes="5" />
+                <Precinct name="CAROLINA" votes="0" />
+                <Precinct name="LITTLE ROCK" votes="3" />
+                <Precinct name="MINTURN" votes="0" />
+                <Precinct name="OAK GROVE" votes="7" />
+                <Precinct name="MANNING" votes="0" />
+                <Precinct name="FLOYDALE" votes="1" />
+                <Precinct name="FORK" votes="2" />
+                <Precinct name="Absentee" votes="7" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="Bill Bledsoe" party="LIB" totalVotes="62">
+            <VoteType name="Election Day" votes="62">
+                <Precinct name="EAST DILLON" votes="6" />
+                <Precinct name="WEST DILLON" votes="6" />
+                <Precinct name="SOUTH DILLON" votes="5" />
+                <Precinct name="LATTA" votes="5" />
+                <Precinct name="NEW HOLLY" votes="1" />
+                <Precinct name="LAKE VIEW" votes="2" />
+                <Precinct name="KEMPER" votes="1" />
+                <Precinct name="GADDY'S MILL" votes="2" />
+                <Precinct name="MT. CALVARY" votes="5" />
+                <Precinct name="BERMUDA" votes="0" />
+                <Precinct name="PLEASANT HILL" votes="0" />
+                <Precinct name="HAMER" votes="2" />
+                <Precinct name="OAKLAND" votes="4" />
+                <Precinct name="CAROLINA" votes="0" />
+                <Precinct name="LITTLE ROCK" votes="5" />
+                <Precinct name="MINTURN" votes="1" />
+                <Precinct name="OAK GROVE" votes="6" />
+                <Precinct name="MANNING" votes="2" />
+                <Precinct name="FLOYDALE" votes="3" />
+                <Precinct name="FORK" votes="2" />
+                <Precinct name="Absentee" votes="4" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="008" text="Write-In" party="NON" totalVotes="19">
+            <VoteType name="Election Day" votes="19">
+                <Precinct name="EAST DILLON" votes="0" />
+                <Precinct name="WEST DILLON" votes="1" />
+                <Precinct name="SOUTH DILLON" votes="0" />
+                <Precinct name="LATTA" votes="0" />
+                <Precinct name="NEW HOLLY" votes="0" />
+                <Precinct name="LAKE VIEW" votes="1" />
+                <Precinct name="KEMPER" votes="0" />
+                <Precinct name="GADDY'S MILL" votes="0" />
+                <Precinct name="MT. CALVARY" votes="1" />
+                <Precinct name="BERMUDA" votes="0" />
+                <Precinct name="PLEASANT HILL" votes="0" />
+                <Precinct name="HAMER" votes="2" />
+                <Precinct name="OAKLAND" votes="0" />
+                <Precinct name="CAROLINA" votes="1" />
+                <Precinct name="LITTLE ROCK" votes="0" />
+                <Precinct name="MINTURN" votes="0" />
+                <Precinct name="OAK GROVE" votes="1" />
+                <Precinct name="MANNING" votes="0" />
+                <Precinct name="FLOYDALE" votes="1" />
+                <Precinct name="FORK" votes="0" />
+                <Precinct name="Absentee" votes="11" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0106" text="U.S.  House of Representatives, District  7" voteFor="1" isQuestion="false" precinctsReporting="20" precinctsReported="20">
+        <Choice key="001" text="Mal Hyman" party="DEM" totalVotes="4645">
+            <VoteType name="Election Day" votes="4645">
+                <Precinct name="EAST DILLON" votes="130" />
+                <Precinct name="WEST DILLON" votes="535" />
+                <Precinct name="SOUTH DILLON" votes="468" />
+                <Precinct name="LATTA" votes="572" />
+                <Precinct name="NEW HOLLY" votes="65" />
+                <Precinct name="LAKE VIEW" votes="260" />
+                <Precinct name="KEMPER" votes="110" />
+                <Precinct name="GADDY'S MILL" votes="40" />
+                <Precinct name="MT. CALVARY" votes="578" />
+                <Precinct name="BERMUDA" votes="50" />
+                <Precinct name="PLEASANT HILL" votes="28" />
+                <Precinct name="HAMER" votes="146" />
+                <Precinct name="OAKLAND" votes="249" />
+                <Precinct name="CAROLINA" votes="92" />
+                <Precinct name="LITTLE ROCK" votes="212" />
+                <Precinct name="MINTURN" votes="61" />
+                <Precinct name="OAK GROVE" votes="121" />
+                <Precinct name="MANNING" votes="51" />
+                <Precinct name="FLOYDALE" votes="69" />
+                <Precinct name="FORK" votes="56" />
+                <Precinct name="Absentee" votes="751" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Mal Hyman" party="WFM" totalVotes="369">
+            <VoteType name="Election Day" votes="369">
+                <Precinct name="EAST DILLON" votes="21" />
+                <Precinct name="WEST DILLON" votes="59" />
+                <Precinct name="SOUTH DILLON" votes="35" />
+                <Precinct name="LATTA" votes="39" />
+                <Precinct name="NEW HOLLY" votes="5" />
+                <Precinct name="LAKE VIEW" votes="25" />
+                <Precinct name="KEMPER" votes="19" />
+                <Precinct name="GADDY'S MILL" votes="0" />
+                <Precinct name="MT. CALVARY" votes="40" />
+                <Precinct name="BERMUDA" votes="4" />
+                <Precinct name="PLEASANT HILL" votes="7" />
+                <Precinct name="HAMER" votes="17" />
+                <Precinct name="OAKLAND" votes="17" />
+                <Precinct name="CAROLINA" votes="6" />
+                <Precinct name="LITTLE ROCK" votes="11" />
+                <Precinct name="MINTURN" votes="2" />
+                <Precinct name="OAK GROVE" votes="21" />
+                <Precinct name="MANNING" votes="7" />
+                <Precinct name="FLOYDALE" votes="6" />
+                <Precinct name="FORK" votes="2" />
+                <Precinct name="Absentee" votes="26" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Mal Hyman" party="GRN" totalVotes="60">
+            <VoteType name="Election Day" votes="60">
+                <Precinct name="EAST DILLON" votes="8" />
+                <Precinct name="WEST DILLON" votes="9" />
+                <Precinct name="SOUTH DILLON" votes="4" />
+                <Precinct name="LATTA" votes="11" />
+                <Precinct name="NEW HOLLY" votes="2" />
+                <Precinct name="LAKE VIEW" votes="0" />
+                <Precinct name="KEMPER" votes="3" />
+                <Precinct name="GADDY'S MILL" votes="1" />
+                <Precinct name="MT. CALVARY" votes="3" />
+                <Precinct name="BERMUDA" votes="0" />
+                <Precinct name="PLEASANT HILL" votes="1" />
+                <Precinct name="HAMER" votes="1" />
+                <Precinct name="OAKLAND" votes="2" />
+                <Precinct name="CAROLINA" votes="0" />
+                <Precinct name="LITTLE ROCK" votes="2" />
+                <Precinct name="MINTURN" votes="0" />
+                <Precinct name="OAK GROVE" votes="4" />
+                <Precinct name="MANNING" votes="1" />
+                <Precinct name="FLOYDALE" votes="2" />
+                <Precinct name="FORK" votes="1" />
+                <Precinct name="Absentee" votes="5" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Tom Rice" party="REP" totalVotes="5851">
+            <VoteType name="Election Day" votes="5851">
+                <Precinct name="EAST DILLON" votes="821" />
+                <Precinct name="WEST DILLON" votes="202" />
+                <Precinct name="SOUTH DILLON" votes="172" />
+                <Precinct name="LATTA" votes="669" />
+                <Precinct name="NEW HOLLY" votes="140" />
+                <Precinct name="LAKE VIEW" votes="410" />
+                <Precinct name="KEMPER" votes="125" />
+                <Precinct name="GADDY'S MILL" votes="91" />
+                <Precinct name="MT. CALVARY" votes="373" />
+                <Precinct name="BERMUDA" votes="105" />
+                <Precinct name="PLEASANT HILL" votes="78" />
+                <Precinct name="HAMER" votes="258" />
+                <Precinct name="OAKLAND" votes="220" />
+                <Precinct name="CAROLINA" votes="51" />
+                <Precinct name="LITTLE ROCK" votes="160" />
+                <Precinct name="MINTURN" votes="47" />
+                <Precinct name="OAK GROVE" votes="318" />
+                <Precinct name="MANNING" votes="113" />
+                <Precinct name="FLOYDALE" votes="286" />
+                <Precinct name="FORK" votes="202" />
+                <Precinct name="Absentee" votes="1010" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Write-In" party="NON" totalVotes="9">
+            <VoteType name="Election Day" votes="9">
+                <Precinct name="EAST DILLON" votes="2" />
+                <Precinct name="WEST DILLON" votes="2" />
+                <Precinct name="SOUTH DILLON" votes="0" />
+                <Precinct name="LATTA" votes="0" />
+                <Precinct name="NEW HOLLY" votes="0" />
+                <Precinct name="LAKE VIEW" votes="1" />
+                <Precinct name="KEMPER" votes="0" />
+                <Precinct name="GADDY'S MILL" votes="0" />
+                <Precinct name="MT. CALVARY" votes="1" />
+                <Precinct name="BERMUDA" votes="0" />
+                <Precinct name="PLEASANT HILL" votes="0" />
+                <Precinct name="HAMER" votes="2" />
+                <Precinct name="OAKLAND" votes="0" />
+                <Precinct name="CAROLINA" votes="0" />
+                <Precinct name="LITTLE ROCK" votes="0" />
+                <Precinct name="MINTURN" votes="0" />
+                <Precinct name="OAK GROVE" votes="0" />
+                <Precinct name="MANNING" votes="0" />
+                <Precinct name="FLOYDALE" votes="1" />
+                <Precinct name="FORK" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0107" text="State  Senate, District  28" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <Choice key="001" text="Greg Hembree" party="REP" totalVotes="1373">
+            <VoteType name="Election Day" votes="1373">
+                <Precinct name="LAKE VIEW" votes="435" />
+                <Precinct name="KEMPER" votes="162" />
+                <Precinct name="GADDY'S MILL" votes="84" />
+                <Precinct name="BERMUDA" votes="104" />
+                <Precinct name="FLOYDALE" votes="279" />
+                <Precinct name="FORK" votes="196" />
+                <Precinct name="Absentee" votes="113" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="11">
+            <VoteType name="Election Day" votes="11">
+                <Precinct name="LAKE VIEW" votes="6" />
+                <Precinct name="KEMPER" votes="1" />
+                <Precinct name="GADDY'S MILL" votes="0" />
+                <Precinct name="BERMUDA" votes="0" />
+                <Precinct name="FLOYDALE" votes="2" />
+                <Precinct name="FORK" votes="0" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0108" text="State  Senate, District  30" voteFor="1" isQuestion="false" precinctsReporting="14" precinctsReported="14">
+        <Choice key="001" text="Kent Williams" party="DEM" totalVotes="8091">
+            <VoteType name="Election Day" votes="8091">
+                <Precinct name="EAST DILLON" votes="830" />
+                <Precinct name="WEST DILLON" votes="763" />
+                <Precinct name="SOUTH DILLON" votes="690" />
+                <Precinct name="LATTA" votes="1172" />
+                <Precinct name="NEW HOLLY" votes="175" />
+                <Precinct name="MT. CALVARY" votes="930" />
+                <Precinct name="PLEASANT HILL" votes="103" />
+                <Precinct name="HAMER" votes="370" />
+                <Precinct name="OAKLAND" votes="445" />
+                <Precinct name="CAROLINA" votes="131" />
+                <Precinct name="LITTLE ROCK" votes="358" />
+                <Precinct name="MINTURN" votes="105" />
+                <Precinct name="OAK GROVE" votes="401" />
+                <Precinct name="MANNING" votes="150" />
+                <Precinct name="Absentee" votes="1466" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="58">
+            <VoteType name="Election Day" votes="58">
+                <Precinct name="EAST DILLON" votes="10" />
+                <Precinct name="WEST DILLON" votes="8" />
+                <Precinct name="SOUTH DILLON" votes="3" />
+                <Precinct name="LATTA" votes="2" />
+                <Precinct name="NEW HOLLY" votes="0" />
+                <Precinct name="MT. CALVARY" votes="10" />
+                <Precinct name="PLEASANT HILL" votes="1" />
+                <Precinct name="HAMER" votes="3" />
+                <Precinct name="OAKLAND" votes="4" />
+                <Precinct name="CAROLINA" votes="0" />
+                <Precinct name="LITTLE ROCK" votes="6" />
+                <Precinct name="MINTURN" votes="1" />
+                <Precinct name="OAK GROVE" votes="2" />
+                <Precinct name="MANNING" votes="0" />
+                <Precinct name="Absentee" votes="8" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0109" text="State  House of Representatives, District  57" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <Choice key="001" text="Lucas Atkinson" party="DEM" totalVotes="795">
+            <VoteType name="Election Day" votes="795">
+                <Precinct name="LATTA" votes="598" />
+                <Precinct name="Absentee" votes="197" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Ethan Brown" party="REP" totalVotes="319">
+            <VoteType name="Election Day" votes="319">
+                <Precinct name="LATTA" votes="265" />
+                <Precinct name="Absentee" votes="54" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="0">
+            <VoteType name="Election Day" votes="0">
+                <Precinct name="LATTA" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0110" text="State  House of Representatives, District  55" voteFor="1" isQuestion="false" precinctsReporting="20" precinctsReported="20">
+        <Choice key="001" text="Jackie E Hayes" party="DEM" totalVotes="8497">
+            <VoteType name="Election Day" votes="8497">
+                <Precinct name="EAST DILLON" votes="830" />
+                <Precinct name="WEST DILLON" votes="735" />
+                <Precinct name="SOUTH DILLON" votes="646" />
+                <Precinct name="LATTA" votes="351" />
+                <Precinct name="NEW HOLLY" votes="177" />
+                <Precinct name="LAKE VIEW" votes="529" />
+                <Precinct name="KEMPER" votes="224" />
+                <Precinct name="GADDY'S MILL" votes="97" />
+                <Precinct name="MT. CALVARY" votes="914" />
+                <Precinct name="BERMUDA" votes="129" />
+                <Precinct name="PLEASANT HILL" votes="102" />
+                <Precinct name="HAMER" votes="369" />
+                <Precinct name="OAKLAND" votes="443" />
+                <Precinct name="CAROLINA" votes="130" />
+                <Precinct name="LITTLE ROCK" votes="339" />
+                <Precinct name="MINTURN" votes="99" />
+                <Precinct name="OAK GROVE" votes="398" />
+                <Precinct name="MANNING" votes="158" />
+                <Precinct name="FLOYDALE" votes="296" />
+                <Precinct name="FORK" votes="188" />
+                <Precinct name="Absentee" votes="1342" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="168">
+            <VoteType name="Election Day" votes="168">
+                <Precinct name="EAST DILLON" votes="24" />
+                <Precinct name="WEST DILLON" votes="20" />
+                <Precinct name="SOUTH DILLON" votes="10" />
+                <Precinct name="LATTA" votes="6" />
+                <Precinct name="NEW HOLLY" votes="0" />
+                <Precinct name="LAKE VIEW" votes="20" />
+                <Precinct name="KEMPER" votes="4" />
+                <Precinct name="GADDY'S MILL" votes="2" />
+                <Precinct name="MT. CALVARY" votes="19" />
+                <Precinct name="BERMUDA" votes="5" />
+                <Precinct name="PLEASANT HILL" votes="0" />
+                <Precinct name="HAMER" votes="6" />
+                <Precinct name="OAKLAND" votes="5" />
+                <Precinct name="CAROLINA" votes="0" />
+                <Precinct name="LITTLE ROCK" votes="7" />
+                <Precinct name="MINTURN" votes="2" />
+                <Precinct name="OAK GROVE" votes="2" />
+                <Precinct name="MANNING" votes="0" />
+                <Precinct name="FLOYDALE" votes="10" />
+                <Precinct name="FORK" votes="7" />
+                <Precinct name="Absentee" votes="19" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0111" text=" Solicitor, Circuit  4" voteFor="1" isQuestion="false" precinctsReporting="20" precinctsReported="20">
+        <Choice key="001" text="Will Rogers" party="DEM" totalVotes="9108">
+            <VoteType name="Election Day" votes="9108">
+                <Precinct name="EAST DILLON" votes="781" />
+                <Precinct name="WEST DILLON" votes="713" />
+                <Precinct name="SOUTH DILLON" votes="616" />
+                <Precinct name="LATTA" votes="1104" />
+                <Precinct name="NEW HOLLY" votes="162" />
+                <Precinct name="LAKE VIEW" votes="531" />
+                <Precinct name="KEMPER" votes="217" />
+                <Precinct name="GADDY'S MILL" votes="92" />
+                <Precinct name="MT. CALVARY" votes="858" />
+                <Precinct name="BERMUDA" votes="121" />
+                <Precinct name="PLEASANT HILL" votes="98" />
+                <Precinct name="HAMER" votes="341" />
+                <Precinct name="OAKLAND" votes="428" />
+                <Precinct name="CAROLINA" votes="124" />
+                <Precinct name="LITTLE ROCK" votes="323" />
+                <Precinct name="MINTURN" votes="100" />
+                <Precinct name="OAK GROVE" votes="367" />
+                <Precinct name="MANNING" votes="137" />
+                <Precinct name="FLOYDALE" votes="296" />
+                <Precinct name="FORK" votes="190" />
+                <Precinct name="Absentee" votes="1508" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="47">
+            <VoteType name="Election Day" votes="47">
+                <Precinct name="EAST DILLON" votes="7" />
+                <Precinct name="WEST DILLON" votes="3" />
+                <Precinct name="SOUTH DILLON" votes="3" />
+                <Precinct name="LATTA" votes="3" />
+                <Precinct name="NEW HOLLY" votes="0" />
+                <Precinct name="LAKE VIEW" votes="9" />
+                <Precinct name="KEMPER" votes="0" />
+                <Precinct name="GADDY'S MILL" votes="0" />
+                <Precinct name="MT. CALVARY" votes="5" />
+                <Precinct name="BERMUDA" votes="3" />
+                <Precinct name="PLEASANT HILL" votes="0" />
+                <Precinct name="HAMER" votes="4" />
+                <Precinct name="OAKLAND" votes="1" />
+                <Precinct name="CAROLINA" votes="0" />
+                <Precinct name="LITTLE ROCK" votes="1" />
+                <Precinct name="MINTURN" votes="1" />
+                <Precinct name="OAK GROVE" votes="0" />
+                <Precinct name="MANNING" votes="0" />
+                <Precinct name="FLOYDALE" votes="1" />
+                <Precinct name="FORK" votes="1" />
+                <Precinct name="Absentee" votes="5" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0112" text="Sheriff" voteFor="1" isQuestion="false" precinctsReporting="20" precinctsReported="20">
+        <Choice key="001" text="Crystal J Moore" party="PET" totalVotes="3695">
+            <VoteType name="Election Day" votes="3695">
+                <Precinct name="EAST DILLON" votes="119" />
+                <Precinct name="WEST DILLON" votes="411" />
+                <Precinct name="SOUTH DILLON" votes="378" />
+                <Precinct name="LATTA" votes="652" />
+                <Precinct name="NEW HOLLY" votes="66" />
+                <Precinct name="LAKE VIEW" votes="162" />
+                <Precinct name="KEMPER" votes="83" />
+                <Precinct name="GADDY'S MILL" votes="15" />
+                <Precinct name="MT. CALVARY" votes="332" />
+                <Precinct name="BERMUDA" votes="25" />
+                <Precinct name="PLEASANT HILL" votes="29" />
+                <Precinct name="HAMER" votes="116" />
+                <Precinct name="OAKLAND" votes="174" />
+                <Precinct name="CAROLINA" votes="73" />
+                <Precinct name="LITTLE ROCK" votes="161" />
+                <Precinct name="MINTURN" votes="34" />
+                <Precinct name="OAK GROVE" votes="187" />
+                <Precinct name="MANNING" votes="43" />
+                <Precinct name="FLOYDALE" votes="72" />
+                <Precinct name="FORK" votes="31" />
+                <Precinct name="Absentee" votes="530" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Major Hulon" party="DEM" totalVotes="7391">
+            <VoteType name="Election Day" votes="7391">
+                <Precinct name="EAST DILLON" votes="852" />
+                <Precinct name="WEST DILLON" votes="418" />
+                <Precinct name="SOUTH DILLON" votes="356" />
+                <Precinct name="LATTA" votes="667" />
+                <Precinct name="NEW HOLLY" votes="145" />
+                <Precinct name="LAKE VIEW" votes="505" />
+                <Precinct name="KEMPER" votes="183" />
+                <Precinct name="GADDY'S MILL" votes="115" />
+                <Precinct name="MT. CALVARY" votes="693" />
+                <Precinct name="BERMUDA" votes="130" />
+                <Precinct name="PLEASANT HILL" votes="89" />
+                <Precinct name="HAMER" votes="325" />
+                <Precinct name="OAKLAND" votes="329" />
+                <Precinct name="CAROLINA" votes="73" />
+                <Precinct name="LITTLE ROCK" votes="231" />
+                <Precinct name="MINTURN" votes="76" />
+                <Precinct name="OAK GROVE" votes="283" />
+                <Precinct name="MANNING" votes="131" />
+                <Precinct name="FLOYDALE" votes="298" />
+                <Precinct name="FORK" votes="208" />
+                <Precinct name="Absentee" votes="1284" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="76">
+            <VoteType name="Election Day" votes="76">
+                <Precinct name="EAST DILLON" votes="9" />
+                <Precinct name="WEST DILLON" votes="17" />
+                <Precinct name="SOUTH DILLON" votes="12" />
+                <Precinct name="LATTA" votes="0" />
+                <Precinct name="NEW HOLLY" votes="0" />
+                <Precinct name="LAKE VIEW" votes="2" />
+                <Precinct name="KEMPER" votes="3" />
+                <Precinct name="GADDY'S MILL" votes="0" />
+                <Precinct name="MT. CALVARY" votes="7" />
+                <Precinct name="BERMUDA" votes="0" />
+                <Precinct name="PLEASANT HILL" votes="0" />
+                <Precinct name="HAMER" votes="1" />
+                <Precinct name="OAKLAND" votes="7" />
+                <Precinct name="CAROLINA" votes="0" />
+                <Precinct name="LITTLE ROCK" votes="1" />
+                <Precinct name="MINTURN" votes="0" />
+                <Precinct name="OAK GROVE" votes="1" />
+                <Precinct name="MANNING" votes="0" />
+                <Precinct name="FLOYDALE" votes="1" />
+                <Precinct name="FORK" votes="2" />
+                <Precinct name="Absentee" votes="13" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0113" text="Clerk of Court" voteFor="1" isQuestion="false" precinctsReporting="20" precinctsReported="20">
+        <Choice key="001" text="Gwen Hyatt" party="DEM" totalVotes="10556">
+            <VoteType name="Election Day" votes="10556">
+                <Precinct name="EAST DILLON" votes="916" />
+                <Precinct name="WEST DILLON" votes="811" />
+                <Precinct name="SOUTH DILLON" votes="711" />
+                <Precinct name="LATTA" votes="1243" />
+                <Precinct name="NEW HOLLY" votes="193" />
+                <Precinct name="LAKE VIEW" votes="608" />
+                <Precinct name="KEMPER" votes="250" />
+                <Precinct name="GADDY'S MILL" votes="117" />
+                <Precinct name="MT. CALVARY" votes="994" />
+                <Precinct name="BERMUDA" votes="144" />
+                <Precinct name="PLEASANT HILL" votes="112" />
+                <Precinct name="HAMER" votes="402" />
+                <Precinct name="OAKLAND" votes="489" />
+                <Precinct name="CAROLINA" votes="140" />
+                <Precinct name="LITTLE ROCK" votes="387" />
+                <Precinct name="MINTURN" votes="106" />
+                <Precinct name="OAK GROVE" votes="432" />
+                <Precinct name="MANNING" votes="168" />
+                <Precinct name="FLOYDALE" votes="354" />
+                <Precinct name="FORK" votes="227" />
+                <Precinct name="Absentee" votes="1750" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0114" text="Coroner" voteFor="1" isQuestion="false" precinctsReporting="20" precinctsReported="20">
+        <Choice key="001" text="Donnie Grimsley" party="DEM" totalVotes="10497">
+            <VoteType name="Election Day" votes="10497">
+                <Precinct name="EAST DILLON" votes="917" />
+                <Precinct name="WEST DILLON" votes="798" />
+                <Precinct name="SOUTH DILLON" votes="701" />
+                <Precinct name="LATTA" votes="1247" />
+                <Precinct name="NEW HOLLY" votes="195" />
+                <Precinct name="LAKE VIEW" votes="613" />
+                <Precinct name="KEMPER" votes="249" />
+                <Precinct name="GADDY'S MILL" votes="120" />
+                <Precinct name="MT. CALVARY" votes="985" />
+                <Precinct name="BERMUDA" votes="146" />
+                <Precinct name="PLEASANT HILL" votes="109" />
+                <Precinct name="HAMER" votes="407" />
+                <Precinct name="OAKLAND" votes="486" />
+                <Precinct name="CAROLINA" votes="138" />
+                <Precinct name="LITTLE ROCK" votes="375" />
+                <Precinct name="MINTURN" votes="105" />
+                <Precinct name="OAK GROVE" votes="427" />
+                <Precinct name="MANNING" votes="165" />
+                <Precinct name="FLOYDALE" votes="350" />
+                <Precinct name="FORK" votes="227" />
+                <Precinct name="Absentee" votes="1735" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0115" text="County Council District 1" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <Choice key="001" text="James Hoghead Campbell" party="DEM" totalVotes="904">
+            <VoteType name="Election Day" votes="904">
+                <Precinct name="EAST DILLON" votes="63" />
+                <Precinct name="WEST DILLON" votes="244" />
+                <Precinct name="SOUTH DILLON" votes="420" />
+                <Precinct name="Absentee" votes="177" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Sarita Bethea" party="REP" totalVotes="588">
+            <VoteType name="Election Day" votes="588">
+                <Precinct name="EAST DILLON" votes="330" />
+                <Precinct name="WEST DILLON" votes="30" />
+                <Precinct name="SOUTH DILLON" votes="39" />
+                <Precinct name="Absentee" votes="189" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="3">
+            <VoteType name="Election Day" votes="3">
+                <Precinct name="EAST DILLON" votes="1" />
+                <Precinct name="WEST DILLON" votes="0" />
+                <Precinct name="SOUTH DILLON" votes="2" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0116" text="County Council District 2" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <Choice key="001" text="Jack Scott" party="DEM" totalVotes="1479">
+            <VoteType name="Election Day" votes="1479">
+                <Precinct name="LAKE VIEW" votes="624" />
+                <Precinct name="KEMPER" votes="247" />
+                <Precinct name="GADDY'S MILL" votes="111" />
+                <Precinct name="BERMUDA" votes="98" />
+                <Precinct name="PLEASANT HILL" votes="28" />
+                <Precinct name="FLOYDALE" votes="40" />
+                <Precinct name="FORK" votes="199" />
+                <Precinct name="Absentee" votes="132" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="25">
+            <VoteType name="Election Day" votes="25">
+                <Precinct name="LAKE VIEW" votes="14" />
+                <Precinct name="KEMPER" votes="2" />
+                <Precinct name="GADDY'S MILL" votes="3" />
+                <Precinct name="BERMUDA" votes="1" />
+                <Precinct name="PLEASANT HILL" votes="0" />
+                <Precinct name="FLOYDALE" votes="0" />
+                <Precinct name="FORK" votes="4" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0117" text="County Council District 3" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <Choice key="001" text="Archie Scott" party="DEM" totalVotes="1426">
+            <VoteType name="Election Day" votes="1426">
+                <Precinct name="GADDY'S MILL" votes="4" />
+                <Precinct name="MT. CALVARY" votes="666" />
+                <Precinct name="BERMUDA" votes="39" />
+                <Precinct name="PLEASANT HILL" votes="56" />
+                <Precinct name="HAMER" votes="36" />
+                <Precinct name="OAKLAND" votes="460" />
+                <Precinct name="Absentee" votes="165" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="11">
+            <VoteType name="Election Day" votes="11">
+                <Precinct name="GADDY'S MILL" votes="0" />
+                <Precinct name="MT. CALVARY" votes="2" />
+                <Precinct name="BERMUDA" votes="1" />
+                <Precinct name="PLEASANT HILL" votes="0" />
+                <Precinct name="HAMER" votes="1" />
+                <Precinct name="OAKLAND" votes="6" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0118" text="County Council District 4" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <Choice key="001" text="T F  Buzzy Finklea" party="DEM" totalVotes="1579">
+            <VoteType name="Election Day" votes="1579">
+                <Precinct name="LATTA" votes="836" />
+                <Precinct name="NEW HOLLY" votes="61" />
+                <Precinct name="OAK GROVE" votes="413" />
+                <Precinct name="Absentee" votes="267" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="25">
+            <VoteType name="Election Day" votes="25">
+                <Precinct name="LATTA" votes="9" />
+                <Precinct name="NEW HOLLY" votes="3" />
+                <Precinct name="OAK GROVE" votes="9" />
+                <Precinct name="Absentee" votes="4" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0119" text="Soil and Water District Commission" voteFor="1" isQuestion="false" precinctsReporting="20" precinctsReported="20">
+        <Choice key="001" text="Alan W Gaddy" party="NON" totalVotes="7584">
+            <VoteType name="Election Day" votes="7584">
+                <Precinct name="EAST DILLON" votes="810" />
+                <Precinct name="WEST DILLON" votes="521" />
+                <Precinct name="SOUTH DILLON" votes="420" />
+                <Precinct name="LATTA" votes="945" />
+                <Precinct name="NEW HOLLY" votes="135" />
+                <Precinct name="LAKE VIEW" votes="445" />
+                <Precinct name="KEMPER" votes="178" />
+                <Precinct name="GADDY'S MILL" votes="98" />
+                <Precinct name="MT. CALVARY" votes="599" />
+                <Precinct name="BERMUDA" votes="106" />
+                <Precinct name="PLEASANT HILL" votes="94" />
+                <Precinct name="HAMER" votes="309" />
+                <Precinct name="OAKLAND" votes="304" />
+                <Precinct name="CAROLINA" votes="67" />
+                <Precinct name="LITTLE ROCK" votes="224" />
+                <Precinct name="MINTURN" votes="61" />
+                <Precinct name="OAK GROVE" votes="362" />
+                <Precinct name="MANNING" votes="126" />
+                <Precinct name="FLOYDALE" votes="301" />
+                <Precinct name="FORK" votes="163" />
+                <Precinct name="Absentee" votes="1314" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="32">
+            <VoteType name="Election Day" votes="32">
+                <Precinct name="EAST DILLON" votes="5" />
+                <Precinct name="WEST DILLON" votes="4" />
+                <Precinct name="SOUTH DILLON" votes="0" />
+                <Precinct name="LATTA" votes="1" />
+                <Precinct name="NEW HOLLY" votes="0" />
+                <Precinct name="LAKE VIEW" votes="1" />
+                <Precinct name="KEMPER" votes="0" />
+                <Precinct name="GADDY'S MILL" votes="1" />
+                <Precinct name="MT. CALVARY" votes="6" />
+                <Precinct name="BERMUDA" votes="0" />
+                <Precinct name="PLEASANT HILL" votes="0" />
+                <Precinct name="HAMER" votes="1" />
+                <Precinct name="OAKLAND" votes="2" />
+                <Precinct name="CAROLINA" votes="0" />
+                <Precinct name="LITTLE ROCK" votes="0" />
+                <Precinct name="MINTURN" votes="1" />
+                <Precinct name="OAK GROVE" votes="1" />
+                <Precinct name="MANNING" votes="0" />
+                <Precinct name="FLOYDALE" votes="1" />
+                <Precinct name="FORK" votes="0" />
+                <Precinct name="Absentee" votes="8" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

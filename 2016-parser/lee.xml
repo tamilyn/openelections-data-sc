@@ -1,0 +1,2669 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>11/16/2016 3:16:05 PM EST</Timestamp>
+    <ElectionName>2016 Statewide General Election</ElectionName>
+    <ElectionDate>11/8/2016</ElectionDate>
+    <Region>Lee</Region>
+    <VoterTurnout totalVoters="12205" ballotsCast="8233" voterTurnout="67.46">
+        <Precincts>
+            <Precinct name="ASHLAND/STOKES BRIDGE" totalVoters="546" ballotsCast="302" voterTurnout="55.31" percentReporting="4" />
+            <Precinct name="ASHWOOD" totalVoters="633" ballotsCast="357" voterTurnout="56.40" percentReporting="4" />
+            <Precinct name="BISHOPVILLE 1" totalVoters="738" ballotsCast="297" voterTurnout="40.24" percentReporting="4" />
+            <Precinct name="BISHOPVILLE 2" totalVoters="776" ballotsCast="356" voterTurnout="45.88" percentReporting="4" />
+            <Precinct name="BISHOPVILLE 3" totalVoters="839" ballotsCast="401" voterTurnout="47.79" percentReporting="4" />
+            <Precinct name="BISHOPVILLE 4" totalVoters="1149" ballotsCast="487" voterTurnout="42.38" percentReporting="4" />
+            <Precinct name="CEDAR CREEK" totalVoters="318" ballotsCast="195" voterTurnout="61.32" percentReporting="4" />
+            <Precinct name="CYPRESS" totalVoters="550" ballotsCast="256" voterTurnout="46.55" percentReporting="4" />
+            <Precinct name="ELLIOTT" totalVoters="461" ballotsCast="291" voterTurnout="63.12" percentReporting="4" />
+            <Precinct name="HICKORY HILL" totalVoters="359" ballotsCast="204" voterTurnout="56.82" percentReporting="4" />
+            <Precinct name="IONIA" totalVoters="658" ballotsCast="329" voterTurnout="50.00" percentReporting="4" />
+            <Precinct name="LYNCHBURG" totalVoters="731" ballotsCast="422" voterTurnout="57.73" percentReporting="4" />
+            <Precinct name="MANVILLE" totalVoters="719" ballotsCast="342" voterTurnout="47.57" percentReporting="4" />
+            <Precinct name="MT. CLIO" totalVoters="271" ballotsCast="146" voterTurnout="53.87" percentReporting="4" />
+            <Precinct name="RATTLESNAKE SPRINGS" totalVoters="340" ballotsCast="236" voterTurnout="69.41" percentReporting="4" />
+            <Precinct name="SCHROCKS MILL/LUCKNOW" totalVoters="494" ballotsCast="277" voterTurnout="56.07" percentReporting="4" />
+            <Precinct name="SOUTH LYNCHBURG" totalVoters="413" ballotsCast="217" voterTurnout="52.54" percentReporting="4" />
+            <Precinct name="SPRING HILL" totalVoters="666" ballotsCast="376" voterTurnout="56.46" percentReporting="4" />
+            <Precinct name="ST. CHARLES" totalVoters="950" ballotsCast="441" voterTurnout="46.42" percentReporting="4" />
+            <Precinct name="ST. MATTHEWS" totalVoters="175" ballotsCast="120" voterTurnout="68.57" percentReporting="4" />
+            <Precinct name="TURKEY CREEK" totalVoters="194" ballotsCast="108" voterTurnout="55.67" percentReporting="4" />
+            <Precinct name="WOODROW" totalVoters="245" ballotsCast="97" voterTurnout="39.59" percentReporting="4" />
+            <Precinct name="Absentee" totalVoters="0" ballotsCast="1929" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Emergency" totalVoters="0" ballotsCast="31" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Failsafe" totalVoters="0" ballotsCast="1" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Provisional" totalVoters="0" ballotsCast="6" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Failsafe Provisional" totalVoters="0" ballotsCast="9" voterTurnout="0.00" percentReporting="32" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="0103" text="STRAIGHT PARTY" voteFor="1" isQuestion="false" precinctsReporting="22" precinctsReported="22">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ASHLAND/STOKES BRIDGE" votes="0" />
+            <Precinct name="ASHWOOD" votes="0" />
+            <Precinct name="BISHOPVILLE 1" votes="0" />
+            <Precinct name="BISHOPVILLE 2" votes="0" />
+            <Precinct name="BISHOPVILLE 3" votes="0" />
+            <Precinct name="BISHOPVILLE 4" votes="0" />
+            <Precinct name="CEDAR CREEK" votes="0" />
+            <Precinct name="CYPRESS" votes="0" />
+            <Precinct name="ELLIOTT" votes="0" />
+            <Precinct name="HICKORY HILL" votes="0" />
+            <Precinct name="IONIA" votes="0" />
+            <Precinct name="LYNCHBURG" votes="0" />
+            <Precinct name="MANVILLE" votes="0" />
+            <Precinct name="MT. CLIO" votes="0" />
+            <Precinct name="RATTLESNAKE SPRINGS" votes="0" />
+            <Precinct name="SCHROCKS MILL/LUCKNOW" votes="0" />
+            <Precinct name="SOUTH LYNCHBURG" votes="0" />
+            <Precinct name="SPRING HILL" votes="0" />
+            <Precinct name="ST. CHARLES" votes="0" />
+            <Precinct name="ST. MATTHEWS" votes="0" />
+            <Precinct name="TURKEY CREEK" votes="0" />
+            <Precinct name="WOODROW" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="2822">
+            <Precinct name="ASHLAND/STOKES BRIDGE" votes="144" />
+            <Precinct name="ASHWOOD" votes="180" />
+            <Precinct name="BISHOPVILLE 1" votes="88" />
+            <Precinct name="BISHOPVILLE 2" votes="96" />
+            <Precinct name="BISHOPVILLE 3" votes="200" />
+            <Precinct name="BISHOPVILLE 4" votes="144" />
+            <Precinct name="CEDAR CREEK" votes="93" />
+            <Precinct name="CYPRESS" votes="59" />
+            <Precinct name="ELLIOTT" votes="50" />
+            <Precinct name="HICKORY HILL" votes="73" />
+            <Precinct name="IONIA" votes="133" />
+            <Precinct name="LYNCHBURG" votes="71" />
+            <Precinct name="MANVILLE" votes="97" />
+            <Precinct name="MT. CLIO" votes="47" />
+            <Precinct name="RATTLESNAKE SPRINGS" votes="125" />
+            <Precinct name="SCHROCKS MILL/LUCKNOW" votes="127" />
+            <Precinct name="SOUTH LYNCHBURG" votes="49" />
+            <Precinct name="SPRING HILL" votes="121" />
+            <Precinct name="ST. CHARLES" votes="153" />
+            <Precinct name="ST. MATTHEWS" votes="55" />
+            <Precinct name="TURKEY CREEK" votes="42" />
+            <Precinct name="WOODROW" votes="28" />
+            <Precinct name="Absentee" votes="632" />
+            <Precinct name="Emergency" votes="11" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="3" />
+            <Precinct name="Failsafe Provisional" votes="1" />
+        </VoteType>
+        <Choice key="001" text="Democratic" party="DEM" totalVotes="4193">
+            <VoteType name="Election Day" votes="4193">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="53" />
+                <Precinct name="ASHWOOD" votes="82" />
+                <Precinct name="BISHOPVILLE 1" votes="191" />
+                <Precinct name="BISHOPVILLE 2" votes="236" />
+                <Precinct name="BISHOPVILLE 3" votes="147" />
+                <Precinct name="BISHOPVILLE 4" votes="302" />
+                <Precinct name="CEDAR CREEK" votes="64" />
+                <Precinct name="CYPRESS" votes="148" />
+                <Precinct name="ELLIOTT" votes="226" />
+                <Precinct name="HICKORY HILL" votes="81" />
+                <Precinct name="IONIA" votes="99" />
+                <Precinct name="LYNCHBURG" votes="326" />
+                <Precinct name="MANVILLE" votes="206" />
+                <Precinct name="MT. CLIO" votes="93" />
+                <Precinct name="RATTLESNAKE SPRINGS" votes="74" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="80" />
+                <Precinct name="SOUTH LYNCHBURG" votes="136" />
+                <Precinct name="SPRING HILL" votes="205" />
+                <Precinct name="ST. CHARLES" votes="236" />
+                <Precinct name="ST. MATTHEWS" votes="28" />
+                <Precinct name="TURKEY CREEK" votes="39" />
+                <Precinct name="WOODROW" votes="55" />
+                <Precinct name="Absentee" votes="1063" />
+                <Precinct name="Emergency" votes="14" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="2" />
+                <Precinct name="Failsafe Provisional" votes="6" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Working Families" party="WFW" totalVotes="51">
+            <VoteType name="Election Day" votes="51">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="1" />
+                <Precinct name="ASHWOOD" votes="2" />
+                <Precinct name="BISHOPVILLE 1" votes="1" />
+                <Precinct name="BISHOPVILLE 2" votes="2" />
+                <Precinct name="BISHOPVILLE 3" votes="4" />
+                <Precinct name="BISHOPVILLE 4" votes="3" />
+                <Precinct name="CEDAR CREEK" votes="1" />
+                <Precinct name="CYPRESS" votes="4" />
+                <Precinct name="ELLIOTT" votes="4" />
+                <Precinct name="HICKORY HILL" votes="1" />
+                <Precinct name="IONIA" votes="2" />
+                <Precinct name="LYNCHBURG" votes="2" />
+                <Precinct name="MANVILLE" votes="3" />
+                <Precinct name="MT. CLIO" votes="1" />
+                <Precinct name="RATTLESNAKE SPRINGS" votes="1" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="1" />
+                <Precinct name="SOUTH LYNCHBURG" votes="4" />
+                <Precinct name="SPRING HILL" votes="3" />
+                <Precinct name="ST. CHARLES" votes="3" />
+                <Precinct name="ST. MATTHEWS" votes="1" />
+                <Precinct name="TURKEY CREEK" votes="2" />
+                <Precinct name="WOODROW" votes="0" />
+                <Precinct name="Absentee" votes="5" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Constitution" party="CON" totalVotes="8">
+            <VoteType name="Election Day" votes="8">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="0" />
+                <Precinct name="ASHWOOD" votes="1" />
+                <Precinct name="BISHOPVILLE 1" votes="0" />
+                <Precinct name="BISHOPVILLE 2" votes="1" />
+                <Precinct name="BISHOPVILLE 3" votes="0" />
+                <Precinct name="BISHOPVILLE 4" votes="0" />
+                <Precinct name="CEDAR CREEK" votes="0" />
+                <Precinct name="CYPRESS" votes="0" />
+                <Precinct name="ELLIOTT" votes="0" />
+                <Precinct name="HICKORY HILL" votes="0" />
+                <Precinct name="IONIA" votes="0" />
+                <Precinct name="LYNCHBURG" votes="0" />
+                <Precinct name="MANVILLE" votes="0" />
+                <Precinct name="MT. CLIO" votes="0" />
+                <Precinct name="RATTLESNAKE SPRINGS" votes="0" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="0" />
+                <Precinct name="SOUTH LYNCHBURG" votes="0" />
+                <Precinct name="SPRING HILL" votes="1" />
+                <Precinct name="ST. CHARLES" votes="1" />
+                <Precinct name="ST. MATTHEWS" votes="0" />
+                <Precinct name="TURKEY CREEK" votes="0" />
+                <Precinct name="WOODROW" votes="0" />
+                <Precinct name="Absentee" votes="4" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Independence" party="IND" totalVotes="34">
+            <VoteType name="Election Day" votes="34">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="0" />
+                <Precinct name="ASHWOOD" votes="2" />
+                <Precinct name="BISHOPVILLE 1" votes="1" />
+                <Precinct name="BISHOPVILLE 2" votes="2" />
+                <Precinct name="BISHOPVILLE 3" votes="3" />
+                <Precinct name="BISHOPVILLE 4" votes="3" />
+                <Precinct name="CEDAR CREEK" votes="3" />
+                <Precinct name="CYPRESS" votes="1" />
+                <Precinct name="ELLIOTT" votes="1" />
+                <Precinct name="HICKORY HILL" votes="2" />
+                <Precinct name="IONIA" votes="0" />
+                <Precinct name="LYNCHBURG" votes="0" />
+                <Precinct name="MANVILLE" votes="2" />
+                <Precinct name="MT. CLIO" votes="0" />
+                <Precinct name="RATTLESNAKE SPRINGS" votes="1" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="2" />
+                <Precinct name="SOUTH LYNCHBURG" votes="0" />
+                <Precinct name="SPRING HILL" votes="1" />
+                <Precinct name="ST. CHARLES" votes="1" />
+                <Precinct name="ST. MATTHEWS" votes="0" />
+                <Precinct name="TURKEY CREEK" votes="1" />
+                <Precinct name="WOODROW" votes="0" />
+                <Precinct name="Absentee" votes="6" />
+                <Precinct name="Emergency" votes="1" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Green" party="GRN" totalVotes="11">
+            <VoteType name="Election Day" votes="11">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="2" />
+                <Precinct name="ASHWOOD" votes="0" />
+                <Precinct name="BISHOPVILLE 1" votes="0" />
+                <Precinct name="BISHOPVILLE 2" votes="3" />
+                <Precinct name="BISHOPVILLE 3" votes="2" />
+                <Precinct name="BISHOPVILLE 4" votes="0" />
+                <Precinct name="CEDAR CREEK" votes="0" />
+                <Precinct name="CYPRESS" votes="0" />
+                <Precinct name="ELLIOTT" votes="1" />
+                <Precinct name="HICKORY HILL" votes="0" />
+                <Precinct name="IONIA" votes="0" />
+                <Precinct name="LYNCHBURG" votes="1" />
+                <Precinct name="MANVILLE" votes="1" />
+                <Precinct name="MT. CLIO" votes="0" />
+                <Precinct name="RATTLESNAKE SPRINGS" votes="0" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="0" />
+                <Precinct name="SOUTH LYNCHBURG" votes="0" />
+                <Precinct name="SPRING HILL" votes="0" />
+                <Precinct name="ST. CHARLES" votes="1" />
+                <Precinct name="ST. MATTHEWS" votes="0" />
+                <Precinct name="TURKEY CREEK" votes="0" />
+                <Precinct name="WOODROW" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Republican" party="REP" totalVotes="1079">
+            <VoteType name="Election Day" votes="1079">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="98" />
+                <Precinct name="ASHWOOD" votes="87" />
+                <Precinct name="BISHOPVILLE 1" votes="16" />
+                <Precinct name="BISHOPVILLE 2" votes="15" />
+                <Precinct name="BISHOPVILLE 3" votes="43" />
+                <Precinct name="BISHOPVILLE 4" votes="31" />
+                <Precinct name="CEDAR CREEK" votes="31" />
+                <Precinct name="CYPRESS" votes="43" />
+                <Precinct name="ELLIOTT" votes="8" />
+                <Precinct name="HICKORY HILL" votes="47" />
+                <Precinct name="IONIA" votes="94" />
+                <Precinct name="LYNCHBURG" votes="21" />
+                <Precinct name="MANVILLE" votes="33" />
+                <Precinct name="MT. CLIO" votes="4" />
+                <Precinct name="RATTLESNAKE SPRINGS" votes="34" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="66" />
+                <Precinct name="SOUTH LYNCHBURG" votes="27" />
+                <Precinct name="SPRING HILL" votes="42" />
+                <Precinct name="ST. CHARLES" votes="45" />
+                <Precinct name="ST. MATTHEWS" votes="36" />
+                <Precinct name="TURKEY CREEK" votes="24" />
+                <Precinct name="WOODROW" votes="12" />
+                <Precinct name="Absentee" votes="216" />
+                <Precinct name="Emergency" votes="4" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="American" party="AMR" totalVotes="28">
+            <VoteType name="Election Day" votes="28">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="2" />
+                <Precinct name="ASHWOOD" votes="3" />
+                <Precinct name="BISHOPVILLE 1" votes="0" />
+                <Precinct name="BISHOPVILLE 2" votes="0" />
+                <Precinct name="BISHOPVILLE 3" votes="2" />
+                <Precinct name="BISHOPVILLE 4" votes="4" />
+                <Precinct name="CEDAR CREEK" votes="1" />
+                <Precinct name="CYPRESS" votes="1" />
+                <Precinct name="ELLIOTT" votes="1" />
+                <Precinct name="HICKORY HILL" votes="0" />
+                <Precinct name="IONIA" votes="1" />
+                <Precinct name="LYNCHBURG" votes="1" />
+                <Precinct name="MANVILLE" votes="0" />
+                <Precinct name="MT. CLIO" votes="1" />
+                <Precinct name="RATTLESNAKE SPRINGS" votes="1" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="1" />
+                <Precinct name="SOUTH LYNCHBURG" votes="1" />
+                <Precinct name="SPRING HILL" votes="3" />
+                <Precinct name="ST. CHARLES" votes="1" />
+                <Precinct name="ST. MATTHEWS" votes="0" />
+                <Precinct name="TURKEY CREEK" votes="0" />
+                <Precinct name="WOODROW" votes="1" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="1" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="008" text="Libertarian" party="LIB" totalVotes="7">
+            <VoteType name="Election Day" votes="7">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="2" />
+                <Precinct name="ASHWOOD" votes="0" />
+                <Precinct name="BISHOPVILLE 1" votes="0" />
+                <Precinct name="BISHOPVILLE 2" votes="1" />
+                <Precinct name="BISHOPVILLE 3" votes="0" />
+                <Precinct name="BISHOPVILLE 4" votes="0" />
+                <Precinct name="CEDAR CREEK" votes="2" />
+                <Precinct name="CYPRESS" votes="0" />
+                <Precinct name="ELLIOTT" votes="0" />
+                <Precinct name="HICKORY HILL" votes="0" />
+                <Precinct name="IONIA" votes="0" />
+                <Precinct name="LYNCHBURG" votes="0" />
+                <Precinct name="MANVILLE" votes="0" />
+                <Precinct name="MT. CLIO" votes="0" />
+                <Precinct name="RATTLESNAKE SPRINGS" votes="0" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="0" />
+                <Precinct name="SOUTH LYNCHBURG" votes="0" />
+                <Precinct name="SPRING HILL" votes="0" />
+                <Precinct name="ST. CHARLES" votes="0" />
+                <Precinct name="ST. MATTHEWS" votes="0" />
+                <Precinct name="TURKEY CREEK" votes="0" />
+                <Precinct name="WOODROW" votes="1" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0104" text="President and Vice President" voteFor="1" isQuestion="false" precinctsReporting="22" precinctsReported="22">
+        <VoteType name="overVotes" votes="4">
+            <Precinct name="ASHLAND/STOKES BRIDGE" votes="0" />
+            <Precinct name="ASHWOOD" votes="0" />
+            <Precinct name="BISHOPVILLE 1" votes="0" />
+            <Precinct name="BISHOPVILLE 2" votes="0" />
+            <Precinct name="BISHOPVILLE 3" votes="0" />
+            <Precinct name="BISHOPVILLE 4" votes="0" />
+            <Precinct name="CEDAR CREEK" votes="0" />
+            <Precinct name="CYPRESS" votes="0" />
+            <Precinct name="ELLIOTT" votes="0" />
+            <Precinct name="HICKORY HILL" votes="0" />
+            <Precinct name="IONIA" votes="0" />
+            <Precinct name="LYNCHBURG" votes="0" />
+            <Precinct name="MANVILLE" votes="0" />
+            <Precinct name="MT. CLIO" votes="0" />
+            <Precinct name="RATTLESNAKE SPRINGS" votes="0" />
+            <Precinct name="SCHROCKS MILL/LUCKNOW" votes="0" />
+            <Precinct name="SOUTH LYNCHBURG" votes="0" />
+            <Precinct name="SPRING HILL" votes="0" />
+            <Precinct name="ST. CHARLES" votes="0" />
+            <Precinct name="ST. MATTHEWS" votes="0" />
+            <Precinct name="TURKEY CREEK" votes="0" />
+            <Precinct name="WOODROW" votes="0" />
+            <Precinct name="Absentee" votes="3" />
+            <Precinct name="Emergency" votes="1" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="73">
+            <Precinct name="ASHLAND/STOKES BRIDGE" votes="2" />
+            <Precinct name="ASHWOOD" votes="3" />
+            <Precinct name="BISHOPVILLE 1" votes="2" />
+            <Precinct name="BISHOPVILLE 2" votes="3" />
+            <Precinct name="BISHOPVILLE 3" votes="6" />
+            <Precinct name="BISHOPVILLE 4" votes="2" />
+            <Precinct name="CEDAR CREEK" votes="2" />
+            <Precinct name="CYPRESS" votes="4" />
+            <Precinct name="ELLIOTT" votes="3" />
+            <Precinct name="HICKORY HILL" votes="2" />
+            <Precinct name="IONIA" votes="2" />
+            <Precinct name="LYNCHBURG" votes="0" />
+            <Precinct name="MANVILLE" votes="3" />
+            <Precinct name="MT. CLIO" votes="6" />
+            <Precinct name="RATTLESNAKE SPRINGS" votes="0" />
+            <Precinct name="SCHROCKS MILL/LUCKNOW" votes="1" />
+            <Precinct name="SOUTH LYNCHBURG" votes="2" />
+            <Precinct name="SPRING HILL" votes="4" />
+            <Precinct name="ST. CHARLES" votes="8" />
+            <Precinct name="ST. MATTHEWS" votes="1" />
+            <Precinct name="TURKEY CREEK" votes="0" />
+            <Precinct name="WOODROW" votes="0" />
+            <Precinct name="Absentee" votes="17" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Hillary Rodham Clinton / Timothy Michael Kaine" party="DEM" totalVotes="5199">
+            <VoteType name="Election Day" votes="5199">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="77" />
+                <Precinct name="ASHWOOD" votes="109" />
+                <Precinct name="BISHOPVILLE 1" votes="239" />
+                <Precinct name="BISHOPVILLE 2" votes="292" />
+                <Precinct name="BISHOPVILLE 3" votes="216" />
+                <Precinct name="BISHOPVILLE 4" votes="385" />
+                <Precinct name="CEDAR CREEK" votes="77" />
+                <Precinct name="CYPRESS" votes="162" />
+                <Precinct name="ELLIOTT" votes="262" />
+                <Precinct name="HICKORY HILL" votes="103" />
+                <Precinct name="IONIA" votes="123" />
+                <Precinct name="LYNCHBURG" votes="361" />
+                <Precinct name="MANVILLE" votes="240" />
+                <Precinct name="MT. CLIO" votes="114" />
+                <Precinct name="RATTLESNAKE SPRINGS" votes="112" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="124" />
+                <Precinct name="SOUTH LYNCHBURG" votes="166" />
+                <Precinct name="SPRING HILL" votes="256" />
+                <Precinct name="ST. CHARLES" votes="303" />
+                <Precinct name="ST. MATTHEWS" votes="37" />
+                <Precinct name="TURKEY CREEK" votes="47" />
+                <Precinct name="WOODROW" votes="71" />
+                <Precinct name="Absentee" votes="1294" />
+                <Precinct name="Emergency" votes="18" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="3" />
+                <Precinct name="Failsafe Provisional" votes="7" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Darrell Castle / Scott Bradley" party="CON" totalVotes="25">
+            <VoteType name="Election Day" votes="25">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="0" />
+                <Precinct name="ASHWOOD" votes="0" />
+                <Precinct name="BISHOPVILLE 1" votes="0" />
+                <Precinct name="BISHOPVILLE 2" votes="1" />
+                <Precinct name="BISHOPVILLE 3" votes="0" />
+                <Precinct name="BISHOPVILLE 4" votes="1" />
+                <Precinct name="CEDAR CREEK" votes="0" />
+                <Precinct name="CYPRESS" votes="0" />
+                <Precinct name="ELLIOTT" votes="0" />
+                <Precinct name="HICKORY HILL" votes="1" />
+                <Precinct name="IONIA" votes="0" />
+                <Precinct name="LYNCHBURG" votes="2" />
+                <Precinct name="MANVILLE" votes="2" />
+                <Precinct name="MT. CLIO" votes="1" />
+                <Precinct name="RATTLESNAKE SPRINGS" votes="1" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="0" />
+                <Precinct name="SOUTH LYNCHBURG" votes="0" />
+                <Precinct name="SPRING HILL" votes="4" />
+                <Precinct name="ST. CHARLES" votes="0" />
+                <Precinct name="ST. MATTHEWS" votes="0" />
+                <Precinct name="TURKEY CREEK" votes="1" />
+                <Precinct name="WOODROW" votes="2" />
+                <Precinct name="Absentee" votes="9" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Evan McMullin / Nathan Johnson" party="IND" totalVotes="33">
+            <VoteType name="Election Day" votes="33">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="2" />
+                <Precinct name="ASHWOOD" votes="1" />
+                <Precinct name="BISHOPVILLE 1" votes="1" />
+                <Precinct name="BISHOPVILLE 2" votes="2" />
+                <Precinct name="BISHOPVILLE 3" votes="4" />
+                <Precinct name="BISHOPVILLE 4" votes="2" />
+                <Precinct name="CEDAR CREEK" votes="1" />
+                <Precinct name="CYPRESS" votes="0" />
+                <Precinct name="ELLIOTT" votes="1" />
+                <Precinct name="HICKORY HILL" votes="1" />
+                <Precinct name="IONIA" votes="0" />
+                <Precinct name="LYNCHBURG" votes="1" />
+                <Precinct name="MANVILLE" votes="2" />
+                <Precinct name="MT. CLIO" votes="0" />
+                <Precinct name="RATTLESNAKE SPRINGS" votes="2" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="1" />
+                <Precinct name="SOUTH LYNCHBURG" votes="1" />
+                <Precinct name="SPRING HILL" votes="2" />
+                <Precinct name="ST. CHARLES" votes="0" />
+                <Precinct name="ST. MATTHEWS" votes="0" />
+                <Precinct name="TURKEY CREEK" votes="0" />
+                <Precinct name="WOODROW" votes="0" />
+                <Precinct name="Absentee" votes="8" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Jill Stein / Ajamu Baraka" party="GRN" totalVotes="22">
+            <VoteType name="Election Day" votes="22">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="3" />
+                <Precinct name="ASHWOOD" votes="1" />
+                <Precinct name="BISHOPVILLE 1" votes="0" />
+                <Precinct name="BISHOPVILLE 2" votes="1" />
+                <Precinct name="BISHOPVILLE 3" votes="3" />
+                <Precinct name="BISHOPVILLE 4" votes="1" />
+                <Precinct name="CEDAR CREEK" votes="1" />
+                <Precinct name="CYPRESS" votes="0" />
+                <Precinct name="ELLIOTT" votes="1" />
+                <Precinct name="HICKORY HILL" votes="0" />
+                <Precinct name="IONIA" votes="0" />
+                <Precinct name="LYNCHBURG" votes="0" />
+                <Precinct name="MANVILLE" votes="1" />
+                <Precinct name="MT. CLIO" votes="0" />
+                <Precinct name="RATTLESNAKE SPRINGS" votes="1" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="0" />
+                <Precinct name="SOUTH LYNCHBURG" votes="0" />
+                <Precinct name="SPRING HILL" votes="1" />
+                <Precinct name="ST. CHARLES" votes="0" />
+                <Precinct name="ST. MATTHEWS" votes="2" />
+                <Precinct name="TURKEY CREEK" votes="0" />
+                <Precinct name="WOODROW" votes="0" />
+                <Precinct name="Absentee" votes="6" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Donald J Trump / Michael R Pence" party="REP" totalVotes="2803">
+            <VoteType name="Election Day" votes="2803">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="213" />
+                <Precinct name="ASHWOOD" votes="236" />
+                <Precinct name="BISHOPVILLE 1" votes="53" />
+                <Precinct name="BISHOPVILLE 2" votes="52" />
+                <Precinct name="BISHOPVILLE 3" votes="165" />
+                <Precinct name="BISHOPVILLE 4" votes="95" />
+                <Precinct name="CEDAR CREEK" votes="112" />
+                <Precinct name="CYPRESS" votes="85" />
+                <Precinct name="ELLIOTT" votes="21" />
+                <Precinct name="HICKORY HILL" votes="96" />
+                <Precinct name="IONIA" votes="200" />
+                <Precinct name="LYNCHBURG" votes="55" />
+                <Precinct name="MANVILLE" votes="90" />
+                <Precinct name="MT. CLIO" votes="23" />
+                <Precinct name="RATTLESNAKE SPRINGS" votes="119" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="149" />
+                <Precinct name="SOUTH LYNCHBURG" votes="47" />
+                <Precinct name="SPRING HILL" votes="108" />
+                <Precinct name="ST. CHARLES" votes="122" />
+                <Precinct name="ST. MATTHEWS" votes="79" />
+                <Precinct name="TURKEY CREEK" votes="60" />
+                <Precinct name="WOODROW" votes="23" />
+                <Precinct name="Absentee" votes="586" />
+                <Precinct name="Emergency" votes="10" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="3" />
+                <Precinct name="Failsafe Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Peter Skewes / Michael Lacy" party="AMR" totalVotes="11">
+            <VoteType name="Election Day" votes="11">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="0" />
+                <Precinct name="ASHWOOD" votes="2" />
+                <Precinct name="BISHOPVILLE 1" votes="0" />
+                <Precinct name="BISHOPVILLE 2" votes="0" />
+                <Precinct name="BISHOPVILLE 3" votes="2" />
+                <Precinct name="BISHOPVILLE 4" votes="0" />
+                <Precinct name="CEDAR CREEK" votes="0" />
+                <Precinct name="CYPRESS" votes="1" />
+                <Precinct name="ELLIOTT" votes="0" />
+                <Precinct name="HICKORY HILL" votes="1" />
+                <Precinct name="IONIA" votes="0" />
+                <Precinct name="LYNCHBURG" votes="0" />
+                <Precinct name="MANVILLE" votes="1" />
+                <Precinct name="MT. CLIO" votes="0" />
+                <Precinct name="RATTLESNAKE SPRINGS" votes="0" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="1" />
+                <Precinct name="SOUTH LYNCHBURG" votes="1" />
+                <Precinct name="SPRING HILL" votes="1" />
+                <Precinct name="ST. CHARLES" votes="0" />
+                <Precinct name="ST. MATTHEWS" votes="0" />
+                <Precinct name="TURKEY CREEK" votes="0" />
+                <Precinct name="WOODROW" votes="0" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="Gary Johnson / Bill Weld" party="LIB" totalVotes="63">
+            <VoteType name="Election Day" votes="63">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="5" />
+                <Precinct name="ASHWOOD" votes="5" />
+                <Precinct name="BISHOPVILLE 1" votes="2" />
+                <Precinct name="BISHOPVILLE 2" votes="5" />
+                <Precinct name="BISHOPVILLE 3" votes="5" />
+                <Precinct name="BISHOPVILLE 4" votes="1" />
+                <Precinct name="CEDAR CREEK" votes="2" />
+                <Precinct name="CYPRESS" votes="4" />
+                <Precinct name="ELLIOTT" votes="3" />
+                <Precinct name="HICKORY HILL" votes="0" />
+                <Precinct name="IONIA" votes="4" />
+                <Precinct name="LYNCHBURG" votes="3" />
+                <Precinct name="MANVILLE" votes="3" />
+                <Precinct name="MT. CLIO" votes="2" />
+                <Precinct name="RATTLESNAKE SPRINGS" votes="1" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="1" />
+                <Precinct name="SOUTH LYNCHBURG" votes="0" />
+                <Precinct name="SPRING HILL" votes="0" />
+                <Precinct name="ST. CHARLES" votes="8" />
+                <Precinct name="ST. MATTHEWS" votes="1" />
+                <Precinct name="TURKEY CREEK" votes="0" />
+                <Precinct name="WOODROW" votes="1" />
+                <Precinct name="Absentee" votes="5" />
+                <Precinct name="Emergency" votes="2" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0105" text="U.S. Senate" voteFor="1" isQuestion="false" precinctsReporting="22" precinctsReported="22">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ASHLAND/STOKES BRIDGE" votes="0" />
+            <Precinct name="ASHWOOD" votes="0" />
+            <Precinct name="BISHOPVILLE 1" votes="0" />
+            <Precinct name="BISHOPVILLE 2" votes="0" />
+            <Precinct name="BISHOPVILLE 3" votes="0" />
+            <Precinct name="BISHOPVILLE 4" votes="0" />
+            <Precinct name="CEDAR CREEK" votes="0" />
+            <Precinct name="CYPRESS" votes="0" />
+            <Precinct name="ELLIOTT" votes="0" />
+            <Precinct name="HICKORY HILL" votes="0" />
+            <Precinct name="IONIA" votes="0" />
+            <Precinct name="LYNCHBURG" votes="0" />
+            <Precinct name="MANVILLE" votes="0" />
+            <Precinct name="MT. CLIO" votes="0" />
+            <Precinct name="RATTLESNAKE SPRINGS" votes="0" />
+            <Precinct name="SCHROCKS MILL/LUCKNOW" votes="0" />
+            <Precinct name="SOUTH LYNCHBURG" votes="0" />
+            <Precinct name="SPRING HILL" votes="0" />
+            <Precinct name="ST. CHARLES" votes="0" />
+            <Precinct name="ST. MATTHEWS" votes="0" />
+            <Precinct name="TURKEY CREEK" votes="0" />
+            <Precinct name="WOODROW" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="365">
+            <Precinct name="ASHLAND/STOKES BRIDGE" votes="19" />
+            <Precinct name="ASHWOOD" votes="15" />
+            <Precinct name="BISHOPVILLE 1" votes="9" />
+            <Precinct name="BISHOPVILLE 2" votes="21" />
+            <Precinct name="BISHOPVILLE 3" votes="28" />
+            <Precinct name="BISHOPVILLE 4" votes="18" />
+            <Precinct name="CEDAR CREEK" votes="17" />
+            <Precinct name="CYPRESS" votes="9" />
+            <Precinct name="ELLIOTT" votes="9" />
+            <Precinct name="HICKORY HILL" votes="9" />
+            <Precinct name="IONIA" votes="13" />
+            <Precinct name="LYNCHBURG" votes="5" />
+            <Precinct name="MANVILLE" votes="20" />
+            <Precinct name="MT. CLIO" votes="3" />
+            <Precinct name="RATTLESNAKE SPRINGS" votes="9" />
+            <Precinct name="SCHROCKS MILL/LUCKNOW" votes="16" />
+            <Precinct name="SOUTH LYNCHBURG" votes="6" />
+            <Precinct name="SPRING HILL" votes="12" />
+            <Precinct name="ST. CHARLES" votes="22" />
+            <Precinct name="ST. MATTHEWS" votes="7" />
+            <Precinct name="TURKEY CREEK" votes="3" />
+            <Precinct name="WOODROW" votes="1" />
+            <Precinct name="Absentee" votes="92" />
+            <Precinct name="Emergency" votes="1" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="1" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Thomas Dixon" party="DEM" totalVotes="4806">
+            <VoteType name="Election Day" votes="4806">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="68" />
+                <Precinct name="ASHWOOD" votes="103" />
+                <Precinct name="BISHOPVILLE 1" votes="227" />
+                <Precinct name="BISHOPVILLE 2" votes="272" />
+                <Precinct name="BISHOPVILLE 3" votes="182" />
+                <Precinct name="BISHOPVILLE 4" votes="342" />
+                <Precinct name="CEDAR CREEK" votes="68" />
+                <Precinct name="CYPRESS" votes="160" />
+                <Precinct name="ELLIOTT" votes="242" />
+                <Precinct name="HICKORY HILL" votes="97" />
+                <Precinct name="IONIA" votes="116" />
+                <Precinct name="LYNCHBURG" votes="350" />
+                <Precinct name="MANVILLE" votes="230" />
+                <Precinct name="MT. CLIO" votes="114" />
+                <Precinct name="RATTLESNAKE SPRINGS" votes="98" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="104" />
+                <Precinct name="SOUTH LYNCHBURG" votes="151" />
+                <Precinct name="SPRING HILL" votes="240" />
+                <Precinct name="ST. CHARLES" votes="274" />
+                <Precinct name="ST. MATTHEWS" votes="32" />
+                <Precinct name="TURKEY CREEK" votes="42" />
+                <Precinct name="WOODROW" votes="68" />
+                <Precinct name="Absentee" votes="1201" />
+                <Precinct name="Emergency" votes="16" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="2" />
+                <Precinct name="Failsafe Provisional" votes="6" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Thomas Dixon" party="WFW" totalVotes="161">
+            <VoteType name="Election Day" votes="161">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="8" />
+                <Precinct name="ASHWOOD" votes="6" />
+                <Precinct name="BISHOPVILLE 1" votes="4" />
+                <Precinct name="BISHOPVILLE 2" votes="4" />
+                <Precinct name="BISHOPVILLE 3" votes="5" />
+                <Precinct name="BISHOPVILLE 4" votes="17" />
+                <Precinct name="CEDAR CREEK" votes="4" />
+                <Precinct name="CYPRESS" votes="7" />
+                <Precinct name="ELLIOTT" votes="8" />
+                <Precinct name="HICKORY HILL" votes="5" />
+                <Precinct name="IONIA" votes="6" />
+                <Precinct name="LYNCHBURG" votes="5" />
+                <Precinct name="MANVILLE" votes="5" />
+                <Precinct name="MT. CLIO" votes="2" />
+                <Precinct name="RATTLESNAKE SPRINGS" votes="7" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="11" />
+                <Precinct name="SOUTH LYNCHBURG" votes="5" />
+                <Precinct name="SPRING HILL" votes="10" />
+                <Precinct name="ST. CHARLES" votes="6" />
+                <Precinct name="ST. MATTHEWS" votes="1" />
+                <Precinct name="TURKEY CREEK" votes="5" />
+                <Precinct name="WOODROW" votes="1" />
+                <Precinct name="Absentee" votes="27" />
+                <Precinct name="Emergency" votes="2" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Bill Bledsoe" party="CON" totalVotes="43">
+            <VoteType name="Election Day" votes="43">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="5" />
+                <Precinct name="ASHWOOD" votes="3" />
+                <Precinct name="BISHOPVILLE 1" votes="1" />
+                <Precinct name="BISHOPVILLE 2" votes="1" />
+                <Precinct name="BISHOPVILLE 3" votes="4" />
+                <Precinct name="BISHOPVILLE 4" votes="2" />
+                <Precinct name="CEDAR CREEK" votes="1" />
+                <Precinct name="CYPRESS" votes="1" />
+                <Precinct name="ELLIOTT" votes="0" />
+                <Precinct name="HICKORY HILL" votes="0" />
+                <Precinct name="IONIA" votes="2" />
+                <Precinct name="LYNCHBURG" votes="1" />
+                <Precinct name="MANVILLE" votes="1" />
+                <Precinct name="MT. CLIO" votes="0" />
+                <Precinct name="RATTLESNAKE SPRINGS" votes="2" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="1" />
+                <Precinct name="SOUTH LYNCHBURG" votes="0" />
+                <Precinct name="SPRING HILL" votes="3" />
+                <Precinct name="ST. CHARLES" votes="3" />
+                <Precinct name="ST. MATTHEWS" votes="1" />
+                <Precinct name="TURKEY CREEK" votes="0" />
+                <Precinct name="WOODROW" votes="1" />
+                <Precinct name="Absentee" votes="10" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Thomas Dixon" party="GRN" totalVotes="31">
+            <VoteType name="Election Day" votes="31">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="3" />
+                <Precinct name="ASHWOOD" votes="3" />
+                <Precinct name="BISHOPVILLE 1" votes="0" />
+                <Precinct name="BISHOPVILLE 2" votes="2" />
+                <Precinct name="BISHOPVILLE 3" votes="4" />
+                <Precinct name="BISHOPVILLE 4" votes="2" />
+                <Precinct name="CEDAR CREEK" votes="0" />
+                <Precinct name="CYPRESS" votes="1" />
+                <Precinct name="ELLIOTT" votes="1" />
+                <Precinct name="HICKORY HILL" votes="2" />
+                <Precinct name="IONIA" votes="0" />
+                <Precinct name="LYNCHBURG" votes="1" />
+                <Precinct name="MANVILLE" votes="0" />
+                <Precinct name="MT. CLIO" votes="0" />
+                <Precinct name="RATTLESNAKE SPRINGS" votes="2" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="0" />
+                <Precinct name="SOUTH LYNCHBURG" votes="0" />
+                <Precinct name="SPRING HILL" votes="1" />
+                <Precinct name="ST. CHARLES" votes="2" />
+                <Precinct name="ST. MATTHEWS" votes="1" />
+                <Precinct name="TURKEY CREEK" votes="0" />
+                <Precinct name="WOODROW" votes="1" />
+                <Precinct name="Absentee" votes="5" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Tim Scott" party="REP" totalVotes="2727">
+            <VoteType name="Election Day" votes="2727">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="192" />
+                <Precinct name="ASHWOOD" votes="218" />
+                <Precinct name="BISHOPVILLE 1" votes="55" />
+                <Precinct name="BISHOPVILLE 2" votes="52" />
+                <Precinct name="BISHOPVILLE 3" votes="174" />
+                <Precinct name="BISHOPVILLE 4" votes="98" />
+                <Precinct name="CEDAR CREEK" votes="102" />
+                <Precinct name="CYPRESS" votes="74" />
+                <Precinct name="ELLIOTT" votes="28" />
+                <Precinct name="HICKORY HILL" votes="90" />
+                <Precinct name="IONIA" votes="184" />
+                <Precinct name="LYNCHBURG" votes="57" />
+                <Precinct name="MANVILLE" votes="84" />
+                <Precinct name="MT. CLIO" votes="27" />
+                <Precinct name="RATTLESNAKE SPRINGS" votes="112" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="141" />
+                <Precinct name="SOUTH LYNCHBURG" votes="54" />
+                <Precinct name="SPRING HILL" votes="107" />
+                <Precinct name="ST. CHARLES" votes="128" />
+                <Precinct name="ST. MATTHEWS" votes="78" />
+                <Precinct name="TURKEY CREEK" votes="54" />
+                <Precinct name="WOODROW" votes="23" />
+                <Precinct name="Absentee" votes="580" />
+                <Precinct name="Emergency" votes="10" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="3" />
+                <Precinct name="Failsafe Provisional" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Rebel Michael Scarborough" party="AMR" totalVotes="56">
+            <VoteType name="Election Day" votes="56">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="4" />
+                <Precinct name="ASHWOOD" votes="6" />
+                <Precinct name="BISHOPVILLE 1" votes="0" />
+                <Precinct name="BISHOPVILLE 2" votes="2" />
+                <Precinct name="BISHOPVILLE 3" votes="3" />
+                <Precinct name="BISHOPVILLE 4" votes="6" />
+                <Precinct name="CEDAR CREEK" votes="0" />
+                <Precinct name="CYPRESS" votes="3" />
+                <Precinct name="ELLIOTT" votes="1" />
+                <Precinct name="HICKORY HILL" votes="0" />
+                <Precinct name="IONIA" votes="6" />
+                <Precinct name="LYNCHBURG" votes="1" />
+                <Precinct name="MANVILLE" votes="1" />
+                <Precinct name="MT. CLIO" votes="0" />
+                <Precinct name="RATTLESNAKE SPRINGS" votes="4" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="3" />
+                <Precinct name="SOUTH LYNCHBURG" votes="1" />
+                <Precinct name="SPRING HILL" votes="2" />
+                <Precinct name="ST. CHARLES" votes="2" />
+                <Precinct name="ST. MATTHEWS" votes="0" />
+                <Precinct name="TURKEY CREEK" votes="0" />
+                <Precinct name="WOODROW" votes="1" />
+                <Precinct name="Absentee" votes="9" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="Bill Bledsoe" party="LIB" totalVotes="42">
+            <VoteType name="Election Day" votes="42">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="3" />
+                <Precinct name="ASHWOOD" votes="3" />
+                <Precinct name="BISHOPVILLE 1" votes="1" />
+                <Precinct name="BISHOPVILLE 2" votes="2" />
+                <Precinct name="BISHOPVILLE 3" votes="1" />
+                <Precinct name="BISHOPVILLE 4" votes="2" />
+                <Precinct name="CEDAR CREEK" votes="3" />
+                <Precinct name="CYPRESS" votes="1" />
+                <Precinct name="ELLIOTT" votes="2" />
+                <Precinct name="HICKORY HILL" votes="1" />
+                <Precinct name="IONIA" votes="2" />
+                <Precinct name="LYNCHBURG" votes="2" />
+                <Precinct name="MANVILLE" votes="1" />
+                <Precinct name="MT. CLIO" votes="0" />
+                <Precinct name="RATTLESNAKE SPRINGS" votes="2" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="1" />
+                <Precinct name="SOUTH LYNCHBURG" votes="0" />
+                <Precinct name="SPRING HILL" votes="1" />
+                <Precinct name="ST. CHARLES" votes="2" />
+                <Precinct name="ST. MATTHEWS" votes="0" />
+                <Precinct name="TURKEY CREEK" votes="4" />
+                <Precinct name="WOODROW" votes="1" />
+                <Precinct name="Absentee" votes="5" />
+                <Precinct name="Emergency" votes="2" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="008" text="Write-In" party="NON" totalVotes="2">
+            <VoteType name="Election Day" votes="2">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="0" />
+                <Precinct name="ASHWOOD" votes="0" />
+                <Precinct name="BISHOPVILLE 1" votes="0" />
+                <Precinct name="BISHOPVILLE 2" votes="0" />
+                <Precinct name="BISHOPVILLE 3" votes="0" />
+                <Precinct name="BISHOPVILLE 4" votes="0" />
+                <Precinct name="CEDAR CREEK" votes="0" />
+                <Precinct name="CYPRESS" votes="0" />
+                <Precinct name="ELLIOTT" votes="0" />
+                <Precinct name="HICKORY HILL" votes="0" />
+                <Precinct name="IONIA" votes="0" />
+                <Precinct name="LYNCHBURG" votes="0" />
+                <Precinct name="MANVILLE" votes="0" />
+                <Precinct name="MT. CLIO" votes="0" />
+                <Precinct name="RATTLESNAKE SPRINGS" votes="0" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="0" />
+                <Precinct name="SOUTH LYNCHBURG" votes="0" />
+                <Precinct name="SPRING HILL" votes="0" />
+                <Precinct name="ST. CHARLES" votes="2" />
+                <Precinct name="ST. MATTHEWS" votes="0" />
+                <Precinct name="TURKEY CREEK" votes="0" />
+                <Precinct name="WOODROW" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0106" text="U.S.  House of Representatives, District  5" voteFor="1" isQuestion="false" precinctsReporting="22" precinctsReported="22">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ASHLAND/STOKES BRIDGE" votes="0" />
+            <Precinct name="ASHWOOD" votes="0" />
+            <Precinct name="BISHOPVILLE 1" votes="0" />
+            <Precinct name="BISHOPVILLE 2" votes="0" />
+            <Precinct name="BISHOPVILLE 3" votes="0" />
+            <Precinct name="BISHOPVILLE 4" votes="0" />
+            <Precinct name="CEDAR CREEK" votes="0" />
+            <Precinct name="CYPRESS" votes="0" />
+            <Precinct name="ELLIOTT" votes="0" />
+            <Precinct name="HICKORY HILL" votes="0" />
+            <Precinct name="IONIA" votes="0" />
+            <Precinct name="LYNCHBURG" votes="0" />
+            <Precinct name="MANVILLE" votes="0" />
+            <Precinct name="MT. CLIO" votes="0" />
+            <Precinct name="RATTLESNAKE SPRINGS" votes="0" />
+            <Precinct name="SCHROCKS MILL/LUCKNOW" votes="0" />
+            <Precinct name="SOUTH LYNCHBURG" votes="0" />
+            <Precinct name="SPRING HILL" votes="0" />
+            <Precinct name="ST. CHARLES" votes="0" />
+            <Precinct name="ST. MATTHEWS" votes="0" />
+            <Precinct name="TURKEY CREEK" votes="0" />
+            <Precinct name="WOODROW" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="395">
+            <Precinct name="ASHLAND/STOKES BRIDGE" votes="19" />
+            <Precinct name="ASHWOOD" votes="12" />
+            <Precinct name="BISHOPVILLE 1" votes="10" />
+            <Precinct name="BISHOPVILLE 2" votes="19" />
+            <Precinct name="BISHOPVILLE 3" votes="26" />
+            <Precinct name="BISHOPVILLE 4" votes="26" />
+            <Precinct name="CEDAR CREEK" votes="16" />
+            <Precinct name="CYPRESS" votes="10" />
+            <Precinct name="ELLIOTT" votes="9" />
+            <Precinct name="HICKORY HILL" votes="11" />
+            <Precinct name="IONIA" votes="18" />
+            <Precinct name="LYNCHBURG" votes="9" />
+            <Precinct name="MANVILLE" votes="24" />
+            <Precinct name="MT. CLIO" votes="4" />
+            <Precinct name="RATTLESNAKE SPRINGS" votes="10" />
+            <Precinct name="SCHROCKS MILL/LUCKNOW" votes="13" />
+            <Precinct name="SOUTH LYNCHBURG" votes="8" />
+            <Precinct name="SPRING HILL" votes="14" />
+            <Precinct name="ST. CHARLES" votes="24" />
+            <Precinct name="ST. MATTHEWS" votes="5" />
+            <Precinct name="TURKEY CREEK" votes="4" />
+            <Precinct name="WOODROW" votes="0" />
+            <Precinct name="Absentee" votes="100" />
+            <Precinct name="Emergency" votes="2" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="2" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Fran Person" party="DEM" totalVotes="5110">
+            <VoteType name="Election Day" votes="5110">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="79" />
+                <Precinct name="ASHWOOD" votes="122" />
+                <Precinct name="BISHOPVILLE 1" votes="230" />
+                <Precinct name="BISHOPVILLE 2" votes="286" />
+                <Precinct name="BISHOPVILLE 3" votes="208" />
+                <Precinct name="BISHOPVILLE 4" votes="353" />
+                <Precinct name="CEDAR CREEK" votes="84" />
+                <Precinct name="CYPRESS" votes="171" />
+                <Precinct name="ELLIOTT" votes="254" />
+                <Precinct name="HICKORY HILL" votes="104" />
+                <Precinct name="IONIA" votes="127" />
+                <Precinct name="LYNCHBURG" votes="361" />
+                <Precinct name="MANVILLE" votes="235" />
+                <Precinct name="MT. CLIO" votes="121" />
+                <Precinct name="RATTLESNAKE SPRINGS" votes="112" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="114" />
+                <Precinct name="SOUTH LYNCHBURG" votes="161" />
+                <Precinct name="SPRING HILL" votes="253" />
+                <Precinct name="ST. CHARLES" votes="288" />
+                <Precinct name="ST. MATTHEWS" votes="37" />
+                <Precinct name="TURKEY CREEK" votes="48" />
+                <Precinct name="WOODROW" votes="71" />
+                <Precinct name="Absentee" votes="1264" />
+                <Precinct name="Emergency" votes="18" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="2" />
+                <Precinct name="Failsafe Provisional" votes="6" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Mick Mulvaney" party="REP" totalVotes="2605">
+            <VoteType name="Election Day" votes="2605">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="194" />
+                <Precinct name="ASHWOOD" votes="213" />
+                <Precinct name="BISHOPVILLE 1" votes="54" />
+                <Precinct name="BISHOPVILLE 2" votes="45" />
+                <Precinct name="BISHOPVILLE 3" votes="160" />
+                <Precinct name="BISHOPVILLE 4" votes="93" />
+                <Precinct name="CEDAR CREEK" votes="93" />
+                <Precinct name="CYPRESS" votes="73" />
+                <Precinct name="ELLIOTT" votes="25" />
+                <Precinct name="HICKORY HILL" votes="86" />
+                <Precinct name="IONIA" votes="180" />
+                <Precinct name="LYNCHBURG" votes="49" />
+                <Precinct name="MANVILLE" votes="81" />
+                <Precinct name="MT. CLIO" votes="20" />
+                <Precinct name="RATTLESNAKE SPRINGS" votes="108" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="145" />
+                <Precinct name="SOUTH LYNCHBURG" votes="46" />
+                <Precinct name="SPRING HILL" votes="102" />
+                <Precinct name="ST. CHARLES" votes="122" />
+                <Precinct name="ST. MATTHEWS" votes="77" />
+                <Precinct name="TURKEY CREEK" votes="54" />
+                <Precinct name="WOODROW" votes="25" />
+                <Precinct name="Absentee" votes="548" />
+                <Precinct name="Emergency" votes="9" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Rudy Barnes Jr" party="AMR" totalVotes="120">
+            <VoteType name="Election Day" votes="120">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="10" />
+                <Precinct name="ASHWOOD" votes="10" />
+                <Precinct name="BISHOPVILLE 1" votes="3" />
+                <Precinct name="BISHOPVILLE 2" votes="6" />
+                <Precinct name="BISHOPVILLE 3" votes="7" />
+                <Precinct name="BISHOPVILLE 4" votes="14" />
+                <Precinct name="CEDAR CREEK" votes="2" />
+                <Precinct name="CYPRESS" votes="2" />
+                <Precinct name="ELLIOTT" votes="3" />
+                <Precinct name="HICKORY HILL" votes="3" />
+                <Precinct name="IONIA" votes="4" />
+                <Precinct name="LYNCHBURG" votes="3" />
+                <Precinct name="MANVILLE" votes="2" />
+                <Precinct name="MT. CLIO" votes="1" />
+                <Precinct name="RATTLESNAKE SPRINGS" votes="6" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="5" />
+                <Precinct name="SOUTH LYNCHBURG" votes="2" />
+                <Precinct name="SPRING HILL" votes="7" />
+                <Precinct name="ST. CHARLES" votes="6" />
+                <Precinct name="ST. MATTHEWS" votes="1" />
+                <Precinct name="TURKEY CREEK" votes="2" />
+                <Precinct name="WOODROW" votes="1" />
+                <Precinct name="Absentee" votes="17" />
+                <Precinct name="Emergency" votes="2" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Write-In" party="NON" totalVotes="3">
+            <VoteType name="Election Day" votes="3">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="0" />
+                <Precinct name="ASHWOOD" votes="0" />
+                <Precinct name="BISHOPVILLE 1" votes="0" />
+                <Precinct name="BISHOPVILLE 2" votes="0" />
+                <Precinct name="BISHOPVILLE 3" votes="0" />
+                <Precinct name="BISHOPVILLE 4" votes="1" />
+                <Precinct name="CEDAR CREEK" votes="0" />
+                <Precinct name="CYPRESS" votes="0" />
+                <Precinct name="ELLIOTT" votes="0" />
+                <Precinct name="HICKORY HILL" votes="0" />
+                <Precinct name="IONIA" votes="0" />
+                <Precinct name="LYNCHBURG" votes="0" />
+                <Precinct name="MANVILLE" votes="0" />
+                <Precinct name="MT. CLIO" votes="0" />
+                <Precinct name="RATTLESNAKE SPRINGS" votes="0" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="0" />
+                <Precinct name="SOUTH LYNCHBURG" votes="0" />
+                <Precinct name="SPRING HILL" votes="0" />
+                <Precinct name="ST. CHARLES" votes="1" />
+                <Precinct name="ST. MATTHEWS" votes="0" />
+                <Precinct name="TURKEY CREEK" votes="0" />
+                <Precinct name="WOODROW" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0107" text="State  Senate, District  29" voteFor="1" isQuestion="false" precinctsReporting="10" precinctsReported="10">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BISHOPVILLE 1" votes="0" />
+            <Precinct name="BISHOPVILLE 2" votes="0" />
+            <Precinct name="BISHOPVILLE 4" votes="0" />
+            <Precinct name="CYPRESS" votes="0" />
+            <Precinct name="ELLIOTT" votes="0" />
+            <Precinct name="LYNCHBURG" votes="0" />
+            <Precinct name="MANVILLE" votes="0" />
+            <Precinct name="MT. CLIO" votes="0" />
+            <Precinct name="SOUTH LYNCHBURG" votes="0" />
+            <Precinct name="ST. CHARLES" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="534">
+            <Precinct name="BISHOPVILLE 1" votes="26" />
+            <Precinct name="BISHOPVILLE 2" votes="41" />
+            <Precinct name="BISHOPVILLE 4" votes="61" />
+            <Precinct name="CYPRESS" votes="47" />
+            <Precinct name="ELLIOTT" votes="21" />
+            <Precinct name="LYNCHBURG" votes="28" />
+            <Precinct name="MANVILLE" votes="48" />
+            <Precinct name="MT. CLIO" votes="15" />
+            <Precinct name="SOUTH LYNCHBURG" votes="36" />
+            <Precinct name="ST. CHARLES" votes="63" />
+            <Precinct name="Absentee" votes="140" />
+            <Precinct name="Emergency" votes="8" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Gerald Malloy" party="DEM" totalVotes="3755">
+            <VoteType name="Election Day" votes="3755">
+                <Precinct name="BISHOPVILLE 1" votes="270" />
+                <Precinct name="BISHOPVILLE 2" votes="315" />
+                <Precinct name="BISHOPVILLE 4" votes="421" />
+                <Precinct name="CYPRESS" votes="208" />
+                <Precinct name="ELLIOTT" votes="270" />
+                <Precinct name="LYNCHBURG" votes="394" />
+                <Precinct name="MANVILLE" votes="267" />
+                <Precinct name="MT. CLIO" votes="131" />
+                <Precinct name="SOUTH LYNCHBURG" votes="181" />
+                <Precinct name="ST. CHARLES" votes="375" />
+                <Precinct name="Absentee" votes="902" />
+                <Precinct name="Emergency" votes="21" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="20">
+            <VoteType name="Election Day" votes="20">
+                <Precinct name="BISHOPVILLE 1" votes="1" />
+                <Precinct name="BISHOPVILLE 2" votes="0" />
+                <Precinct name="BISHOPVILLE 4" votes="5" />
+                <Precinct name="CYPRESS" votes="1" />
+                <Precinct name="ELLIOTT" votes="0" />
+                <Precinct name="LYNCHBURG" votes="0" />
+                <Precinct name="MANVILLE" votes="2" />
+                <Precinct name="MT. CLIO" votes="0" />
+                <Precinct name="SOUTH LYNCHBURG" votes="0" />
+                <Precinct name="ST. CHARLES" votes="3" />
+                <Precinct name="Absentee" votes="8" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0108" text="State  Senate, District  35" voteFor="1" isQuestion="false" precinctsReporting="13" precinctsReported="13">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ASHLAND/STOKES BRIDGE" votes="0" />
+            <Precinct name="ASHWOOD" votes="0" />
+            <Precinct name="BISHOPVILLE 3" votes="0" />
+            <Precinct name="CEDAR CREEK" votes="0" />
+            <Precinct name="HICKORY HILL" votes="0" />
+            <Precinct name="IONIA" votes="0" />
+            <Precinct name="MANVILLE" votes="0" />
+            <Precinct name="RATTLESNAKE SPRINGS" votes="0" />
+            <Precinct name="SCHROCKS MILL/LUCKNOW" votes="0" />
+            <Precinct name="SPRING HILL" votes="0" />
+            <Precinct name="ST. MATTHEWS" votes="0" />
+            <Precinct name="TURKEY CREEK" votes="0" />
+            <Precinct name="WOODROW" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="953">
+            <Precinct name="ASHLAND/STOKES BRIDGE" votes="111" />
+            <Precinct name="ASHWOOD" votes="105" />
+            <Precinct name="BISHOPVILLE 3" votes="88" />
+            <Precinct name="CEDAR CREEK" votes="46" />
+            <Precinct name="HICKORY HILL" votes="43" />
+            <Precinct name="IONIA" votes="114" />
+            <Precinct name="MANVILLE" votes="7" />
+            <Precinct name="RATTLESNAKE SPRINGS" votes="59" />
+            <Precinct name="SCHROCKS MILL/LUCKNOW" votes="71" />
+            <Precinct name="SPRING HILL" votes="52" />
+            <Precinct name="ST. MATTHEWS" votes="37" />
+            <Precinct name="TURKEY CREEK" votes="18" />
+            <Precinct name="WOODROW" votes="10" />
+            <Precinct name="Absentee" votes="189" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="3" />
+        </VoteType>
+        <Choice key="001" text="Thomas McElveen" party="DEM" totalVotes="2948">
+            <VoteType name="Election Day" votes="2948">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="190" />
+                <Precinct name="ASHWOOD" votes="252" />
+                <Precinct name="BISHOPVILLE 3" votes="312" />
+                <Precinct name="CEDAR CREEK" votes="149" />
+                <Precinct name="HICKORY HILL" votes="161" />
+                <Precinct name="IONIA" votes="214" />
+                <Precinct name="MANVILLE" votes="17" />
+                <Precinct name="RATTLESNAKE SPRINGS" votes="176" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="205" />
+                <Precinct name="SPRING HILL" votes="322" />
+                <Precinct name="ST. MATTHEWS" votes="82" />
+                <Precinct name="TURKEY CREEK" votes="89" />
+                <Precinct name="WOODROW" votes="86" />
+                <Precinct name="Absentee" votes="687" />
+                <Precinct name="Emergency" votes="2" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="14">
+            <VoteType name="Election Day" votes="14">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="1" />
+                <Precinct name="ASHWOOD" votes="0" />
+                <Precinct name="BISHOPVILLE 3" votes="1" />
+                <Precinct name="CEDAR CREEK" votes="0" />
+                <Precinct name="HICKORY HILL" votes="0" />
+                <Precinct name="IONIA" votes="1" />
+                <Precinct name="MANVILLE" votes="1" />
+                <Precinct name="RATTLESNAKE SPRINGS" votes="1" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="1" />
+                <Precinct name="SPRING HILL" votes="2" />
+                <Precinct name="ST. MATTHEWS" votes="1" />
+                <Precinct name="TURKEY CREEK" votes="1" />
+                <Precinct name="WOODROW" votes="1" />
+                <Precinct name="Absentee" votes="3" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0109" text="State  House of Representatives, District  50" voteFor="1" isQuestion="false" precinctsReporting="22" precinctsReported="22">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ASHLAND/STOKES BRIDGE" votes="0" />
+            <Precinct name="ASHWOOD" votes="0" />
+            <Precinct name="BISHOPVILLE 1" votes="0" />
+            <Precinct name="BISHOPVILLE 2" votes="0" />
+            <Precinct name="BISHOPVILLE 3" votes="0" />
+            <Precinct name="BISHOPVILLE 4" votes="0" />
+            <Precinct name="CEDAR CREEK" votes="0" />
+            <Precinct name="CYPRESS" votes="0" />
+            <Precinct name="ELLIOTT" votes="0" />
+            <Precinct name="HICKORY HILL" votes="0" />
+            <Precinct name="IONIA" votes="0" />
+            <Precinct name="LYNCHBURG" votes="0" />
+            <Precinct name="MANVILLE" votes="0" />
+            <Precinct name="MT. CLIO" votes="0" />
+            <Precinct name="RATTLESNAKE SPRINGS" votes="0" />
+            <Precinct name="SCHROCKS MILL/LUCKNOW" votes="0" />
+            <Precinct name="SOUTH LYNCHBURG" votes="0" />
+            <Precinct name="SPRING HILL" votes="0" />
+            <Precinct name="ST. CHARLES" votes="0" />
+            <Precinct name="ST. MATTHEWS" votes="0" />
+            <Precinct name="TURKEY CREEK" votes="0" />
+            <Precinct name="WOODROW" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1265">
+            <Precinct name="ASHLAND/STOKES BRIDGE" votes="98" />
+            <Precinct name="ASHWOOD" votes="98" />
+            <Precinct name="BISHOPVILLE 1" votes="27" />
+            <Precinct name="BISHOPVILLE 2" votes="28" />
+            <Precinct name="BISHOPVILLE 3" votes="64" />
+            <Precinct name="BISHOPVILLE 4" votes="52" />
+            <Precinct name="CEDAR CREEK" votes="32" />
+            <Precinct name="CYPRESS" votes="45" />
+            <Precinct name="ELLIOTT" votes="21" />
+            <Precinct name="HICKORY HILL" votes="37" />
+            <Precinct name="IONIA" votes="100" />
+            <Precinct name="LYNCHBURG" votes="25" />
+            <Precinct name="MANVILLE" votes="43" />
+            <Precinct name="MT. CLIO" votes="7" />
+            <Precinct name="RATTLESNAKE SPRINGS" votes="42" />
+            <Precinct name="SCHROCKS MILL/LUCKNOW" votes="66" />
+            <Precinct name="SOUTH LYNCHBURG" votes="36" />
+            <Precinct name="SPRING HILL" votes="44" />
+            <Precinct name="ST. CHARLES" votes="55" />
+            <Precinct name="ST. MATTHEWS" votes="35" />
+            <Precinct name="TURKEY CREEK" votes="16" />
+            <Precinct name="WOODROW" votes="10" />
+            <Precinct name="Absentee" votes="277" />
+            <Precinct name="Emergency" votes="4" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="3" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Will Wheeler" party="DEM" totalVotes="6946">
+            <VoteType name="Election Day" votes="6946">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="202" />
+                <Precinct name="ASHWOOD" votes="258" />
+                <Precinct name="BISHOPVILLE 1" votes="270" />
+                <Precinct name="BISHOPVILLE 2" votes="328" />
+                <Precinct name="BISHOPVILLE 3" votes="336" />
+                <Precinct name="BISHOPVILLE 4" votes="432" />
+                <Precinct name="CEDAR CREEK" votes="162" />
+                <Precinct name="CYPRESS" votes="210" />
+                <Precinct name="ELLIOTT" votes="269" />
+                <Precinct name="HICKORY HILL" votes="167" />
+                <Precinct name="IONIA" votes="229" />
+                <Precinct name="LYNCHBURG" votes="397" />
+                <Precinct name="MANVILLE" votes="297" />
+                <Precinct name="MT. CLIO" votes="139" />
+                <Precinct name="RATTLESNAKE SPRINGS" votes="193" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="210" />
+                <Precinct name="SOUTH LYNCHBURG" votes="181" />
+                <Precinct name="SPRING HILL" votes="331" />
+                <Precinct name="ST. CHARLES" votes="384" />
+                <Precinct name="ST. MATTHEWS" votes="85" />
+                <Precinct name="TURKEY CREEK" votes="91" />
+                <Precinct name="WOODROW" votes="87" />
+                <Precinct name="Absentee" votes="1648" />
+                <Precinct name="Emergency" votes="27" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="3" />
+                <Precinct name="Failsafe Provisional" votes="9" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="22">
+            <VoteType name="Election Day" votes="22">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="2" />
+                <Precinct name="ASHWOOD" votes="1" />
+                <Precinct name="BISHOPVILLE 1" votes="0" />
+                <Precinct name="BISHOPVILLE 2" votes="0" />
+                <Precinct name="BISHOPVILLE 3" votes="1" />
+                <Precinct name="BISHOPVILLE 4" votes="3" />
+                <Precinct name="CEDAR CREEK" votes="1" />
+                <Precinct name="CYPRESS" votes="1" />
+                <Precinct name="ELLIOTT" votes="1" />
+                <Precinct name="HICKORY HILL" votes="0" />
+                <Precinct name="IONIA" votes="0" />
+                <Precinct name="LYNCHBURG" votes="0" />
+                <Precinct name="MANVILLE" votes="2" />
+                <Precinct name="MT. CLIO" votes="0" />
+                <Precinct name="RATTLESNAKE SPRINGS" votes="1" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="1" />
+                <Precinct name="SOUTH LYNCHBURG" votes="0" />
+                <Precinct name="SPRING HILL" votes="1" />
+                <Precinct name="ST. CHARLES" votes="2" />
+                <Precinct name="ST. MATTHEWS" votes="0" />
+                <Precinct name="TURKEY CREEK" votes="1" />
+                <Precinct name="WOODROW" votes="0" />
+                <Precinct name="Absentee" votes="4" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0110" text="Sheriff" voteFor="1" isQuestion="false" precinctsReporting="22" precinctsReported="22">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ASHLAND/STOKES BRIDGE" votes="0" />
+            <Precinct name="ASHWOOD" votes="0" />
+            <Precinct name="BISHOPVILLE 1" votes="0" />
+            <Precinct name="BISHOPVILLE 2" votes="0" />
+            <Precinct name="BISHOPVILLE 3" votes="0" />
+            <Precinct name="BISHOPVILLE 4" votes="0" />
+            <Precinct name="CEDAR CREEK" votes="0" />
+            <Precinct name="CYPRESS" votes="0" />
+            <Precinct name="ELLIOTT" votes="0" />
+            <Precinct name="HICKORY HILL" votes="0" />
+            <Precinct name="IONIA" votes="0" />
+            <Precinct name="LYNCHBURG" votes="0" />
+            <Precinct name="MANVILLE" votes="0" />
+            <Precinct name="MT. CLIO" votes="0" />
+            <Precinct name="RATTLESNAKE SPRINGS" votes="0" />
+            <Precinct name="SCHROCKS MILL/LUCKNOW" votes="0" />
+            <Precinct name="SOUTH LYNCHBURG" votes="0" />
+            <Precinct name="SPRING HILL" votes="0" />
+            <Precinct name="ST. CHARLES" votes="0" />
+            <Precinct name="ST. MATTHEWS" votes="0" />
+            <Precinct name="TURKEY CREEK" votes="0" />
+            <Precinct name="WOODROW" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1309">
+            <Precinct name="ASHLAND/STOKES BRIDGE" votes="104" />
+            <Precinct name="ASHWOOD" votes="102" />
+            <Precinct name="BISHOPVILLE 1" votes="25" />
+            <Precinct name="BISHOPVILLE 2" votes="22" />
+            <Precinct name="BISHOPVILLE 3" votes="68" />
+            <Precinct name="BISHOPVILLE 4" votes="51" />
+            <Precinct name="CEDAR CREEK" votes="36" />
+            <Precinct name="CYPRESS" votes="46" />
+            <Precinct name="ELLIOTT" votes="10" />
+            <Precinct name="HICKORY HILL" votes="44" />
+            <Precinct name="IONIA" votes="103" />
+            <Precinct name="LYNCHBURG" votes="20" />
+            <Precinct name="MANVILLE" votes="48" />
+            <Precinct name="MT. CLIO" votes="10" />
+            <Precinct name="RATTLESNAKE SPRINGS" votes="55" />
+            <Precinct name="SCHROCKS MILL/LUCKNOW" votes="68" />
+            <Precinct name="SOUTH LYNCHBURG" votes="33" />
+            <Precinct name="SPRING HILL" votes="55" />
+            <Precinct name="ST. CHARLES" votes="54" />
+            <Precinct name="ST. MATTHEWS" votes="32" />
+            <Precinct name="TURKEY CREEK" votes="19" />
+            <Precinct name="WOODROW" votes="10" />
+            <Precinct name="Absentee" votes="287" />
+            <Precinct name="Emergency" votes="5" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="2" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Daniel Simon" party="DEM" totalVotes="6858">
+            <VoteType name="Election Day" votes="6858">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="195" />
+                <Precinct name="ASHWOOD" votes="252" />
+                <Precinct name="BISHOPVILLE 1" votes="269" />
+                <Precinct name="BISHOPVILLE 2" votes="333" />
+                <Precinct name="BISHOPVILLE 3" votes="323" />
+                <Precinct name="BISHOPVILLE 4" votes="435" />
+                <Precinct name="CEDAR CREEK" votes="156" />
+                <Precinct name="CYPRESS" votes="207" />
+                <Precinct name="ELLIOTT" votes="281" />
+                <Precinct name="HICKORY HILL" votes="158" />
+                <Precinct name="IONIA" votes="222" />
+                <Precinct name="LYNCHBURG" votes="402" />
+                <Precinct name="MANVILLE" votes="289" />
+                <Precinct name="MT. CLIO" votes="135" />
+                <Precinct name="RATTLESNAKE SPRINGS" votes="177" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="208" />
+                <Precinct name="SOUTH LYNCHBURG" votes="183" />
+                <Precinct name="SPRING HILL" votes="318" />
+                <Precinct name="ST. CHARLES" votes="382" />
+                <Precinct name="ST. MATTHEWS" votes="85" />
+                <Precinct name="TURKEY CREEK" votes="88" />
+                <Precinct name="WOODROW" votes="86" />
+                <Precinct name="Absentee" votes="1635" />
+                <Precinct name="Emergency" votes="26" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="3" />
+                <Precinct name="Failsafe Provisional" votes="9" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="66">
+            <VoteType name="Election Day" votes="66">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="3" />
+                <Precinct name="ASHWOOD" votes="3" />
+                <Precinct name="BISHOPVILLE 1" votes="3" />
+                <Precinct name="BISHOPVILLE 2" votes="1" />
+                <Precinct name="BISHOPVILLE 3" votes="10" />
+                <Precinct name="BISHOPVILLE 4" votes="1" />
+                <Precinct name="CEDAR CREEK" votes="3" />
+                <Precinct name="CYPRESS" votes="3" />
+                <Precinct name="ELLIOTT" votes="0" />
+                <Precinct name="HICKORY HILL" votes="2" />
+                <Precinct name="IONIA" votes="4" />
+                <Precinct name="LYNCHBURG" votes="0" />
+                <Precinct name="MANVILLE" votes="5" />
+                <Precinct name="MT. CLIO" votes="1" />
+                <Precinct name="RATTLESNAKE SPRINGS" votes="4" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="1" />
+                <Precinct name="SOUTH LYNCHBURG" votes="1" />
+                <Precinct name="SPRING HILL" votes="3" />
+                <Precinct name="ST. CHARLES" votes="5" />
+                <Precinct name="ST. MATTHEWS" votes="3" />
+                <Precinct name="TURKEY CREEK" votes="1" />
+                <Precinct name="WOODROW" votes="1" />
+                <Precinct name="Absentee" votes="7" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0111" text="Probate Judge" voteFor="1" isQuestion="false" precinctsReporting="22" precinctsReported="22">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ASHLAND/STOKES BRIDGE" votes="0" />
+            <Precinct name="ASHWOOD" votes="0" />
+            <Precinct name="BISHOPVILLE 1" votes="0" />
+            <Precinct name="BISHOPVILLE 2" votes="0" />
+            <Precinct name="BISHOPVILLE 3" votes="0" />
+            <Precinct name="BISHOPVILLE 4" votes="0" />
+            <Precinct name="CEDAR CREEK" votes="0" />
+            <Precinct name="CYPRESS" votes="0" />
+            <Precinct name="ELLIOTT" votes="0" />
+            <Precinct name="HICKORY HILL" votes="0" />
+            <Precinct name="IONIA" votes="0" />
+            <Precinct name="LYNCHBURG" votes="0" />
+            <Precinct name="MANVILLE" votes="0" />
+            <Precinct name="MT. CLIO" votes="0" />
+            <Precinct name="RATTLESNAKE SPRINGS" votes="0" />
+            <Precinct name="SCHROCKS MILL/LUCKNOW" votes="0" />
+            <Precinct name="SOUTH LYNCHBURG" votes="0" />
+            <Precinct name="SPRING HILL" votes="0" />
+            <Precinct name="ST. CHARLES" votes="0" />
+            <Precinct name="ST. MATTHEWS" votes="0" />
+            <Precinct name="TURKEY CREEK" votes="0" />
+            <Precinct name="WOODROW" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1292">
+            <Precinct name="ASHLAND/STOKES BRIDGE" votes="100" />
+            <Precinct name="ASHWOOD" votes="102" />
+            <Precinct name="BISHOPVILLE 1" votes="25" />
+            <Precinct name="BISHOPVILLE 2" votes="29" />
+            <Precinct name="BISHOPVILLE 3" votes="66" />
+            <Precinct name="BISHOPVILLE 4" votes="52" />
+            <Precinct name="CEDAR CREEK" votes="40" />
+            <Precinct name="CYPRESS" votes="41" />
+            <Precinct name="ELLIOTT" votes="18" />
+            <Precinct name="HICKORY HILL" votes="41" />
+            <Precinct name="IONIA" votes="93" />
+            <Precinct name="LYNCHBURG" votes="22" />
+            <Precinct name="MANVILLE" votes="49" />
+            <Precinct name="MT. CLIO" votes="10" />
+            <Precinct name="RATTLESNAKE SPRINGS" votes="43" />
+            <Precinct name="SCHROCKS MILL/LUCKNOW" votes="66" />
+            <Precinct name="SOUTH LYNCHBURG" votes="34" />
+            <Precinct name="SPRING HILL" votes="49" />
+            <Precinct name="ST. CHARLES" votes="56" />
+            <Precinct name="ST. MATTHEWS" votes="34" />
+            <Precinct name="TURKEY CREEK" votes="18" />
+            <Precinct name="WOODROW" votes="11" />
+            <Precinct name="Absentee" votes="283" />
+            <Precinct name="Emergency" votes="5" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="3" />
+            <Precinct name="Failsafe Provisional" votes="2" />
+        </VoteType>
+        <Choice key="001" text="Michael A Davis" party="DEM" totalVotes="6920">
+            <VoteType name="Election Day" votes="6920">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="201" />
+                <Precinct name="ASHWOOD" votes="255" />
+                <Precinct name="BISHOPVILLE 1" votes="272" />
+                <Precinct name="BISHOPVILLE 2" votes="326" />
+                <Precinct name="BISHOPVILLE 3" votes="331" />
+                <Precinct name="BISHOPVILLE 4" votes="435" />
+                <Precinct name="CEDAR CREEK" votes="154" />
+                <Precinct name="CYPRESS" votes="214" />
+                <Precinct name="ELLIOTT" votes="273" />
+                <Precinct name="HICKORY HILL" votes="163" />
+                <Precinct name="IONIA" votes="235" />
+                <Precinct name="LYNCHBURG" votes="400" />
+                <Precinct name="MANVILLE" votes="291" />
+                <Precinct name="MT. CLIO" votes="136" />
+                <Precinct name="RATTLESNAKE SPRINGS" votes="192" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="210" />
+                <Precinct name="SOUTH LYNCHBURG" votes="183" />
+                <Precinct name="SPRING HILL" votes="327" />
+                <Precinct name="ST. CHARLES" votes="384" />
+                <Precinct name="ST. MATTHEWS" votes="86" />
+                <Precinct name="TURKEY CREEK" votes="89" />
+                <Precinct name="WOODROW" votes="85" />
+                <Precinct name="Absentee" votes="1641" />
+                <Precinct name="Emergency" votes="26" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="3" />
+                <Precinct name="Failsafe Provisional" votes="7" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="21">
+            <VoteType name="Election Day" votes="21">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="1" />
+                <Precinct name="ASHWOOD" votes="0" />
+                <Precinct name="BISHOPVILLE 1" votes="0" />
+                <Precinct name="BISHOPVILLE 2" votes="1" />
+                <Precinct name="BISHOPVILLE 3" votes="4" />
+                <Precinct name="BISHOPVILLE 4" votes="0" />
+                <Precinct name="CEDAR CREEK" votes="1" />
+                <Precinct name="CYPRESS" votes="1" />
+                <Precinct name="ELLIOTT" votes="0" />
+                <Precinct name="HICKORY HILL" votes="0" />
+                <Precinct name="IONIA" votes="1" />
+                <Precinct name="LYNCHBURG" votes="0" />
+                <Precinct name="MANVILLE" votes="2" />
+                <Precinct name="MT. CLIO" votes="0" />
+                <Precinct name="RATTLESNAKE SPRINGS" votes="1" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="1" />
+                <Precinct name="SOUTH LYNCHBURG" votes="0" />
+                <Precinct name="SPRING HILL" votes="0" />
+                <Precinct name="ST. CHARLES" votes="1" />
+                <Precinct name="ST. MATTHEWS" votes="0" />
+                <Precinct name="TURKEY CREEK" votes="1" />
+                <Precinct name="WOODROW" votes="1" />
+                <Precinct name="Absentee" votes="5" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0112" text="Clerk of Court" voteFor="1" isQuestion="false" precinctsReporting="22" precinctsReported="22">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ASHLAND/STOKES BRIDGE" votes="0" />
+            <Precinct name="ASHWOOD" votes="0" />
+            <Precinct name="BISHOPVILLE 1" votes="0" />
+            <Precinct name="BISHOPVILLE 2" votes="0" />
+            <Precinct name="BISHOPVILLE 3" votes="0" />
+            <Precinct name="BISHOPVILLE 4" votes="0" />
+            <Precinct name="CEDAR CREEK" votes="0" />
+            <Precinct name="CYPRESS" votes="0" />
+            <Precinct name="ELLIOTT" votes="0" />
+            <Precinct name="HICKORY HILL" votes="0" />
+            <Precinct name="IONIA" votes="0" />
+            <Precinct name="LYNCHBURG" votes="0" />
+            <Precinct name="MANVILLE" votes="0" />
+            <Precinct name="MT. CLIO" votes="0" />
+            <Precinct name="RATTLESNAKE SPRINGS" votes="0" />
+            <Precinct name="SCHROCKS MILL/LUCKNOW" votes="0" />
+            <Precinct name="SOUTH LYNCHBURG" votes="0" />
+            <Precinct name="SPRING HILL" votes="0" />
+            <Precinct name="ST. CHARLES" votes="0" />
+            <Precinct name="ST. MATTHEWS" votes="0" />
+            <Precinct name="TURKEY CREEK" votes="0" />
+            <Precinct name="WOODROW" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1187">
+            <Precinct name="ASHLAND/STOKES BRIDGE" votes="98" />
+            <Precinct name="ASHWOOD" votes="99" />
+            <Precinct name="BISHOPVILLE 1" votes="20" />
+            <Precinct name="BISHOPVILLE 2" votes="30" />
+            <Precinct name="BISHOPVILLE 3" votes="60" />
+            <Precinct name="BISHOPVILLE 4" votes="47" />
+            <Precinct name="CEDAR CREEK" votes="29" />
+            <Precinct name="CYPRESS" votes="39" />
+            <Precinct name="ELLIOTT" votes="11" />
+            <Precinct name="HICKORY HILL" votes="39" />
+            <Precinct name="IONIA" votes="94" />
+            <Precinct name="LYNCHBURG" votes="22" />
+            <Precinct name="MANVILLE" votes="46" />
+            <Precinct name="MT. CLIO" votes="8" />
+            <Precinct name="RATTLESNAKE SPRINGS" votes="41" />
+            <Precinct name="SCHROCKS MILL/LUCKNOW" votes="60" />
+            <Precinct name="SOUTH LYNCHBURG" votes="36" />
+            <Precinct name="SPRING HILL" votes="47" />
+            <Precinct name="ST. CHARLES" votes="49" />
+            <Precinct name="ST. MATTHEWS" votes="25" />
+            <Precinct name="TURKEY CREEK" votes="15" />
+            <Precinct name="WOODROW" votes="12" />
+            <Precinct name="Absentee" votes="253" />
+            <Precinct name="Emergency" votes="4" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="3" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Teresa Arledge Brown" party="DEM" totalVotes="6985">
+            <VoteType name="Election Day" votes="6985">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="203" />
+                <Precinct name="ASHWOOD" votes="254" />
+                <Precinct name="BISHOPVILLE 1" votes="276" />
+                <Precinct name="BISHOPVILLE 2" votes="324" />
+                <Precinct name="BISHOPVILLE 3" votes="336" />
+                <Precinct name="BISHOPVILLE 4" votes="435" />
+                <Precinct name="CEDAR CREEK" votes="166" />
+                <Precinct name="CYPRESS" votes="215" />
+                <Precinct name="ELLIOTT" votes="280" />
+                <Precinct name="HICKORY HILL" votes="162" />
+                <Precinct name="IONIA" votes="234" />
+                <Precinct name="LYNCHBURG" votes="400" />
+                <Precinct name="MANVILLE" votes="292" />
+                <Precinct name="MT. CLIO" votes="138" />
+                <Precinct name="RATTLESNAKE SPRINGS" votes="193" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="214" />
+                <Precinct name="SOUTH LYNCHBURG" votes="181" />
+                <Precinct name="SPRING HILL" votes="328" />
+                <Precinct name="ST. CHARLES" votes="390" />
+                <Precinct name="ST. MATTHEWS" votes="95" />
+                <Precinct name="TURKEY CREEK" votes="92" />
+                <Precinct name="WOODROW" votes="83" />
+                <Precinct name="Absentee" votes="1654" />
+                <Precinct name="Emergency" votes="27" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="3" />
+                <Precinct name="Failsafe Provisional" votes="9" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="61">
+            <VoteType name="Election Day" votes="61">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="1" />
+                <Precinct name="ASHWOOD" votes="4" />
+                <Precinct name="BISHOPVILLE 1" votes="1" />
+                <Precinct name="BISHOPVILLE 2" votes="2" />
+                <Precinct name="BISHOPVILLE 3" votes="5" />
+                <Precinct name="BISHOPVILLE 4" votes="5" />
+                <Precinct name="CEDAR CREEK" votes="0" />
+                <Precinct name="CYPRESS" votes="2" />
+                <Precinct name="ELLIOTT" votes="0" />
+                <Precinct name="HICKORY HILL" votes="3" />
+                <Precinct name="IONIA" votes="1" />
+                <Precinct name="LYNCHBURG" votes="0" />
+                <Precinct name="MANVILLE" votes="4" />
+                <Precinct name="MT. CLIO" votes="0" />
+                <Precinct name="RATTLESNAKE SPRINGS" votes="2" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="3" />
+                <Precinct name="SOUTH LYNCHBURG" votes="0" />
+                <Precinct name="SPRING HILL" votes="1" />
+                <Precinct name="ST. CHARLES" votes="2" />
+                <Precinct name="ST. MATTHEWS" votes="0" />
+                <Precinct name="TURKEY CREEK" votes="1" />
+                <Precinct name="WOODROW" votes="2" />
+                <Precinct name="Absentee" votes="22" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0113" text="Coroner" voteFor="1" isQuestion="false" precinctsReporting="22" precinctsReported="22">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ASHLAND/STOKES BRIDGE" votes="0" />
+            <Precinct name="ASHWOOD" votes="0" />
+            <Precinct name="BISHOPVILLE 1" votes="0" />
+            <Precinct name="BISHOPVILLE 2" votes="0" />
+            <Precinct name="BISHOPVILLE 3" votes="0" />
+            <Precinct name="BISHOPVILLE 4" votes="0" />
+            <Precinct name="CEDAR CREEK" votes="0" />
+            <Precinct name="CYPRESS" votes="0" />
+            <Precinct name="ELLIOTT" votes="0" />
+            <Precinct name="HICKORY HILL" votes="0" />
+            <Precinct name="IONIA" votes="0" />
+            <Precinct name="LYNCHBURG" votes="0" />
+            <Precinct name="MANVILLE" votes="0" />
+            <Precinct name="MT. CLIO" votes="0" />
+            <Precinct name="RATTLESNAKE SPRINGS" votes="0" />
+            <Precinct name="SCHROCKS MILL/LUCKNOW" votes="0" />
+            <Precinct name="SOUTH LYNCHBURG" votes="0" />
+            <Precinct name="SPRING HILL" votes="0" />
+            <Precinct name="ST. CHARLES" votes="0" />
+            <Precinct name="ST. MATTHEWS" votes="0" />
+            <Precinct name="TURKEY CREEK" votes="0" />
+            <Precinct name="WOODROW" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1064">
+            <Precinct name="ASHLAND/STOKES BRIDGE" votes="90" />
+            <Precinct name="ASHWOOD" votes="70" />
+            <Precinct name="BISHOPVILLE 1" votes="21" />
+            <Precinct name="BISHOPVILLE 2" votes="29" />
+            <Precinct name="BISHOPVILLE 3" votes="60" />
+            <Precinct name="BISHOPVILLE 4" votes="48" />
+            <Precinct name="CEDAR CREEK" votes="37" />
+            <Precinct name="CYPRESS" votes="36" />
+            <Precinct name="ELLIOTT" votes="11" />
+            <Precinct name="HICKORY HILL" votes="33" />
+            <Precinct name="IONIA" votes="88" />
+            <Precinct name="LYNCHBURG" votes="13" />
+            <Precinct name="MANVILLE" votes="36" />
+            <Precinct name="MT. CLIO" votes="8" />
+            <Precinct name="RATTLESNAKE SPRINGS" votes="42" />
+            <Precinct name="SCHROCKS MILL/LUCKNOW" votes="56" />
+            <Precinct name="SOUTH LYNCHBURG" votes="17" />
+            <Precinct name="SPRING HILL" votes="41" />
+            <Precinct name="ST. CHARLES" votes="38" />
+            <Precinct name="ST. MATTHEWS" votes="29" />
+            <Precinct name="TURKEY CREEK" votes="11" />
+            <Precinct name="WOODROW" votes="12" />
+            <Precinct name="Absentee" votes="230" />
+            <Precinct name="Emergency" votes="5" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="3" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Larry J Logan" party="DEM" totalVotes="7144">
+            <VoteType name="Election Day" votes="7144">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="209" />
+                <Precinct name="ASHWOOD" votes="287" />
+                <Precinct name="BISHOPVILLE 1" votes="276" />
+                <Precinct name="BISHOPVILLE 2" votes="327" />
+                <Precinct name="BISHOPVILLE 3" votes="340" />
+                <Precinct name="BISHOPVILLE 4" votes="438" />
+                <Precinct name="CEDAR CREEK" votes="156" />
+                <Precinct name="CYPRESS" votes="219" />
+                <Precinct name="ELLIOTT" votes="280" />
+                <Precinct name="HICKORY HILL" votes="171" />
+                <Precinct name="IONIA" votes="240" />
+                <Precinct name="LYNCHBURG" votes="409" />
+                <Precinct name="MANVILLE" votes="304" />
+                <Precinct name="MT. CLIO" votes="138" />
+                <Precinct name="RATTLESNAKE SPRINGS" votes="192" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="221" />
+                <Precinct name="SOUTH LYNCHBURG" votes="199" />
+                <Precinct name="SPRING HILL" votes="335" />
+                <Precinct name="ST. CHARLES" votes="402" />
+                <Precinct name="ST. MATTHEWS" votes="91" />
+                <Precinct name="TURKEY CREEK" votes="96" />
+                <Precinct name="WOODROW" votes="84" />
+                <Precinct name="Absentee" votes="1692" />
+                <Precinct name="Emergency" votes="26" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="3" />
+                <Precinct name="Failsafe Provisional" votes="8" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="25">
+            <VoteType name="Election Day" votes="25">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="3" />
+                <Precinct name="ASHWOOD" votes="0" />
+                <Precinct name="BISHOPVILLE 1" votes="0" />
+                <Precinct name="BISHOPVILLE 2" votes="0" />
+                <Precinct name="BISHOPVILLE 3" votes="1" />
+                <Precinct name="BISHOPVILLE 4" votes="1" />
+                <Precinct name="CEDAR CREEK" votes="2" />
+                <Precinct name="CYPRESS" votes="1" />
+                <Precinct name="ELLIOTT" votes="0" />
+                <Precinct name="HICKORY HILL" votes="0" />
+                <Precinct name="IONIA" votes="1" />
+                <Precinct name="LYNCHBURG" votes="0" />
+                <Precinct name="MANVILLE" votes="2" />
+                <Precinct name="MT. CLIO" votes="0" />
+                <Precinct name="RATTLESNAKE SPRINGS" votes="2" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="0" />
+                <Precinct name="SOUTH LYNCHBURG" votes="1" />
+                <Precinct name="SPRING HILL" votes="0" />
+                <Precinct name="ST. CHARLES" votes="1" />
+                <Precinct name="ST. MATTHEWS" votes="0" />
+                <Precinct name="TURKEY CREEK" votes="1" />
+                <Precinct name="WOODROW" votes="1" />
+                <Precinct name="Absentee" votes="7" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0114" text="County Council District 1" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BISHOPVILLE 3" votes="0" />
+            <Precinct name="BISHOPVILLE 4" votes="0" />
+            <Precinct name="CEDAR CREEK" votes="0" />
+            <Precinct name="MANVILLE" votes="0" />
+            <Precinct name="SCHROCKS MILL/LUCKNOW" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="163">
+            <Precinct name="BISHOPVILLE 3" votes="10" />
+            <Precinct name="BISHOPVILLE 4" votes="11" />
+            <Precinct name="CEDAR CREEK" votes="34" />
+            <Precinct name="MANVILLE" votes="30" />
+            <Precinct name="SCHROCKS MILL/LUCKNOW" votes="47" />
+            <Precinct name="Absentee" votes="31" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="R Travis Windham" party="DEM" totalVotes="1027">
+            <VoteType name="Election Day" votes="1027">
+                <Precinct name="BISHOPVILLE 3" votes="81" />
+                <Precinct name="BISHOPVILLE 4" votes="86" />
+                <Precinct name="CEDAR CREEK" votes="159" />
+                <Precinct name="MANVILLE" votes="253" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="189" />
+                <Precinct name="Absentee" votes="259" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="4">
+            <VoteType name="Election Day" votes="4">
+                <Precinct name="BISHOPVILLE 3" votes="0" />
+                <Precinct name="BISHOPVILLE 4" votes="1" />
+                <Precinct name="CEDAR CREEK" votes="2" />
+                <Precinct name="MANVILLE" votes="1" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0115" text="County Council District 2" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ASHLAND/STOKES BRIDGE" votes="0" />
+            <Precinct name="BISHOPVILLE 2" votes="0" />
+            <Precinct name="BISHOPVILLE 4" votes="0" />
+            <Precinct name="CYPRESS" votes="0" />
+            <Precinct name="SCHROCKS MILL/LUCKNOW" votes="0" />
+            <Precinct name="ST. MATTHEWS" votes="0" />
+            <Precinct name="TURKEY CREEK" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="209">
+            <Precinct name="ASHLAND/STOKES BRIDGE" votes="78" />
+            <Precinct name="BISHOPVILLE 2" votes="4" />
+            <Precinct name="BISHOPVILLE 4" votes="24" />
+            <Precinct name="CYPRESS" votes="14" />
+            <Precinct name="SCHROCKS MILL/LUCKNOW" votes="6" />
+            <Precinct name="ST. MATTHEWS" votes="21" />
+            <Precinct name="TURKEY CREEK" votes="5" />
+            <Precinct name="Absentee" votes="49" />
+            <Precinct name="Emergency" votes="5" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="3" />
+        </VoteType>
+        <Choice key="001" text="Ron Fountain" party="DEM" totalVotes="1139">
+            <VoteType name="Election Day" votes="1139">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="222" />
+                <Precinct name="BISHOPVILLE 2" votes="44" />
+                <Precinct name="BISHOPVILLE 4" votes="221" />
+                <Precinct name="CYPRESS" votes="169" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="35" />
+                <Precinct name="ST. MATTHEWS" votes="99" />
+                <Precinct name="TURKEY CREEK" votes="103" />
+                <Precinct name="Absentee" votes="221" />
+                <Precinct name="Emergency" votes="23" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="4">
+            <VoteType name="Election Day" votes="4">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="2" />
+                <Precinct name="BISHOPVILLE 2" votes="0" />
+                <Precinct name="BISHOPVILLE 4" votes="0" />
+                <Precinct name="CYPRESS" votes="0" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="0" />
+                <Precinct name="ST. MATTHEWS" votes="0" />
+                <Precinct name="TURKEY CREEK" votes="0" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="1" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0116" text="County Council District 5" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BISHOPVILLE 2" votes="0" />
+            <Precinct name="CYPRESS" votes="0" />
+            <Precinct name="ELLIOTT" votes="0" />
+            <Precinct name="LYNCHBURG" votes="0" />
+            <Precinct name="MT. CLIO" votes="0" />
+            <Precinct name="SOUTH LYNCHBURG" votes="0" />
+            <Precinct name="ST. CHARLES" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="164">
+            <Precinct name="BISHOPVILLE 2" votes="0" />
+            <Precinct name="CYPRESS" votes="31" />
+            <Precinct name="ELLIOTT" votes="11" />
+            <Precinct name="LYNCHBURG" votes="22" />
+            <Precinct name="MT. CLIO" votes="5" />
+            <Precinct name="SOUTH LYNCHBURG" votes="32" />
+            <Precinct name="ST. CHARLES" votes="26" />
+            <Precinct name="Absentee" votes="37" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Jacqueline Josey" party="DEM" totalVotes="1135">
+            <VoteType name="Election Day" votes="1135">
+                <Precinct name="BISHOPVILLE 2" votes="3" />
+                <Precinct name="CYPRESS" votes="41" />
+                <Precinct name="ELLIOTT" votes="177" />
+                <Precinct name="LYNCHBURG" votes="400" />
+                <Precinct name="MT. CLIO" votes="44" />
+                <Precinct name="SOUTH LYNCHBURG" votes="185" />
+                <Precinct name="ST. CHARLES" votes="88" />
+                <Precinct name="Absentee" votes="197" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="1">
+            <VoteType name="Election Day" votes="1">
+                <Precinct name="BISHOPVILLE 2" votes="0" />
+                <Precinct name="CYPRESS" votes="1" />
+                <Precinct name="ELLIOTT" votes="0" />
+                <Precinct name="LYNCHBURG" votes="0" />
+                <Precinct name="MT. CLIO" votes="0" />
+                <Precinct name="SOUTH LYNCHBURG" votes="0" />
+                <Precinct name="ST. CHARLES" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0117" text="School Board District 1" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BISHOPVILLE 3" votes="0" />
+            <Precinct name="BISHOPVILLE 4" votes="0" />
+            <Precinct name="CEDAR CREEK" votes="0" />
+            <Precinct name="MANVILLE" votes="0" />
+            <Precinct name="SCHROCKS MILL/LUCKNOW" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="213">
+            <Precinct name="BISHOPVILLE 3" votes="18" />
+            <Precinct name="BISHOPVILLE 4" votes="13" />
+            <Precinct name="CEDAR CREEK" votes="43" />
+            <Precinct name="MANVILLE" votes="38" />
+            <Precinct name="SCHROCKS MILL/LUCKNOW" votes="64" />
+            <Precinct name="Absentee" votes="37" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Johnny Red McDuffie" party="DEM" totalVotes="973">
+            <VoteType name="Election Day" votes="973">
+                <Precinct name="BISHOPVILLE 3" votes="73" />
+                <Precinct name="BISHOPVILLE 4" votes="84" />
+                <Precinct name="CEDAR CREEK" votes="151" />
+                <Precinct name="MANVILLE" votes="245" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="170" />
+                <Precinct name="Absentee" votes="250" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="8">
+            <VoteType name="Election Day" votes="8">
+                <Precinct name="BISHOPVILLE 3" votes="0" />
+                <Precinct name="BISHOPVILLE 4" votes="1" />
+                <Precinct name="CEDAR CREEK" votes="1" />
+                <Precinct name="MANVILLE" votes="1" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="2" />
+                <Precinct name="Absentee" votes="3" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0118" text="School Board District 2" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ASHLAND/STOKES BRIDGE" votes="0" />
+            <Precinct name="BISHOPVILLE 2" votes="0" />
+            <Precinct name="BISHOPVILLE 4" votes="0" />
+            <Precinct name="CYPRESS" votes="0" />
+            <Precinct name="SCHROCKS MILL/LUCKNOW" votes="0" />
+            <Precinct name="ST. MATTHEWS" votes="0" />
+            <Precinct name="TURKEY CREEK" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="244">
+            <Precinct name="ASHLAND/STOKES BRIDGE" votes="93" />
+            <Precinct name="BISHOPVILLE 2" votes="7" />
+            <Precinct name="BISHOPVILLE 4" votes="22" />
+            <Precinct name="CYPRESS" votes="12" />
+            <Precinct name="SCHROCKS MILL/LUCKNOW" votes="8" />
+            <Precinct name="ST. MATTHEWS" votes="27" />
+            <Precinct name="TURKEY CREEK" votes="16" />
+            <Precinct name="Absentee" votes="51" />
+            <Precinct name="Emergency" votes="5" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="3" />
+        </VoteType>
+        <Choice key="001" text="Dottie Baker" party="DEM" totalVotes="1102">
+            <VoteType name="Election Day" votes="1102">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="206" />
+                <Precinct name="BISHOPVILLE 2" votes="41" />
+                <Precinct name="BISHOPVILLE 4" votes="223" />
+                <Precinct name="CYPRESS" votes="170" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="33" />
+                <Precinct name="ST. MATTHEWS" votes="93" />
+                <Precinct name="TURKEY CREEK" votes="91" />
+                <Precinct name="Absentee" votes="220" />
+                <Precinct name="Emergency" votes="23" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="6">
+            <VoteType name="Election Day" votes="6">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="3" />
+                <Precinct name="BISHOPVILLE 2" votes="0" />
+                <Precinct name="BISHOPVILLE 4" votes="0" />
+                <Precinct name="CYPRESS" votes="1" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="0" />
+                <Precinct name="ST. MATTHEWS" votes="0" />
+                <Precinct name="TURKEY CREEK" votes="1" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="1" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0119" text="School Board District 3" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BISHOPVILLE 1" votes="0" />
+            <Precinct name="BISHOPVILLE 2" votes="0" />
+            <Precinct name="BISHOPVILLE 3" votes="0" />
+            <Precinct name="BISHOPVILLE 4" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="124">
+            <Precinct name="BISHOPVILLE 1" votes="6" />
+            <Precinct name="BISHOPVILLE 2" votes="31" />
+            <Precinct name="BISHOPVILLE 3" votes="20" />
+            <Precinct name="BISHOPVILLE 4" votes="23" />
+            <Precinct name="Absentee" votes="44" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Queenie M Boyd" party="DEM" totalVotes="744">
+            <VoteType name="Election Day" votes="744">
+                <Precinct name="BISHOPVILLE 1" votes="76" />
+                <Precinct name="BISHOPVILLE 2" votes="272" />
+                <Precinct name="BISHOPVILLE 3" votes="60" />
+                <Precinct name="BISHOPVILLE 4" votes="120" />
+                <Precinct name="Absentee" votes="216" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="8">
+            <VoteType name="Election Day" votes="8">
+                <Precinct name="BISHOPVILLE 1" votes="1" />
+                <Precinct name="BISHOPVILLE 2" votes="2" />
+                <Precinct name="BISHOPVILLE 3" votes="2" />
+                <Precinct name="BISHOPVILLE 4" votes="1" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0120" text="School Board District 7" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="HICKORY HILL" votes="0" />
+            <Precinct name="IONIA" votes="0" />
+            <Precinct name="RATTLESNAKE SPRINGS" votes="0" />
+            <Precinct name="SPRING HILL" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="323">
+            <Precinct name="HICKORY HILL" votes="47" />
+            <Precinct name="IONIA" votes="116" />
+            <Precinct name="RATTLESNAKE SPRINGS" votes="64" />
+            <Precinct name="SPRING HILL" votes="37" />
+            <Precinct name="Absentee" votes="59" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Sanya Moses" party="DEM" totalVotes="985">
+            <VoteType name="Election Day" votes="985">
+                <Precinct name="HICKORY HILL" votes="156" />
+                <Precinct name="IONIA" votes="212" />
+                <Precinct name="RATTLESNAKE SPRINGS" votes="169" />
+                <Precinct name="SPRING HILL" votes="252" />
+                <Precinct name="Absentee" votes="196" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="10">
+            <VoteType name="Election Day" votes="10">
+                <Precinct name="HICKORY HILL" votes="1" />
+                <Precinct name="IONIA" votes="1" />
+                <Precinct name="RATTLESNAKE SPRINGS" votes="3" />
+                <Precinct name="SPRING HILL" votes="2" />
+                <Precinct name="Absentee" votes="3" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0121" text="Soil and Water Com." voteFor="1" isQuestion="false" precinctsReporting="22" precinctsReported="22">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ASHLAND/STOKES BRIDGE" votes="0" />
+            <Precinct name="ASHWOOD" votes="0" />
+            <Precinct name="BISHOPVILLE 1" votes="0" />
+            <Precinct name="BISHOPVILLE 2" votes="0" />
+            <Precinct name="BISHOPVILLE 3" votes="0" />
+            <Precinct name="BISHOPVILLE 4" votes="0" />
+            <Precinct name="CEDAR CREEK" votes="0" />
+            <Precinct name="CYPRESS" votes="0" />
+            <Precinct name="ELLIOTT" votes="0" />
+            <Precinct name="HICKORY HILL" votes="0" />
+            <Precinct name="IONIA" votes="0" />
+            <Precinct name="LYNCHBURG" votes="0" />
+            <Precinct name="MANVILLE" votes="0" />
+            <Precinct name="MT. CLIO" votes="0" />
+            <Precinct name="RATTLESNAKE SPRINGS" votes="0" />
+            <Precinct name="SCHROCKS MILL/LUCKNOW" votes="0" />
+            <Precinct name="SOUTH LYNCHBURG" votes="0" />
+            <Precinct name="SPRING HILL" votes="0" />
+            <Precinct name="ST. CHARLES" votes="0" />
+            <Precinct name="ST. MATTHEWS" votes="0" />
+            <Precinct name="TURKEY CREEK" votes="0" />
+            <Precinct name="WOODROW" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="4081">
+            <Precinct name="ASHLAND/STOKES BRIDGE" votes="126" />
+            <Precinct name="ASHWOOD" votes="129" />
+            <Precinct name="BISHOPVILLE 1" votes="183" />
+            <Precinct name="BISHOPVILLE 2" votes="219" />
+            <Precinct name="BISHOPVILLE 3" votes="154" />
+            <Precinct name="BISHOPVILLE 4" votes="276" />
+            <Precinct name="CEDAR CREEK" votes="78" />
+            <Precinct name="CYPRESS" votes="152" />
+            <Precinct name="ELLIOTT" votes="177" />
+            <Precinct name="HICKORY HILL" votes="104" />
+            <Precinct name="IONIA" votes="153" />
+            <Precinct name="LYNCHBURG" votes="304" />
+            <Precinct name="MANVILLE" votes="169" />
+            <Precinct name="MT. CLIO" votes="64" />
+            <Precinct name="RATTLESNAKE SPRINGS" votes="96" />
+            <Precinct name="SCHROCKS MILL/LUCKNOW" votes="123" />
+            <Precinct name="SOUTH LYNCHBURG" votes="122" />
+            <Precinct name="SPRING HILL" votes="185" />
+            <Precinct name="ST. CHARLES" votes="194" />
+            <Precinct name="ST. MATTHEWS" votes="45" />
+            <Precinct name="TURKEY CREEK" votes="36" />
+            <Precinct name="WOODROW" votes="40" />
+            <Precinct name="Absentee" votes="929" />
+            <Precinct name="Emergency" votes="15" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="4" />
+            <Precinct name="Failsafe Provisional" votes="3" />
+        </VoteType>
+        <Choice key="001" text="C B Pete Player III" party="NON" totalVotes="4138">
+            <VoteType name="Election Day" votes="4138">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="175" />
+                <Precinct name="ASHWOOD" votes="228" />
+                <Precinct name="BISHOPVILLE 1" votes="114" />
+                <Precinct name="BISHOPVILLE 2" votes="135" />
+                <Precinct name="BISHOPVILLE 3" votes="246" />
+                <Precinct name="BISHOPVILLE 4" votes="211" />
+                <Precinct name="CEDAR CREEK" votes="117" />
+                <Precinct name="CYPRESS" votes="104" />
+                <Precinct name="ELLIOTT" votes="113" />
+                <Precinct name="HICKORY HILL" votes="100" />
+                <Precinct name="IONIA" votes="175" />
+                <Precinct name="LYNCHBURG" votes="117" />
+                <Precinct name="MANVILLE" votes="173" />
+                <Precinct name="MT. CLIO" votes="82" />
+                <Precinct name="RATTLESNAKE SPRINGS" votes="140" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="153" />
+                <Precinct name="SOUTH LYNCHBURG" votes="94" />
+                <Precinct name="SPRING HILL" votes="191" />
+                <Precinct name="ST. CHARLES" votes="246" />
+                <Precinct name="ST. MATTHEWS" votes="75" />
+                <Precinct name="TURKEY CREEK" votes="72" />
+                <Precinct name="WOODROW" votes="57" />
+                <Precinct name="Absentee" votes="996" />
+                <Precinct name="Emergency" votes="16" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="2" />
+                <Precinct name="Failsafe Provisional" votes="6" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="14">
+            <VoteType name="Election Day" votes="14">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="1" />
+                <Precinct name="ASHWOOD" votes="0" />
+                <Precinct name="BISHOPVILLE 1" votes="0" />
+                <Precinct name="BISHOPVILLE 2" votes="2" />
+                <Precinct name="BISHOPVILLE 3" votes="1" />
+                <Precinct name="BISHOPVILLE 4" votes="0" />
+                <Precinct name="CEDAR CREEK" votes="0" />
+                <Precinct name="CYPRESS" votes="0" />
+                <Precinct name="ELLIOTT" votes="1" />
+                <Precinct name="HICKORY HILL" votes="0" />
+                <Precinct name="IONIA" votes="1" />
+                <Precinct name="LYNCHBURG" votes="1" />
+                <Precinct name="MANVILLE" votes="0" />
+                <Precinct name="MT. CLIO" votes="0" />
+                <Precinct name="RATTLESNAKE SPRINGS" votes="0" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="1" />
+                <Precinct name="SOUTH LYNCHBURG" votes="1" />
+                <Precinct name="SPRING HILL" votes="0" />
+                <Precinct name="ST. CHARLES" votes="1" />
+                <Precinct name="ST. MATTHEWS" votes="0" />
+                <Precinct name="TURKEY CREEK" votes="0" />
+                <Precinct name="WOODROW" votes="0" />
+                <Precinct name="Absentee" votes="4" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0122" text="City Council" voteFor="6" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BISHOPVILLE 1" votes="0" />
+            <Precinct name="BISHOPVILLE 2" votes="0" />
+            <Precinct name="BISHOPVILLE 3" votes="0" />
+            <Precinct name="BISHOPVILLE 4" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="3572">
+            <Precinct name="BISHOPVILLE 1" votes="528" />
+            <Precinct name="BISHOPVILLE 2" votes="719" />
+            <Precinct name="BISHOPVILLE 3" votes="535" />
+            <Precinct name="BISHOPVILLE 4" votes="794" />
+            <Precinct name="Absentee" votes="990" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="1" />
+            <Precinct name="Failsafe Provisional" votes="5" />
+        </VoteType>
+        <Choice key="001" text="John Boyce" party="NON" totalVotes="401">
+            <VoteType name="Election Day" votes="401">
+                <Precinct name="BISHOPVILLE 1" votes="47" />
+                <Precinct name="BISHOPVILLE 2" votes="54" />
+                <Precinct name="BISHOPVILLE 3" votes="104" />
+                <Precinct name="BISHOPVILLE 4" votes="65" />
+                <Precinct name="Absentee" votes="130" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Grady A Chip Brown Jr" party="NON" totalVotes="380">
+            <VoteType name="Election Day" votes="380">
+                <Precinct name="BISHOPVILLE 1" votes="63" />
+                <Precinct name="BISHOPVILLE 2" votes="43" />
+                <Precinct name="BISHOPVILLE 3" votes="77" />
+                <Precinct name="BISHOPVILLE 4" votes="62" />
+                <Precinct name="Absentee" votes="133" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Ennis Bryant Sr" party="NON" totalVotes="778">
+            <VoteType name="Election Day" votes="778">
+                <Precinct name="BISHOPVILLE 1" votes="131" />
+                <Precinct name="BISHOPVILLE 2" votes="130" />
+                <Precinct name="BISHOPVILLE 3" votes="67" />
+                <Precinct name="BISHOPVILLE 4" votes="177" />
+                <Precinct name="Absentee" votes="273" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Edward Byrd" party="NON" totalVotes="490">
+            <VoteType name="Election Day" votes="490">
+                <Precinct name="BISHOPVILLE 1" votes="89" />
+                <Precinct name="BISHOPVILLE 2" votes="83" />
+                <Precinct name="BISHOPVILLE 3" votes="35" />
+                <Precinct name="BISHOPVILLE 4" votes="105" />
+                <Precinct name="Absentee" votes="178" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Kenneth Currie" party="NON" totalVotes="373">
+            <VoteType name="Election Day" votes="373">
+                <Precinct name="BISHOPVILLE 1" votes="51" />
+                <Precinct name="BISHOPVILLE 2" votes="59" />
+                <Precinct name="BISHOPVILLE 3" votes="76" />
+                <Precinct name="BISHOPVILLE 4" votes="67" />
+                <Precinct name="Absentee" votes="120" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Wayne Hancock" party="NON" totalVotes="374">
+            <VoteType name="Election Day" votes="374">
+                <Precinct name="BISHOPVILLE 1" votes="51" />
+                <Precinct name="BISHOPVILLE 2" votes="41" />
+                <Precinct name="BISHOPVILLE 3" votes="88" />
+                <Precinct name="BISHOPVILLE 4" votes="65" />
+                <Precinct name="Absentee" votes="128" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="Gloria S Lewis" party="NON" totalVotes="675">
+            <VoteType name="Election Day" votes="675">
+                <Precinct name="BISHOPVILLE 1" votes="106" />
+                <Precinct name="BISHOPVILLE 2" votes="124" />
+                <Precinct name="BISHOPVILLE 3" votes="38" />
+                <Precinct name="BISHOPVILLE 4" votes="187" />
+                <Precinct name="Absentee" votes="220" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="008" text="Willie Mae Muldrow" party="NON" totalVotes="678">
+            <VoteType name="Election Day" votes="678">
+                <Precinct name="BISHOPVILLE 1" votes="99" />
+                <Precinct name="BISHOPVILLE 2" votes="115" />
+                <Precinct name="BISHOPVILLE 3" votes="50" />
+                <Precinct name="BISHOPVILLE 4" votes="156" />
+                <Precinct name="Absentee" votes="258" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="009" text="Craig Nesbit" party="NON" totalVotes="357">
+            <VoteType name="Election Day" votes="357">
+                <Precinct name="BISHOPVILLE 1" votes="35" />
+                <Precinct name="BISHOPVILLE 2" votes="43" />
+                <Precinct name="BISHOPVILLE 3" votes="93" />
+                <Precinct name="BISHOPVILLE 4" votes="53" />
+                <Precinct name="Absentee" votes="132" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="010" text="Deanna Rollins" party="NON" totalVotes="416">
+            <VoteType name="Election Day" votes="416">
+                <Precinct name="BISHOPVILLE 1" votes="54" />
+                <Precinct name="BISHOPVILLE 2" votes="56" />
+                <Precinct name="BISHOPVILLE 3" votes="87" />
+                <Precinct name="BISHOPVILLE 4" votes="58" />
+                <Precinct name="Absentee" votes="160" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="011" text="Retta Tindal" party="NON" totalVotes="519">
+            <VoteType name="Election Day" votes="519">
+                <Precinct name="BISHOPVILLE 1" votes="58" />
+                <Precinct name="BISHOPVILLE 2" votes="56" />
+                <Precinct name="BISHOPVILLE 3" votes="105" />
+                <Precinct name="BISHOPVILLE 4" votes="92" />
+                <Precinct name="Absentee" votes="208" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="012" text="Write-In" party="NON" totalVotes="17">
+            <VoteType name="Election Day" votes="17">
+                <Precinct name="BISHOPVILLE 1" votes="2" />
+                <Precinct name="BISHOPVILLE 2" votes="1" />
+                <Precinct name="BISHOPVILLE 3" votes="7" />
+                <Precinct name="BISHOPVILLE 4" votes="3" />
+                <Precinct name="Absentee" votes="4" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0123" text="Sunday Sale of Alcohol in Lee County" voteFor="1" isQuestion="true" precinctsReporting="22" precinctsReported="22">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ASHLAND/STOKES BRIDGE" votes="0" />
+            <Precinct name="ASHWOOD" votes="0" />
+            <Precinct name="BISHOPVILLE 1" votes="0" />
+            <Precinct name="BISHOPVILLE 2" votes="0" />
+            <Precinct name="BISHOPVILLE 3" votes="0" />
+            <Precinct name="BISHOPVILLE 4" votes="0" />
+            <Precinct name="CEDAR CREEK" votes="0" />
+            <Precinct name="CYPRESS" votes="0" />
+            <Precinct name="ELLIOTT" votes="0" />
+            <Precinct name="HICKORY HILL" votes="0" />
+            <Precinct name="IONIA" votes="0" />
+            <Precinct name="LYNCHBURG" votes="0" />
+            <Precinct name="MANVILLE" votes="0" />
+            <Precinct name="MT. CLIO" votes="0" />
+            <Precinct name="RATTLESNAKE SPRINGS" votes="0" />
+            <Precinct name="SCHROCKS MILL/LUCKNOW" votes="0" />
+            <Precinct name="SOUTH LYNCHBURG" votes="0" />
+            <Precinct name="SPRING HILL" votes="0" />
+            <Precinct name="ST. CHARLES" votes="0" />
+            <Precinct name="ST. MATTHEWS" votes="0" />
+            <Precinct name="TURKEY CREEK" votes="0" />
+            <Precinct name="WOODROW" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="857">
+            <Precinct name="ASHLAND/STOKES BRIDGE" votes="18" />
+            <Precinct name="ASHWOOD" votes="24" />
+            <Precinct name="BISHOPVILLE 1" votes="45" />
+            <Precinct name="BISHOPVILLE 2" votes="56" />
+            <Precinct name="BISHOPVILLE 3" votes="50" />
+            <Precinct name="BISHOPVILLE 4" votes="62" />
+            <Precinct name="CEDAR CREEK" votes="18" />
+            <Precinct name="CYPRESS" votes="41" />
+            <Precinct name="ELLIOTT" votes="17" />
+            <Precinct name="HICKORY HILL" votes="20" />
+            <Precinct name="IONIA" votes="26" />
+            <Precinct name="LYNCHBURG" votes="111" />
+            <Precinct name="MANVILLE" votes="20" />
+            <Precinct name="MT. CLIO" votes="19" />
+            <Precinct name="RATTLESNAKE SPRINGS" votes="10" />
+            <Precinct name="SCHROCKS MILL/LUCKNOW" votes="15" />
+            <Precinct name="SOUTH LYNCHBURG" votes="23" />
+            <Precinct name="SPRING HILL" votes="15" />
+            <Precinct name="ST. CHARLES" votes="44" />
+            <Precinct name="ST. MATTHEWS" votes="6" />
+            <Precinct name="TURKEY CREEK" votes="7" />
+            <Precinct name="WOODROW" votes="6" />
+            <Precinct name="Absentee" votes="190" />
+            <Precinct name="Emergency" votes="10" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="2" />
+            <Precinct name="Failsafe Provisional" votes="2" />
+        </VoteType>
+        <Choice key="001" text="Yes" party="NON" totalVotes="4448">
+            <VoteType name="Election Day" votes="4448">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="173" />
+                <Precinct name="ASHWOOD" votes="181" />
+                <Precinct name="BISHOPVILLE 1" votes="180" />
+                <Precinct name="BISHOPVILLE 2" votes="208" />
+                <Precinct name="BISHOPVILLE 3" votes="223" />
+                <Precinct name="BISHOPVILLE 4" votes="288" />
+                <Precinct name="CEDAR CREEK" votes="79" />
+                <Precinct name="CYPRESS" votes="106" />
+                <Precinct name="ELLIOTT" votes="180" />
+                <Precinct name="HICKORY HILL" votes="105" />
+                <Precinct name="IONIA" votes="177" />
+                <Precinct name="LYNCHBURG" votes="179" />
+                <Precinct name="MANVILLE" votes="230" />
+                <Precinct name="MT. CLIO" votes="91" />
+                <Precinct name="RATTLESNAKE SPRINGS" votes="126" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="171" />
+                <Precinct name="SOUTH LYNCHBURG" votes="111" />
+                <Precinct name="SPRING HILL" votes="244" />
+                <Precinct name="ST. CHARLES" votes="269" />
+                <Precinct name="ST. MATTHEWS" votes="60" />
+                <Precinct name="TURKEY CREEK" votes="69" />
+                <Precinct name="WOODROW" votes="55" />
+                <Precinct name="Absentee" votes="928" />
+                <Precinct name="Emergency" votes="8" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="2" />
+                <Precinct name="Failsafe Provisional" votes="5" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="No" party="NON" totalVotes="2928">
+            <VoteType name="Election Day" votes="2928">
+                <Precinct name="ASHLAND/STOKES BRIDGE" votes="111" />
+                <Precinct name="ASHWOOD" votes="152" />
+                <Precinct name="BISHOPVILLE 1" votes="72" />
+                <Precinct name="BISHOPVILLE 2" votes="92" />
+                <Precinct name="BISHOPVILLE 3" votes="128" />
+                <Precinct name="BISHOPVILLE 4" votes="137" />
+                <Precinct name="CEDAR CREEK" votes="98" />
+                <Precinct name="CYPRESS" votes="109" />
+                <Precinct name="ELLIOTT" votes="94" />
+                <Precinct name="HICKORY HILL" votes="79" />
+                <Precinct name="IONIA" votes="126" />
+                <Precinct name="LYNCHBURG" votes="132" />
+                <Precinct name="MANVILLE" votes="92" />
+                <Precinct name="MT. CLIO" votes="36" />
+                <Precinct name="RATTLESNAKE SPRINGS" votes="100" />
+                <Precinct name="SCHROCKS MILL/LUCKNOW" votes="91" />
+                <Precinct name="SOUTH LYNCHBURG" votes="83" />
+                <Precinct name="SPRING HILL" votes="117" />
+                <Precinct name="ST. CHARLES" votes="128" />
+                <Precinct name="ST. MATTHEWS" votes="54" />
+                <Precinct name="TURKEY CREEK" votes="32" />
+                <Precinct name="WOODROW" votes="36" />
+                <Precinct name="Absentee" votes="811" />
+                <Precinct name="Emergency" votes="13" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="2" />
+                <Precinct name="Failsafe Provisional" votes="2" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

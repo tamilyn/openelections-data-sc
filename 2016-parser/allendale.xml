@@ -1,0 +1,1365 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>11/16/2016 1:07:04 PM EST</Timestamp>
+    <ElectionName>2016 Statewide General Election</ElectionName>
+    <ElectionDate>11/8/2016</ElectionDate>
+    <Region>Allendale</Region>
+    <VoterTurnout totalVoters="6035" ballotsCast="3627" voterTurnout="60.10">
+        <Precincts>
+            <Precinct name="ALLENDALE #1" totalVoters="1227" ballotsCast="335" voterTurnout="27.30" percentReporting="4" />
+            <Precinct name="ALLENDALE #2" totalVoters="1384" ballotsCast="321" voterTurnout="23.19" percentReporting="4" />
+            <Precinct name="FAIRFAX #1" totalVoters="611" ballotsCast="235" voterTurnout="38.46" percentReporting="4" />
+            <Precinct name="FAIRFAX #2" totalVoters="1286" ballotsCast="457" voterTurnout="35.54" percentReporting="4" />
+            <Precinct name="MARTIN" totalVoters="319" ballotsCast="166" voterTurnout="52.04" percentReporting="4" />
+            <Precinct name="SYCAMORE" totalVoters="346" ballotsCast="211" voterTurnout="60.98" percentReporting="4" />
+            <Precinct name="ULMER" totalVoters="218" ballotsCast="121" voterTurnout="55.50" percentReporting="4" />
+            <Precinct name="WOODS" totalVoters="945" ballotsCast="342" voterTurnout="36.19" percentReporting="4" />
+            <Precinct name="Absentee" totalVoters="0" ballotsCast="1425" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Failsafe" totalVoters="0" ballotsCast="0" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Provisional" totalVoters="0" ballotsCast="14" voterTurnout="0.00" percentReporting="32" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="0103" text="STRAIGHT PARTY" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ALLENDALE #1" votes="0" />
+            <Precinct name="ALLENDALE #2" votes="0" />
+            <Precinct name="FAIRFAX #1" votes="0" />
+            <Precinct name="FAIRFAX #2" votes="0" />
+            <Precinct name="MARTIN" votes="0" />
+            <Precinct name="SYCAMORE" votes="0" />
+            <Precinct name="ULMER" votes="0" />
+            <Precinct name="WOODS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1180">
+            <Precinct name="ALLENDALE #1" votes="126" />
+            <Precinct name="ALLENDALE #2" votes="91" />
+            <Precinct name="FAIRFAX #1" votes="85" />
+            <Precinct name="FAIRFAX #2" votes="105" />
+            <Precinct name="MARTIN" votes="43" />
+            <Precinct name="SYCAMORE" votes="103" />
+            <Precinct name="ULMER" votes="52" />
+            <Precinct name="WOODS" votes="124" />
+            <Precinct name="Absentee" votes="449" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="2" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Democratic" party="DEM" totalVotes="2034">
+            <VoteType name="Election Day" votes="2034">
+                <Precinct name="ALLENDALE #1" votes="165" />
+                <Precinct name="ALLENDALE #2" votes="223" />
+                <Precinct name="FAIRFAX #1" votes="100" />
+                <Precinct name="FAIRFAX #2" votes="313" />
+                <Precinct name="MARTIN" votes="99" />
+                <Precinct name="SYCAMORE" votes="38" />
+                <Precinct name="ULMER" votes="32" />
+                <Precinct name="WOODS" votes="164" />
+                <Precinct name="Absentee" votes="889" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="11" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Working Families" party="WFM" totalVotes="19">
+            <VoteType name="Election Day" votes="19">
+                <Precinct name="ALLENDALE #1" votes="2" />
+                <Precinct name="ALLENDALE #2" votes="4" />
+                <Precinct name="FAIRFAX #1" votes="2" />
+                <Precinct name="FAIRFAX #2" votes="1" />
+                <Precinct name="MARTIN" votes="0" />
+                <Precinct name="SYCAMORE" votes="2" />
+                <Precinct name="ULMER" votes="1" />
+                <Precinct name="WOODS" votes="2" />
+                <Precinct name="Absentee" votes="5" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Constitution" party="CON" totalVotes="5">
+            <VoteType name="Election Day" votes="5">
+                <Precinct name="ALLENDALE #1" votes="1" />
+                <Precinct name="ALLENDALE #2" votes="0" />
+                <Precinct name="FAIRFAX #1" votes="0" />
+                <Precinct name="FAIRFAX #2" votes="1" />
+                <Precinct name="MARTIN" votes="0" />
+                <Precinct name="SYCAMORE" votes="1" />
+                <Precinct name="ULMER" votes="0" />
+                <Precinct name="WOODS" votes="1" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Independence" party="IND" totalVotes="12">
+            <VoteType name="Election Day" votes="12">
+                <Precinct name="ALLENDALE #1" votes="0" />
+                <Precinct name="ALLENDALE #2" votes="1" />
+                <Precinct name="FAIRFAX #1" votes="3" />
+                <Precinct name="FAIRFAX #2" votes="0" />
+                <Precinct name="MARTIN" votes="0" />
+                <Precinct name="SYCAMORE" votes="0" />
+                <Precinct name="ULMER" votes="2" />
+                <Precinct name="WOODS" votes="3" />
+                <Precinct name="Absentee" votes="3" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Green" party="GRN" totalVotes="4">
+            <VoteType name="Election Day" votes="4">
+                <Precinct name="ALLENDALE #1" votes="0" />
+                <Precinct name="ALLENDALE #2" votes="0" />
+                <Precinct name="FAIRFAX #1" votes="2" />
+                <Precinct name="FAIRFAX #2" votes="2" />
+                <Precinct name="MARTIN" votes="0" />
+                <Precinct name="SYCAMORE" votes="0" />
+                <Precinct name="ULMER" votes="0" />
+                <Precinct name="WOODS" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Republican" party="REP" totalVotes="343">
+            <VoteType name="Election Day" votes="343">
+                <Precinct name="ALLENDALE #1" votes="37" />
+                <Precinct name="ALLENDALE #2" votes="0" />
+                <Precinct name="FAIRFAX #1" votes="38" />
+                <Precinct name="FAIRFAX #2" votes="29" />
+                <Precinct name="MARTIN" votes="20" />
+                <Precinct name="SYCAMORE" votes="67" />
+                <Precinct name="ULMER" votes="33" />
+                <Precinct name="WOODS" votes="46" />
+                <Precinct name="Absentee" votes="72" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="American" party="AMR" totalVotes="27">
+            <VoteType name="Election Day" votes="27">
+                <Precinct name="ALLENDALE #1" votes="4" />
+                <Precinct name="ALLENDALE #2" votes="2" />
+                <Precinct name="FAIRFAX #1" votes="4" />
+                <Precinct name="FAIRFAX #2" votes="5" />
+                <Precinct name="MARTIN" votes="3" />
+                <Precinct name="SYCAMORE" votes="0" />
+                <Precinct name="ULMER" votes="1" />
+                <Precinct name="WOODS" votes="2" />
+                <Precinct name="Absentee" votes="6" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="008" text="Libertarian" party="LIB" totalVotes="3">
+            <VoteType name="Election Day" votes="3">
+                <Precinct name="ALLENDALE #1" votes="0" />
+                <Precinct name="ALLENDALE #2" votes="0" />
+                <Precinct name="FAIRFAX #1" votes="1" />
+                <Precinct name="FAIRFAX #2" votes="1" />
+                <Precinct name="MARTIN" votes="1" />
+                <Precinct name="SYCAMORE" votes="0" />
+                <Precinct name="ULMER" votes="0" />
+                <Precinct name="WOODS" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0104" text="President and Vice President" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ALLENDALE #1" votes="0" />
+            <Precinct name="ALLENDALE #2" votes="0" />
+            <Precinct name="FAIRFAX #1" votes="0" />
+            <Precinct name="FAIRFAX #2" votes="0" />
+            <Precinct name="MARTIN" votes="0" />
+            <Precinct name="SYCAMORE" votes="0" />
+            <Precinct name="ULMER" votes="0" />
+            <Precinct name="WOODS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="35">
+            <Precinct name="ALLENDALE #1" votes="2" />
+            <Precinct name="ALLENDALE #2" votes="3" />
+            <Precinct name="FAIRFAX #1" votes="0" />
+            <Precinct name="FAIRFAX #2" votes="7" />
+            <Precinct name="MARTIN" votes="1" />
+            <Precinct name="SYCAMORE" votes="3" />
+            <Precinct name="ULMER" votes="2" />
+            <Precinct name="WOODS" votes="2" />
+            <Precinct name="Absentee" votes="15" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Hillary Rodham Clinton / Timothy Michael Kaine" party="DEM" totalVotes="2735">
+            <VoteType name="Election Day" votes="2735">
+                <Precinct name="ALLENDALE #1" votes="255" />
+                <Precinct name="ALLENDALE #2" votes="302" />
+                <Precinct name="FAIRFAX #1" votes="144" />
+                <Precinct name="FAIRFAX #2" votes="385" />
+                <Precinct name="MARTIN" votes="128" />
+                <Precinct name="SYCAMORE" votes="49" />
+                <Precinct name="ULMER" votes="46" />
+                <Precinct name="WOODS" votes="210" />
+                <Precinct name="Absentee" votes="1203" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="13" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Darrell Castle / Scott Bradley" party="CON" totalVotes="11">
+            <VoteType name="Election Day" votes="11">
+                <Precinct name="ALLENDALE #1" votes="3" />
+                <Precinct name="ALLENDALE #2" votes="0" />
+                <Precinct name="FAIRFAX #1" votes="0" />
+                <Precinct name="FAIRFAX #2" votes="2" />
+                <Precinct name="MARTIN" votes="1" />
+                <Precinct name="SYCAMORE" votes="0" />
+                <Precinct name="ULMER" votes="0" />
+                <Precinct name="WOODS" votes="0" />
+                <Precinct name="Absentee" votes="5" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Evan McMullin / Nathan Johnson" party="IND" totalVotes="12">
+            <VoteType name="Election Day" votes="12">
+                <Precinct name="ALLENDALE #1" votes="2" />
+                <Precinct name="ALLENDALE #2" votes="0" />
+                <Precinct name="FAIRFAX #1" votes="4" />
+                <Precinct name="FAIRFAX #2" votes="0" />
+                <Precinct name="MARTIN" votes="1" />
+                <Precinct name="SYCAMORE" votes="1" />
+                <Precinct name="ULMER" votes="0" />
+                <Precinct name="WOODS" votes="0" />
+                <Precinct name="Absentee" votes="4" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Jill Stein / Ajamu Baraka" party="GRN" totalVotes="11">
+            <VoteType name="Election Day" votes="11">
+                <Precinct name="ALLENDALE #1" votes="2" />
+                <Precinct name="ALLENDALE #2" votes="2" />
+                <Precinct name="FAIRFAX #1" votes="0" />
+                <Precinct name="FAIRFAX #2" votes="2" />
+                <Precinct name="MARTIN" votes="0" />
+                <Precinct name="SYCAMORE" votes="0" />
+                <Precinct name="ULMER" votes="0" />
+                <Precinct name="WOODS" votes="2" />
+                <Precinct name="Absentee" votes="3" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Donald J Trump / Michael R Pence" party="REP" totalVotes="789">
+            <VoteType name="Election Day" votes="789">
+                <Precinct name="ALLENDALE #1" votes="66" />
+                <Precinct name="ALLENDALE #2" votes="10" />
+                <Precinct name="FAIRFAX #1" votes="83" />
+                <Precinct name="FAIRFAX #2" votes="56" />
+                <Precinct name="MARTIN" votes="33" />
+                <Precinct name="SYCAMORE" votes="156" />
+                <Precinct name="ULMER" votes="71" />
+                <Precinct name="WOODS" votes="127" />
+                <Precinct name="Absentee" votes="186" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Peter Skewes / Michael Lacy" party="AMR" totalVotes="12">
+            <VoteType name="Election Day" votes="12">
+                <Precinct name="ALLENDALE #1" votes="2" />
+                <Precinct name="ALLENDALE #2" votes="1" />
+                <Precinct name="FAIRFAX #1" votes="3" />
+                <Precinct name="FAIRFAX #2" votes="2" />
+                <Precinct name="MARTIN" votes="2" />
+                <Precinct name="SYCAMORE" votes="0" />
+                <Precinct name="ULMER" votes="0" />
+                <Precinct name="WOODS" votes="0" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="Gary Johnson / Bill Weld" party="LIB" totalVotes="22">
+            <VoteType name="Election Day" votes="22">
+                <Precinct name="ALLENDALE #1" votes="3" />
+                <Precinct name="ALLENDALE #2" votes="3" />
+                <Precinct name="FAIRFAX #1" votes="1" />
+                <Precinct name="FAIRFAX #2" votes="3" />
+                <Precinct name="MARTIN" votes="0" />
+                <Precinct name="SYCAMORE" votes="2" />
+                <Precinct name="ULMER" votes="2" />
+                <Precinct name="WOODS" votes="1" />
+                <Precinct name="Absentee" votes="7" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0105" text="U.S. Senate" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ALLENDALE #1" votes="0" />
+            <Precinct name="ALLENDALE #2" votes="0" />
+            <Precinct name="FAIRFAX #1" votes="0" />
+            <Precinct name="FAIRFAX #2" votes="0" />
+            <Precinct name="MARTIN" votes="0" />
+            <Precinct name="SYCAMORE" votes="0" />
+            <Precinct name="ULMER" votes="0" />
+            <Precinct name="WOODS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="232">
+            <Precinct name="ALLENDALE #1" votes="19" />
+            <Precinct name="ALLENDALE #2" votes="22" />
+            <Precinct name="FAIRFAX #1" votes="11" />
+            <Precinct name="FAIRFAX #2" votes="26" />
+            <Precinct name="MARTIN" votes="7" />
+            <Precinct name="SYCAMORE" votes="17" />
+            <Precinct name="ULMER" votes="8" />
+            <Precinct name="WOODS" votes="16" />
+            <Precinct name="Absentee" votes="105" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="1" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Thomas Dixon" party="DEM" totalVotes="2452">
+            <VoteType name="Election Day" votes="2452">
+                <Precinct name="ALLENDALE #1" votes="222" />
+                <Precinct name="ALLENDALE #2" votes="268" />
+                <Precinct name="FAIRFAX #1" votes="124" />
+                <Precinct name="FAIRFAX #2" votes="351" />
+                <Precinct name="MARTIN" votes="118" />
+                <Precinct name="SYCAMORE" votes="45" />
+                <Precinct name="ULMER" votes="40" />
+                <Precinct name="WOODS" votes="195" />
+                <Precinct name="Absentee" votes="1079" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="10" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Thomas Dixon" party="WFM" totalVotes="77">
+            <VoteType name="Election Day" votes="77">
+                <Precinct name="ALLENDALE #1" votes="12" />
+                <Precinct name="ALLENDALE #2" votes="13" />
+                <Precinct name="FAIRFAX #1" votes="5" />
+                <Precinct name="FAIRFAX #2" votes="5" />
+                <Precinct name="MARTIN" votes="3" />
+                <Precinct name="SYCAMORE" votes="4" />
+                <Precinct name="ULMER" votes="4" />
+                <Precinct name="WOODS" votes="11" />
+                <Precinct name="Absentee" votes="20" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Bill Bledsoe" party="CON" totalVotes="21">
+            <VoteType name="Election Day" votes="21">
+                <Precinct name="ALLENDALE #1" votes="4" />
+                <Precinct name="ALLENDALE #2" votes="1" />
+                <Precinct name="FAIRFAX #1" votes="2" />
+                <Precinct name="FAIRFAX #2" votes="3" />
+                <Precinct name="MARTIN" votes="2" />
+                <Precinct name="SYCAMORE" votes="3" />
+                <Precinct name="ULMER" votes="2" />
+                <Precinct name="WOODS" votes="1" />
+                <Precinct name="Absentee" votes="3" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Thomas Dixon" party="GRN" totalVotes="15">
+            <VoteType name="Election Day" votes="15">
+                <Precinct name="ALLENDALE #1" votes="0" />
+                <Precinct name="ALLENDALE #2" votes="1" />
+                <Precinct name="FAIRFAX #1" votes="2" />
+                <Precinct name="FAIRFAX #2" votes="4" />
+                <Precinct name="MARTIN" votes="0" />
+                <Precinct name="SYCAMORE" votes="2" />
+                <Precinct name="ULMER" votes="0" />
+                <Precinct name="WOODS" votes="1" />
+                <Precinct name="Absentee" votes="5" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Tim Scott" party="REP" totalVotes="796">
+            <VoteType name="Election Day" votes="796">
+                <Precinct name="ALLENDALE #1" votes="73" />
+                <Precinct name="ALLENDALE #2" votes="12" />
+                <Precinct name="FAIRFAX #1" votes="84" />
+                <Precinct name="FAIRFAX #2" votes="67" />
+                <Precinct name="MARTIN" votes="34" />
+                <Precinct name="SYCAMORE" votes="137" />
+                <Precinct name="ULMER" votes="66" />
+                <Precinct name="WOODS" votes="114" />
+                <Precinct name="Absentee" votes="206" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="3" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Rebel Michael Scarborough" party="AMR" totalVotes="22">
+            <VoteType name="Election Day" votes="22">
+                <Precinct name="ALLENDALE #1" votes="4" />
+                <Precinct name="ALLENDALE #2" votes="2" />
+                <Precinct name="FAIRFAX #1" votes="5" />
+                <Precinct name="FAIRFAX #2" votes="1" />
+                <Precinct name="MARTIN" votes="2" />
+                <Precinct name="SYCAMORE" votes="0" />
+                <Precinct name="ULMER" votes="0" />
+                <Precinct name="WOODS" votes="2" />
+                <Precinct name="Absentee" votes="6" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="Bill Bledsoe" party="LIB" totalVotes="11">
+            <VoteType name="Election Day" votes="11">
+                <Precinct name="ALLENDALE #1" votes="1" />
+                <Precinct name="ALLENDALE #2" votes="2" />
+                <Precinct name="FAIRFAX #1" votes="2" />
+                <Precinct name="FAIRFAX #2" votes="0" />
+                <Precinct name="MARTIN" votes="0" />
+                <Precinct name="SYCAMORE" votes="2" />
+                <Precinct name="ULMER" votes="1" />
+                <Precinct name="WOODS" votes="2" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="008" text="Write-In" party="NON" totalVotes="1">
+            <VoteType name="Election Day" votes="1">
+                <Precinct name="ALLENDALE #1" votes="0" />
+                <Precinct name="ALLENDALE #2" votes="0" />
+                <Precinct name="FAIRFAX #1" votes="0" />
+                <Precinct name="FAIRFAX #2" votes="0" />
+                <Precinct name="MARTIN" votes="0" />
+                <Precinct name="SYCAMORE" votes="1" />
+                <Precinct name="ULMER" votes="0" />
+                <Precinct name="WOODS" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0106" text="U.S.  House of Representatives, District  6" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ALLENDALE #1" votes="0" />
+            <Precinct name="ALLENDALE #2" votes="0" />
+            <Precinct name="FAIRFAX #1" votes="0" />
+            <Precinct name="FAIRFAX #2" votes="0" />
+            <Precinct name="MARTIN" votes="0" />
+            <Precinct name="SYCAMORE" votes="0" />
+            <Precinct name="ULMER" votes="0" />
+            <Precinct name="WOODS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="215">
+            <Precinct name="ALLENDALE #1" votes="24" />
+            <Precinct name="ALLENDALE #2" votes="22" />
+            <Precinct name="FAIRFAX #1" votes="12" />
+            <Precinct name="FAIRFAX #2" votes="24" />
+            <Precinct name="MARTIN" votes="12" />
+            <Precinct name="SYCAMORE" votes="16" />
+            <Precinct name="ULMER" votes="3" />
+            <Precinct name="WOODS" votes="15" />
+            <Precinct name="Absentee" votes="86" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="1" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="James E Jim Clyburn" party="DEM" totalVotes="2683">
+            <VoteType name="Election Day" votes="2683">
+                <Precinct name="ALLENDALE #1" votes="244" />
+                <Precinct name="ALLENDALE #2" votes="289" />
+                <Precinct name="FAIRFAX #1" votes="145" />
+                <Precinct name="FAIRFAX #2" votes="376" />
+                <Precinct name="MARTIN" votes="120" />
+                <Precinct name="SYCAMORE" votes="67" />
+                <Precinct name="ULMER" votes="45" />
+                <Precinct name="WOODS" votes="220" />
+                <Precinct name="Absentee" votes="1166" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="11" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Prince Charles Mallory" party="GRN" totalVotes="28">
+            <VoteType name="Election Day" votes="28">
+                <Precinct name="ALLENDALE #1" votes="2" />
+                <Precinct name="ALLENDALE #2" votes="2" />
+                <Precinct name="FAIRFAX #1" votes="3" />
+                <Precinct name="FAIRFAX #2" votes="6" />
+                <Precinct name="MARTIN" votes="0" />
+                <Precinct name="SYCAMORE" votes="2" />
+                <Precinct name="ULMER" votes="0" />
+                <Precinct name="WOODS" votes="2" />
+                <Precinct name="Absentee" votes="11" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Laura Sterling" party="REP" totalVotes="678">
+            <VoteType name="Election Day" votes="678">
+                <Precinct name="ALLENDALE #1" votes="65" />
+                <Precinct name="ALLENDALE #2" votes="6" />
+                <Precinct name="FAIRFAX #1" votes="70" />
+                <Precinct name="FAIRFAX #2" votes="48" />
+                <Precinct name="MARTIN" votes="34" />
+                <Precinct name="SYCAMORE" votes="124" />
+                <Precinct name="ULMER" votes="71" />
+                <Precinct name="WOODS" votes="101" />
+                <Precinct name="Absentee" votes="157" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="2" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Rich Piotrowski" party="LIB" totalVotes="22">
+            <VoteType name="Election Day" votes="22">
+                <Precinct name="ALLENDALE #1" votes="0" />
+                <Precinct name="ALLENDALE #2" votes="2" />
+                <Precinct name="FAIRFAX #1" votes="5" />
+                <Precinct name="FAIRFAX #2" votes="3" />
+                <Precinct name="MARTIN" votes="0" />
+                <Precinct name="SYCAMORE" votes="1" />
+                <Precinct name="ULMER" votes="2" />
+                <Precinct name="WOODS" votes="4" />
+                <Precinct name="Absentee" votes="5" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Write-In" party="NON" totalVotes="1">
+            <VoteType name="Election Day" votes="1">
+                <Precinct name="ALLENDALE #1" votes="0" />
+                <Precinct name="ALLENDALE #2" votes="0" />
+                <Precinct name="FAIRFAX #1" votes="0" />
+                <Precinct name="FAIRFAX #2" votes="0" />
+                <Precinct name="MARTIN" votes="0" />
+                <Precinct name="SYCAMORE" votes="1" />
+                <Precinct name="ULMER" votes="0" />
+                <Precinct name="WOODS" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0107" text="State  Senate, District  40" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ALLENDALE #1" votes="0" />
+            <Precinct name="ALLENDALE #2" votes="0" />
+            <Precinct name="FAIRFAX #1" votes="0" />
+            <Precinct name="FAIRFAX #2" votes="0" />
+            <Precinct name="SYCAMORE" votes="0" />
+            <Precinct name="ULMER" votes="0" />
+            <Precinct name="WOODS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="399">
+            <Precinct name="ALLENDALE #1" votes="58" />
+            <Precinct name="ALLENDALE #2" votes="7" />
+            <Precinct name="FAIRFAX #1" votes="34" />
+            <Precinct name="FAIRFAX #2" votes="11" />
+            <Precinct name="SYCAMORE" votes="77" />
+            <Precinct name="ULMER" votes="41" />
+            <Precinct name="WOODS" votes="64" />
+            <Precinct name="Absentee" votes="106" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="1" />
+        </VoteType>
+        <Choice key="001" text="Brad Hutto" party="DEM" totalVotes="1645">
+            <VoteType name="Election Day" votes="1645">
+                <Precinct name="ALLENDALE #1" votes="268" />
+                <Precinct name="ALLENDALE #2" votes="85" />
+                <Precinct name="FAIRFAX #1" votes="94" />
+                <Precinct name="FAIRFAX #2" votes="66" />
+                <Precinct name="SYCAMORE" votes="130" />
+                <Precinct name="ULMER" votes="79" />
+                <Precinct name="WOODS" votes="250" />
+                <Precinct name="Absentee" votes="671" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="11">
+            <VoteType name="Election Day" votes="11">
+                <Precinct name="ALLENDALE #1" votes="1" />
+                <Precinct name="ALLENDALE #2" votes="0" />
+                <Precinct name="FAIRFAX #1" votes="3" />
+                <Precinct name="FAIRFAX #2" votes="0" />
+                <Precinct name="SYCAMORE" votes="2" />
+                <Precinct name="ULMER" votes="1" />
+                <Precinct name="WOODS" votes="0" />
+                <Precinct name="Absentee" votes="4" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0108" text="State  Senate, District  45" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ALLENDALE #1" votes="0" />
+            <Precinct name="ALLENDALE #2" votes="0" />
+            <Precinct name="FAIRFAX #1" votes="0" />
+            <Precinct name="FAIRFAX #2" votes="0" />
+            <Precinct name="MARTIN" votes="0" />
+            <Precinct name="SYCAMORE" votes="0" />
+            <Precinct name="ULMER" votes="0" />
+            <Precinct name="WOODS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="232">
+            <Precinct name="ALLENDALE #1" votes="4" />
+            <Precinct name="ALLENDALE #2" votes="24" />
+            <Precinct name="FAIRFAX #1" votes="28" />
+            <Precinct name="FAIRFAX #2" votes="50" />
+            <Precinct name="MARTIN" votes="33" />
+            <Precinct name="SYCAMORE" votes="2" />
+            <Precinct name="ULMER" votes="0" />
+            <Precinct name="WOODS" votes="2" />
+            <Precinct name="Absentee" votes="88" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="1" />
+        </VoteType>
+        <Choice key="001" text="Margie Bright Matthews" party="DEM" totalVotes="1340">
+            <VoteType name="Election Day" votes="1340">
+                <Precinct name="ALLENDALE #1" votes="4" />
+                <Precinct name="ALLENDALE #2" votes="205" />
+                <Precinct name="FAIRFAX #1" votes="76" />
+                <Precinct name="FAIRFAX #2" votes="330" />
+                <Precinct name="MARTIN" votes="133" />
+                <Precinct name="SYCAMORE" votes="0" />
+                <Precinct name="ULMER" votes="0" />
+                <Precinct name="WOODS" votes="26" />
+                <Precinct name="Absentee" votes="556" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="10" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="0">
+            <VoteType name="Election Day" votes="0">
+                <Precinct name="ALLENDALE #1" votes="0" />
+                <Precinct name="ALLENDALE #2" votes="0" />
+                <Precinct name="FAIRFAX #1" votes="0" />
+                <Precinct name="FAIRFAX #2" votes="0" />
+                <Precinct name="MARTIN" votes="0" />
+                <Precinct name="SYCAMORE" votes="0" />
+                <Precinct name="ULMER" votes="0" />
+                <Precinct name="WOODS" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0109" text="State  House of Representatives, District  91" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ALLENDALE #1" votes="0" />
+            <Precinct name="ALLENDALE #2" votes="0" />
+            <Precinct name="FAIRFAX #1" votes="0" />
+            <Precinct name="FAIRFAX #2" votes="0" />
+            <Precinct name="MARTIN" votes="0" />
+            <Precinct name="SYCAMORE" votes="0" />
+            <Precinct name="ULMER" votes="0" />
+            <Precinct name="WOODS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="602">
+            <Precinct name="ALLENDALE #1" votes="62" />
+            <Precinct name="ALLENDALE #2" votes="21" />
+            <Precinct name="FAIRFAX #1" votes="57" />
+            <Precinct name="FAIRFAX #2" votes="60" />
+            <Precinct name="MARTIN" votes="31" />
+            <Precinct name="SYCAMORE" votes="81" />
+            <Precinct name="ULMER" votes="43" />
+            <Precinct name="WOODS" votes="64" />
+            <Precinct name="Absentee" votes="181" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="2" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Lonnie Hosey" party="DEM" totalVotes="3014">
+            <VoteType name="Election Day" votes="3014">
+                <Precinct name="ALLENDALE #1" votes="272" />
+                <Precinct name="ALLENDALE #2" votes="300" />
+                <Precinct name="FAIRFAX #1" votes="177" />
+                <Precinct name="FAIRFAX #2" votes="397" />
+                <Precinct name="MARTIN" votes="135" />
+                <Precinct name="SYCAMORE" votes="127" />
+                <Precinct name="ULMER" votes="76" />
+                <Precinct name="WOODS" votes="278" />
+                <Precinct name="Absentee" votes="1240" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="12" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="11">
+            <VoteType name="Election Day" votes="11">
+                <Precinct name="ALLENDALE #1" votes="1" />
+                <Precinct name="ALLENDALE #2" votes="0" />
+                <Precinct name="FAIRFAX #1" votes="1" />
+                <Precinct name="FAIRFAX #2" votes="0" />
+                <Precinct name="MARTIN" votes="0" />
+                <Precinct name="SYCAMORE" votes="3" />
+                <Precinct name="ULMER" votes="2" />
+                <Precinct name="WOODS" votes="0" />
+                <Precinct name="Absentee" votes="4" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0110" text=" Solicitor, Circuit  14" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ALLENDALE #1" votes="0" />
+            <Precinct name="ALLENDALE #2" votes="0" />
+            <Precinct name="FAIRFAX #1" votes="0" />
+            <Precinct name="FAIRFAX #2" votes="0" />
+            <Precinct name="MARTIN" votes="0" />
+            <Precinct name="SYCAMORE" votes="0" />
+            <Precinct name="ULMER" votes="0" />
+            <Precinct name="WOODS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="2263">
+            <Precinct name="ALLENDALE #1" votes="209" />
+            <Precinct name="ALLENDALE #2" votes="239" />
+            <Precinct name="FAIRFAX #1" votes="107" />
+            <Precinct name="FAIRFAX #2" votes="335" />
+            <Precinct name="MARTIN" votes="100" />
+            <Precinct name="SYCAMORE" votes="57" />
+            <Precinct name="ULMER" votes="47" />
+            <Precinct name="WOODS" votes="168" />
+            <Precinct name="Absentee" votes="992" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="9" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Duffie Stone" party="REP" totalVotes="1338">
+            <VoteType name="Election Day" votes="1338">
+                <Precinct name="ALLENDALE #1" votes="123" />
+                <Precinct name="ALLENDALE #2" votes="77" />
+                <Precinct name="FAIRFAX #1" votes="128" />
+                <Precinct name="FAIRFAX #2" votes="118" />
+                <Precinct name="MARTIN" votes="63" />
+                <Precinct name="SYCAMORE" votes="153" />
+                <Precinct name="ULMER" votes="74" />
+                <Precinct name="WOODS" votes="173" />
+                <Precinct name="Absentee" votes="424" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="5" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="26">
+            <VoteType name="Election Day" votes="26">
+                <Precinct name="ALLENDALE #1" votes="3" />
+                <Precinct name="ALLENDALE #2" votes="5" />
+                <Precinct name="FAIRFAX #1" votes="0" />
+                <Precinct name="FAIRFAX #2" votes="4" />
+                <Precinct name="MARTIN" votes="3" />
+                <Precinct name="SYCAMORE" votes="1" />
+                <Precinct name="ULMER" votes="0" />
+                <Precinct name="WOODS" votes="1" />
+                <Precinct name="Absentee" votes="9" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0111" text="County Council District 1" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="FAIRFAX #2" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="94">
+            <Precinct name="FAIRFAX #2" votes="59" />
+            <Precinct name="Absentee" votes="34" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="1" />
+        </VoteType>
+        <Choice key="001" text="Theresa Harvey Taylor" party="DEM" totalVotes="638">
+            <VoteType name="Election Day" votes="638">
+                <Precinct name="FAIRFAX #2" votes="398" />
+                <Precinct name="Absentee" votes="232" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="8" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="2">
+            <VoteType name="Election Day" votes="2">
+                <Precinct name="FAIRFAX #2" votes="0" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0112" text="County Council District 4" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="FAIRFAX #1" votes="0" />
+            <Precinct name="SYCAMORE" votes="0" />
+            <Precinct name="ULMER" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="37">
+            <Precinct name="FAIRFAX #1" votes="12" />
+            <Precinct name="SYCAMORE" votes="11" />
+            <Precinct name="ULMER" votes="2" />
+            <Precinct name="Absentee" votes="12" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Reggie McMillan" party="DEM" totalVotes="331">
+            <VoteType name="Election Day" votes="331">
+                <Precinct name="FAIRFAX #1" votes="143" />
+                <Precinct name="SYCAMORE" votes="51" />
+                <Precinct name="ULMER" votes="48" />
+                <Precinct name="Absentee" votes="89" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="James All" party="REP" totalVotes="357">
+            <VoteType name="Election Day" votes="357">
+                <Precinct name="FAIRFAX #1" votes="79" />
+                <Precinct name="SYCAMORE" votes="149" />
+                <Precinct name="ULMER" votes="71" />
+                <Precinct name="Absentee" votes="58" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="1">
+            <VoteType name="Election Day" votes="1">
+                <Precinct name="FAIRFAX #1" votes="1" />
+                <Precinct name="SYCAMORE" votes="0" />
+                <Precinct name="ULMER" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0113" text="School Board District 1" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="FAIRFAX #2" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="305">
+            <Precinct name="FAIRFAX #2" votes="189" />
+            <Precinct name="Absentee" votes="113" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="3" />
+        </VoteType>
+        <Choice key="001" text="Terry Hall" party="NON" totalVotes="414">
+            <VoteType name="Election Day" votes="414">
+                <Precinct name="FAIRFAX #2" votes="263" />
+                <Precinct name="Absentee" votes="145" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="6" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="15">
+            <VoteType name="Election Day" votes="15">
+                <Precinct name="FAIRFAX #2" votes="5" />
+                <Precinct name="Absentee" votes="10" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0114" text="School Board District 3" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="MARTIN" votes="0" />
+            <Precinct name="WOODS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="150">
+            <Precinct name="MARTIN" votes="43" />
+            <Precinct name="WOODS" votes="60" />
+            <Precinct name="Absentee" votes="46" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="1" />
+        </VoteType>
+        <Choice key="001" text="Alonzo Frazier" party="NON" totalVotes="301">
+            <VoteType name="Election Day" votes="301">
+                <Precinct name="MARTIN" votes="73" />
+                <Precinct name="WOODS" votes="139" />
+                <Precinct name="Absentee" votes="88" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Willa Marian Jennings" party="NON" totalVotes="309">
+            <VoteType name="Election Day" votes="309">
+                <Precinct name="MARTIN" votes="50" />
+                <Precinct name="WOODS" votes="140" />
+                <Precinct name="Absentee" votes="117" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="9">
+            <VoteType name="Election Day" votes="9">
+                <Precinct name="MARTIN" votes="0" />
+                <Precinct name="WOODS" votes="3" />
+                <Precinct name="Absentee" votes="6" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0115" text="School Board District 5" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ALLENDALE #2" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="325">
+            <Precinct name="ALLENDALE #2" votes="160" />
+            <Precinct name="Absentee" votes="165" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Wilda J Robinson" party="NON" totalVotes="390">
+            <VoteType name="Election Day" votes="390">
+                <Precinct name="ALLENDALE #2" votes="158" />
+                <Precinct name="Absentee" votes="232" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="6">
+            <VoteType name="Election Day" votes="6">
+                <Precinct name="ALLENDALE #2" votes="3" />
+                <Precinct name="Absentee" votes="3" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0116" text="Soil and Water District Commission" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ALLENDALE #1" votes="0" />
+            <Precinct name="ALLENDALE #2" votes="0" />
+            <Precinct name="FAIRFAX #1" votes="0" />
+            <Precinct name="FAIRFAX #2" votes="0" />
+            <Precinct name="MARTIN" votes="0" />
+            <Precinct name="SYCAMORE" votes="0" />
+            <Precinct name="ULMER" votes="0" />
+            <Precinct name="WOODS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1799">
+            <Precinct name="ALLENDALE #1" votes="236" />
+            <Precinct name="ALLENDALE #2" votes="205" />
+            <Precinct name="FAIRFAX #1" votes="78" />
+            <Precinct name="FAIRFAX #2" votes="177" />
+            <Precinct name="MARTIN" votes="59" />
+            <Precinct name="SYCAMORE" votes="61" />
+            <Precinct name="ULMER" votes="27" />
+            <Precinct name="WOODS" votes="119" />
+            <Precinct name="Absentee" votes="829" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="8" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Michael K Mathias" party="NON" totalVotes="1822">
+            <VoteType name="Election Day" votes="1822">
+                <Precinct name="ALLENDALE #1" votes="98" />
+                <Precinct name="ALLENDALE #2" votes="114" />
+                <Precinct name="FAIRFAX #1" votes="156" />
+                <Precinct name="FAIRFAX #2" votes="280" />
+                <Precinct name="MARTIN" votes="107" />
+                <Precinct name="SYCAMORE" votes="150" />
+                <Precinct name="ULMER" votes="94" />
+                <Precinct name="WOODS" votes="223" />
+                <Precinct name="Absentee" votes="594" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="6" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="6">
+            <VoteType name="Election Day" votes="6">
+                <Precinct name="ALLENDALE #1" votes="1" />
+                <Precinct name="ALLENDALE #2" votes="2" />
+                <Precinct name="FAIRFAX #1" votes="1" />
+                <Precinct name="FAIRFAX #2" votes="0" />
+                <Precinct name="MARTIN" votes="0" />
+                <Precinct name="SYCAMORE" votes="0" />
+                <Precinct name="ULMER" votes="0" />
+                <Precinct name="WOODS" votes="0" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0117" text="Mayor" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ALLENDALE #1" votes="0" />
+            <Precinct name="ALLENDALE #2" votes="0" />
+            <Precinct name="WOODS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="40">
+            <Precinct name="ALLENDALE #1" votes="9" />
+            <Precinct name="ALLENDALE #2" votes="10" />
+            <Precinct name="WOODS" votes="2" />
+            <Precinct name="Absentee" votes="19" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Larry Cohen" party="NON" totalVotes="221">
+            <VoteType name="Election Day" votes="221">
+                <Precinct name="ALLENDALE #1" votes="53" />
+                <Precinct name="ALLENDALE #2" votes="56" />
+                <Precinct name="WOODS" votes="7" />
+                <Precinct name="Absentee" votes="105" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Ronnie Jackson" party="NON" totalVotes="369">
+            <VoteType name="Election Day" votes="369">
+                <Precinct name="ALLENDALE #1" votes="85" />
+                <Precinct name="ALLENDALE #2" votes="71" />
+                <Precinct name="WOODS" votes="3" />
+                <Precinct name="Absentee" votes="209" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Jacqueline Jackie Jones" party="NON" totalVotes="321">
+            <VoteType name="Election Day" votes="321">
+                <Precinct name="ALLENDALE #1" votes="47" />
+                <Precinct name="ALLENDALE #2" votes="117" />
+                <Precinct name="WOODS" votes="7" />
+                <Precinct name="Absentee" votes="150" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Lottie Polite Lewis" party="NON" totalVotes="348">
+            <VoteType name="Election Day" votes="348">
+                <Precinct name="ALLENDALE #1" votes="68" />
+                <Precinct name="ALLENDALE #2" votes="67" />
+                <Precinct name="WOODS" votes="9" />
+                <Precinct name="Absentee" votes="204" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Write-In" party="NON" totalVotes="1">
+            <VoteType name="Election Day" votes="1">
+                <Precinct name="ALLENDALE #1" votes="0" />
+                <Precinct name="ALLENDALE #2" votes="0" />
+                <Precinct name="WOODS" votes="0" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0118" text="Town Council" voteFor="3" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ALLENDALE #1" votes="0" />
+            <Precinct name="ALLENDALE #2" votes="0" />
+            <Precinct name="WOODS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1526">
+            <Precinct name="ALLENDALE #1" votes="347" />
+            <Precinct name="ALLENDALE #2" votes="431" />
+            <Precinct name="WOODS" votes="44" />
+            <Precinct name="Absentee" votes="704" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="James H Grant" party="NON" totalVotes="661">
+            <VoteType name="Election Day" votes="661">
+                <Precinct name="ALLENDALE #1" votes="121" />
+                <Precinct name="ALLENDALE #2" votes="146" />
+                <Precinct name="WOODS" votes="14" />
+                <Precinct name="Absentee" votes="379" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Vernie Harney" party="NON" totalVotes="547">
+            <VoteType name="Election Day" votes="547">
+                <Precinct name="ALLENDALE #1" votes="90" />
+                <Precinct name="ALLENDALE #2" votes="118" />
+                <Precinct name="WOODS" votes="7" />
+                <Precinct name="Absentee" votes="331" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Lottie Polite Lewis" party="NON" totalVotes="499">
+            <VoteType name="Election Day" votes="499">
+                <Precinct name="ALLENDALE #1" votes="96" />
+                <Precinct name="ALLENDALE #2" votes="97" />
+                <Precinct name="WOODS" votes="9" />
+                <Precinct name="Absentee" votes="296" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Dawan Pookie Smith" party="NON" totalVotes="659">
+            <VoteType name="Election Day" votes="659">
+                <Precinct name="ALLENDALE #1" votes="130" />
+                <Precinct name="ALLENDALE #2" votes="168" />
+                <Precinct name="WOODS" votes="10" />
+                <Precinct name="Absentee" votes="351" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Write-In" party="NON" totalVotes="8">
+            <VoteType name="Election Day" votes="8">
+                <Precinct name="ALLENDALE #1" votes="2" />
+                <Precinct name="ALLENDALE #2" votes="3" />
+                <Precinct name="WOODS" votes="0" />
+                <Precinct name="Absentee" votes="3" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0119" text="Sales and Use Tax Referendum" voteFor="1" isQuestion="true" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="ALLENDALE #1" votes="0" />
+            <Precinct name="ALLENDALE #2" votes="0" />
+            <Precinct name="FAIRFAX #1" votes="0" />
+            <Precinct name="FAIRFAX #2" votes="0" />
+            <Precinct name="MARTIN" votes="0" />
+            <Precinct name="SYCAMORE" votes="0" />
+            <Precinct name="ULMER" votes="0" />
+            <Precinct name="WOODS" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="338">
+            <Precinct name="ALLENDALE #1" votes="43" />
+            <Precinct name="ALLENDALE #2" votes="24" />
+            <Precinct name="FAIRFAX #1" votes="28" />
+            <Precinct name="FAIRFAX #2" votes="49" />
+            <Precinct name="MARTIN" votes="9" />
+            <Precinct name="SYCAMORE" votes="27" />
+            <Precinct name="ULMER" votes="3" />
+            <Precinct name="WOODS" votes="20" />
+            <Precinct name="Absentee" votes="131" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="4" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Yes, in favor to the question" party="NON" totalVotes="2107">
+            <VoteType name="Election Day" votes="2107">
+                <Precinct name="ALLENDALE #1" votes="185" />
+                <Precinct name="ALLENDALE #2" votes="203" />
+                <Precinct name="FAIRFAX #1" votes="142" />
+                <Precinct name="FAIRFAX #2" votes="265" />
+                <Precinct name="MARTIN" votes="100" />
+                <Precinct name="SYCAMORE" votes="101" />
+                <Precinct name="ULMER" votes="66" />
+                <Precinct name="WOODS" votes="204" />
+                <Precinct name="Absentee" votes="831" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="10" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="No, opposed to the question" party="NON" totalVotes="1182">
+            <VoteType name="Election Day" votes="1182">
+                <Precinct name="ALLENDALE #1" votes="107" />
+                <Precinct name="ALLENDALE #2" votes="94" />
+                <Precinct name="FAIRFAX #1" votes="65" />
+                <Precinct name="FAIRFAX #2" votes="143" />
+                <Precinct name="MARTIN" votes="57" />
+                <Precinct name="SYCAMORE" votes="83" />
+                <Precinct name="ULMER" votes="52" />
+                <Precinct name="WOODS" votes="118" />
+                <Precinct name="Absentee" votes="463" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

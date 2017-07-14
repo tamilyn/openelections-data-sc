@@ -1,0 +1,2627 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>11/16/2016 2:38:39 PM EST</Timestamp>
+    <ElectionName>2016 Statewide General Election</ElectionName>
+    <ElectionDate>11/8/2016</ElectionDate>
+    <Region>Fairfield</Region>
+    <VoterTurnout totalVoters="15885" ballotsCast="11401" voterTurnout="71.77">
+        <Precincts>
+            <Precinct name="BLACKSTOCK" totalVoters="63" ballotsCast="39" voterTurnout="61.90" percentReporting="4" />
+            <Precinct name="BLAIRS" totalVoters="440" ballotsCast="293" voterTurnout="66.59" percentReporting="4" />
+            <Precinct name="CENTERVILLE" totalVoters="292" ballotsCast="200" voterTurnout="68.49" percentReporting="4" />
+            <Precinct name="FEASTERVILLE" totalVoters="309" ballotsCast="188" voterTurnout="60.84" percentReporting="4" />
+            <Precinct name="GREENBRIER" totalVoters="1894" ballotsCast="907" voterTurnout="47.89" percentReporting="4" />
+            <Precinct name="GLADDE3N GROVE" totalVoters="69" ballotsCast="46" voterTurnout="66.67" percentReporting="4" />
+            <Precinct name="JENKINSVILLE" totalVoters="578" ballotsCast="361" voterTurnout="62.46" percentReporting="4" />
+            <Precinct name="HOREB-GLENN" totalVoters="355" ballotsCast="193" voterTurnout="54.37" percentReporting="4" />
+            <Precinct name="HICKORY RIDGE" totalVoters="924" ballotsCast="486" voterTurnout="52.60" percentReporting="4" />
+            <Precinct name="LEBANON" totalVoters="729" ballotsCast="382" voterTurnout="52.40" percentReporting="4" />
+            <Precinct name="MITFORD" totalVoters="765" ballotsCast="458" voterTurnout="59.87" percentReporting="4" />
+            <Precinct name="MONTICELLO" totalVoters="591" ballotsCast="333" voterTurnout="56.35" percentReporting="4" />
+            <Precinct name="NEW HOPE" totalVoters="67" ballotsCast="40" voterTurnout="59.70" percentReporting="4" />
+            <Precinct name="RIDGEWAY" totalVoters="2223" ballotsCast="1013" voterTurnout="45.57" percentReporting="4" />
+            <Precinct name="SIMPSON" totalVoters="912" ballotsCast="510" voterTurnout="55.92" percentReporting="4" />
+            <Precinct name="SOUTH WINNSBORO" totalVoters="771" ballotsCast="345" voterTurnout="44.75" percentReporting="4" />
+            <Precinct name="WINNSBORO MILLS" totalVoters="837" ballotsCast="370" voterTurnout="44.21" percentReporting="4" />
+            <Precinct name="WINNSBORO NO. 1" totalVoters="1575" ballotsCast="615" voterTurnout="39.05" percentReporting="4" />
+            <Precinct name="WINNSBORO NO. 2" totalVoters="1151" ballotsCast="530" voterTurnout="46.05" percentReporting="4" />
+            <Precinct name="WHITE OAK" totalVoters="265" ballotsCast="159" voterTurnout="60.00" percentReporting="4" />
+            <Precinct name="WOODARD" totalVoters="140" ballotsCast="85" voterTurnout="60.71" percentReporting="4" />
+            <Precinct name="DUTCHMANS CREEK" totalVoters="1345" ballotsCast="760" voterTurnout="56.51" percentReporting="4" />
+            <Precinct name="Absentee" totalVoters="0" ballotsCast="3027" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Failsafe" totalVoters="0" ballotsCast="59" voterTurnout="0.00" percentReporting="32" />
+            <Precinct name="Provisional" totalVoters="0" ballotsCast="2" voterTurnout="0.00" percentReporting="32" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="0103" text="STRAIGHT PARTY" voteFor="1" isQuestion="false" precinctsReporting="22" precinctsReported="22">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BLACKSTOCK" votes="0" />
+            <Precinct name="BLAIRS" votes="0" />
+            <Precinct name="CENTERVILLE" votes="0" />
+            <Precinct name="FEASTERVILLE" votes="0" />
+            <Precinct name="GREENBRIER" votes="0" />
+            <Precinct name="GLADDE3N GROVE" votes="0" />
+            <Precinct name="JENKINSVILLE" votes="0" />
+            <Precinct name="HOREB-GLENN" votes="0" />
+            <Precinct name="HICKORY RIDGE" votes="0" />
+            <Precinct name="LEBANON" votes="0" />
+            <Precinct name="MITFORD" votes="0" />
+            <Precinct name="MONTICELLO" votes="0" />
+            <Precinct name="NEW HOPE" votes="0" />
+            <Precinct name="RIDGEWAY" votes="0" />
+            <Precinct name="SIMPSON" votes="0" />
+            <Precinct name="SOUTH WINNSBORO" votes="0" />
+            <Precinct name="WINNSBORO MILLS" votes="0" />
+            <Precinct name="WINNSBORO NO. 1" votes="0" />
+            <Precinct name="WINNSBORO NO. 2" votes="0" />
+            <Precinct name="WHITE OAK" votes="0" />
+            <Precinct name="WOODARD" votes="0" />
+            <Precinct name="DUTCHMANS CREEK" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="5416">
+            <Precinct name="BLACKSTOCK" votes="13" />
+            <Precinct name="BLAIRS" votes="85" />
+            <Precinct name="CENTERVILLE" votes="101" />
+            <Precinct name="FEASTERVILLE" votes="95" />
+            <Precinct name="GREENBRIER" votes="436" />
+            <Precinct name="GLADDE3N GROVE" votes="29" />
+            <Precinct name="JENKINSVILLE" votes="105" />
+            <Precinct name="HOREB-GLENN" votes="68" />
+            <Precinct name="HICKORY RIDGE" votes="233" />
+            <Precinct name="LEBANON" votes="242" />
+            <Precinct name="MITFORD" votes="207" />
+            <Precinct name="MONTICELLO" votes="150" />
+            <Precinct name="NEW HOPE" votes="24" />
+            <Precinct name="RIDGEWAY" votes="408" />
+            <Precinct name="SIMPSON" votes="243" />
+            <Precinct name="SOUTH WINNSBORO" votes="135" />
+            <Precinct name="WINNSBORO MILLS" votes="207" />
+            <Precinct name="WINNSBORO NO. 1" votes="309" />
+            <Precinct name="WINNSBORO NO. 2" votes="298" />
+            <Precinct name="WHITE OAK" votes="88" />
+            <Precinct name="WOODARD" votes="42" />
+            <Precinct name="DUTCHMANS CREEK" votes="470" />
+            <Precinct name="Absentee" votes="1411" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="16" />
+            <Precinct name="Provisional" votes="1" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Democratic" party="DEM" totalVotes="4531">
+            <VoteType name="Election Day" votes="4531">
+                <Precinct name="BLACKSTOCK" votes="22" />
+                <Precinct name="BLAIRS" votes="194" />
+                <Precinct name="CENTERVILLE" votes="36" />
+                <Precinct name="FEASTERVILLE" votes="80" />
+                <Precinct name="GREENBRIER" votes="369" />
+                <Precinct name="GLADDE3N GROVE" votes="8" />
+                <Precinct name="JENKINSVILLE" votes="229" />
+                <Precinct name="HOREB-GLENN" votes="106" />
+                <Precinct name="HICKORY RIDGE" votes="215" />
+                <Precinct name="LEBANON" votes="100" />
+                <Precinct name="MITFORD" votes="155" />
+                <Precinct name="MONTICELLO" votes="151" />
+                <Precinct name="NEW HOPE" votes="9" />
+                <Precinct name="RIDGEWAY" votes="449" />
+                <Precinct name="SIMPSON" votes="183" />
+                <Precinct name="SOUTH WINNSBORO" votes="188" />
+                <Precinct name="WINNSBORO MILLS" votes="113" />
+                <Precinct name="WINNSBORO NO. 1" votes="247" />
+                <Precinct name="WINNSBORO NO. 2" votes="167" />
+                <Precinct name="WHITE OAK" votes="57" />
+                <Precinct name="WOODARD" votes="38" />
+                <Precinct name="DUTCHMANS CREEK" votes="77" />
+                <Precinct name="Absentee" votes="1298" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="39" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Working Families" party="WFM" totalVotes="67">
+            <VoteType name="Election Day" votes="67">
+                <Precinct name="BLACKSTOCK" votes="0" />
+                <Precinct name="BLAIRS" votes="1" />
+                <Precinct name="CENTERVILLE" votes="0" />
+                <Precinct name="FEASTERVILLE" votes="0" />
+                <Precinct name="GREENBRIER" votes="8" />
+                <Precinct name="GLADDE3N GROVE" votes="0" />
+                <Precinct name="JENKINSVILLE" votes="1" />
+                <Precinct name="HOREB-GLENN" votes="5" />
+                <Precinct name="HICKORY RIDGE" votes="0" />
+                <Precinct name="LEBANON" votes="5" />
+                <Precinct name="MITFORD" votes="1" />
+                <Precinct name="MONTICELLO" votes="4" />
+                <Precinct name="NEW HOPE" votes="0" />
+                <Precinct name="RIDGEWAY" votes="5" />
+                <Precinct name="SIMPSON" votes="5" />
+                <Precinct name="SOUTH WINNSBORO" votes="6" />
+                <Precinct name="WINNSBORO MILLS" votes="3" />
+                <Precinct name="WINNSBORO NO. 1" votes="7" />
+                <Precinct name="WINNSBORO NO. 2" votes="7" />
+                <Precinct name="WHITE OAK" votes="1" />
+                <Precinct name="WOODARD" votes="0" />
+                <Precinct name="DUTCHMANS CREEK" votes="1" />
+                <Precinct name="Absentee" votes="7" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Constitution" party="CON" totalVotes="10">
+            <VoteType name="Election Day" votes="10">
+                <Precinct name="BLACKSTOCK" votes="0" />
+                <Precinct name="BLAIRS" votes="0" />
+                <Precinct name="CENTERVILLE" votes="0" />
+                <Precinct name="FEASTERVILLE" votes="0" />
+                <Precinct name="GREENBRIER" votes="2" />
+                <Precinct name="GLADDE3N GROVE" votes="0" />
+                <Precinct name="JENKINSVILLE" votes="0" />
+                <Precinct name="HOREB-GLENN" votes="1" />
+                <Precinct name="HICKORY RIDGE" votes="0" />
+                <Precinct name="LEBANON" votes="0" />
+                <Precinct name="MITFORD" votes="0" />
+                <Precinct name="MONTICELLO" votes="0" />
+                <Precinct name="NEW HOPE" votes="0" />
+                <Precinct name="RIDGEWAY" votes="3" />
+                <Precinct name="SIMPSON" votes="2" />
+                <Precinct name="SOUTH WINNSBORO" votes="0" />
+                <Precinct name="WINNSBORO MILLS" votes="0" />
+                <Precinct name="WINNSBORO NO. 1" votes="0" />
+                <Precinct name="WINNSBORO NO. 2" votes="0" />
+                <Precinct name="WHITE OAK" votes="1" />
+                <Precinct name="WOODARD" votes="0" />
+                <Precinct name="DUTCHMANS CREEK" votes="0" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Independence" party="IND" totalVotes="52">
+            <VoteType name="Election Day" votes="52">
+                <Precinct name="BLACKSTOCK" votes="0" />
+                <Precinct name="BLAIRS" votes="0" />
+                <Precinct name="CENTERVILLE" votes="0" />
+                <Precinct name="FEASTERVILLE" votes="0" />
+                <Precinct name="GREENBRIER" votes="7" />
+                <Precinct name="GLADDE3N GROVE" votes="0" />
+                <Precinct name="JENKINSVILLE" votes="2" />
+                <Precinct name="HOREB-GLENN" votes="2" />
+                <Precinct name="HICKORY RIDGE" votes="3" />
+                <Precinct name="LEBANON" votes="0" />
+                <Precinct name="MITFORD" votes="2" />
+                <Precinct name="MONTICELLO" votes="1" />
+                <Precinct name="NEW HOPE" votes="1" />
+                <Precinct name="RIDGEWAY" votes="7" />
+                <Precinct name="SIMPSON" votes="1" />
+                <Precinct name="SOUTH WINNSBORO" votes="3" />
+                <Precinct name="WINNSBORO MILLS" votes="1" />
+                <Precinct name="WINNSBORO NO. 1" votes="4" />
+                <Precinct name="WINNSBORO NO. 2" votes="3" />
+                <Precinct name="WHITE OAK" votes="0" />
+                <Precinct name="WOODARD" votes="0" />
+                <Precinct name="DUTCHMANS CREEK" votes="2" />
+                <Precinct name="Absentee" votes="13" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Green" party="GRN" totalVotes="39">
+            <VoteType name="Election Day" votes="39">
+                <Precinct name="BLACKSTOCK" votes="0" />
+                <Precinct name="BLAIRS" votes="0" />
+                <Precinct name="CENTERVILLE" votes="0" />
+                <Precinct name="FEASTERVILLE" votes="0" />
+                <Precinct name="GREENBRIER" votes="2" />
+                <Precinct name="GLADDE3N GROVE" votes="1" />
+                <Precinct name="JENKINSVILLE" votes="0" />
+                <Precinct name="HOREB-GLENN" votes="0" />
+                <Precinct name="HICKORY RIDGE" votes="0" />
+                <Precinct name="LEBANON" votes="5" />
+                <Precinct name="MITFORD" votes="5" />
+                <Precinct name="MONTICELLO" votes="1" />
+                <Precinct name="NEW HOPE" votes="0" />
+                <Precinct name="RIDGEWAY" votes="1" />
+                <Precinct name="SIMPSON" votes="2" />
+                <Precinct name="SOUTH WINNSBORO" votes="0" />
+                <Precinct name="WINNSBORO MILLS" votes="4" />
+                <Precinct name="WINNSBORO NO. 1" votes="0" />
+                <Precinct name="WINNSBORO NO. 2" votes="4" />
+                <Precinct name="WHITE OAK" votes="1" />
+                <Precinct name="WOODARD" votes="0" />
+                <Precinct name="DUTCHMANS CREEK" votes="6" />
+                <Precinct name="Absentee" votes="7" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Republican" party="REP" totalVotes="1241">
+            <VoteType name="Election Day" votes="1241">
+                <Precinct name="BLACKSTOCK" votes="4" />
+                <Precinct name="BLAIRS" votes="12" />
+                <Precinct name="CENTERVILLE" votes="63" />
+                <Precinct name="FEASTERVILLE" votes="12" />
+                <Precinct name="GREENBRIER" votes="80" />
+                <Precinct name="GLADDE3N GROVE" votes="8" />
+                <Precinct name="JENKINSVILLE" votes="22" />
+                <Precinct name="HOREB-GLENN" votes="10" />
+                <Precinct name="HICKORY RIDGE" votes="34" />
+                <Precinct name="LEBANON" votes="29" />
+                <Precinct name="MITFORD" votes="86" />
+                <Precinct name="MONTICELLO" votes="22" />
+                <Precinct name="NEW HOPE" votes="6" />
+                <Precinct name="RIDGEWAY" votes="135" />
+                <Precinct name="SIMPSON" votes="72" />
+                <Precinct name="SOUTH WINNSBORO" votes="13" />
+                <Precinct name="WINNSBORO MILLS" votes="41" />
+                <Precinct name="WINNSBORO NO. 1" votes="40" />
+                <Precinct name="WINNSBORO NO. 2" votes="49" />
+                <Precinct name="WHITE OAK" votes="11" />
+                <Precinct name="WOODARD" votes="3" />
+                <Precinct name="DUTCHMANS CREEK" votes="201" />
+                <Precinct name="Absentee" votes="284" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="4" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="American" party="AMR" totalVotes="32">
+            <VoteType name="Election Day" votes="32">
+                <Precinct name="BLACKSTOCK" votes="0" />
+                <Precinct name="BLAIRS" votes="1" />
+                <Precinct name="CENTERVILLE" votes="0" />
+                <Precinct name="FEASTERVILLE" votes="1" />
+                <Precinct name="GREENBRIER" votes="3" />
+                <Precinct name="GLADDE3N GROVE" votes="0" />
+                <Precinct name="JENKINSVILLE" votes="1" />
+                <Precinct name="HOREB-GLENN" votes="1" />
+                <Precinct name="HICKORY RIDGE" votes="1" />
+                <Precinct name="LEBANON" votes="1" />
+                <Precinct name="MITFORD" votes="1" />
+                <Precinct name="MONTICELLO" votes="2" />
+                <Precinct name="NEW HOPE" votes="0" />
+                <Precinct name="RIDGEWAY" votes="5" />
+                <Precinct name="SIMPSON" votes="1" />
+                <Precinct name="SOUTH WINNSBORO" votes="0" />
+                <Precinct name="WINNSBORO MILLS" votes="1" />
+                <Precinct name="WINNSBORO NO. 1" votes="6" />
+                <Precinct name="WINNSBORO NO. 2" votes="1" />
+                <Precinct name="WHITE OAK" votes="0" />
+                <Precinct name="WOODARD" votes="2" />
+                <Precinct name="DUTCHMANS CREEK" votes="1" />
+                <Precinct name="Absentee" votes="3" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="008" text="Libertarian" party="LIB" totalVotes="13">
+            <VoteType name="Election Day" votes="13">
+                <Precinct name="BLACKSTOCK" votes="0" />
+                <Precinct name="BLAIRS" votes="0" />
+                <Precinct name="CENTERVILLE" votes="0" />
+                <Precinct name="FEASTERVILLE" votes="0" />
+                <Precinct name="GREENBRIER" votes="0" />
+                <Precinct name="GLADDE3N GROVE" votes="0" />
+                <Precinct name="JENKINSVILLE" votes="1" />
+                <Precinct name="HOREB-GLENN" votes="0" />
+                <Precinct name="HICKORY RIDGE" votes="0" />
+                <Precinct name="LEBANON" votes="0" />
+                <Precinct name="MITFORD" votes="1" />
+                <Precinct name="MONTICELLO" votes="2" />
+                <Precinct name="NEW HOPE" votes="0" />
+                <Precinct name="RIDGEWAY" votes="0" />
+                <Precinct name="SIMPSON" votes="1" />
+                <Precinct name="SOUTH WINNSBORO" votes="0" />
+                <Precinct name="WINNSBORO MILLS" votes="0" />
+                <Precinct name="WINNSBORO NO. 1" votes="2" />
+                <Precinct name="WINNSBORO NO. 2" votes="1" />
+                <Precinct name="WHITE OAK" votes="0" />
+                <Precinct name="WOODARD" votes="0" />
+                <Precinct name="DUTCHMANS CREEK" votes="2" />
+                <Precinct name="Absentee" votes="3" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0104" text="President and Vice President" voteFor="1" isQuestion="false" precinctsReporting="22" precinctsReported="22">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BLACKSTOCK" votes="0" />
+            <Precinct name="BLAIRS" votes="0" />
+            <Precinct name="CENTERVILLE" votes="0" />
+            <Precinct name="FEASTERVILLE" votes="0" />
+            <Precinct name="GREENBRIER" votes="0" />
+            <Precinct name="GLADDE3N GROVE" votes="0" />
+            <Precinct name="JENKINSVILLE" votes="0" />
+            <Precinct name="HOREB-GLENN" votes="0" />
+            <Precinct name="HICKORY RIDGE" votes="0" />
+            <Precinct name="LEBANON" votes="0" />
+            <Precinct name="MITFORD" votes="0" />
+            <Precinct name="MONTICELLO" votes="0" />
+            <Precinct name="NEW HOPE" votes="0" />
+            <Precinct name="RIDGEWAY" votes="0" />
+            <Precinct name="SIMPSON" votes="0" />
+            <Precinct name="SOUTH WINNSBORO" votes="0" />
+            <Precinct name="WINNSBORO MILLS" votes="0" />
+            <Precinct name="WINNSBORO NO. 1" votes="0" />
+            <Precinct name="WINNSBORO NO. 2" votes="0" />
+            <Precinct name="WHITE OAK" votes="0" />
+            <Precinct name="WOODARD" votes="0" />
+            <Precinct name="DUTCHMANS CREEK" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="134">
+            <Precinct name="BLACKSTOCK" votes="0" />
+            <Precinct name="BLAIRS" votes="1" />
+            <Precinct name="CENTERVILLE" votes="2" />
+            <Precinct name="FEASTERVILLE" votes="0" />
+            <Precinct name="GREENBRIER" votes="13" />
+            <Precinct name="GLADDE3N GROVE" votes="1" />
+            <Precinct name="JENKINSVILLE" votes="6" />
+            <Precinct name="HOREB-GLENN" votes="2" />
+            <Precinct name="HICKORY RIDGE" votes="3" />
+            <Precinct name="LEBANON" votes="5" />
+            <Precinct name="MITFORD" votes="6" />
+            <Precinct name="MONTICELLO" votes="4" />
+            <Precinct name="NEW HOPE" votes="0" />
+            <Precinct name="RIDGEWAY" votes="12" />
+            <Precinct name="SIMPSON" votes="8" />
+            <Precinct name="SOUTH WINNSBORO" votes="6" />
+            <Precinct name="WINNSBORO MILLS" votes="7" />
+            <Precinct name="WINNSBORO NO. 1" votes="5" />
+            <Precinct name="WINNSBORO NO. 2" votes="3" />
+            <Precinct name="WHITE OAK" votes="3" />
+            <Precinct name="WOODARD" votes="2" />
+            <Precinct name="DUTCHMANS CREEK" votes="8" />
+            <Precinct name="Absentee" votes="36" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Hillary Rodham Clinton / Timothy Michael Kaine" party="DEM" totalVotes="6945">
+            <VoteType name="Election Day" votes="6945">
+                <Precinct name="BLACKSTOCK" votes="31" />
+                <Precinct name="BLAIRS" votes="250" />
+                <Precinct name="CENTERVILLE" votes="56" />
+                <Precinct name="FEASTERVILLE" votes="126" />
+                <Precinct name="GREENBRIER" votes="608" />
+                <Precinct name="GLADDE3N GROVE" votes="12" />
+                <Precinct name="JENKINSVILLE" votes="294" />
+                <Precinct name="HOREB-GLENN" votes="157" />
+                <Precinct name="HICKORY RIDGE" votes="311" />
+                <Precinct name="LEBANON" votes="187" />
+                <Precinct name="MITFORD" votes="229" />
+                <Precinct name="MONTICELLO" votes="244" />
+                <Precinct name="NEW HOPE" votes="12" />
+                <Precinct name="RIDGEWAY" votes="649" />
+                <Precinct name="SIMPSON" votes="268" />
+                <Precinct name="SOUTH WINNSBORO" votes="272" />
+                <Precinct name="WINNSBORO MILLS" votes="191" />
+                <Precinct name="WINNSBORO NO. 1" votes="446" />
+                <Precinct name="WINNSBORO NO. 2" votes="279" />
+                <Precinct name="WHITE OAK" votes="105" />
+                <Precinct name="WOODARD" votes="67" />
+                <Precinct name="DUTCHMANS CREEK" votes="179" />
+                <Precinct name="Absentee" votes="1923" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="48" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Darrell Castle / Scott Bradley" party="CON" totalVotes="32">
+            <VoteType name="Election Day" votes="32">
+                <Precinct name="BLACKSTOCK" votes="0" />
+                <Precinct name="BLAIRS" votes="1" />
+                <Precinct name="CENTERVILLE" votes="0" />
+                <Precinct name="FEASTERVILLE" votes="0" />
+                <Precinct name="GREENBRIER" votes="1" />
+                <Precinct name="GLADDE3N GROVE" votes="1" />
+                <Precinct name="JENKINSVILLE" votes="2" />
+                <Precinct name="HOREB-GLENN" votes="0" />
+                <Precinct name="HICKORY RIDGE" votes="0" />
+                <Precinct name="LEBANON" votes="3" />
+                <Precinct name="MITFORD" votes="0" />
+                <Precinct name="MONTICELLO" votes="0" />
+                <Precinct name="NEW HOPE" votes="0" />
+                <Precinct name="RIDGEWAY" votes="3" />
+                <Precinct name="SIMPSON" votes="0" />
+                <Precinct name="SOUTH WINNSBORO" votes="0" />
+                <Precinct name="WINNSBORO MILLS" votes="5" />
+                <Precinct name="WINNSBORO NO. 1" votes="4" />
+                <Precinct name="WINNSBORO NO. 2" votes="1" />
+                <Precinct name="WHITE OAK" votes="3" />
+                <Precinct name="WOODARD" votes="0" />
+                <Precinct name="DUTCHMANS CREEK" votes="2" />
+                <Precinct name="Absentee" votes="6" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Evan McMullin / Nathan Johnson" party="IND" totalVotes="73">
+            <VoteType name="Election Day" votes="73">
+                <Precinct name="BLACKSTOCK" votes="0" />
+                <Precinct name="BLAIRS" votes="1" />
+                <Precinct name="CENTERVILLE" votes="2" />
+                <Precinct name="FEASTERVILLE" votes="0" />
+                <Precinct name="GREENBRIER" votes="9" />
+                <Precinct name="GLADDE3N GROVE" votes="0" />
+                <Precinct name="JENKINSVILLE" votes="3" />
+                <Precinct name="HOREB-GLENN" votes="1" />
+                <Precinct name="HICKORY RIDGE" votes="7" />
+                <Precinct name="LEBANON" votes="0" />
+                <Precinct name="MITFORD" votes="2" />
+                <Precinct name="MONTICELLO" votes="4" />
+                <Precinct name="NEW HOPE" votes="1" />
+                <Precinct name="RIDGEWAY" votes="7" />
+                <Precinct name="SIMPSON" votes="5" />
+                <Precinct name="SOUTH WINNSBORO" votes="2" />
+                <Precinct name="WINNSBORO MILLS" votes="3" />
+                <Precinct name="WINNSBORO NO. 1" votes="3" />
+                <Precinct name="WINNSBORO NO. 2" votes="4" />
+                <Precinct name="WHITE OAK" votes="3" />
+                <Precinct name="WOODARD" votes="0" />
+                <Precinct name="DUTCHMANS CREEK" votes="3" />
+                <Precinct name="Absentee" votes="12" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Jill Stein / Ajamu Baraka" party="GRN" totalVotes="49">
+            <VoteType name="Election Day" votes="49">
+                <Precinct name="BLACKSTOCK" votes="0" />
+                <Precinct name="BLAIRS" votes="1" />
+                <Precinct name="CENTERVILLE" votes="1" />
+                <Precinct name="FEASTERVILLE" votes="0" />
+                <Precinct name="GREENBRIER" votes="5" />
+                <Precinct name="GLADDE3N GROVE" votes="1" />
+                <Precinct name="JENKINSVILLE" votes="0" />
+                <Precinct name="HOREB-GLENN" votes="0" />
+                <Precinct name="HICKORY RIDGE" votes="3" />
+                <Precinct name="LEBANON" votes="1" />
+                <Precinct name="MITFORD" votes="0" />
+                <Precinct name="MONTICELLO" votes="0" />
+                <Precinct name="NEW HOPE" votes="0" />
+                <Precinct name="RIDGEWAY" votes="2" />
+                <Precinct name="SIMPSON" votes="5" />
+                <Precinct name="SOUTH WINNSBORO" votes="2" />
+                <Precinct name="WINNSBORO MILLS" votes="6" />
+                <Precinct name="WINNSBORO NO. 1" votes="4" />
+                <Precinct name="WINNSBORO NO. 2" votes="3" />
+                <Precinct name="WHITE OAK" votes="0" />
+                <Precinct name="WOODARD" votes="0" />
+                <Precinct name="DUTCHMANS CREEK" votes="4" />
+                <Precinct name="Absentee" votes="9" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Donald J Trump / Michael R Pence" party="REP" totalVotes="4027">
+            <VoteType name="Election Day" votes="4027">
+                <Precinct name="BLACKSTOCK" votes="8" />
+                <Precinct name="BLAIRS" votes="37" />
+                <Precinct name="CENTERVILLE" votes="137" />
+                <Precinct name="FEASTERVILLE" votes="60" />
+                <Precinct name="GREENBRIER" votes="258" />
+                <Precinct name="GLADDE3N GROVE" votes="29" />
+                <Precinct name="JENKINSVILLE" votes="54" />
+                <Precinct name="HOREB-GLENN" votes="32" />
+                <Precinct name="HICKORY RIDGE" votes="157" />
+                <Precinct name="LEBANON" votes="186" />
+                <Precinct name="MITFORD" votes="219" />
+                <Precinct name="MONTICELLO" votes="74" />
+                <Precinct name="NEW HOPE" votes="27" />
+                <Precinct name="RIDGEWAY" votes="328" />
+                <Precinct name="SIMPSON" votes="215" />
+                <Precinct name="SOUTH WINNSBORO" votes="61" />
+                <Precinct name="WINNSBORO MILLS" votes="149" />
+                <Precinct name="WINNSBORO NO. 1" votes="140" />
+                <Precinct name="WINNSBORO NO. 2" votes="233" />
+                <Precinct name="WHITE OAK" votes="44" />
+                <Precinct name="WOODARD" votes="16" />
+                <Precinct name="DUTCHMANS CREEK" votes="543" />
+                <Precinct name="Absentee" votes="1013" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="7" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Peter Skewes / Michael Lacy" party="AMR" totalVotes="21">
+            <VoteType name="Election Day" votes="21">
+                <Precinct name="BLACKSTOCK" votes="0" />
+                <Precinct name="BLAIRS" votes="0" />
+                <Precinct name="CENTERVILLE" votes="0" />
+                <Precinct name="FEASTERVILLE" votes="1" />
+                <Precinct name="GREENBRIER" votes="1" />
+                <Precinct name="GLADDE3N GROVE" votes="2" />
+                <Precinct name="JENKINSVILLE" votes="0" />
+                <Precinct name="HOREB-GLENN" votes="0" />
+                <Precinct name="HICKORY RIDGE" votes="0" />
+                <Precinct name="LEBANON" votes="0" />
+                <Precinct name="MITFORD" votes="0" />
+                <Precinct name="MONTICELLO" votes="1" />
+                <Precinct name="NEW HOPE" votes="0" />
+                <Precinct name="RIDGEWAY" votes="2" />
+                <Precinct name="SIMPSON" votes="0" />
+                <Precinct name="SOUTH WINNSBORO" votes="1" />
+                <Precinct name="WINNSBORO MILLS" votes="2" />
+                <Precinct name="WINNSBORO NO. 1" votes="2" />
+                <Precinct name="WINNSBORO NO. 2" votes="2" />
+                <Precinct name="WHITE OAK" votes="0" />
+                <Precinct name="WOODARD" votes="0" />
+                <Precinct name="DUTCHMANS CREEK" votes="3" />
+                <Precinct name="Absentee" votes="4" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="Gary Johnson / Bill Weld" party="LIB" totalVotes="120">
+            <VoteType name="Election Day" votes="120">
+                <Precinct name="BLACKSTOCK" votes="0" />
+                <Precinct name="BLAIRS" votes="2" />
+                <Precinct name="CENTERVILLE" votes="2" />
+                <Precinct name="FEASTERVILLE" votes="1" />
+                <Precinct name="GREENBRIER" votes="12" />
+                <Precinct name="GLADDE3N GROVE" votes="0" />
+                <Precinct name="JENKINSVILLE" votes="2" />
+                <Precinct name="HOREB-GLENN" votes="1" />
+                <Precinct name="HICKORY RIDGE" votes="5" />
+                <Precinct name="LEBANON" votes="0" />
+                <Precinct name="MITFORD" votes="2" />
+                <Precinct name="MONTICELLO" votes="6" />
+                <Precinct name="NEW HOPE" votes="0" />
+                <Precinct name="RIDGEWAY" votes="10" />
+                <Precinct name="SIMPSON" votes="9" />
+                <Precinct name="SOUTH WINNSBORO" votes="1" />
+                <Precinct name="WINNSBORO MILLS" votes="7" />
+                <Precinct name="WINNSBORO NO. 1" votes="11" />
+                <Precinct name="WINNSBORO NO. 2" votes="5" />
+                <Precinct name="WHITE OAK" votes="1" />
+                <Precinct name="WOODARD" votes="0" />
+                <Precinct name="DUTCHMANS CREEK" votes="18" />
+                <Precinct name="Absentee" votes="24" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0105" text="U.S. Senate" voteFor="1" isQuestion="false" precinctsReporting="22" precinctsReported="22">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BLACKSTOCK" votes="0" />
+            <Precinct name="BLAIRS" votes="0" />
+            <Precinct name="CENTERVILLE" votes="0" />
+            <Precinct name="FEASTERVILLE" votes="0" />
+            <Precinct name="GREENBRIER" votes="0" />
+            <Precinct name="GLADDE3N GROVE" votes="0" />
+            <Precinct name="JENKINSVILLE" votes="0" />
+            <Precinct name="HOREB-GLENN" votes="0" />
+            <Precinct name="HICKORY RIDGE" votes="0" />
+            <Precinct name="LEBANON" votes="0" />
+            <Precinct name="MITFORD" votes="0" />
+            <Precinct name="MONTICELLO" votes="0" />
+            <Precinct name="NEW HOPE" votes="0" />
+            <Precinct name="RIDGEWAY" votes="0" />
+            <Precinct name="SIMPSON" votes="0" />
+            <Precinct name="SOUTH WINNSBORO" votes="0" />
+            <Precinct name="WINNSBORO MILLS" votes="0" />
+            <Precinct name="WINNSBORO NO. 1" votes="0" />
+            <Precinct name="WINNSBORO NO. 2" votes="0" />
+            <Precinct name="WHITE OAK" votes="0" />
+            <Precinct name="WOODARD" votes="0" />
+            <Precinct name="DUTCHMANS CREEK" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="569">
+            <Precinct name="BLACKSTOCK" votes="4" />
+            <Precinct name="BLAIRS" votes="12" />
+            <Precinct name="CENTERVILLE" votes="10" />
+            <Precinct name="FEASTERVILLE" votes="8" />
+            <Precinct name="GREENBRIER" votes="40" />
+            <Precinct name="GLADDE3N GROVE" votes="4" />
+            <Precinct name="JENKINSVILLE" votes="8" />
+            <Precinct name="HOREB-GLENN" votes="4" />
+            <Precinct name="HICKORY RIDGE" votes="24" />
+            <Precinct name="LEBANON" votes="28" />
+            <Precinct name="MITFORD" votes="36" />
+            <Precinct name="MONTICELLO" votes="17" />
+            <Precinct name="NEW HOPE" votes="2" />
+            <Precinct name="RIDGEWAY" votes="38" />
+            <Precinct name="SIMPSON" votes="21" />
+            <Precinct name="SOUTH WINNSBORO" votes="18" />
+            <Precinct name="WINNSBORO MILLS" votes="33" />
+            <Precinct name="WINNSBORO NO. 1" votes="56" />
+            <Precinct name="WINNSBORO NO. 2" votes="32" />
+            <Precinct name="WHITE OAK" votes="15" />
+            <Precinct name="WOODARD" votes="3" />
+            <Precinct name="DUTCHMANS CREEK" votes="26" />
+            <Precinct name="Absentee" votes="128" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="2" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Thomas Dixon" party="DEM" totalVotes="6068">
+            <VoteType name="Election Day" votes="6068">
+                <Precinct name="BLACKSTOCK" votes="29" />
+                <Precinct name="BLAIRS" votes="235" />
+                <Precinct name="CENTERVILLE" votes="46" />
+                <Precinct name="FEASTERVILLE" votes="112" />
+                <Precinct name="GREENBRIER" votes="538" />
+                <Precinct name="GLADDE3N GROVE" votes="17" />
+                <Precinct name="JENKINSVILLE" votes="271" />
+                <Precinct name="HOREB-GLENN" votes="136" />
+                <Precinct name="HICKORY RIDGE" votes="275" />
+                <Precinct name="LEBANON" votes="156" />
+                <Precinct name="MITFORD" votes="199" />
+                <Precinct name="MONTICELLO" votes="214" />
+                <Precinct name="NEW HOPE" votes="13" />
+                <Precinct name="RIDGEWAY" votes="571" />
+                <Precinct name="SIMPSON" votes="229" />
+                <Precinct name="SOUTH WINNSBORO" votes="235" />
+                <Precinct name="WINNSBORO MILLS" votes="162" />
+                <Precinct name="WINNSBORO NO. 1" votes="366" />
+                <Precinct name="WINNSBORO NO. 2" votes="232" />
+                <Precinct name="WHITE OAK" votes="83" />
+                <Precinct name="WOODARD" votes="62" />
+                <Precinct name="DUTCHMANS CREEK" votes="119" />
+                <Precinct name="Absentee" votes="1724" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="43" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Thomas Dixon" party="WFM" totalVotes="204">
+            <VoteType name="Election Day" votes="204">
+                <Precinct name="BLACKSTOCK" votes="0" />
+                <Precinct name="BLAIRS" votes="3" />
+                <Precinct name="CENTERVILLE" votes="3" />
+                <Precinct name="FEASTERVILLE" votes="6" />
+                <Precinct name="GREENBRIER" votes="15" />
+                <Precinct name="GLADDE3N GROVE" votes="1" />
+                <Precinct name="JENKINSVILLE" votes="5" />
+                <Precinct name="HOREB-GLENN" votes="11" />
+                <Precinct name="HICKORY RIDGE" votes="9" />
+                <Precinct name="LEBANON" votes="9" />
+                <Precinct name="MITFORD" votes="9" />
+                <Precinct name="MONTICELLO" votes="9" />
+                <Precinct name="NEW HOPE" votes="1" />
+                <Precinct name="RIDGEWAY" votes="14" />
+                <Precinct name="SIMPSON" votes="7" />
+                <Precinct name="SOUTH WINNSBORO" votes="16" />
+                <Precinct name="WINNSBORO MILLS" votes="12" />
+                <Precinct name="WINNSBORO NO. 1" votes="12" />
+                <Precinct name="WINNSBORO NO. 2" votes="12" />
+                <Precinct name="WHITE OAK" votes="1" />
+                <Precinct name="WOODARD" votes="1" />
+                <Precinct name="DUTCHMANS CREEK" votes="13" />
+                <Precinct name="Absentee" votes="34" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Bill Bledsoe" party="CON" totalVotes="62">
+            <VoteType name="Election Day" votes="62">
+                <Precinct name="BLACKSTOCK" votes="0" />
+                <Precinct name="BLAIRS" votes="1" />
+                <Precinct name="CENTERVILLE" votes="3" />
+                <Precinct name="FEASTERVILLE" votes="1" />
+                <Precinct name="GREENBRIER" votes="6" />
+                <Precinct name="GLADDE3N GROVE" votes="1" />
+                <Precinct name="JENKINSVILLE" votes="0" />
+                <Precinct name="HOREB-GLENN" votes="3" />
+                <Precinct name="HICKORY RIDGE" votes="4" />
+                <Precinct name="LEBANON" votes="3" />
+                <Precinct name="MITFORD" votes="3" />
+                <Precinct name="MONTICELLO" votes="1" />
+                <Precinct name="NEW HOPE" votes="0" />
+                <Precinct name="RIDGEWAY" votes="8" />
+                <Precinct name="SIMPSON" votes="3" />
+                <Precinct name="SOUTH WINNSBORO" votes="0" />
+                <Precinct name="WINNSBORO MILLS" votes="5" />
+                <Precinct name="WINNSBORO NO. 1" votes="2" />
+                <Precinct name="WINNSBORO NO. 2" votes="3" />
+                <Precinct name="WHITE OAK" votes="1" />
+                <Precinct name="WOODARD" votes="0" />
+                <Precinct name="DUTCHMANS CREEK" votes="6" />
+                <Precinct name="Absentee" votes="8" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Thomas Dixon" party="GRN" totalVotes="70">
+            <VoteType name="Election Day" votes="70">
+                <Precinct name="BLACKSTOCK" votes="0" />
+                <Precinct name="BLAIRS" votes="0" />
+                <Precinct name="CENTERVILLE" votes="1" />
+                <Precinct name="FEASTERVILLE" votes="0" />
+                <Precinct name="GREENBRIER" votes="8" />
+                <Precinct name="GLADDE3N GROVE" votes="1" />
+                <Precinct name="JENKINSVILLE" votes="1" />
+                <Precinct name="HOREB-GLENN" votes="0" />
+                <Precinct name="HICKORY RIDGE" votes="2" />
+                <Precinct name="LEBANON" votes="3" />
+                <Precinct name="MITFORD" votes="5" />
+                <Precinct name="MONTICELLO" votes="3" />
+                <Precinct name="NEW HOPE" votes="0" />
+                <Precinct name="RIDGEWAY" votes="2" />
+                <Precinct name="SIMPSON" votes="3" />
+                <Precinct name="SOUTH WINNSBORO" votes="1" />
+                <Precinct name="WINNSBORO MILLS" votes="5" />
+                <Precinct name="WINNSBORO NO. 1" votes="4" />
+                <Precinct name="WINNSBORO NO. 2" votes="6" />
+                <Precinct name="WHITE OAK" votes="2" />
+                <Precinct name="WOODARD" votes="0" />
+                <Precinct name="DUTCHMANS CREEK" votes="6" />
+                <Precinct name="Absentee" votes="17" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Tim Scott" party="REP" totalVotes="4265">
+            <VoteType name="Election Day" votes="4265">
+                <Precinct name="BLACKSTOCK" votes="6" />
+                <Precinct name="BLAIRS" votes="41" />
+                <Precinct name="CENTERVILLE" votes="133" />
+                <Precinct name="FEASTERVILLE" votes="59" />
+                <Precinct name="GREENBRIER" votes="289" />
+                <Precinct name="GLADDE3N GROVE" votes="22" />
+                <Precinct name="JENKINSVILLE" votes="73" />
+                <Precinct name="HOREB-GLENN" votes="35" />
+                <Precinct name="HICKORY RIDGE" votes="166" />
+                <Precinct name="LEBANON" votes="179" />
+                <Precinct name="MITFORD" votes="197" />
+                <Precinct name="MONTICELLO" votes="84" />
+                <Precinct name="NEW HOPE" votes="24" />
+                <Precinct name="RIDGEWAY" votes="367" />
+                <Precinct name="SIMPSON" votes="239" />
+                <Precinct name="SOUTH WINNSBORO" votes="67" />
+                <Precinct name="WINNSBORO MILLS" votes="147" />
+                <Precinct name="WINNSBORO NO. 1" votes="161" />
+                <Precinct name="WINNSBORO NO. 2" votes="240" />
+                <Precinct name="WHITE OAK" votes="57" />
+                <Precinct name="WOODARD" votes="18" />
+                <Precinct name="DUTCHMANS CREEK" votes="560" />
+                <Precinct name="Absentee" votes="1087" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="13" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="006" text="Rebel Michael Scarborough" party="AMR" totalVotes="69">
+            <VoteType name="Election Day" votes="69">
+                <Precinct name="BLACKSTOCK" votes="0" />
+                <Precinct name="BLAIRS" votes="1" />
+                <Precinct name="CENTERVILLE" votes="1" />
+                <Precinct name="FEASTERVILLE" votes="0" />
+                <Precinct name="GREENBRIER" votes="3" />
+                <Precinct name="GLADDE3N GROVE" votes="0" />
+                <Precinct name="JENKINSVILLE" votes="2" />
+                <Precinct name="HOREB-GLENN" votes="2" />
+                <Precinct name="HICKORY RIDGE" votes="3" />
+                <Precinct name="LEBANON" votes="2" />
+                <Precinct name="MITFORD" votes="4" />
+                <Precinct name="MONTICELLO" votes="2" />
+                <Precinct name="NEW HOPE" votes="0" />
+                <Precinct name="RIDGEWAY" votes="7" />
+                <Precinct name="SIMPSON" votes="3" />
+                <Precinct name="SOUTH WINNSBORO" votes="2" />
+                <Precinct name="WINNSBORO MILLS" votes="5" />
+                <Precinct name="WINNSBORO NO. 1" votes="7" />
+                <Precinct name="WINNSBORO NO. 2" votes="1" />
+                <Precinct name="WHITE OAK" votes="0" />
+                <Precinct name="WOODARD" votes="0" />
+                <Precinct name="DUTCHMANS CREEK" votes="17" />
+                <Precinct name="Absentee" votes="7" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="007" text="Bill Bledsoe" party="LIB" totalVotes="85">
+            <VoteType name="Election Day" votes="85">
+                <Precinct name="BLACKSTOCK" votes="0" />
+                <Precinct name="BLAIRS" votes="0" />
+                <Precinct name="CENTERVILLE" votes="3" />
+                <Precinct name="FEASTERVILLE" votes="1" />
+                <Precinct name="GREENBRIER" votes="8" />
+                <Precinct name="GLADDE3N GROVE" votes="0" />
+                <Precinct name="JENKINSVILLE" votes="1" />
+                <Precinct name="HOREB-GLENN" votes="2" />
+                <Precinct name="HICKORY RIDGE" votes="3" />
+                <Precinct name="LEBANON" votes="2" />
+                <Precinct name="MITFORD" votes="5" />
+                <Precinct name="MONTICELLO" votes="3" />
+                <Precinct name="NEW HOPE" votes="0" />
+                <Precinct name="RIDGEWAY" votes="6" />
+                <Precinct name="SIMPSON" votes="5" />
+                <Precinct name="SOUTH WINNSBORO" votes="5" />
+                <Precinct name="WINNSBORO MILLS" votes="1" />
+                <Precinct name="WINNSBORO NO. 1" votes="5" />
+                <Precinct name="WINNSBORO NO. 2" votes="4" />
+                <Precinct name="WHITE OAK" votes="0" />
+                <Precinct name="WOODARD" votes="1" />
+                <Precinct name="DUTCHMANS CREEK" votes="12" />
+                <Precinct name="Absentee" votes="18" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="008" text="Write-In" party="NON" totalVotes="9">
+            <VoteType name="Election Day" votes="9">
+                <Precinct name="BLACKSTOCK" votes="0" />
+                <Precinct name="BLAIRS" votes="0" />
+                <Precinct name="CENTERVILLE" votes="0" />
+                <Precinct name="FEASTERVILLE" votes="1" />
+                <Precinct name="GREENBRIER" votes="0" />
+                <Precinct name="GLADDE3N GROVE" votes="0" />
+                <Precinct name="JENKINSVILLE" votes="0" />
+                <Precinct name="HOREB-GLENN" votes="0" />
+                <Precinct name="HICKORY RIDGE" votes="0" />
+                <Precinct name="LEBANON" votes="0" />
+                <Precinct name="MITFORD" votes="0" />
+                <Precinct name="MONTICELLO" votes="0" />
+                <Precinct name="NEW HOPE" votes="0" />
+                <Precinct name="RIDGEWAY" votes="0" />
+                <Precinct name="SIMPSON" votes="0" />
+                <Precinct name="SOUTH WINNSBORO" votes="1" />
+                <Precinct name="WINNSBORO MILLS" votes="0" />
+                <Precinct name="WINNSBORO NO. 1" votes="2" />
+                <Precinct name="WINNSBORO NO. 2" votes="0" />
+                <Precinct name="WHITE OAK" votes="0" />
+                <Precinct name="WOODARD" votes="0" />
+                <Precinct name="DUTCHMANS CREEK" votes="1" />
+                <Precinct name="Absentee" votes="4" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0106" text="U.S.  House of Representatives, District  5" voteFor="1" isQuestion="false" precinctsReporting="22" precinctsReported="22">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BLACKSTOCK" votes="0" />
+            <Precinct name="BLAIRS" votes="0" />
+            <Precinct name="CENTERVILLE" votes="0" />
+            <Precinct name="FEASTERVILLE" votes="0" />
+            <Precinct name="GREENBRIER" votes="0" />
+            <Precinct name="GLADDE3N GROVE" votes="0" />
+            <Precinct name="JENKINSVILLE" votes="0" />
+            <Precinct name="HOREB-GLENN" votes="0" />
+            <Precinct name="HICKORY RIDGE" votes="0" />
+            <Precinct name="LEBANON" votes="0" />
+            <Precinct name="MITFORD" votes="0" />
+            <Precinct name="MONTICELLO" votes="0" />
+            <Precinct name="NEW HOPE" votes="0" />
+            <Precinct name="RIDGEWAY" votes="0" />
+            <Precinct name="SIMPSON" votes="0" />
+            <Precinct name="SOUTH WINNSBORO" votes="0" />
+            <Precinct name="WINNSBORO MILLS" votes="0" />
+            <Precinct name="WINNSBORO NO. 1" votes="0" />
+            <Precinct name="WINNSBORO NO. 2" votes="0" />
+            <Precinct name="WHITE OAK" votes="0" />
+            <Precinct name="WOODARD" votes="0" />
+            <Precinct name="DUTCHMANS CREEK" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="609">
+            <Precinct name="BLACKSTOCK" votes="3" />
+            <Precinct name="BLAIRS" votes="15" />
+            <Precinct name="CENTERVILLE" votes="6" />
+            <Precinct name="FEASTERVILLE" votes="7" />
+            <Precinct name="GREENBRIER" votes="39" />
+            <Precinct name="GLADDE3N GROVE" votes="4" />
+            <Precinct name="JENKINSVILLE" votes="8" />
+            <Precinct name="HOREB-GLENN" votes="15" />
+            <Precinct name="HICKORY RIDGE" votes="27" />
+            <Precinct name="LEBANON" votes="29" />
+            <Precinct name="MITFORD" votes="32" />
+            <Precinct name="MONTICELLO" votes="17" />
+            <Precinct name="NEW HOPE" votes="2" />
+            <Precinct name="RIDGEWAY" votes="36" />
+            <Precinct name="SIMPSON" votes="24" />
+            <Precinct name="SOUTH WINNSBORO" votes="18" />
+            <Precinct name="WINNSBORO MILLS" votes="30" />
+            <Precinct name="WINNSBORO NO. 1" votes="61" />
+            <Precinct name="WINNSBORO NO. 2" votes="31" />
+            <Precinct name="WHITE OAK" votes="20" />
+            <Precinct name="WOODARD" votes="5" />
+            <Precinct name="DUTCHMANS CREEK" votes="23" />
+            <Precinct name="Absentee" votes="156" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Fran Person" party="DEM" totalVotes="6704">
+            <VoteType name="Election Day" votes="6704">
+                <Precinct name="BLACKSTOCK" votes="30" />
+                <Precinct name="BLAIRS" votes="240" />
+                <Precinct name="CENTERVILLE" votes="53" />
+                <Precinct name="FEASTERVILLE" votes="124" />
+                <Precinct name="GREENBRIER" votes="601" />
+                <Precinct name="GLADDE3N GROVE" votes="14" />
+                <Precinct name="JENKINSVILLE" votes="294" />
+                <Precinct name="HOREB-GLENN" votes="145" />
+                <Precinct name="HICKORY RIDGE" votes="319" />
+                <Precinct name="LEBANON" votes="185" />
+                <Precinct name="MITFORD" votes="221" />
+                <Precinct name="MONTICELLO" votes="233" />
+                <Precinct name="NEW HOPE" votes="12" />
+                <Precinct name="RIDGEWAY" votes="634" />
+                <Precinct name="SIMPSON" votes="258" />
+                <Precinct name="SOUTH WINNSBORO" votes="261" />
+                <Precinct name="WINNSBORO MILLS" votes="198" />
+                <Precinct name="WINNSBORO NO. 1" votes="398" />
+                <Precinct name="WINNSBORO NO. 2" votes="266" />
+                <Precinct name="WHITE OAK" votes="92" />
+                <Precinct name="WOODARD" votes="63" />
+                <Precinct name="DUTCHMANS CREEK" votes="168" />
+                <Precinct name="Absentee" votes="1843" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="50" />
+                <Precinct name="Provisional" votes="2" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Mick Mulvaney" party="REP" totalVotes="3909">
+            <VoteType name="Election Day" votes="3909">
+                <Precinct name="BLACKSTOCK" votes="6" />
+                <Precinct name="BLAIRS" votes="36" />
+                <Precinct name="CENTERVILLE" votes="133" />
+                <Precinct name="FEASTERVILLE" votes="55" />
+                <Precinct name="GREENBRIER" votes="253" />
+                <Precinct name="GLADDE3N GROVE" votes="28" />
+                <Precinct name="JENKINSVILLE" votes="55" />
+                <Precinct name="HOREB-GLENN" votes="29" />
+                <Precinct name="HICKORY RIDGE" votes="133" />
+                <Precinct name="LEBANON" votes="163" />
+                <Precinct name="MITFORD" votes="196" />
+                <Precinct name="MONTICELLO" votes="78" />
+                <Precinct name="NEW HOPE" votes="26" />
+                <Precinct name="RIDGEWAY" votes="332" />
+                <Precinct name="SIMPSON" votes="222" />
+                <Precinct name="SOUTH WINNSBORO" votes="60" />
+                <Precinct name="WINNSBORO MILLS" votes="136" />
+                <Precinct name="WINNSBORO NO. 1" votes="141" />
+                <Precinct name="WINNSBORO NO. 2" votes="221" />
+                <Precinct name="WHITE OAK" votes="47" />
+                <Precinct name="WOODARD" votes="16" />
+                <Precinct name="DUTCHMANS CREEK" votes="548" />
+                <Precinct name="Absentee" votes="988" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="7" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Rudy Barnes Jr" party="AMR" totalVotes="173">
+            <VoteType name="Election Day" votes="173">
+                <Precinct name="BLACKSTOCK" votes="0" />
+                <Precinct name="BLAIRS" votes="2" />
+                <Precinct name="CENTERVILLE" votes="8" />
+                <Precinct name="FEASTERVILLE" votes="2" />
+                <Precinct name="GREENBRIER" votes="14" />
+                <Precinct name="GLADDE3N GROVE" votes="0" />
+                <Precinct name="JENKINSVILLE" votes="4" />
+                <Precinct name="HOREB-GLENN" votes="4" />
+                <Precinct name="HICKORY RIDGE" votes="7" />
+                <Precinct name="LEBANON" votes="5" />
+                <Precinct name="MITFORD" votes="9" />
+                <Precinct name="MONTICELLO" votes="5" />
+                <Precinct name="NEW HOPE" votes="0" />
+                <Precinct name="RIDGEWAY" votes="11" />
+                <Precinct name="SIMPSON" votes="6" />
+                <Precinct name="SOUTH WINNSBORO" votes="5" />
+                <Precinct name="WINNSBORO MILLS" votes="6" />
+                <Precinct name="WINNSBORO NO. 1" votes="13" />
+                <Precinct name="WINNSBORO NO. 2" votes="11" />
+                <Precinct name="WHITE OAK" votes="0" />
+                <Precinct name="WOODARD" votes="1" />
+                <Precinct name="DUTCHMANS CREEK" votes="21" />
+                <Precinct name="Absentee" votes="38" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Write-In" party="NON" totalVotes="6">
+            <VoteType name="Election Day" votes="6">
+                <Precinct name="BLACKSTOCK" votes="0" />
+                <Precinct name="BLAIRS" votes="0" />
+                <Precinct name="CENTERVILLE" votes="0" />
+                <Precinct name="FEASTERVILLE" votes="0" />
+                <Precinct name="GREENBRIER" votes="0" />
+                <Precinct name="GLADDE3N GROVE" votes="0" />
+                <Precinct name="JENKINSVILLE" votes="0" />
+                <Precinct name="HOREB-GLENN" votes="0" />
+                <Precinct name="HICKORY RIDGE" votes="0" />
+                <Precinct name="LEBANON" votes="0" />
+                <Precinct name="MITFORD" votes="0" />
+                <Precinct name="MONTICELLO" votes="0" />
+                <Precinct name="NEW HOPE" votes="0" />
+                <Precinct name="RIDGEWAY" votes="0" />
+                <Precinct name="SIMPSON" votes="0" />
+                <Precinct name="SOUTH WINNSBORO" votes="1" />
+                <Precinct name="WINNSBORO MILLS" votes="0" />
+                <Precinct name="WINNSBORO NO. 1" votes="2" />
+                <Precinct name="WINNSBORO NO. 2" votes="1" />
+                <Precinct name="WHITE OAK" votes="0" />
+                <Precinct name="WOODARD" votes="0" />
+                <Precinct name="DUTCHMANS CREEK" votes="0" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0107" text="State  Senate, District  17" voteFor="1" isQuestion="false" precinctsReporting="22" precinctsReported="22">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BLACKSTOCK" votes="0" />
+            <Precinct name="BLAIRS" votes="0" />
+            <Precinct name="CENTERVILLE" votes="0" />
+            <Precinct name="FEASTERVILLE" votes="0" />
+            <Precinct name="GREENBRIER" votes="0" />
+            <Precinct name="GLADDE3N GROVE" votes="0" />
+            <Precinct name="JENKINSVILLE" votes="0" />
+            <Precinct name="HOREB-GLENN" votes="0" />
+            <Precinct name="HICKORY RIDGE" votes="0" />
+            <Precinct name="LEBANON" votes="0" />
+            <Precinct name="MITFORD" votes="0" />
+            <Precinct name="MONTICELLO" votes="0" />
+            <Precinct name="NEW HOPE" votes="0" />
+            <Precinct name="RIDGEWAY" votes="0" />
+            <Precinct name="SIMPSON" votes="0" />
+            <Precinct name="SOUTH WINNSBORO" votes="0" />
+            <Precinct name="WINNSBORO MILLS" votes="0" />
+            <Precinct name="WINNSBORO NO. 1" votes="0" />
+            <Precinct name="WINNSBORO NO. 2" votes="0" />
+            <Precinct name="WHITE OAK" votes="0" />
+            <Precinct name="WOODARD" votes="0" />
+            <Precinct name="DUTCHMANS CREEK" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="357">
+            <Precinct name="BLACKSTOCK" votes="3" />
+            <Precinct name="BLAIRS" votes="5" />
+            <Precinct name="CENTERVILLE" votes="5" />
+            <Precinct name="FEASTERVILLE" votes="0" />
+            <Precinct name="GREENBRIER" votes="26" />
+            <Precinct name="GLADDE3N GROVE" votes="2" />
+            <Precinct name="JENKINSVILLE" votes="8" />
+            <Precinct name="HOREB-GLENN" votes="5" />
+            <Precinct name="HICKORY RIDGE" votes="6" />
+            <Precinct name="LEBANON" votes="20" />
+            <Precinct name="MITFORD" votes="18" />
+            <Precinct name="MONTICELLO" votes="13" />
+            <Precinct name="NEW HOPE" votes="0" />
+            <Precinct name="RIDGEWAY" votes="29" />
+            <Precinct name="SIMPSON" votes="19" />
+            <Precinct name="SOUTH WINNSBORO" votes="11" />
+            <Precinct name="WINNSBORO MILLS" votes="22" />
+            <Precinct name="WINNSBORO NO. 1" votes="29" />
+            <Precinct name="WINNSBORO NO. 2" votes="17" />
+            <Precinct name="WHITE OAK" votes="9" />
+            <Precinct name="WOODARD" votes="2" />
+            <Precinct name="DUTCHMANS CREEK" votes="21" />
+            <Precinct name="Absentee" votes="87" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Mike Fanning" party="DEM" totalVotes="6861">
+            <VoteType name="Election Day" votes="6861">
+                <Precinct name="BLACKSTOCK" votes="30" />
+                <Precinct name="BLAIRS" votes="251" />
+                <Precinct name="CENTERVILLE" votes="58" />
+                <Precinct name="FEASTERVILLE" votes="132" />
+                <Precinct name="GREENBRIER" votes="617" />
+                <Precinct name="GLADDE3N GROVE" votes="17" />
+                <Precinct name="JENKINSVILLE" votes="293" />
+                <Precinct name="HOREB-GLENN" votes="157" />
+                <Precinct name="HICKORY RIDGE" votes="306" />
+                <Precinct name="LEBANON" votes="191" />
+                <Precinct name="MITFORD" votes="244" />
+                <Precinct name="MONTICELLO" votes="241" />
+                <Precinct name="NEW HOPE" votes="14" />
+                <Precinct name="RIDGEWAY" votes="624" />
+                <Precinct name="SIMPSON" votes="261" />
+                <Precinct name="SOUTH WINNSBORO" votes="270" />
+                <Precinct name="WINNSBORO MILLS" votes="200" />
+                <Precinct name="WINNSBORO NO. 1" votes="422" />
+                <Precinct name="WINNSBORO NO. 2" votes="278" />
+                <Precinct name="WHITE OAK" votes="99" />
+                <Precinct name="WOODARD" votes="66" />
+                <Precinct name="DUTCHMANS CREEK" votes="159" />
+                <Precinct name="Absentee" votes="1880" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="49" />
+                <Precinct name="Provisional" votes="2" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Mark Palmer" party="REP" totalVotes="4163">
+            <VoteType name="Election Day" votes="4163">
+                <Precinct name="BLACKSTOCK" votes="6" />
+                <Precinct name="BLAIRS" votes="37" />
+                <Precinct name="CENTERVILLE" votes="137" />
+                <Precinct name="FEASTERVILLE" votes="56" />
+                <Precinct name="GREENBRIER" votes="263" />
+                <Precinct name="GLADDE3N GROVE" votes="27" />
+                <Precinct name="JENKINSVILLE" votes="60" />
+                <Precinct name="HOREB-GLENN" votes="31" />
+                <Precinct name="HICKORY RIDGE" votes="172" />
+                <Precinct name="LEBANON" votes="171" />
+                <Precinct name="MITFORD" votes="196" />
+                <Precinct name="MONTICELLO" votes="79" />
+                <Precinct name="NEW HOPE" votes="26" />
+                <Precinct name="RIDGEWAY" votes="360" />
+                <Precinct name="SIMPSON" votes="230" />
+                <Precinct name="SOUTH WINNSBORO" votes="63" />
+                <Precinct name="WINNSBORO MILLS" votes="148" />
+                <Precinct name="WINNSBORO NO. 1" votes="162" />
+                <Precinct name="WINNSBORO NO. 2" votes="235" />
+                <Precinct name="WHITE OAK" votes="51" />
+                <Precinct name="WOODARD" votes="17" />
+                <Precinct name="DUTCHMANS CREEK" votes="576" />
+                <Precinct name="Absentee" votes="1050" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="10" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="20">
+            <VoteType name="Election Day" votes="20">
+                <Precinct name="BLACKSTOCK" votes="0" />
+                <Precinct name="BLAIRS" votes="0" />
+                <Precinct name="CENTERVILLE" votes="0" />
+                <Precinct name="FEASTERVILLE" votes="0" />
+                <Precinct name="GREENBRIER" votes="1" />
+                <Precinct name="GLADDE3N GROVE" votes="0" />
+                <Precinct name="JENKINSVILLE" votes="0" />
+                <Precinct name="HOREB-GLENN" votes="0" />
+                <Precinct name="HICKORY RIDGE" votes="2" />
+                <Precinct name="LEBANON" votes="0" />
+                <Precinct name="MITFORD" votes="0" />
+                <Precinct name="MONTICELLO" votes="0" />
+                <Precinct name="NEW HOPE" votes="0" />
+                <Precinct name="RIDGEWAY" votes="0" />
+                <Precinct name="SIMPSON" votes="0" />
+                <Precinct name="SOUTH WINNSBORO" votes="1" />
+                <Precinct name="WINNSBORO MILLS" votes="0" />
+                <Precinct name="WINNSBORO NO. 1" votes="2" />
+                <Precinct name="WINNSBORO NO. 2" votes="0" />
+                <Precinct name="WHITE OAK" votes="0" />
+                <Precinct name="WOODARD" votes="0" />
+                <Precinct name="DUTCHMANS CREEK" votes="4" />
+                <Precinct name="Absentee" votes="10" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0108" text="State  House of Representatives, District  41" voteFor="1" isQuestion="false" precinctsReporting="22" precinctsReported="22">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BLACKSTOCK" votes="0" />
+            <Precinct name="BLAIRS" votes="0" />
+            <Precinct name="CENTERVILLE" votes="0" />
+            <Precinct name="FEASTERVILLE" votes="0" />
+            <Precinct name="GREENBRIER" votes="0" />
+            <Precinct name="GLADDE3N GROVE" votes="0" />
+            <Precinct name="JENKINSVILLE" votes="0" />
+            <Precinct name="HOREB-GLENN" votes="0" />
+            <Precinct name="HICKORY RIDGE" votes="0" />
+            <Precinct name="LEBANON" votes="0" />
+            <Precinct name="MITFORD" votes="0" />
+            <Precinct name="MONTICELLO" votes="0" />
+            <Precinct name="NEW HOPE" votes="0" />
+            <Precinct name="RIDGEWAY" votes="0" />
+            <Precinct name="SIMPSON" votes="0" />
+            <Precinct name="SOUTH WINNSBORO" votes="0" />
+            <Precinct name="WINNSBORO MILLS" votes="0" />
+            <Precinct name="WINNSBORO NO. 1" votes="0" />
+            <Precinct name="WINNSBORO NO. 2" votes="0" />
+            <Precinct name="WHITE OAK" votes="0" />
+            <Precinct name="WOODARD" votes="0" />
+            <Precinct name="DUTCHMANS CREEK" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1881">
+            <Precinct name="BLACKSTOCK" votes="6" />
+            <Precinct name="BLAIRS" votes="31" />
+            <Precinct name="CENTERVILLE" votes="76" />
+            <Precinct name="FEASTERVILLE" votes="24" />
+            <Precinct name="GREENBRIER" votes="139" />
+            <Precinct name="GLADDE3N GROVE" votes="15" />
+            <Precinct name="JENKINSVILLE" votes="40" />
+            <Precinct name="HOREB-GLENN" votes="17" />
+            <Precinct name="HICKORY RIDGE" votes="46" />
+            <Precinct name="LEBANON" votes="50" />
+            <Precinct name="MITFORD" votes="116" />
+            <Precinct name="MONTICELLO" votes="53" />
+            <Precinct name="NEW HOPE" votes="8" />
+            <Precinct name="RIDGEWAY" votes="206" />
+            <Precinct name="SIMPSON" votes="98" />
+            <Precinct name="SOUTH WINNSBORO" votes="27" />
+            <Precinct name="WINNSBORO MILLS" votes="61" />
+            <Precinct name="WINNSBORO NO. 1" votes="88" />
+            <Precinct name="WINNSBORO NO. 2" votes="70" />
+            <Precinct name="WHITE OAK" votes="28" />
+            <Precinct name="WOODARD" votes="10" />
+            <Precinct name="DUTCHMANS CREEK" votes="244" />
+            <Precinct name="Absentee" votes="422" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="6" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="MaryGail Douglas" party="DEM" totalVotes="9455">
+            <VoteType name="Election Day" votes="9455">
+                <Precinct name="BLACKSTOCK" votes="33" />
+                <Precinct name="BLAIRS" votes="261" />
+                <Precinct name="CENTERVILLE" votes="123" />
+                <Precinct name="FEASTERVILLE" votes="161" />
+                <Precinct name="GREENBRIER" votes="765" />
+                <Precinct name="GLADDE3N GROVE" votes="31" />
+                <Precinct name="JENKINSVILLE" votes="319" />
+                <Precinct name="HOREB-GLENN" votes="175" />
+                <Precinct name="HICKORY RIDGE" votes="439" />
+                <Precinct name="LEBANON" votes="330" />
+                <Precinct name="MITFORD" votes="341" />
+                <Precinct name="MONTICELLO" votes="276" />
+                <Precinct name="NEW HOPE" votes="32" />
+                <Precinct name="RIDGEWAY" votes="798" />
+                <Precinct name="SIMPSON" votes="408" />
+                <Precinct name="SOUTH WINNSBORO" votes="316" />
+                <Precinct name="WINNSBORO MILLS" votes="307" />
+                <Precinct name="WINNSBORO NO. 1" votes="526" />
+                <Precinct name="WINNSBORO NO. 2" votes="459" />
+                <Precinct name="WHITE OAK" votes="131" />
+                <Precinct name="WOODARD" votes="73" />
+                <Precinct name="DUTCHMANS CREEK" votes="511" />
+                <Precinct name="Absentee" votes="2586" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="52" />
+                <Precinct name="Provisional" votes="2" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="65">
+            <VoteType name="Election Day" votes="65">
+                <Precinct name="BLACKSTOCK" votes="0" />
+                <Precinct name="BLAIRS" votes="1" />
+                <Precinct name="CENTERVILLE" votes="1" />
+                <Precinct name="FEASTERVILLE" votes="3" />
+                <Precinct name="GREENBRIER" votes="3" />
+                <Precinct name="GLADDE3N GROVE" votes="0" />
+                <Precinct name="JENKINSVILLE" votes="2" />
+                <Precinct name="HOREB-GLENN" votes="1" />
+                <Precinct name="HICKORY RIDGE" votes="1" />
+                <Precinct name="LEBANON" votes="2" />
+                <Precinct name="MITFORD" votes="1" />
+                <Precinct name="MONTICELLO" votes="4" />
+                <Precinct name="NEW HOPE" votes="0" />
+                <Precinct name="RIDGEWAY" votes="9" />
+                <Precinct name="SIMPSON" votes="4" />
+                <Precinct name="SOUTH WINNSBORO" votes="2" />
+                <Precinct name="WINNSBORO MILLS" votes="2" />
+                <Precinct name="WINNSBORO NO. 1" votes="1" />
+                <Precinct name="WINNSBORO NO. 2" votes="1" />
+                <Precinct name="WHITE OAK" votes="0" />
+                <Precinct name="WOODARD" votes="2" />
+                <Precinct name="DUTCHMANS CREEK" votes="5" />
+                <Precinct name="Absentee" votes="19" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0109" text="Sheriff" voteFor="1" isQuestion="false" precinctsReporting="22" precinctsReported="22">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BLACKSTOCK" votes="0" />
+            <Precinct name="BLAIRS" votes="0" />
+            <Precinct name="CENTERVILLE" votes="0" />
+            <Precinct name="FEASTERVILLE" votes="0" />
+            <Precinct name="GREENBRIER" votes="0" />
+            <Precinct name="GLADDE3N GROVE" votes="0" />
+            <Precinct name="JENKINSVILLE" votes="0" />
+            <Precinct name="HOREB-GLENN" votes="0" />
+            <Precinct name="HICKORY RIDGE" votes="0" />
+            <Precinct name="LEBANON" votes="0" />
+            <Precinct name="MITFORD" votes="0" />
+            <Precinct name="MONTICELLO" votes="0" />
+            <Precinct name="NEW HOPE" votes="0" />
+            <Precinct name="RIDGEWAY" votes="0" />
+            <Precinct name="SIMPSON" votes="0" />
+            <Precinct name="SOUTH WINNSBORO" votes="0" />
+            <Precinct name="WINNSBORO MILLS" votes="0" />
+            <Precinct name="WINNSBORO NO. 1" votes="0" />
+            <Precinct name="WINNSBORO NO. 2" votes="0" />
+            <Precinct name="WHITE OAK" votes="0" />
+            <Precinct name="WOODARD" votes="0" />
+            <Precinct name="DUTCHMANS CREEK" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1327">
+            <Precinct name="BLACKSTOCK" votes="4" />
+            <Precinct name="BLAIRS" votes="26" />
+            <Precinct name="CENTERVILLE" votes="58" />
+            <Precinct name="FEASTERVILLE" votes="20" />
+            <Precinct name="GREENBRIER" votes="86" />
+            <Precinct name="GLADDE3N GROVE" votes="4" />
+            <Precinct name="JENKINSVILLE" votes="33" />
+            <Precinct name="HOREB-GLENN" votes="14" />
+            <Precinct name="HICKORY RIDGE" votes="33" />
+            <Precinct name="LEBANON" votes="25" />
+            <Precinct name="MITFORD" votes="70" />
+            <Precinct name="MONTICELLO" votes="35" />
+            <Precinct name="NEW HOPE" votes="8" />
+            <Precinct name="RIDGEWAY" votes="152" />
+            <Precinct name="SIMPSON" votes="73" />
+            <Precinct name="SOUTH WINNSBORO" votes="22" />
+            <Precinct name="WINNSBORO MILLS" votes="36" />
+            <Precinct name="WINNSBORO NO. 1" votes="57" />
+            <Precinct name="WINNSBORO NO. 2" votes="40" />
+            <Precinct name="WHITE OAK" votes="22" />
+            <Precinct name="WOODARD" votes="7" />
+            <Precinct name="DUTCHMANS CREEK" votes="169" />
+            <Precinct name="Absentee" votes="328" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="5" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Will Montgomery" party="DEM" totalVotes="10013">
+            <VoteType name="Election Day" votes="10013">
+                <Precinct name="BLACKSTOCK" votes="35" />
+                <Precinct name="BLAIRS" votes="265" />
+                <Precinct name="CENTERVILLE" votes="140" />
+                <Precinct name="FEASTERVILLE" votes="167" />
+                <Precinct name="GREENBRIER" votes="817" />
+                <Precinct name="GLADDE3N GROVE" votes="42" />
+                <Precinct name="JENKINSVILLE" votes="326" />
+                <Precinct name="HOREB-GLENN" votes="179" />
+                <Precinct name="HICKORY RIDGE" votes="450" />
+                <Precinct name="LEBANON" votes="354" />
+                <Precinct name="MITFORD" votes="388" />
+                <Precinct name="MONTICELLO" votes="296" />
+                <Precinct name="NEW HOPE" votes="31" />
+                <Precinct name="RIDGEWAY" votes="857" />
+                <Precinct name="SIMPSON" votes="432" />
+                <Precinct name="SOUTH WINNSBORO" votes="322" />
+                <Precinct name="WINNSBORO MILLS" votes="331" />
+                <Precinct name="WINNSBORO NO. 1" votes="553" />
+                <Precinct name="WINNSBORO NO. 2" votes="488" />
+                <Precinct name="WHITE OAK" votes="136" />
+                <Precinct name="WOODARD" votes="76" />
+                <Precinct name="DUTCHMANS CREEK" votes="585" />
+                <Precinct name="Absentee" votes="2688" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="53" />
+                <Precinct name="Provisional" votes="2" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="61">
+            <VoteType name="Election Day" votes="61">
+                <Precinct name="BLACKSTOCK" votes="0" />
+                <Precinct name="BLAIRS" votes="2" />
+                <Precinct name="CENTERVILLE" votes="2" />
+                <Precinct name="FEASTERVILLE" votes="1" />
+                <Precinct name="GREENBRIER" votes="4" />
+                <Precinct name="GLADDE3N GROVE" votes="0" />
+                <Precinct name="JENKINSVILLE" votes="2" />
+                <Precinct name="HOREB-GLENN" votes="0" />
+                <Precinct name="HICKORY RIDGE" votes="3" />
+                <Precinct name="LEBANON" votes="3" />
+                <Precinct name="MITFORD" votes="0" />
+                <Precinct name="MONTICELLO" votes="2" />
+                <Precinct name="NEW HOPE" votes="1" />
+                <Precinct name="RIDGEWAY" votes="4" />
+                <Precinct name="SIMPSON" votes="5" />
+                <Precinct name="SOUTH WINNSBORO" votes="1" />
+                <Precinct name="WINNSBORO MILLS" votes="3" />
+                <Precinct name="WINNSBORO NO. 1" votes="5" />
+                <Precinct name="WINNSBORO NO. 2" votes="2" />
+                <Precinct name="WHITE OAK" votes="1" />
+                <Precinct name="WOODARD" votes="2" />
+                <Precinct name="DUTCHMANS CREEK" votes="6" />
+                <Precinct name="Absentee" votes="11" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0110" text="Clerk of Court" voteFor="1" isQuestion="false" precinctsReporting="22" precinctsReported="22">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BLACKSTOCK" votes="0" />
+            <Precinct name="BLAIRS" votes="0" />
+            <Precinct name="CENTERVILLE" votes="0" />
+            <Precinct name="FEASTERVILLE" votes="0" />
+            <Precinct name="GREENBRIER" votes="0" />
+            <Precinct name="GLADDE3N GROVE" votes="0" />
+            <Precinct name="JENKINSVILLE" votes="0" />
+            <Precinct name="HOREB-GLENN" votes="0" />
+            <Precinct name="HICKORY RIDGE" votes="0" />
+            <Precinct name="LEBANON" votes="0" />
+            <Precinct name="MITFORD" votes="0" />
+            <Precinct name="MONTICELLO" votes="0" />
+            <Precinct name="NEW HOPE" votes="0" />
+            <Precinct name="RIDGEWAY" votes="0" />
+            <Precinct name="SIMPSON" votes="0" />
+            <Precinct name="SOUTH WINNSBORO" votes="0" />
+            <Precinct name="WINNSBORO MILLS" votes="0" />
+            <Precinct name="WINNSBORO NO. 1" votes="0" />
+            <Precinct name="WINNSBORO NO. 2" votes="0" />
+            <Precinct name="WHITE OAK" votes="0" />
+            <Precinct name="WOODARD" votes="0" />
+            <Precinct name="DUTCHMANS CREEK" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1614">
+            <Precinct name="BLACKSTOCK" votes="6" />
+            <Precinct name="BLAIRS" votes="24" />
+            <Precinct name="CENTERVILLE" votes="70" />
+            <Precinct name="FEASTERVILLE" votes="19" />
+            <Precinct name="GREENBRIER" votes="119" />
+            <Precinct name="GLADDE3N GROVE" votes="8" />
+            <Precinct name="JENKINSVILLE" votes="38" />
+            <Precinct name="HOREB-GLENN" votes="13" />
+            <Precinct name="HICKORY RIDGE" votes="40" />
+            <Precinct name="LEBANON" votes="31" />
+            <Precinct name="MITFORD" votes="105" />
+            <Precinct name="MONTICELLO" votes="44" />
+            <Precinct name="NEW HOPE" votes="6" />
+            <Precinct name="RIDGEWAY" votes="180" />
+            <Precinct name="SIMPSON" votes="85" />
+            <Precinct name="SOUTH WINNSBORO" votes="20" />
+            <Precinct name="WINNSBORO MILLS" votes="49" />
+            <Precinct name="WINNSBORO NO. 1" votes="79" />
+            <Precinct name="WINNSBORO NO. 2" votes="52" />
+            <Precinct name="WHITE OAK" votes="28" />
+            <Precinct name="WOODARD" votes="8" />
+            <Precinct name="DUTCHMANS CREEK" votes="223" />
+            <Precinct name="Absentee" votes="360" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="7" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Judy Bonds" party="DEM" totalVotes="9754">
+            <VoteType name="Election Day" votes="9754">
+                <Precinct name="BLACKSTOCK" votes="33" />
+                <Precinct name="BLAIRS" votes="269" />
+                <Precinct name="CENTERVILLE" votes="130" />
+                <Precinct name="FEASTERVILLE" votes="168" />
+                <Precinct name="GREENBRIER" votes="788" />
+                <Precinct name="GLADDE3N GROVE" votes="38" />
+                <Precinct name="JENKINSVILLE" votes="323" />
+                <Precinct name="HOREB-GLENN" votes="179" />
+                <Precinct name="HICKORY RIDGE" votes="446" />
+                <Precinct name="LEBANON" votes="350" />
+                <Precinct name="MITFORD" votes="353" />
+                <Precinct name="MONTICELLO" votes="289" />
+                <Precinct name="NEW HOPE" votes="34" />
+                <Precinct name="RIDGEWAY" votes="829" />
+                <Precinct name="SIMPSON" votes="422" />
+                <Precinct name="SOUTH WINNSBORO" votes="323" />
+                <Precinct name="WINNSBORO MILLS" votes="319" />
+                <Precinct name="WINNSBORO NO. 1" votes="534" />
+                <Precinct name="WINNSBORO NO. 2" votes="477" />
+                <Precinct name="WHITE OAK" votes="131" />
+                <Precinct name="WOODARD" votes="76" />
+                <Precinct name="DUTCHMANS CREEK" votes="534" />
+                <Precinct name="Absentee" votes="2655" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="52" />
+                <Precinct name="Provisional" votes="2" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="33">
+            <VoteType name="Election Day" votes="33">
+                <Precinct name="BLACKSTOCK" votes="0" />
+                <Precinct name="BLAIRS" votes="0" />
+                <Precinct name="CENTERVILLE" votes="0" />
+                <Precinct name="FEASTERVILLE" votes="1" />
+                <Precinct name="GREENBRIER" votes="0" />
+                <Precinct name="GLADDE3N GROVE" votes="0" />
+                <Precinct name="JENKINSVILLE" votes="0" />
+                <Precinct name="HOREB-GLENN" votes="1" />
+                <Precinct name="HICKORY RIDGE" votes="0" />
+                <Precinct name="LEBANON" votes="1" />
+                <Precinct name="MITFORD" votes="0" />
+                <Precinct name="MONTICELLO" votes="0" />
+                <Precinct name="NEW HOPE" votes="0" />
+                <Precinct name="RIDGEWAY" votes="4" />
+                <Precinct name="SIMPSON" votes="3" />
+                <Precinct name="SOUTH WINNSBORO" votes="2" />
+                <Precinct name="WINNSBORO MILLS" votes="2" />
+                <Precinct name="WINNSBORO NO. 1" votes="2" />
+                <Precinct name="WINNSBORO NO. 2" votes="1" />
+                <Precinct name="WHITE OAK" votes="0" />
+                <Precinct name="WOODARD" votes="1" />
+                <Precinct name="DUTCHMANS CREEK" votes="3" />
+                <Precinct name="Absentee" votes="12" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0111" text="Coroner" voteFor="1" isQuestion="false" precinctsReporting="22" precinctsReported="22">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BLACKSTOCK" votes="0" />
+            <Precinct name="BLAIRS" votes="0" />
+            <Precinct name="CENTERVILLE" votes="0" />
+            <Precinct name="FEASTERVILLE" votes="0" />
+            <Precinct name="GREENBRIER" votes="0" />
+            <Precinct name="GLADDE3N GROVE" votes="0" />
+            <Precinct name="JENKINSVILLE" votes="0" />
+            <Precinct name="HOREB-GLENN" votes="0" />
+            <Precinct name="HICKORY RIDGE" votes="0" />
+            <Precinct name="LEBANON" votes="0" />
+            <Precinct name="MITFORD" votes="0" />
+            <Precinct name="MONTICELLO" votes="0" />
+            <Precinct name="NEW HOPE" votes="0" />
+            <Precinct name="RIDGEWAY" votes="0" />
+            <Precinct name="SIMPSON" votes="0" />
+            <Precinct name="SOUTH WINNSBORO" votes="0" />
+            <Precinct name="WINNSBORO MILLS" votes="0" />
+            <Precinct name="WINNSBORO NO. 1" votes="0" />
+            <Precinct name="WINNSBORO NO. 2" votes="0" />
+            <Precinct name="WHITE OAK" votes="0" />
+            <Precinct name="WOODARD" votes="0" />
+            <Precinct name="DUTCHMANS CREEK" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1718">
+            <Precinct name="BLACKSTOCK" votes="5" />
+            <Precinct name="BLAIRS" votes="26" />
+            <Precinct name="CENTERVILLE" votes="68" />
+            <Precinct name="FEASTERVILLE" votes="20" />
+            <Precinct name="GREENBRIER" votes="117" />
+            <Precinct name="GLADDE3N GROVE" votes="10" />
+            <Precinct name="JENKINSVILLE" votes="34" />
+            <Precinct name="HOREB-GLENN" votes="16" />
+            <Precinct name="HICKORY RIDGE" votes="48" />
+            <Precinct name="LEBANON" votes="53" />
+            <Precinct name="MITFORD" votes="96" />
+            <Precinct name="MONTICELLO" votes="50" />
+            <Precinct name="NEW HOPE" votes="7" />
+            <Precinct name="RIDGEWAY" votes="167" />
+            <Precinct name="SIMPSON" votes="82" />
+            <Precinct name="SOUTH WINNSBORO" votes="21" />
+            <Precinct name="WINNSBORO MILLS" votes="47" />
+            <Precinct name="WINNSBORO NO. 1" votes="73" />
+            <Precinct name="WINNSBORO NO. 2" votes="65" />
+            <Precinct name="WHITE OAK" votes="34" />
+            <Precinct name="WOODARD" votes="5" />
+            <Precinct name="DUTCHMANS CREEK" votes="232" />
+            <Precinct name="Absentee" votes="436" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="6" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Chris Hill" party="DEM" totalVotes="9578">
+            <VoteType name="Election Day" votes="9578">
+                <Precinct name="BLACKSTOCK" votes="33" />
+                <Precinct name="BLAIRS" votes="267" />
+                <Precinct name="CENTERVILLE" votes="131" />
+                <Precinct name="FEASTERVILLE" votes="166" />
+                <Precinct name="GREENBRIER" votes="779" />
+                <Precinct name="GLADDE3N GROVE" votes="36" />
+                <Precinct name="JENKINSVILLE" votes="327" />
+                <Precinct name="HOREB-GLENN" votes="177" />
+                <Precinct name="HICKORY RIDGE" votes="434" />
+                <Precinct name="LEBANON" votes="316" />
+                <Precinct name="MITFORD" votes="358" />
+                <Precinct name="MONTICELLO" votes="283" />
+                <Precinct name="NEW HOPE" votes="31" />
+                <Precinct name="RIDGEWAY" votes="843" />
+                <Precinct name="SIMPSON" votes="425" />
+                <Precinct name="SOUTH WINNSBORO" votes="323" />
+                <Precinct name="WINNSBORO MILLS" votes="320" />
+                <Precinct name="WINNSBORO NO. 1" votes="538" />
+                <Precinct name="WINNSBORO NO. 2" votes="461" />
+                <Precinct name="WHITE OAK" votes="125" />
+                <Precinct name="WOODARD" votes="80" />
+                <Precinct name="DUTCHMANS CREEK" votes="523" />
+                <Precinct name="Absentee" votes="2548" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="52" />
+                <Precinct name="Provisional" votes="2" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="105">
+            <VoteType name="Election Day" votes="105">
+                <Precinct name="BLACKSTOCK" votes="1" />
+                <Precinct name="BLAIRS" votes="0" />
+                <Precinct name="CENTERVILLE" votes="1" />
+                <Precinct name="FEASTERVILLE" votes="2" />
+                <Precinct name="GREENBRIER" votes="11" />
+                <Precinct name="GLADDE3N GROVE" votes="0" />
+                <Precinct name="JENKINSVILLE" votes="0" />
+                <Precinct name="HOREB-GLENN" votes="0" />
+                <Precinct name="HICKORY RIDGE" votes="4" />
+                <Precinct name="LEBANON" votes="13" />
+                <Precinct name="MITFORD" votes="4" />
+                <Precinct name="MONTICELLO" votes="0" />
+                <Precinct name="NEW HOPE" votes="2" />
+                <Precinct name="RIDGEWAY" votes="3" />
+                <Precinct name="SIMPSON" votes="3" />
+                <Precinct name="SOUTH WINNSBORO" votes="1" />
+                <Precinct name="WINNSBORO MILLS" votes="3" />
+                <Precinct name="WINNSBORO NO. 1" votes="4" />
+                <Precinct name="WINNSBORO NO. 2" votes="4" />
+                <Precinct name="WHITE OAK" votes="0" />
+                <Precinct name="WOODARD" votes="0" />
+                <Precinct name="DUTCHMANS CREEK" votes="5" />
+                <Precinct name="Absentee" votes="43" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0112" text="Soil and Water District Commission" voteFor="1" isQuestion="false" precinctsReporting="22" precinctsReported="22">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BLACKSTOCK" votes="0" />
+            <Precinct name="BLAIRS" votes="0" />
+            <Precinct name="CENTERVILLE" votes="0" />
+            <Precinct name="FEASTERVILLE" votes="0" />
+            <Precinct name="GREENBRIER" votes="0" />
+            <Precinct name="GLADDE3N GROVE" votes="0" />
+            <Precinct name="JENKINSVILLE" votes="0" />
+            <Precinct name="HOREB-GLENN" votes="0" />
+            <Precinct name="HICKORY RIDGE" votes="0" />
+            <Precinct name="LEBANON" votes="0" />
+            <Precinct name="MITFORD" votes="0" />
+            <Precinct name="MONTICELLO" votes="0" />
+            <Precinct name="NEW HOPE" votes="0" />
+            <Precinct name="RIDGEWAY" votes="0" />
+            <Precinct name="SIMPSON" votes="0" />
+            <Precinct name="SOUTH WINNSBORO" votes="0" />
+            <Precinct name="WINNSBORO MILLS" votes="0" />
+            <Precinct name="WINNSBORO NO. 1" votes="0" />
+            <Precinct name="WINNSBORO NO. 2" votes="0" />
+            <Precinct name="WHITE OAK" votes="0" />
+            <Precinct name="WOODARD" votes="0" />
+            <Precinct name="DUTCHMANS CREEK" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="10921">
+            <Precinct name="BLACKSTOCK" votes="38" />
+            <Precinct name="BLAIRS" votes="286" />
+            <Precinct name="CENTERVILLE" votes="187" />
+            <Precinct name="FEASTERVILLE" votes="175" />
+            <Precinct name="GREENBRIER" votes="874" />
+            <Precinct name="GLADDE3N GROVE" votes="44" />
+            <Precinct name="JENKINSVILLE" votes="348" />
+            <Precinct name="HOREB-GLENN" votes="192" />
+            <Precinct name="HICKORY RIDGE" votes="469" />
+            <Precinct name="LEBANON" votes="358" />
+            <Precinct name="MITFORD" votes="446" />
+            <Precinct name="MONTICELLO" votes="319" />
+            <Precinct name="NEW HOPE" votes="39" />
+            <Precinct name="RIDGEWAY" votes="960" />
+            <Precinct name="SIMPSON" votes="477" />
+            <Precinct name="SOUTH WINNSBORO" votes="332" />
+            <Precinct name="WINNSBORO MILLS" votes="363" />
+            <Precinct name="WINNSBORO NO. 1" votes="586" />
+            <Precinct name="WINNSBORO NO. 2" votes="496" />
+            <Precinct name="WHITE OAK" votes="150" />
+            <Precinct name="WOODARD" votes="79" />
+            <Precinct name="DUTCHMANS CREEK" votes="724" />
+            <Precinct name="Absentee" votes="2921" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="56" />
+            <Precinct name="Provisional" votes="2" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Write-In" party="NON" totalVotes="480">
+            <VoteType name="Election Day" votes="480">
+                <Precinct name="BLACKSTOCK" votes="1" />
+                <Precinct name="BLAIRS" votes="7" />
+                <Precinct name="CENTERVILLE" votes="13" />
+                <Precinct name="FEASTERVILLE" votes="13" />
+                <Precinct name="GREENBRIER" votes="33" />
+                <Precinct name="GLADDE3N GROVE" votes="2" />
+                <Precinct name="JENKINSVILLE" votes="13" />
+                <Precinct name="HOREB-GLENN" votes="1" />
+                <Precinct name="HICKORY RIDGE" votes="17" />
+                <Precinct name="LEBANON" votes="24" />
+                <Precinct name="MITFORD" votes="12" />
+                <Precinct name="MONTICELLO" votes="14" />
+                <Precinct name="NEW HOPE" votes="1" />
+                <Precinct name="RIDGEWAY" votes="53" />
+                <Precinct name="SIMPSON" votes="33" />
+                <Precinct name="SOUTH WINNSBORO" votes="13" />
+                <Precinct name="WINNSBORO MILLS" votes="7" />
+                <Precinct name="WINNSBORO NO. 1" votes="29" />
+                <Precinct name="WINNSBORO NO. 2" votes="34" />
+                <Precinct name="WHITE OAK" votes="9" />
+                <Precinct name="WOODARD" votes="6" />
+                <Precinct name="DUTCHMANS CREEK" votes="36" />
+                <Precinct name="Absentee" votes="106" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="3" />
+                <Precinct name="Provisional" votes="0" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0113" text="County Council District 2" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="LEBANON" votes="0" />
+            <Precinct name="MITFORD" votes="0" />
+            <Precinct name="RIDGEWAY" votes="0" />
+            <Precinct name="WINNSBORO NO. 2" votes="0" />
+            <Precinct name="DUTCHMANS CREEK" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="378">
+            <Precinct name="LEBANON" votes="36" />
+            <Precinct name="MITFORD" votes="83" />
+            <Precinct name="RIDGEWAY" votes="19" />
+            <Precinct name="WINNSBORO NO. 2" votes="17" />
+            <Precinct name="DUTCHMANS CREEK" votes="117" />
+            <Precinct name="Absentee" votes="106" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Jimmy Ray Douglas" party="NON" totalVotes="786">
+            <VoteType name="Election Day" votes="786">
+                <Precinct name="LEBANON" votes="96" />
+                <Precinct name="MITFORD" votes="89" />
+                <Precinct name="RIDGEWAY" votes="8" />
+                <Precinct name="WINNSBORO NO. 2" votes="56" />
+                <Precinct name="DUTCHMANS CREEK" votes="362" />
+                <Precinct name="Absentee" votes="174" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="J Renee Green" party="NON" totalVotes="496">
+            <VoteType name="Election Day" votes="496">
+                <Precinct name="LEBANON" votes="82" />
+                <Precinct name="MITFORD" votes="70" />
+                <Precinct name="RIDGEWAY" votes="13" />
+                <Precinct name="WINNSBORO NO. 2" votes="56" />
+                <Precinct name="DUTCHMANS CREEK" votes="139" />
+                <Precinct name="Absentee" votes="135" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Clyde Wade" party="NON" totalVotes="302">
+            <VoteType name="Election Day" votes="302">
+                <Precinct name="LEBANON" votes="96" />
+                <Precinct name="MITFORD" votes="10" />
+                <Precinct name="RIDGEWAY" votes="6" />
+                <Precinct name="WINNSBORO NO. 2" votes="16" />
+                <Precinct name="DUTCHMANS CREEK" votes="101" />
+                <Precinct name="Absentee" votes="73" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Write-In" party="NON" totalVotes="2">
+            <VoteType name="Election Day" votes="2">
+                <Precinct name="LEBANON" votes="1" />
+                <Precinct name="MITFORD" votes="0" />
+                <Precinct name="RIDGEWAY" votes="0" />
+                <Precinct name="WINNSBORO NO. 2" votes="1" />
+                <Precinct name="DUTCHMANS CREEK" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0114" text="County Council District 3" voteFor="1" isQuestion="false" precinctsReporting="13" precinctsReported="13">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BLACKSTOCK" votes="0" />
+            <Precinct name="BLAIRS" votes="0" />
+            <Precinct name="FEASTERVILLE" votes="0" />
+            <Precinct name="GLADDE3N GROVE" votes="0" />
+            <Precinct name="HOREB-GLENN" votes="0" />
+            <Precinct name="HICKORY RIDGE" votes="0" />
+            <Precinct name="LEBANON" votes="0" />
+            <Precinct name="MITFORD" votes="0" />
+            <Precinct name="MONTICELLO" votes="0" />
+            <Precinct name="NEW HOPE" votes="0" />
+            <Precinct name="WINNSBORO NO. 2" votes="0" />
+            <Precinct name="WHITE OAK" votes="0" />
+            <Precinct name="WOODARD" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="226">
+            <Precinct name="BLACKSTOCK" votes="11" />
+            <Precinct name="BLAIRS" votes="15" />
+            <Precinct name="FEASTERVILLE" votes="11" />
+            <Precinct name="GLADDE3N GROVE" votes="10" />
+            <Precinct name="HOREB-GLENN" votes="17" />
+            <Precinct name="HICKORY RIDGE" votes="9" />
+            <Precinct name="LEBANON" votes="10" />
+            <Precinct name="MITFORD" votes="37" />
+            <Precinct name="MONTICELLO" votes="1" />
+            <Precinct name="NEW HOPE" votes="5" />
+            <Precinct name="WINNSBORO NO. 2" votes="9" />
+            <Precinct name="WHITE OAK" votes="30" />
+            <Precinct name="WOODARD" votes="17" />
+            <Precinct name="Absentee" votes="43" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Kirk Chappell" party="NON" totalVotes="197">
+            <VoteType name="Election Day" votes="197">
+                <Precinct name="BLACKSTOCK" votes="1" />
+                <Precinct name="BLAIRS" votes="10" />
+                <Precinct name="FEASTERVILLE" votes="7" />
+                <Precinct name="GLADDE3N GROVE" votes="0" />
+                <Precinct name="HOREB-GLENN" votes="21" />
+                <Precinct name="HICKORY RIDGE" votes="12" />
+                <Precinct name="LEBANON" votes="15" />
+                <Precinct name="MITFORD" votes="25" />
+                <Precinct name="MONTICELLO" votes="0" />
+                <Precinct name="NEW HOPE" votes="2" />
+                <Precinct name="WINNSBORO NO. 2" votes="7" />
+                <Precinct name="WHITE OAK" votes="17" />
+                <Precinct name="WOODARD" votes="4" />
+                <Precinct name="Absentee" votes="75" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Peggy D Swearingen" party="NON" totalVotes="535">
+            <VoteType name="Election Day" votes="535">
+                <Precinct name="BLACKSTOCK" votes="3" />
+                <Precinct name="BLAIRS" votes="51" />
+                <Precinct name="FEASTERVILLE" votes="98" />
+                <Precinct name="GLADDE3N GROVE" votes="29" />
+                <Precinct name="HOREB-GLENN" votes="20" />
+                <Precinct name="HICKORY RIDGE" votes="47" />
+                <Precinct name="LEBANON" votes="8" />
+                <Precinct name="MITFORD" votes="99" />
+                <Precinct name="MONTICELLO" votes="0" />
+                <Precinct name="NEW HOPE" votes="28" />
+                <Precinct name="WINNSBORO NO. 2" votes="9" />
+                <Precinct name="WHITE OAK" votes="55" />
+                <Precinct name="WOODARD" votes="15" />
+                <Precinct name="Absentee" votes="73" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Mikel R Trapp Sr" party="NON" totalVotes="651">
+            <VoteType name="Election Day" votes="651">
+                <Precinct name="BLACKSTOCK" votes="24" />
+                <Precinct name="BLAIRS" votes="217" />
+                <Precinct name="FEASTERVILLE" votes="72" />
+                <Precinct name="GLADDE3N GROVE" votes="7" />
+                <Precinct name="HOREB-GLENN" votes="26" />
+                <Precinct name="HICKORY RIDGE" votes="7" />
+                <Precinct name="LEBANON" votes="25" />
+                <Precinct name="MITFORD" votes="45" />
+                <Precinct name="MONTICELLO" votes="1" />
+                <Precinct name="NEW HOPE" votes="5" />
+                <Precinct name="WINNSBORO NO. 2" votes="19" />
+                <Precinct name="WHITE OAK" votes="57" />
+                <Precinct name="WOODARD" votes="49" />
+                <Precinct name="Absentee" votes="97" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Write-In" party="NON" totalVotes="2">
+            <VoteType name="Election Day" votes="2">
+                <Precinct name="BLACKSTOCK" votes="0" />
+                <Precinct name="BLAIRS" votes="0" />
+                <Precinct name="FEASTERVILLE" votes="0" />
+                <Precinct name="GLADDE3N GROVE" votes="0" />
+                <Precinct name="HOREB-GLENN" votes="0" />
+                <Precinct name="HICKORY RIDGE" votes="0" />
+                <Precinct name="LEBANON" votes="1" />
+                <Precinct name="MITFORD" votes="0" />
+                <Precinct name="MONTICELLO" votes="0" />
+                <Precinct name="NEW HOPE" votes="0" />
+                <Precinct name="WINNSBORO NO. 2" votes="0" />
+                <Precinct name="WHITE OAK" votes="0" />
+                <Precinct name="WOODARD" votes="0" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0115" text="County Council District 4" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="GREENBRIER" votes="0" />
+            <Precinct name="JENKINSVILLE" votes="0" />
+            <Precinct name="HOREB-GLENN" votes="0" />
+            <Precinct name="HICKORY RIDGE" votes="0" />
+            <Precinct name="MONTICELLO" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="292">
+            <Precinct name="GREENBRIER" votes="115" />
+            <Precinct name="JENKINSVILLE" votes="40" />
+            <Precinct name="HOREB-GLENN" votes="24" />
+            <Precinct name="HICKORY RIDGE" votes="0" />
+            <Precinct name="MONTICELLO" votes="41" />
+            <Precinct name="Absentee" votes="71" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="1" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Bertha Goins" party="NON" totalVotes="660">
+            <VoteType name="Election Day" votes="660">
+                <Precinct name="GREENBRIER" votes="143" />
+                <Precinct name="JENKINSVILLE" votes="164" />
+                <Precinct name="HOREB-GLENN" votes="37" />
+                <Precinct name="HICKORY RIDGE" votes="0" />
+                <Precinct name="MONTICELLO" votes="141" />
+                <Precinct name="Absentee" votes="172" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Kamau Marcharia" party="NON" totalVotes="493">
+            <VoteType name="Election Day" votes="493">
+                <Precinct name="GREENBRIER" votes="97" />
+                <Precinct name="JENKINSVILLE" votes="134" />
+                <Precinct name="HOREB-GLENN" votes="18" />
+                <Precinct name="HICKORY RIDGE" votes="0" />
+                <Precinct name="MONTICELLO" votes="121" />
+                <Precinct name="Absentee" votes="122" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Quincy D Pringle Sr" party="NON" totalVotes="365">
+            <VoteType name="Election Day" votes="365">
+                <Precinct name="GREENBRIER" votes="209" />
+                <Precinct name="JENKINSVILLE" votes="23" />
+                <Precinct name="HOREB-GLENN" votes="30" />
+                <Precinct name="HICKORY RIDGE" votes="0" />
+                <Precinct name="MONTICELLO" votes="28" />
+                <Precinct name="Absentee" votes="74" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Write-In" party="NON" totalVotes="3">
+            <VoteType name="Election Day" votes="3">
+                <Precinct name="GREENBRIER" votes="0" />
+                <Precinct name="JENKINSVILLE" votes="0" />
+                <Precinct name="HOREB-GLENN" votes="0" />
+                <Precinct name="HICKORY RIDGE" votes="0" />
+                <Precinct name="MONTICELLO" votes="0" />
+                <Precinct name="Absentee" votes="3" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0116" text="County Council District 6" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="HICKORY RIDGE" votes="0" />
+            <Precinct name="SOUTH WINNSBORO" votes="0" />
+            <Precinct name="WINNSBORO MILLS" votes="0" />
+            <Precinct name="WINNSBORO NO. 1" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="263">
+            <Precinct name="HICKORY RIDGE" votes="20" />
+            <Precinct name="SOUTH WINNSBORO" votes="6" />
+            <Precinct name="WINNSBORO MILLS" votes="85" />
+            <Precinct name="WINNSBORO NO. 1" votes="95" />
+            <Precinct name="Absentee" votes="50" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="7" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Gwen Harden" party="NON" totalVotes="357">
+            <VoteType name="Election Day" votes="357">
+                <Precinct name="HICKORY RIDGE" votes="11" />
+                <Precinct name="SOUTH WINNSBORO" votes="3" />
+                <Precinct name="WINNSBORO MILLS" votes="104" />
+                <Precinct name="WINNSBORO NO. 1" votes="92" />
+                <Precinct name="Absentee" votes="145" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Mary Lynn Kinley" party="NON" totalVotes="235">
+            <VoteType name="Election Day" votes="235">
+                <Precinct name="HICKORY RIDGE" votes="18" />
+                <Precinct name="SOUTH WINNSBORO" votes="8" />
+                <Precinct name="WINNSBORO MILLS" votes="79" />
+                <Precinct name="WINNSBORO NO. 1" votes="58" />
+                <Precinct name="Absentee" votes="69" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Cornelius Neil Robinson" party="NON" totalVotes="441">
+            <VoteType name="Election Day" votes="441">
+                <Precinct name="HICKORY RIDGE" votes="21" />
+                <Precinct name="SOUTH WINNSBORO" votes="9" />
+                <Precinct name="WINNSBORO MILLS" votes="67" />
+                <Precinct name="WINNSBORO NO. 1" votes="185" />
+                <Precinct name="Absentee" votes="147" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="12" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Mary Anne Tolbert" party="NON" totalVotes="73">
+            <VoteType name="Election Day" votes="73">
+                <Precinct name="HICKORY RIDGE" votes="5" />
+                <Precinct name="SOUTH WINNSBORO" votes="2" />
+                <Precinct name="WINNSBORO MILLS" votes="34" />
+                <Precinct name="WINNSBORO NO. 1" votes="21" />
+                <Precinct name="Absentee" votes="10" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="005" text="Write-In" party="NON" totalVotes="3">
+            <VoteType name="Election Day" votes="3">
+                <Precinct name="HICKORY RIDGE" votes="0" />
+                <Precinct name="SOUTH WINNSBORO" votes="1" />
+                <Precinct name="WINNSBORO MILLS" votes="1" />
+                <Precinct name="WINNSBORO NO. 1" votes="0" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0117" text="School Board District 2" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="LEBANON" votes="0" />
+            <Precinct name="MITFORD" votes="0" />
+            <Precinct name="RIDGEWAY" votes="0" />
+            <Precinct name="WINNSBORO NO. 2" votes="0" />
+            <Precinct name="DUTCHMANS CREEK" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="607">
+            <Precinct name="LEBANON" votes="80" />
+            <Precinct name="MITFORD" votes="105" />
+            <Precinct name="RIDGEWAY" votes="21" />
+            <Precinct name="WINNSBORO NO. 2" votes="36" />
+            <Precinct name="DUTCHMANS CREEK" votes="213" />
+            <Precinct name="Absentee" votes="152" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Paula Meisner Hartman" party="NON" totalVotes="695">
+            <VoteType name="Election Day" votes="695">
+                <Precinct name="LEBANON" votes="127" />
+                <Precinct name="MITFORD" votes="72" />
+                <Precinct name="RIDGEWAY" votes="11" />
+                <Precinct name="WINNSBORO NO. 2" votes="49" />
+                <Precinct name="DUTCHMANS CREEK" votes="287" />
+                <Precinct name="Absentee" votes="148" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Janet Mason" party="NON" totalVotes="653">
+            <VoteType name="Election Day" votes="653">
+                <Precinct name="LEBANON" votes="101" />
+                <Precinct name="MITFORD" votes="75" />
+                <Precinct name="RIDGEWAY" votes="14" />
+                <Precinct name="WINNSBORO NO. 2" votes="60" />
+                <Precinct name="DUTCHMANS CREEK" votes="217" />
+                <Precinct name="Absentee" votes="185" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Write-In" party="NON" totalVotes="9">
+            <VoteType name="Election Day" votes="9">
+                <Precinct name="LEBANON" votes="3" />
+                <Precinct name="MITFORD" votes="0" />
+                <Precinct name="RIDGEWAY" votes="0" />
+                <Precinct name="WINNSBORO NO. 2" votes="1" />
+                <Precinct name="DUTCHMANS CREEK" votes="2" />
+                <Precinct name="Absentee" votes="3" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0118" text="School Board District 4" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="GREENBRIER" votes="0" />
+            <Precinct name="JENKINSVILLE" votes="0" />
+            <Precinct name="HOREB-GLENN" votes="0" />
+            <Precinct name="HICKORY RIDGE" votes="0" />
+            <Precinct name="MONTICELLO" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="537">
+            <Precinct name="GREENBRIER" votes="175" />
+            <Precinct name="JENKINSVILLE" votes="99" />
+            <Precinct name="HOREB-GLENN" votes="29" />
+            <Precinct name="HICKORY RIDGE" votes="0" />
+            <Precinct name="MONTICELLO" votes="106" />
+            <Precinct name="Absentee" votes="125" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="3" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Annie E McDaniel" party="NON" totalVotes="1251">
+            <VoteType name="Election Day" votes="1251">
+                <Precinct name="GREENBRIER" votes="382" />
+                <Precinct name="JENKINSVILLE" votes="258" />
+                <Precinct name="HOREB-GLENN" votes="80" />
+                <Precinct name="HICKORY RIDGE" votes="0" />
+                <Precinct name="MONTICELLO" votes="223" />
+                <Precinct name="Absentee" votes="305" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="2" />
+                <Precinct name="Provisional" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="25">
+            <VoteType name="Election Day" votes="25">
+                <Precinct name="GREENBRIER" votes="7" />
+                <Precinct name="JENKINSVILLE" votes="4" />
+                <Precinct name="HOREB-GLENN" votes="0" />
+                <Precinct name="HICKORY RIDGE" votes="0" />
+                <Precinct name="MONTICELLO" votes="2" />
+                <Precinct name="Absentee" votes="12" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0119" text="School Board District 6" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="HICKORY RIDGE" votes="0" />
+            <Precinct name="SOUTH WINNSBORO" votes="0" />
+            <Precinct name="WINNSBORO MILLS" votes="0" />
+            <Precinct name="WINNSBORO NO. 1" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="514">
+            <Precinct name="HICKORY RIDGE" votes="34" />
+            <Precinct name="SOUTH WINNSBORO" votes="10" />
+            <Precinct name="WINNSBORO MILLS" votes="140" />
+            <Precinct name="WINNSBORO NO. 1" votes="199" />
+            <Precinct name="Absentee" votes="118" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="12" />
+            <Precinct name="Provisional" votes="1" />
+        </VoteType>
+        <Choice key="001" text="William P Frick" party="NON" totalVotes="847">
+            <VoteType name="Election Day" votes="847">
+                <Precinct name="HICKORY RIDGE" votes="41" />
+                <Precinct name="SOUTH WINNSBORO" votes="16" />
+                <Precinct name="WINNSBORO MILLS" votes="228" />
+                <Precinct name="WINNSBORO NO. 1" votes="248" />
+                <Precinct name="Absentee" votes="302" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="12" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="Write-In" party="NON" totalVotes="11">
+            <VoteType name="Election Day" votes="11">
+                <Precinct name="HICKORY RIDGE" votes="0" />
+                <Precinct name="SOUTH WINNSBORO" votes="3" />
+                <Precinct name="WINNSBORO MILLS" votes="2" />
+                <Precinct name="WINNSBORO NO. 1" votes="4" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0120" text="Jackson Mill Creek Watershed" voteFor="3" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="HOREB-GLENN" votes="0" />
+            <Precinct name="HICKORY RIDGE" votes="0" />
+            <Precinct name="LEBANON" votes="0" />
+            <Precinct name="WINNSBORO MILLS" votes="0" />
+            <Precinct name="WINNSBORO NO. 1" votes="0" />
+            <Precinct name="WINNSBORO NO. 2" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="4347">
+            <Precinct name="HOREB-GLENN" votes="248" />
+            <Precinct name="HICKORY RIDGE" votes="1082" />
+            <Precinct name="LEBANON" votes="722" />
+            <Precinct name="WINNSBORO MILLS" votes="665" />
+            <Precinct name="WINNSBORO NO. 1" votes="125" />
+            <Precinct name="WINNSBORO NO. 2" votes="169" />
+            <Precinct name="Absentee" votes="1319" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="17" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Write-In" party="NON" totalVotes="69">
+            <VoteType name="Election Day" votes="69">
+                <Precinct name="HOREB-GLENN" votes="4" />
+                <Precinct name="HICKORY RIDGE" votes="16" />
+                <Precinct name="LEBANON" votes="22" />
+                <Precinct name="WINNSBORO MILLS" votes="13" />
+                <Precinct name="WINNSBORO NO. 1" votes="1" />
+                <Precinct name="WINNSBORO NO. 2" votes="2" />
+                <Precinct name="Absentee" votes="10" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="1" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0121" text="Rocky Creek Watershed Conservation District" voteFor="3" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BLACKSTOCK" votes="0" />
+            <Precinct name="GLADDE3N GROVE" votes="0" />
+            <Precinct name="MITFORD" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="260">
+            <Precinct name="BLACKSTOCK" votes="32" />
+            <Precinct name="GLADDE3N GROVE" votes="50" />
+            <Precinct name="MITFORD" votes="133" />
+            <Precinct name="Absentee" votes="45" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Calvin C Clark" party="NON" totalVotes="32">
+            <VoteType name="Election Day" votes="32">
+                <Precinct name="BLACKSTOCK" votes="3" />
+                <Precinct name="GLADDE3N GROVE" votes="6" />
+                <Precinct name="MITFORD" votes="19" />
+                <Precinct name="Absentee" votes="4" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="H Keith McDonald" party="NON" totalVotes="55">
+            <VoteType name="Election Day" votes="55">
+                <Precinct name="BLACKSTOCK" votes="0" />
+                <Precinct name="GLADDE3N GROVE" votes="14" />
+                <Precinct name="MITFORD" votes="30" />
+                <Precinct name="Absentee" votes="11" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="003" text="Oscar L Buddy Peay" party="NON" totalVotes="23">
+            <VoteType name="Election Day" votes="23">
+                <Precinct name="BLACKSTOCK" votes="1" />
+                <Precinct name="GLADDE3N GROVE" votes="5" />
+                <Precinct name="MITFORD" votes="15" />
+                <Precinct name="Absentee" votes="2" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="004" text="Write-In" party="NON" totalVotes="2">
+            <VoteType name="Election Day" votes="2">
+                <Precinct name="BLACKSTOCK" votes="0" />
+                <Precinct name="GLADDE3N GROVE" votes="0" />
+                <Precinct name="MITFORD" votes="1" />
+                <Precinct name="Absentee" votes="1" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0122" text="Wateree Creek Watershed Dist 35" voteFor="3" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BLACKSTOCK" votes="0" />
+            <Precinct name="GLADDE3N GROVE" votes="0" />
+            <Precinct name="MITFORD" votes="0" />
+            <Precinct name="WHITE OAK" votes="0" />
+            <Precinct name="WOODARD" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="811">
+            <Precinct name="BLACKSTOCK" votes="0" />
+            <Precinct name="GLADDE3N GROVE" votes="63" />
+            <Precinct name="MITFORD" votes="215" />
+            <Precinct name="WHITE OAK" votes="458" />
+            <Precinct name="WOODARD" votes="3" />
+            <Precinct name="Absentee" votes="72" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Write-In" party="NON" totalVotes="5">
+            <VoteType name="Election Day" votes="5">
+                <Precinct name="BLACKSTOCK" votes="0" />
+                <Precinct name="GLADDE3N GROVE" votes="0" />
+                <Precinct name="MITFORD" votes="1" />
+                <Precinct name="WHITE OAK" votes="4" />
+                <Precinct name="WOODARD" votes="0" />
+                <Precinct name="Absentee" votes="0" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="0" />
+                <Precinct name="Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="0123" text="ALCOHOL SALES REFERENDUM" voteFor="1" isQuestion="true" precinctsReporting="22" precinctsReported="22">
+        <VoteType name="overVotes" votes="0">
+            <Precinct name="BLACKSTOCK" votes="0" />
+            <Precinct name="BLAIRS" votes="0" />
+            <Precinct name="CENTERVILLE" votes="0" />
+            <Precinct name="FEASTERVILLE" votes="0" />
+            <Precinct name="GREENBRIER" votes="0" />
+            <Precinct name="GLADDE3N GROVE" votes="0" />
+            <Precinct name="JENKINSVILLE" votes="0" />
+            <Precinct name="HOREB-GLENN" votes="0" />
+            <Precinct name="HICKORY RIDGE" votes="0" />
+            <Precinct name="LEBANON" votes="0" />
+            <Precinct name="MITFORD" votes="0" />
+            <Precinct name="MONTICELLO" votes="0" />
+            <Precinct name="NEW HOPE" votes="0" />
+            <Precinct name="RIDGEWAY" votes="0" />
+            <Precinct name="SIMPSON" votes="0" />
+            <Precinct name="SOUTH WINNSBORO" votes="0" />
+            <Precinct name="WINNSBORO MILLS" votes="0" />
+            <Precinct name="WINNSBORO NO. 1" votes="0" />
+            <Precinct name="WINNSBORO NO. 2" votes="0" />
+            <Precinct name="WHITE OAK" votes="0" />
+            <Precinct name="WOODARD" votes="0" />
+            <Precinct name="DUTCHMANS CREEK" votes="0" />
+            <Precinct name="Absentee" votes="0" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="0" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <VoteType name="underVotes" votes="1348">
+            <Precinct name="BLACKSTOCK" votes="4" />
+            <Precinct name="BLAIRS" votes="81" />
+            <Precinct name="CENTERVILLE" votes="20" />
+            <Precinct name="FEASTERVILLE" votes="12" />
+            <Precinct name="GREENBRIER" votes="86" />
+            <Precinct name="GLADDE3N GROVE" votes="8" />
+            <Precinct name="JENKINSVILLE" votes="38" />
+            <Precinct name="HOREB-GLENN" votes="32" />
+            <Precinct name="HICKORY RIDGE" votes="53" />
+            <Precinct name="LEBANON" votes="51" />
+            <Precinct name="MITFORD" votes="43" />
+            <Precinct name="MONTICELLO" votes="32" />
+            <Precinct name="NEW HOPE" votes="2" />
+            <Precinct name="RIDGEWAY" votes="114" />
+            <Precinct name="SIMPSON" votes="80" />
+            <Precinct name="SOUTH WINNSBORO" votes="49" />
+            <Precinct name="WINNSBORO MILLS" votes="54" />
+            <Precinct name="WINNSBORO NO. 1" votes="115" />
+            <Precinct name="WINNSBORO NO. 2" votes="52" />
+            <Precinct name="WHITE OAK" votes="33" />
+            <Precinct name="WOODARD" votes="17" />
+            <Precinct name="DUTCHMANS CREEK" votes="37" />
+            <Precinct name="Absentee" votes="329" />
+            <Precinct name="Emergency" votes="0" />
+            <Precinct name="Failsafe" votes="6" />
+            <Precinct name="Provisional" votes="0" />
+            <Precinct name="Failsafe Provisional" votes="0" />
+        </VoteType>
+        <Choice key="001" text="Yes" party="NON" totalVotes="6479">
+            <VoteType name="Election Day" votes="6479">
+                <Precinct name="BLACKSTOCK" votes="25" />
+                <Precinct name="BLAIRS" votes="151" />
+                <Precinct name="CENTERVILLE" votes="110" />
+                <Precinct name="FEASTERVILLE" votes="111" />
+                <Precinct name="GREENBRIER" votes="537" />
+                <Precinct name="GLADDE3N GROVE" votes="18" />
+                <Precinct name="JENKINSVILLE" votes="209" />
+                <Precinct name="HOREB-GLENN" votes="101" />
+                <Precinct name="HICKORY RIDGE" votes="292" />
+                <Precinct name="LEBANON" votes="199" />
+                <Precinct name="MITFORD" votes="231" />
+                <Precinct name="MONTICELLO" votes="200" />
+                <Precinct name="NEW HOPE" votes="25" />
+                <Precinct name="RIDGEWAY" votes="613" />
+                <Precinct name="SIMPSON" votes="287" />
+                <Precinct name="SOUTH WINNSBORO" votes="191" />
+                <Precinct name="WINNSBORO MILLS" votes="192" />
+                <Precinct name="WINNSBORO NO. 1" votes="366" />
+                <Precinct name="WINNSBORO NO. 2" votes="337" />
+                <Precinct name="WHITE OAK" votes="74" />
+                <Precinct name="WOODARD" votes="54" />
+                <Precinct name="DUTCHMANS CREEK" votes="542" />
+                <Precinct name="Absentee" votes="1575" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="38" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="002" text="No" party="NON" totalVotes="3574">
+            <VoteType name="Election Day" votes="3574">
+                <Precinct name="BLACKSTOCK" votes="10" />
+                <Precinct name="BLAIRS" votes="61" />
+                <Precinct name="CENTERVILLE" votes="70" />
+                <Precinct name="FEASTERVILLE" votes="65" />
+                <Precinct name="GREENBRIER" votes="284" />
+                <Precinct name="GLADDE3N GROVE" votes="20" />
+                <Precinct name="JENKINSVILLE" votes="114" />
+                <Precinct name="HOREB-GLENN" votes="60" />
+                <Precinct name="HICKORY RIDGE" votes="141" />
+                <Precinct name="LEBANON" votes="132" />
+                <Precinct name="MITFORD" votes="184" />
+                <Precinct name="MONTICELLO" votes="101" />
+                <Precinct name="NEW HOPE" votes="13" />
+                <Precinct name="RIDGEWAY" votes="286" />
+                <Precinct name="SIMPSON" votes="143" />
+                <Precinct name="SOUTH WINNSBORO" votes="105" />
+                <Precinct name="WINNSBORO MILLS" votes="124" />
+                <Precinct name="WINNSBORO NO. 1" votes="134" />
+                <Precinct name="WINNSBORO NO. 2" votes="141" />
+                <Precinct name="WHITE OAK" votes="52" />
+                <Precinct name="WOODARD" votes="14" />
+                <Precinct name="DUTCHMANS CREEK" votes="181" />
+                <Precinct name="Absentee" votes="1123" />
+                <Precinct name="Emergency" votes="0" />
+                <Precinct name="Failsafe" votes="15" />
+                <Precinct name="Provisional" votes="1" />
+                <Precinct name="Failsafe Provisional" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>
